@@ -1,0 +1,5 @@
+site_name: Processing Manual
+pages:
+    - About: about.md
+    - Planning: planning.md
+    - Processing: processing.md
