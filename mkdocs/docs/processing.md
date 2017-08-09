@@ -1,4 +1,52 @@
 
+**Phase II. Processing**
+
+The processing phase of each assignment begins with establishing the
+current arrangement of the material, evaluating the arrangement needs,
+and crafting an arrangement proposal for the project. The proposed
+arrangement should then be approved by the Head of Processing and stated
+in the Project Vitals.
+
+***Arrangement***
+
+Arrangement is the organizing and sequencing of materials in a
+collection in a meaningful way. More specifically, it is the process of
+ordering materials with respect to *provenance* and *original order* to
+preserve context and to attain physical and intellectual control of the
+holdings.
+
+*Describing Archives: A Content Standard* *(DACS)* defines the process
+of arrangement as: "identifying the logical groupings of materials
+within the whole as they were established by the creator, of
+constructing a new organization when the original ordering has been
+lost, or of establishing an order when one never existed. The archivist
+may then identify further subgroupings within each unit down to the
+level of granularity that is feasible or desirable. This process creates
+hierarchical groupings of material, with each step in the hierarchy
+described as a level." (*DACS 2013, Principle 3, p.xvii*).
+
+The hierarchical levels commonly used at RAC are: Collection, Record
+Group, Subgroup, Series, Subseries, and File.
+
+*Item-level description is extremely rare, and such detailed description
+must be pre-approved by the Head of Processing. *
+
+The concepts of archival arrangement apply to the organization of all
+records regardless of format, including paper collections, audiovisual
+collections, digital collections, and "hybrid" collections which consist
+of multiple formats including paper and digital files. When arranging
+hybrid records -- whether representing original order, maintaining an
+existing order, or otherwise establishing an arrangement -- the archival
+arrangement is pertinent to all holdings across all applicable
+hierarchical levels and should be designated and expressed consistently
+regardless of the format being arranged.
+
+Description reflects arrangement, but the physical arrangement of the
+items in a collection may or may not parallel the intellectual
+arrangement. Items that are described together may be stored separately
+because of their differing size, shape, condition, access or use
+conditions, physical composition, format or other factors.Comments
+
 **Step 9 - Follow Arrangement Recommendations in Project Vitals**
 
 **Step 10 - Standard Arrangement**
