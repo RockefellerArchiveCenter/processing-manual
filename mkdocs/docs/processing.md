@@ -215,7 +215,7 @@ highest level of a finding aid, the title consists of:
 Consult the Head of Processing for more information regarding the RAC
 Naming Convention.
 
-####*Additional Required Collection Level Elements*
+#### _Additional Required Collection Level Elements_
 
 2.  Extent **(DACS 2.5)** (in cubic feet and/or born-digital in MB/GB or
     appropriate measure)
@@ -511,7 +511,7 @@ described (Collection, Record Group, Subgroup, Series, Subseries, File)
 with the description reflecting the arrangement and the inherent
 relationship among and between the records of each level.
 
-_**Describing Titles**_
+#### _Describing Titles_
 
 See **section 2.3** of _DACS_ for a complete description of the
 guidelines for the title element. Guidelines for establishing name
@@ -562,7 +562,7 @@ Example:
 
 -   Language of materials note: In Russian
 
-###_Recording Names in the Title Element_
+#### _Recording Names in the Title Element_
 
 _It is important to note that this section addresses NAMES USED IN THE
 TITLE ELEMENT ONLY. If a name has been chosen for recording in the name
@@ -745,7 +745,7 @@ When the instances span multiple boxes, assigning each box to a separate
 instance allows each box to be designated as a Top Container and each
 barcode to be individually documented.
 
-***Describing Audiovisual Materials***
+####_Describing Audiovisual Materials_
 
 **File Level: Basic Information**
 
@@ -1017,7 +1017,7 @@ conservator or an off-site conservation technician. If materials are
 discovered that may benefit from or require conservation treatment,
 please consult Collections Management.
 
-***Preservation During Processing***
+#### Preservation During Processing
 
 **A. Metal Fasteners, Paperclips, and More**
 
@@ -1099,7 +1099,7 @@ C.  Some collection agreements contain stipulations regarding permanent
 
 **D. Preservation Photocopying** (See Step 24)
 
-_**Rights and Restrictions **_
+#### Rights and Restrictions
 
 Transparency in the dissemination of information is a critical element
 of the archival profession. For RAC Processing, the creation of this
@@ -1364,7 +1364,7 @@ such conditions will be identified, and a course of action will be
 established through discussions with the Head of Processing during the
 planning phase of the project.
 
-***Classified Material***
+#### Classified Material
 
 The RAC maintains U.S. government classified material that originated
 from a number of its collections, including the Nelson A. Rockefeller
