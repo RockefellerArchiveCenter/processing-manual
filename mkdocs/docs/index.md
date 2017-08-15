@@ -1,4 +1,4 @@
-# RAC Processing Manual
+# Rockefeller Archive Center Processing Manual
 
 ## Mission
 
@@ -42,20 +42,20 @@ builds upon the work accomplished at the previous level. If a given
 level of work is not discretely performed, it is incorporated implicitly
 into the next higher level.
 
-  Level 1: Basic/Preliminary Processing – establishes initial intellectual
+Level 1: Basic/Preliminary Processing – establishes initial intellectual
   and physical control.
 
-  Level 2: Minimal Processing – takes all necessary steps to open records
+ Level 2: Minimal Processing – takes all necessary steps to open records
   for research.
 
-  Level 3: Standard Processing – focuses on rehousing and file-level
+ Level 3: Standard Processing – focuses on rehousing and file-level
   description.
 
-  ***Note: All incoming archival materials must complete the accessioning
+  *** Note: All incoming archival materials must complete the accessioning
   process and receive Level 1 and Level 2 Processing in order to be OPEN
-  for research. ***
+  for research. ***  
 
-  *Level 1: Basic/Preliminary Processing*
+### Level 1: Basic/Preliminary Processing
 
   -   Basic/Preliminary processing is conducted by the accessioning team,
       the processing team, or through interdepartmental teamwork.
@@ -74,7 +74,7 @@ into the next higher level.
       priority may require only Level 1 processing for long-term
       retention.
 
-  > Level 1 actions include, but are not necessarily limited to:
+Level 1 actions include, but are not necessarily limited to:
 
   -   Arrangement
 
@@ -103,8 +103,6 @@ into the next higher level.
           -   Accession contains grant files, Board of Directors files,
               and subject files.
 
-  <!-- -->
-
   -   Preservation
 
       -   A preservation assessment is conducted to identify any immediate
@@ -119,10 +117,10 @@ into the next higher level.
       -   Materials with special storage or handling requirements such as
           audiovisual materials, flat files, and oversized items in need
           of preservation are identified, separated, and initially
-          described.
+          described.  
 
-  *Level 2:* *Minimal Processing* – *Level 1* processing, plus the
-  following additions:
+### Level 2: Minimal Processing
+  *Level 1* processing, plus the following additions:
 
   -   Archivists perform the tasks necessary to enable researcher access.
 
@@ -134,8 +132,6 @@ into the next higher level.
       -   Establish multi-level intellectual arrangement and description,
           while facilitating preservation. Materials arranged and
           described together may be physically stored separately.
-
-  <!-- -->
 
   -   Description
 
@@ -163,13 +159,13 @@ into the next higher level.
       Blitz conducted by individual staff or by the Processing Team (See
       Head of Processing for details).
 
-      *Note: Once all applicable Level 1 and Level 2 Processing steps are
-      completed -- the collection/accession -- or all eligible material
-      within the collection/accession -- is open for research. (Records
-      may receive further processing based on RAC Processing Priorities).*
+*Note: Once all applicable Level 1 and Level 2 Processing steps are
+completed -- the collection/accession -- or all eligible material
+within the collection/accession -- is open for research. (Records
+may receive further processing based on RAC Processing Priorities).*
 
-  *Level 3:* *Standard Processing* – *Level 2* processing, plus the
-  following, as applicable:
+### Level 3: Standard Processing
+*Level 2* processing, plus the following, as applicable:
 
   -   Arrangement
 
@@ -190,30 +186,26 @@ into the next higher level.
 
   -   Preservation
 
-  <!-- -->
-
-  -   Rebox and refolder (acid-free, lignin-free materials) for permanent
+      -   Rebox and refolder (acid-free, lignin-free materials) for permanent
       storage and preservation of the materials, as necessary.
 
-  -   Conduct minimal preservation actions at the file level (preservation
+      -   Conduct minimal preservation actions at the file level (preservation
       photocopy and remove brittle or damaged material).
-
-  <!-- -->
 
   -   Special Formats
 
-  <!-- -->
+      -   Process materials to the file level, regardless of form, medium, or
+          creator.
 
-  -   Process materials to the file level, regardless of form, medium, or
-      creator.
+      -   For description guidelines for audiovisual materials, see page 20.
 
-  -   For description guidelines for audiovisual materials, see page 20.
-
-  **Processing Project Assignments (Minimal and Standard Processing)**
+## Processing Project Assignments (Minimal and Standard Processing)
 
   *Each processing assignment is accomplished in two phases:*
 
-  *Phase I. Planning Phase II. Processing*
+  *Phase I. Planning*
+
+  *Phase II. Processing*
 
   In an effort to facilitate the work accomplished by processing
   archivists and the interdepartmental teamwork which assists and

@@ -1,5 +1,5 @@
 site_name: Processing Manual
 pages:
-    - About: about.md
+    - About: index.md
     - Planning: planning.md
     - Processing: processing.md
