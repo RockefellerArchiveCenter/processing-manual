@@ -1,60 +1,119 @@
-# Qui nemorum clarus agitatis formaeque albo spoliare
+## I. Planning
 
-## Portibus digiti copia dicebar
+***All processing activities at RAC must be approved by the Head of Processing. ***
 
-Lorem markdownum sinitis saltus fratrem dubio flamine raptaque lyram laevaque
-invenerit. Odit una vidisse sororum serosque *sitim* iugulum meae! Quam postquam
-sed iungit admotis tutus audire duplici. Refers est foret crinales prius,
-populosque membra terque mollitaque, ille officium dixit!
+### Step 1 - Project Kickoff
 
-Ossa ocior sequentur fixis, dixit me fulvo quae pedibus modo ratibus. Tamen
-ferox si Mycenae soror, me tori erant Erigoneque omnes.
+-   The Head of Processing sends a Project Kickoff (notification email) to assign a given collection/project to the archival staff member.
 
-## Dantibus fatis est uteri forma resecat plenas
+-   The Head of Processing also sends a corresponding Project Kickoff to the Head of Collections Management and to the supervisor of the staff member (when the assigned staff is not a member of the Processing Team).
 
-Edocuit gaudia spectare scopulis et nivis. Fuit coacti causamque omni; auctor
-quae, vidi.
+-   The Kickoff informs the applicable staff that the work will soon take place, and it is comprised of basic information such as project volume, current location, and processing priority.
 
-- Avus sacer valles radiataque peregrinosque saxoque hydrae
-- Forma meis Laetitia templis horruerant denique adiit
-- Passim contingit
+### Step 2 - Create Project Vitals (or receive Vitals from Head of Processing)
 
-## Flamma Helicona Naxos
+-   The assigned archival staff member begins his/her work on the project by compiling vital information about the assignment.
 
-Florilegae Laelapa damnatque pharetra, ubi ultima exegit sceleratos aequore
-densum flammifera, ad. Concidere **indicat**! Clipei se binas suas et dolor.
+-   The Project Vitals documented is intended to serve as a simplified processing plan, focusing on the critical data necessary to visualize, plan, and execute the work ahead.
 
-Cuius et nonne intrare, origine cum viscera Libys *sua Tmolo Hyacinthe*: sororum
-spumantis utilibus, exilio. Insequor debueram, sollerti per dicenti hic in
-macies erres. Sentit telum inducta rabieque fores sed, per reges puniceum;
-prisca copia et fuga fruges vacuas rogabat. Modo quaeque, mali Troia agrestum te
-Latiae siquos quis vera Asbolus cladis, oppressumque boves Lyncus quos.
+### Step 3 - Review Background Information
 
-## Humi incidit
+-   To build a strong foundation of project knowledge during the planning phase, the processing archivist should conduct background research in the collection files, review all applicable accession documentation, and become familiar with the general content and condition of the records.
 
-Candida cuius vasto tulit inconcessaeque adsimulat frustra domus amico Turnus
-quondam publica, sunt petebat pigra etsi ipsas in arva. Tepebat infectis
-Iuppiter potuit, durasse, voces atra Hecates faveas. Dabat paelice augurio
-latus: quae Ithacis cuspide sumptis periture timuit Troum. Illo totiens Lernaeae
-magni [cognovi retinet frigusque](http://ethoc.io/philyreius.php) danda, suis
-miseri de adspicit patitur. Adversum formam; in adempto corrumpere audet
-securibus quid revertentes tibi tollere gratia!
+### Step 4 - Submit Draft of Project Vitals
 
-    if (malwareFlowchartMask) {
-        pointIpTtl.hocText = captcha.pagePciMemory(hitPowerFirewall);
-    } else {
-        batch_desktop_png.thunderbolt(fileFlashCard, cd);
-    }
-    ccMarginComputer += botnet_e - insertionExport(interpreter(nicJpegWin),
-            epsPrimaryKey, guidLpiDns(ppi, reimage_add_function,
-            wamp_mirrored_navigation));
-    skyscraperRecursion.rw(1, software);
-    reality -= mms_dimm + ipv_zero_gpu + source_bin;
+-   The Project Vitals draft is submitted to the Head of Processing for discussion and approval.
 
-*Ait delius* solis lacrimis et fidem: pro minus animae quae; flores.
-Venturorumque anno: bos glomerataque telum, hic inque excepit iactate *tandem
-pressitque dixit*. Infelix Lampetie minimam **inferius** fessusque triones, ait
-omnia, silvas nomina? [Ora tutus
-nequiquam](http://inque-ceciderunt.org/vultus.html) caeruleo parentis in ille
-infelix, de praetincta pudori helene. Longis cupit: negatur vacuus ut ira
-occupat est et pulsant genetrix deos, **iuncti nova**?
+### Step 5 - Save approved version of Vitals in the project management software
+
+-   Saving all applicable project documentation in the project management software facilitates interdepartmental information sharing and teamwork.
+
+-   The Project Vitals document will also be made available in the Processing folder of the RAC shared network drive.
+
+### Step 6 – Sharing the Project Vitals
+
+-   Once the Project Vitals document is submitted, discussed, and approved, it is shared by the Head of Processing with the Archives Management Team and the Processing Team.
+
+### Project Vitals Template
+
+1.  Physical Vitals
+
+    -   Volume (cubic feet) and/or estimated volume of digital files(MB/GB)
+
+    -   Current number of boxes
+
+    -   Current Location
+
+    -   Estimate a range of processed boxes (when reboxing to document boxes)
+
+        -   Estimate 2.5 - 2.75 letter-size document boxes for each record carton.
+
+2.  Accessioning Vitals
+
+    -   Accession Number
+
+    -   Accession Level
+
+    -   Have any applicable born-digital files been ingested or accessioned?
+
+3.  Descriptive Vitals
+
+    -   Collection/Finding Aid Title
+
+    -   Is there an initial inventory?
+
+    -   If so, is the inventory available in ArchivesSpace?
+
+    -   List any recommendations for the creation of RAC-optional notes.
+
+4.  Preservation Vitals
+
+    -   Is existing housing acceptable to retain?
+
+    -   Document any significant rehousing or preservation issues.
+
+    -   Are any specialized supplies needed?
+
+5.  Processing Vitals
+
+    -   Conditions of Access
+
+    -   Arrangement
+
+        -   Standard – Original order/As received
+
+        -   If NOT Standard – Propose an Arrangement
+
+    -   Processing Level
+
+6.  Projected Work Time
+
+This Project Vitals template is also available in the Processing folder on the shared drive.
+
+### Step 7 - Order Supplies or Confirm that Existing Supplies are Available Onsite
+
+-   Processing archivist should coordinate with Collections Management whenever the project necessitates use of non-standard containers --- including but not limited to: oversized or undersized flat boxes, clamshell boxes, index card boxes, microform boxes, still image containers, newspaper-sized and textile boxes, and flat files or tubes.
+
+-   The Collections Management team can assist with –
+
+    -   Ordering of RAC-preferred containers.
+
+    -   Identifying box-types that may already be assigned container profiles in the RAC collections management system.
+
+    -   Measuring the boxes to create container profiles when needed.
+
+    -   Identifying and ordering of appropriately-sized mylar, paper enclosures, support products, and other supplies which facilitate stabilization and long-term preservation.
+
+### Step 8 – Receive Location Assignments from Collections Management Team
+
+-   All materials stored in RAC’s archival vaults are assigned vault/unit/shelf or drawer locations by the Collections Management team.
+
+-   **Processing archivist must request locations from the Collections Management team in advance of beginning the processing to allow ample time for space to be assigned.**
+
+-   **Material should *NOT* be shelved until authorization is received from Collections Management.**
+
+-   Projects larger than 30 cu. ft. may have incremental location assignments.
+
+-   Processing archivist should contact Collections Management to be assigned a location for all flat files.
+
+##### _When the planning steps are completed, it’s time to begin processing the records._
