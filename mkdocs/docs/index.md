@@ -181,8 +181,8 @@ may receive further processing based on RAC Processing Priorities).*
   -   Description
 
       -   Create, or revise, standard finding aid to file level, in
-          accordance with all RAC descriptive standards. (See: *Building
-          the Finding Aid*, page 10).
+          accordance with all RAC descriptive standards. (See: [*Building
+          the Finding Aid*](http://127.0.0.1:8000/processing/#step-10-standard-arrangement), page 10).
 
   -   Preservation
 
@@ -197,7 +197,7 @@ may receive further processing based on RAC Processing Priorities).*
       -   Process materials to the file level, regardless of form, medium, or
           creator.
 
-      -   For description guidelines for audiovisual materials, see page 20.
+      -   For description guidelines for audiovisual materials, see [page 20](http://127.0.0.1:8000/processing/#step-15-create-inventory-or-build-uponreviseconfirm-existing-inventory).
 
 ## Processing Project Assignments (Minimal and Standard Processing)
 
