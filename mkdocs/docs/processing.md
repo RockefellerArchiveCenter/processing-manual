@@ -47,7 +47,7 @@ arrangement. Items that are described together may be stored separately
 because of their differing size, shape, condition, access or use
 conditions, physical composition, format or other factors.
 
-### Step 9-10: Arrangement
+### Arrangement
 
 
 #### Step 9 - Follow Arrangement Recommendations in Project Vitals
@@ -135,7 +135,7 @@ compliance. To ensure that the quality and completeness of our guides is
 maintained, we take steps to comply with DACS as soon as the initial
 draft finding aids are created.
 
-### Step 11-14: Building the Finding Aid
+### Building the Finding Aid
 
 #### Step 11 - Receive a Resource ID from the Head of Processing (DACS 2.1.3)
 
@@ -453,7 +453,7 @@ the shell include:
 
     -   PDF versions of the EAD file can also be exported.
 
-### Step 15: Create Inventory
+### Create Inventory
 
 #### Step 15 - Create Inventory, or Build Upon/Revise/Confirm Existing Inventory
 
@@ -820,7 +820,7 @@ barcode to be individually documented.
 
 7.  Top Container: AV \#
 
-### Step 16: Rehouse Archival Materials
+### Rehouse Archival Materials
 
 #### Step 16 - Rehouse Archival Materials and/or Retain Existing Housing (See Vitals)
 
@@ -888,7 +888,7 @@ The Collections Management team can assist with:
     documents to protect and distinguish the uniqueness of these items.
     Please refer these items to Collections Management.
 
-### Step 17: Dispose of Used Boxes
+### Dispose of Used Boxes
 
 #### Step 17 - Dispose of Used Boxes (Place in Operations Assistant office on Basement Level)
 
@@ -898,7 +898,7 @@ The Collections Management team can assist with:
     spaces including processing space, office space, hallways, staging
     areas, and vault spaces.
 
-### Step 18: Label and Assign Instances
+### Label and Assign Instances
 
 #### Step 18 – Label and Assign Instances (on Physical Files and in the Finding Aid, including Top Container/Container Profile)
 
@@ -946,7 +946,7 @@ The Collections Management team can assist with:
 
 -   RAC archival description will appear on processed folders as:
 
-### Step 19: Stabilize or Separate At-Risk Materials
+### Stabilize or Separate At-Risk Materials
 
 #### Step 19 - Stabilize or Separate At-Risk Materials/Special Formats in Accordance with RAC Guidelines (See Project Vitals)
 
@@ -978,7 +978,7 @@ Once the material is separated and stabilized, the processing archivist
 is responsible for further describing and processing the holdings,
 including identifying and describing restricted materials.
 
-### Step 20-21: Preservation Issues
+### Preservation Issues
 
 #### Step 20 - Discuss any Significant or Unexpected Preservation Issues with Collections Management/Preservation Team
 
@@ -1147,7 +1147,7 @@ arise during processing, please consult with the Head of Processing._
     restricted material should always be described intellectually in the
     appropriate place within the finding aid.
 
-### Step 22-23: Rights and Restrictions
+### Rights and Restrictions
 
 #### Step 23 - Add File-Level Conditions of Access Notes for Restricted Material
 
@@ -1429,7 +1429,7 @@ E.  Sometimes material in a collection has been declassified. In such
     main body of the collection, or it may be placed as a separate group
     of files at or near the end of a collection.
 
-### Step 24: Preservation Photocopying
+### Preservation Photocopying
 
 #### Step 24 - Preservation Photocopying (As Applicable)
 
@@ -1482,7 +1482,7 @@ glued or otherwise damaged by adhesives. For recommendations on how best
 to photocopy non-standard or damaged materials, see the Head of
 Processing.
 
-### Step 25: Box Labeling
+### Box Labeling
 
 #### Step 25 – Box Labeling
 
@@ -1495,7 +1495,7 @@ Processing.
     generate labels for all applicable containers. **See
     S:\\Inter-Office\\Archival\\Forms\\Box Labels 2015** for details.
 
-### Step 26: Barcoding
+### Barcoding
 
 #### Step 26 – Barcoding
 
@@ -1508,7 +1508,7 @@ Processing.
 -   If barcoding flat files or audiovisual containers, please consult
     the Head of Processing.
 
-### Step 27: Shelve Processed Records
+### Shelve Processed Records
 
 #### Step 27 - Shelve Processed Records in Assigned Vault/Unit/Shelf
 Location
@@ -1519,7 +1519,7 @@ Location
 -   Material should _NOT_ be shelved until authorization is received
     from Collections Management.
 
-### Step 28: Container Management
+### Container Management
 
 #### Step 28 – Container Management
 
@@ -1535,7 +1535,7 @@ Record the following Container Management data in the finding aid:
 
 _**Finishing the Project**_
 
-### Step 29-38: Finishing the Project
+### Finishing the Project
 
 #### Step 29 - Submit Separation Sheets to Collections Management
 
