@@ -135,13 +135,9 @@ compliance. To ensure that the quality and completeness of our guides is
 maintained, we take steps to comply with DACS as soon as the initial
 draft finding aids are created.
 
-<<<<<<< HEAD
 ### Building the Finding Aid
 
-#### Step 11 - Receive a Resource ID from the Head of Processing (DACS 2.1.3)
-=======
-### Step 11 - Receive a Resource ID from the Head of Processing [(DACS 2.1.3)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/1_reference_code)
->>>>>>> insert-links
+#### Step 11 - Receive a Resource ID from the Head of Processing [(DACS 2.1.3)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/1_reference_code)
 
 -   Each resource record/finding aid at RAC is assigned a unique ID.
 
@@ -161,11 +157,8 @@ draft finding aids are created.
 
 #### Step 13 - Establish DACS Single-Level Minimum Compliance at the Collection Level/Highest Level of the Finding Aid
 
-<<<<<<< HEAD
-1.  Title (Collection Level/Highest Level of finding aid) (**DACS 2.3**)
-=======
-1.  Title (Collection Level/Highest Level of finding aid) ### [(DACS 2.3)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)###
->>>>>>> insert-links
+1.  Title (Collection Level/Highest Level of finding aid) [**(DACS 2.3)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
+
 
 RAC has established a normalized descriptive Naming Convention, which
 augments DACS guidelines, pertinent only to the top level of a finding
@@ -588,13 +581,13 @@ Subject Headings._
 
 A.  Record the name(s) of the person(s), family (families), or corporate
     body predominantly responsible for the creation, assembly,
-    accumulation, and/or maintenance of the records. (**DACS 2.3.4**)
+    accumulation, and/or maintenance of the records. [(**DACS 2.3.4**)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
 
 B.  Record the name(s) in the form by which the creator(s) or
     collector(s) is generally known, and by using the natural language
     order of the English language (or the natural language order of the
     language of the person or corporate body’s country of residence)
-    (**DACS 2.3.5**).
+    [(**DACS 2.3.5**).](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
 
 - Example: Detlev W. Bronk
 
@@ -622,13 +615,13 @@ E.  Titles recording multiple names should be written as follows:
 
 -   If three or fewer persons are credited with, or predominantly
     responsible for, the creation of the materials as a whole, record
-    their names in direct order. (**DACS 2.3.7**)
+    their names in direct order. [(**DACS 2.3.7**)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
 
 -   If more than three persons are responsible for the creation of the
     materials, record the name of the individual who predominates.
-    (**DACS 2.3.8**) Optionally, include all the names of the persons
+    [(**DACS 2.3.8**)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title) Optionally, include all the names of the persons
     who are credited with or predominantly responsible for the creation
-    of the materials. (**DACS 2.3.9**)
+    of the materials. [(**DACS 2.3.9**)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
 
 Examples:
 
@@ -817,7 +810,7 @@ barcode to be individually documented.
         ii. Access copy currently unavailable. Please contact a RAC
             archivist for further instruction.
 
-        iii. The AV collection-level note (page 15) can also be used at
+        iii. The AV collection-level note [(page 15)](http://127.0.0.1:8000/processing/#building-the-finding-aid_1) can also be used at
             the series level.
 
 6.  Instances:
@@ -830,7 +823,7 @@ barcode to be individually documented.
 
 ### Rehouse Archival Materials
 
-#### Step 16 - Rehouse Archival Materials and/or Retain Existing Housing (See Vitals)
+#### Step 16 - Rehouse Archival Materials and/or Retain Existing Housing [(See Vitals)](http://127.0.0.1:8000/planning/#project-vitals-template)
 
 -   Minimal Processing projects will most often retain existing housing
     when feasible.
@@ -1110,7 +1103,7 @@ C.  Some collection agreements contain stipulations regarding permanent
     Head of Processing to determine the stipulations relevant to the
     assigned project.
 
-**D. Preservation Photocopying** (See Step 24)
+**D. Preservation Photocopying** [(See Step 24)](http://127.0.0.1:8000/processing/#preservation-photocopying)
 
 ##### Rights and Restrictions
 
@@ -1461,7 +1454,7 @@ facsimile_
 If the item bears no intrinsic value, the facsimile serves to replace
 the original in the collection, and the original item is
 discarded/shredded. _All materials proposed for shredding must follow
-the RAC destruction protocol, see Step 37._ If the item is of value in
+the RAC destruction protocol, [see Step 37.](http://127.0.0.1:8000/processing/#finishing-the-project)_ If the item is of value in
 its original format, consult with the Head of Processing regarding its
 retention. When an original is retained with restricted access, a
 condition of access note should be added at the appropriate level of
@@ -1549,8 +1542,8 @@ _**Finishing the Project**_
 
 -   Complete one separation sheet for each assigned separation number.
 
--   The current separation sheet is available on the shared drive. (See
-    Step 19 for details.)
+-   The current separation sheet is available on the shared drive. [(See
+    Step 19 for details.)](http://127.0.0.1:8000/processing/#stabilize-or-separate-at-risk-materials)
 
 #### Step 30 - Submit Special Format Tracking Form to Collections Management
 
@@ -1657,8 +1650,8 @@ Commonly used notes may include:
 #### Step 35 - Finalize Front Matter Notes
 
 -   Update or confirm final calculations for the Date and Extent
-    elements, and compose final Scope and Content note. (See Pages
-    11-12).
+    elements, and compose final Scope and Content note. [(See Pages
+    11-12)](http://127.0.0.1:8000/processing/#building-the-finding-aid_1).
 
 -   The final Extent calculations should include a natural language
     Container Summary statement describing the number and type of
