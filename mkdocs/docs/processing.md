@@ -7,7 +7,7 @@ and crafting an arrangement proposal for the project. The proposed
 arrangement should then be approved by the Head of Processing and stated
 in the Project Vitals.
 
-#### _Arrangement_
+ **_Arrangement_**
 
 Arrangement is the organizing and sequencing of materials in a
 collection in a meaningful way. More specifically, it is the process of
@@ -47,9 +47,12 @@ arrangement. Items that are described together may be stored separately
 because of their differing size, shape, condition, access or use
 conditions, physical composition, format or other factors.
 
-### Step 9 - Follow Arrangement Recommendations in Project Vitals
+### Arrangement
 
-### Step 10 - Standard Arrangement
+
+#### Step 9 - Follow Arrangement Recommendations in Project Vitals
+
+#### Step 10 - Standard Arrangement
 
 The most common and often the most appropriate arrangement action is to
 leave things as they are. In such cases, the processing archivist
@@ -132,7 +135,9 @@ compliance. To ensure that the quality and completeness of our guides is
 maintained, we take steps to comply with DACS as soon as the initial
 draft finding aids are created.
 
-### Step 11 - Receive a Resource ID from the Head of Processing (DACS 2.1.3)
+### Building the Finding Aid
+
+#### Step 11 - Receive a Resource ID from the Head of Processing (DACS 2.1.3)
 
 -   Each resource record/finding aid at RAC is assigned a unique ID.
 
@@ -145,14 +150,14 @@ draft finding aids are created.
 -   The Resource ID (FA\#) may be included in the Project Vitals or may
     be assigned at a later date (as needed).
 
-### Step 12 - Create (or receive from the Head of Processing) a Shell Resource Record in ArchivesSpace for the Finding Aid
+#### Step 12 - Create (or receive from the Head of Processing) a Shell Resource Record in ArchivesSpace for the Finding Aid
 
 -   For assistance or instruction with creating the shell, please see
     the Head of Processing.
 
-### Step 13 - Establish DACS Single-Level Minimum Compliance at the Collection Level/Highest Level of the Finding Aid
+#### Step 13 - Establish DACS Single-Level Minimum Compliance at the Collection Level/Highest Level of the Finding Aid
 
-1.  Title (Collection Level/Highest Level of finding aid) ### (DACS 2.3)###
+1.  Title (Collection Level/Highest Level of finding aid) (**DACS 2.3**)
 
 RAC has established a normalized descriptive Naming Convention, which
 augments DACS guidelines, pertinent only to the top level of a finding
@@ -370,7 +375,7 @@ The access statement used should only refer to the terms of access for
 specific formats if those formats are indeed found in the
 collection/finding aid being described.
 
-1.  **For collections/finding aids which contain digital media the
+**1.  For collections/finding aids which contain digital media the
     following language should be added to the end of the access
     statement --**
 
@@ -380,7 +385,7 @@ original items may not be accessed because of preservation concerns. To
 request an access surrogate be made, or if you are unsure if there is an
 access surrogate, please contact an archivist.
 
-2.  **For collections/finding aids that contain audiovisual materials
+**2.  For collections/finding aids that contain audiovisual materials
     the following language should be added to the end of the access
     statement --**
 
@@ -394,7 +399,7 @@ business days, and may necessitate notice of up to one week. Individual
 items, including those that are not available in modern formats, may be
 restricted from access at the discretion of RAC.
 
-3.  **For collections/finding aids that contain memorabilia/realia the
+**3.  For collections/finding aids that contain memorabilia/realia the
     following language should be added to the end of the access
     statement --**
 
@@ -402,7 +407,7 @@ All inquiries to view memorabilia require advanced notice of at least 2
 business days, and may necessitate notice of up to one week. Items are
 available at the discretion of RAC.
 
-### Step 14 - Add Additional Required Elements to the Shell Record
+#### Step 14 - Add Additional Required Elements to the Shell Record
 
 In addition to single level compliance – RAC required data elements for
 the shell include:
@@ -431,7 +436,7 @@ the shell include:
         -   Ford Foundation records, Office of Communications, Advisor
             on Communications, Office Files of Fred W. Friendly
 
--   For personal papers, the Finding Aid Filing Title should be listed
+3.   For personal papers, the Finding Aid Filing Title should be listed
     with the last name first, followed by other names in parenthesis.
 
     -   Weaver (Warren) papers
@@ -440,7 +445,7 @@ the shell include:
 
     -   Harrar (J. George) papers
 
-1.  EAD-ID (FA\#.xml)
+4.  EAD-ID (FA\#.xml)
 
     -   This is the unique identifier for the EAD file which is exported
         out of the collections management system for online display in
@@ -448,7 +453,9 @@ the shell include:
 
     -   PDF versions of the EAD file can also be exported.
 
-### Step 15 - Create Inventory, or Build Upon/Revise/Confirm Existing Inventory
+### Create Inventory
+
+#### Step 15 - Create Inventory, or Build Upon/Revise/Confirm Existing Inventory
 
 -   At Processing Level 1, particularly during initial ingest and
     accessioning, the minimum requirement is single-level general
@@ -581,11 +588,11 @@ B.  Record the name(s) in the form by which the creator(s) or
     language of the person or corporate body’s country of residence)
     (**DACS 2.3.5**).
 
-Example: Detlev W. Bronk
+- Example: Detlev W. Bronk
 
 In ordered lists, the Surname (often the name by which the creator is generally known) can be presented first.
 
-Example: Bronk, Detlev W.
+- Example: Bronk, Detlev W.
 
 C.  Abbreviations are strongly discouraged.
 
@@ -593,15 +600,15 @@ When recording the name of an individual, family, or a corporate body, use the f
 
 Examples:
 
-NATO can be used rather than North Atlantic Treaty Organization
+- NATO can be used rather than North Atlantic Treaty Organization
 
-FBI can be used rather than Federal Bureau of Investigation
+- FBI can be used rather than Federal Bureau of Investigation
 
 D.  Acronyms should be spelled out, with the full name followed by the
     acronym provided in parenthesis. This allows researchers to search
     for terms using the name or the acronym.
 
-Example: National Academy of Sciences (NAS)
+- Example: National Academy of Sciences (NAS)
 
 E.  Titles recording multiple names should be written as follows:
 
@@ -617,9 +624,9 @@ E.  Titles recording multiple names should be written as follows:
 
 Examples:
 
-John Smith and Al Jones
+- John Smith and Al Jones
 
-John Smith, Al Jones, and Paul Adams
+- John Smith, Al Jones, and Paul Adams
 
 If 6 people are responsible for creating the materials and John Smith predominates, record John Smith as the title (or the names of all 6 people)
 
@@ -629,9 +636,9 @@ F.  If multiple files contain the same basic title, with varying added
 
 Examples:
 
-Job Jackets - Maps for Trustees
+- Job Jackets - Maps for Trustees
 
-Job Jackets - Open House
+- Job Jackets - Open House
 
 G.  Titles physically written or recorded on folders may be abbreviated
     or truncated. Corresponding finding aid description should follow
@@ -663,18 +670,18 @@ _**Describing Dates**_
 -   If file contents are differentiated by months rather than years,
     record the dates as:
 
-1915 January-May
+      - 1915 January-May
 
-1915 June-December
+      - 1915 June-December
 
 -   If the contents are differentiated by days, or days, months, years,
     record dates as:
 
-1915 January 5-12
+    - 1915 January 5-12
 
-1915 January 5-June 30
+    - 1915 January 5-June 30
 
-1915 January 5-1916 March 10
+    - 1915 January 5-1916 March 10
 
 -   If the dates of the material are unknown, leave the field blank.
 
@@ -709,37 +716,25 @@ _**Associated Notes**_
 
 Here are a variety of examples of File Level Description –
 
-Title: Board of Directors Meeting Minutes
+- Title: Board of Directors Meeting Minutes   
+Date: 1947   
+Instances: Box 1, Folder 1   
+Associated Notes: Only used when pertinent.   
 
-Date: 1947
+- Title: Board of Directors Meeting Minutes   
+Date: 1948-1952   
+Instances: Box 1, Folders 1-5   
 
-Instances: Box 1, Folder 1
+- Title: Board of Directors Meeting Minutes   
+Date: 1953 June-1954 July   
+Instance: Box 2   
 
-Associated Notes: Only used when pertinent.
-
-Title: Board of Directors Meeting Minutes
-
-Date: 1948-1952
-
-Instances: Box 1, Folders 1-5
-
-Title: Board of Directors Meeting Minutes
-
-Date: 1953 June-1954 July
-
-Instance: Box 2
-
-Title: Board of Directors Meeting Minutes
-
-Date: 1955 July 1-1958 July 15
-
+- Title: Board of Directors Meeting Minutes   
+Date: 1955 July 1-1958 July 15   
 Instances:
-
-Instance 1: Box 2
-
-Instance 2: Box 3
-
-Instance 3: Box 4
+Instance 1: Box 2  
+Instance 2: Box 3   
+Instance 3: Box 4   
 
 When the instances span multiple boxes, assigning each box to a separate
 instance allows each box to be designated as a Top Container and each
@@ -825,7 +820,9 @@ barcode to be individually documented.
 
 7.  Top Container: AV \#
 
-### Step 16 - Rehouse Archival Materials and/or Retain Existing Housing (See Vitals)
+### Rehouse Archival Materials
+
+#### Step 16 - Rehouse Archival Materials and/or Retain Existing Housing (See Vitals)
 
 -   Minimal Processing projects will most often retain existing housing
     when feasible.
@@ -833,7 +830,7 @@ barcode to be individually documented.
 -   Standard Processing projects will most often rehouse materials, with
     limited retention of existing housing when feasible.
 
--**Selecting Storage Containers and Enclosures**-
+**Selecting Storage Containers and Enclosures**
 
 -   Select a box and folder size for documents based upon the dimensions
     of the majority of those to be contained within an enclosure. Most
@@ -874,14 +871,14 @@ The Collections Management team can assist with:
 
 -   Small Items
 
-    To ensure that small items (may include business cards, postcards,
+    - To ensure that small items (may include business cards, postcards,
     photographs, telegrams and greeting cards) are not misplaced or
     lost, place the item in a Mylar sleeve during processing. This will
     also assist users when requesting copies of small items.
 
 -   Oversized Items
 
-    Large formats such as maps, architectural drawings, bound ledgers,
+    - Large formats such as maps, architectural drawings, bound ledgers,
     and tabloid newspapers should be stored flat. Select a drawer or box
     size to accommodate individual dimensions. Brittle materials may be
     candidates for re-formatting. Please refer these items to
@@ -891,7 +888,9 @@ The Collections Management team can assist with:
     documents to protect and distinguish the uniqueness of these items.
     Please refer these items to Collections Management.
 
-### Step 17 - Dispose of Used Boxes (Place in Operations Assistant office on Basement Level)
+### Dispose of Used Boxes
+
+#### Step 17 - Dispose of Used Boxes (Place in Operations Assistant office on Basement Level)
 
 -   Disposing of used or damaged containers in an efficient and timely
     manner assists RAC with the institutional objectives of providing
@@ -899,7 +898,9 @@ The Collections Management team can assist with:
     spaces including processing space, office space, hallways, staging
     areas, and vault spaces.
 
-### Step 18 – Label and Assign Instances (on Physical Files and in the Finding Aid, including Top Container/Container Profile)**
+### Label and Assign Instances
+
+#### Step 18 – Label and Assign Instances (on Physical Files and in the Finding Aid, including Top Container/Container Profile)
 
 -   For assistance with Top Container creation see Head of Processing.
 
@@ -945,7 +946,9 @@ The Collections Management team can assist with:
 
 -   RAC archival description will appear on processed folders as:
 
-### Step 19 - Stabilize or Separate At-Risk Materials/Special Formats in Accordance with RAC Guidelines (See Project Vitals)**
+### Stabilize or Separate At-Risk Materials
+
+#### Step 19 - Stabilize or Separate At-Risk Materials/Special Formats in Accordance with RAC Guidelines (See Project Vitals)
 
 The RAC Separation Guidelines are designed to remove at-risk material
 from paper-based collections as soon as they are identified and to
@@ -975,9 +978,11 @@ Once the material is separated and stabilized, the processing archivist
 is responsible for further describing and processing the holdings,
 including identifying and describing restricted materials.
 
-### Step 20 - Discuss any Significant or Unexpected Preservation Issues with Collections Management/Preservation Team
+### Preservation Issues
 
-### Step 21 - Address Preservation Issues Based on the Recommendations of Collections Management/Preservation Team.
+#### Step 20 - Discuss any Significant or Unexpected Preservation Issues with Collections Management/Preservation Team
+
+#### Step 21 - Address Preservation Issues Based on the Recommendations of Collections Management/Preservation Team.
 
 Please consult with Collections Management and/or the Head of Processing
 if:
@@ -1017,7 +1022,7 @@ conservator or an off-site conservation technician. If materials are
 discovered that may benefit from or require conservation treatment,
 please consult Collections Management.
 
-#### Preservation During Processing
+##### Preservation During Processing
 
 **A. Metal Fasteners, Paperclips, and More**
 
@@ -1099,7 +1104,7 @@ C.  Some collection agreements contain stipulations regarding permanent
 
 **D. Preservation Photocopying** (See Step 24)
 
-#### Rights and Restrictions
+##### Rights and Restrictions
 
 Transparency in the dissemination of information is a critical element
 of the archival profession. For RAC Processing, the creation of this
@@ -1115,12 +1120,12 @@ use, and why. Entire archival collections or components of collections
 be restricted from public access or use.
 
 _During RACcess registration, all users agree to the terms of access/use
-of all RAC holdings.
+of all RAC holdings._
 
-If questions regarding restricted or potentially restricted materials
+_If questions regarding restricted or potentially restricted materials
 arise during processing, please consult with the Head of Processing._
 
-### Step 22 - Label Physical Folders Containing Restricted Material in Accordance with RAC Guidelines
+#### Step 22 - Label Physical Folders Containing Restricted Material in Accordance with RAC Guidelines
 
 -   If all items in a folder are restricted, the folder is labeled
     "Closed” or “Restricted”.
@@ -1142,7 +1147,9 @@ arise during processing, please consult with the Head of Processing._
     restricted material should always be described intellectually in the
     appropriate place within the finding aid.
 
-### Step 23 - Add File-Level Conditions of Access Notes for Restricted Material
+### Rights and Restrictions
+
+#### Step 23 - Add File-Level Conditions of Access Notes for Restricted Material
 
 (For collection-level access statements please see Page 13)
 
@@ -1317,11 +1324,11 @@ Notable exceptions include documentation of a Rockefeller family member acting i
 
 D.  _Condition/Security-based access restrictions **(DACS 4.2)**_ - A fundamental objective of RAC is to facilitate the long-term preservation, conservation, and security of our archival holdings. At times the long-term care of individual items will take precedence over their availability for immediate access. Access to extremely valuable, fragile, brittle, unstable, or damaged items is restricted by RAC in order to protect these high-risk items from theft, damage, or further deterioration. (Example: JDR Sr’s Ledger A).
 
-    -   Examples of standard file-level access notes -
+Examples of standard file-level access notes -
 
-        -   Brittle or damaged items are available at the discretion of RAC.
+  - Brittle or damaged items are available at the discretion of RAC.
 
-        -   Closed due to preservation concerns.
+  - Closed due to preservation concerns.
 
 E. _Technical access restrictions **(DACS 4.3)**_  – Some archival
 material is restricted due to its format or other special needs.
@@ -1364,7 +1371,7 @@ such conditions will be identified, and a course of action will be
 established through discussions with the Head of Processing during the
 planning phase of the project.
 
-#### Classified Material
+##### Classified Material
 
 The RAC maintains U.S. government classified material that originated
 from a number of its collections, including the Nelson A. Rockefeller
@@ -1422,13 +1429,15 @@ E.  Sometimes material in a collection has been declassified. In such
     main body of the collection, or it may be placed as a separate group
     of files at or near the end of a collection.
 
-### Step 24 - Preservation Photocopying (As Applicable)
+### Preservation Photocopying
+
+#### Step 24 - Preservation Photocopying (As Applicable)
 
 Documents that are fragile, damaged, or at risk for further
 deterioration are often photocopied in order to preserve their
 intellectual content and prevent potential damage to neighboring
 documents. A preservation photocopy is a facsimile of a document copied
-to acid-free, lignin-free paper._*It is neither necessary nor feasible
+to acid-free, lignin-free paper._It is neither necessary nor feasible
 to photocopy all fragile or potentially at risk materials during
 processing. Utilize processing time effectively in accordance with
 assigned priorities._
@@ -1473,7 +1482,9 @@ glued or otherwise damaged by adhesives. For recommendations on how best
 to photocopy non-standard or damaged materials, see the Head of
 Processing.
 
-### Step 25 – Box Labeling
+### Box Labeling
+
+#### Step 25 – Box Labeling
 
 -   Box labels for all processed archival holdings can be generated by a
     labeling template which works in tandem with ArchivesSpace to
@@ -1484,7 +1495,9 @@ Processing.
     generate labels for all applicable containers. **See
     S:\\Inter-Office\\Archival\\Forms\\Box Labels 2015** for details.
 
-### Step 26 – Barcoding
+### Barcoding
+
+#### Step 26 – Barcoding
 
 -   All containers are barcoded at the box-level.
 
@@ -1495,7 +1508,9 @@ Processing.
 -   If barcoding flat files or audiovisual containers, please consult
     the Head of Processing.
 
-### Step 27 - Shelve Processed Records in Assigned Vault/Unit/Shelf
+### Shelve Processed Records
+
+#### Step 27 - Shelve Processed Records in Assigned Vault/Unit/Shelf
 Location
 
 -   All materials stored in RAC’s archival vaults are officially
@@ -1504,7 +1519,9 @@ Location
 -   Material should _NOT_ be shelved until authorization is received
     from Collections Management.
 
-### Step 28 – Container Management
+### Container Management
+
+#### Step 28 – Container Management
 
 Record the following Container Management data in the finding aid:
 
@@ -1518,14 +1535,16 @@ Record the following Container Management data in the finding aid:
 
 _**Finishing the Project**_
 
-### Step 29 - Submit Separation Sheets to Collections Management
+### Finishing the Project
+
+#### Step 29 - Submit Separation Sheets to Collections Management
 
 -   Complete one separation sheet for each assigned separation number.
 
 -   The current separation sheet is available on the shared drive. (See
     Step 19 for details.)
 
-### Step 30 - Submit Special Format Tracking Form to Collections Management
+#### Step 30 - Submit Special Format Tracking Form to Collections Management
 
 -   The tracking form is used to summarize all separated material from a
     given accession/project.
@@ -1534,7 +1553,7 @@ _**Finishing the Project**_
 
 -   The current tracking form is available on the shared drive.
 
-### Step 31 – Inform Collections Management of the Original Boxes/Box Numbers That Have Been Eliminated During Processing
+#### Step 31 – Inform Collections Management of the Original Boxes/Box Numbers That Have Been Eliminated During Processing
 
 -   As collections/accessions are processed and documented in the
     collections management system, the Collections Management team
@@ -1544,7 +1563,7 @@ _**Finishing the Project**_
     collections management system, and the Master Shelf List will be
     phased out.
 
-### Step 32 – Add Local RAC-Required Single-Level Notes
+#### Step 32 – Add Local RAC-Required Single-Level Notes
 
 -   Arrangement **(DACS 3.2)**
 
@@ -1556,14 +1575,9 @@ _**Finishing the Project**_
 -   Preferred Citation – Standard RAC note
 
     -   Information regarding the Rockefeller Archive Center's preferred
-        elements and forms of citation can be found at
+        elements and forms of citation can be found at <http://www.rockarch.org/research/citations.php>
 
-        &lt;extref
-        href="<http://www.rockarch.org/research/citations.php>"&gt;
-
-        [http://www.rockarch.org/research/citations.php&lt;/extref](http://www.rockarch.org/research/citations.php%3c/extref)&gt;
-
-### Step 33 – Add Single-Level/Multi-Level Notes to Finding Aid in Accordance with Assigned Processing Level
+#### Step 33 – Add Single-Level/Multi-Level Notes to Finding Aid in Accordance with Assigned Processing Level
 
 Commonly used notes may include:
 
@@ -1624,7 +1638,7 @@ Commonly used notes may include:
 
 -   Other notes as recommended in Project Vitals.
 
-### Step 34 – Revise Accession Record(s)
+#### Step 34 – Revise Accession Record(s)
 
 -   Link Related Accession record(s) to Resource.
 
@@ -1632,7 +1646,7 @@ Commonly used notes may include:
 
 -   See Head of Processing for assistance.
 
-### Step 35 - Finalize Front Matter Notes
+#### Step 35 - Finalize Front Matter Notes
 
 -   Update or confirm final calculations for the Date and Extent
     elements, and compose final Scope and Content note. (See Pages
@@ -1644,7 +1658,7 @@ Commonly used notes may include:
 
 -   Example: 24 document boxes.
 
-### Step 36 - Publish Finding Aid
+#### Step 36 - Publish Finding Aid
 
 -   Submit the draft finding aid to the Head of Processing for final
     review.
@@ -1659,11 +1673,11 @@ Commonly used notes may include:
 -   RAC DIMES automatically updates once a day. Newly published guide(s)
     will be available in DIMES the following day.
 
-### Step 37 - Submit Any Materials Proposed for Shredding to Head of Processing
+#### Step 37 - Submit Any Materials Proposed for Shredding to Head of Processing
 
 See Archival Policy Memo 17-02: Procedures for the Destruction of
 Archival Holdings for details.
 
-### Step 38 - DONE!!!
+#### Step 38 - DONE!!!
 
 Rejoice
