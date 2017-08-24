@@ -23,7 +23,7 @@ lost, or of establishing an order when one never existed. The archivist
 may then identify further subgroupings within each unit down to the
 level of granularity that is feasible or desirable. This process creates
 hierarchical groupings of material, with each step in the hierarchy
-described as a level." (_DACS 2013, Principle 3, p.xvii_).
+described as a level." [(_DACS 2013, Principle 3, p.xvii_)](https://www2.archivists.org/standards/DACS/statement_of_principles).
 
 The hierarchical levels commonly used at RAC are: Collection, Record
 Group, Subgroup, Series, Subseries, and File.
@@ -132,7 +132,7 @@ compliance. To ensure that the quality and completeness of our guides is
 maintained, we take steps to comply with DACS as soon as the initial
 draft finding aids are created.
 
-### Step 11 - Receive a Resource ID from the Head of Processing (DACS 2.1.3)
+### Step 11 - Receive a Resource ID from the Head of Processing [(DACS 2.1.3)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/1_reference_code)
 
 -   Each resource record/finding aid at RAC is assigned a unique ID.
 
@@ -152,7 +152,7 @@ draft finding aids are created.
 
 ### Step 13 - Establish DACS Single-Level Minimum Compliance at the Collection Level/Highest Level of the Finding Aid
 
-1.  Title (Collection Level/Highest Level of finding aid) ### (DACS 2.3)###
+1.  Title (Collection Level/Highest Level of finding aid) ### [(DACS 2.3)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)###
 
 RAC has established a normalized descriptive Naming Convention, which
 augments DACS guidelines, pertinent only to the top level of a finding
@@ -217,7 +217,7 @@ Naming Convention.
 
 #### _Additional Required Collection Level Elements_
 
-2.  Extent **(DACS 2.5)** (in cubic feet and/or born-digital in MB/GB or
+2.  Extent [**(DACS 2.5)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/5_extent) (in cubic feet and/or born-digital in MB/GB or
     appropriate measure)
 
     -   1 record storage box = 1.2 cu. ft.
@@ -226,7 +226,7 @@ Naming Convention.
 
     -   1 half-document box = 0.25 cu. ft.
 
-3.  Date **(DACS 2.4)**
+3.  Date [**(DACS 2.4)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/4_date)
 
     -   Record inclusive date when known (Begin Year–End Year).
 
@@ -235,14 +235,14 @@ Naming Convention.
     -   Date may initially be recorded as “undated” in order to save the
         shell record.
 
-4.  Language (English) **(DACS 4.5)**
+4.  Language (English) [**(DACS 4.5)**](https://www2.archivists.org/standards/DACS/part_I/chapter_4/5_languages_and_scripts_of_the_material)
 
     -   Records the Language term and code predominately represented in
         the material described.
 
     -   The overwhelming majority of RAC’s collections are in English.
 
-5.  Creator/Author **(DACS 2.6)**
+5.  Creator/Author [**(DACS 2.6)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/6_name_of_creators)
 
     -   Record the provenance of the material in the “Agent Links” in
         ArchivesSpace.
@@ -253,7 +253,7 @@ Naming Convention.
     -   If the creator is unknown, “Source” can be used as an acceptable
         substitute.
 
-6.  Scope and Content **(DACS 3.1)**
+6.  Scope and Content [**(DACS 3.1)**](https://www2.archivists.org/standards/DACS/part_I/chapter_3/1_scope_and_content)
 
 The processing archivist should document the nature of the materials and activities reflected in the unit being described to enable users to judge its potential relevance. The Scope and Content may include information about any or all of the following, as appropriate:
 
@@ -284,7 +284,7 @@ The processing archivist should document the nature of the materials and activit
     reasons other than archival appraisal decisions, information about
     the gaps should be recorded.
 
-7.  Conditions Governing Access **(DACS 4.1)**
+7.  Conditions Governing Access [**(DACS 4.1)**](https://www2.archivists.org/standards/DACS/part_I/chapter_4/1_conditions_governing_access)
 
 #### _General Collection-Level Access Statements Approved for Use at RAC_
 
@@ -513,11 +513,11 @@ relationship among and between the records of each level.
 
 #### _Describing Titles_
 
-See **section 2.3** of _DACS_ for a complete description of the
+See [**section 2.3**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title) of _DACS_ for a complete description of the
 guidelines for the title element. Guidelines for establishing name
 authorities and forms of names including those of persons, families,
-geographic names and corporate bodies are available _in DACS_-_Part II
-and Chapter 10_.
+geographic names and corporate bodies are available [_in DACS -Part II_](https://www2.archivists.org/standards/DACS/part_II)
+and [_Chapter 10_.](https://www2.archivists.org/standards/DACS/part_II/chapter_10)
 
 -   Title is intent on concisely describing the content or nature of the
     file.
@@ -1148,7 +1148,7 @@ arise during processing, please consult with the Head of Processing._
 
 **A.  Common Types of Restricted Materials in RAC Collections**
 
-**1. Access Restrictions (DACS 4.1)**
+**1. Access Restrictions [(DACS 4.1)](https://www2.archivists.org/standards/DACS/part_I/chapter_4/1_conditions_governing_access)**
 
 This note is used to document archival materials whose access is
 physically and/or intellectually restricted due to the nature of the
@@ -1315,7 +1315,7 @@ Notable exceptions include documentation of a Rockefeller family member acting i
     until the collection is processed. The Head of Processing will
     designate the material "open" once the necessary work is completed.
 
-D.  _Condition/Security-based access restrictions **(DACS 4.2)**_ - A fundamental objective of RAC is to facilitate the long-term preservation, conservation, and security of our archival holdings. At times the long-term care of individual items will take precedence over their availability for immediate access. Access to extremely valuable, fragile, brittle, unstable, or damaged items is restricted by RAC in order to protect these high-risk items from theft, damage, or further deterioration. (Example: JDR Sr’s Ledger A).
+D.  _Condition/Security-based access restrictions [**(DACS 4.2)**](https://www2.archivists.org/standards/DACS/part_I/chapter_4/2_physical_access)_ - A fundamental objective of RAC is to facilitate the long-term preservation, conservation, and security of our archival holdings. At times the long-term care of individual items will take precedence over their availability for immediate access. Access to extremely valuable, fragile, brittle, unstable, or damaged items is restricted by RAC in order to protect these high-risk items from theft, damage, or further deterioration. (Example: JDR Sr’s Ledger A).
 
     -   Examples of standard file-level access notes -
 
@@ -1323,7 +1323,7 @@ D.  _Condition/Security-based access restrictions **(DACS 4.2)**_ - A fundamenta
 
         -   Closed due to preservation concerns.
 
-E. _Technical access restrictions **(DACS 4.3)**_  – Some archival
+E. _Technical access restrictions [**(DACS 4.3)**](https://www2.archivists.org/standards/DACS/part_I/chapter_4/3_technical_access)_  – Some archival
 material is restricted due to its format or other special needs.
 
 1.  Format – Access to certain formats may be completely or partially
@@ -1546,7 +1546,7 @@ _**Finishing the Project**_
 
 ### Step 32 – Add Local RAC-Required Single-Level Notes
 
--   Arrangement **(DACS 3.2)**
+-   Arrangement [**(DACS 3.2)**](https://www2.archivists.org/standards/DACS/part_I/chapter_3/2_system_of_arrangement)
 
     -   Describe the current organization of the collection.
 
@@ -1567,7 +1567,7 @@ _**Finishing the Project**_
 
 Commonly used notes may include:
 
--   Biographical/Historical sketch **(DACS 2.7)**
+-   Biographical/Historical sketch [**(DACS 2.7)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/7_administrative_biographical_history)
 
     -   Provide information about the corporate body, person, or family
         that created, assembled, accumulated, and/or maintained and used
@@ -1576,14 +1576,14 @@ Commonly used notes may include:
         information about the context in which those materials were
         created.
 
--   Conditions Governing Use **(DACS 4.4)**
+-   Conditions Governing Use [**(DACS 4.4)**](https://www2.archivists.org/standards/DACS/part_I/chapter_4/4_conditions_governing_reproduction_and_use)
 
     -   Identify any restrictions on reproduction due to copyright or
         other reasons, as well as restrictions on further use of the
         materials being described, such as publication, after access has
         been provided.
 
--   Immediate Source of Acquisition **(DACS 5.2)**
+-   Immediate Source of Acquisition [**(DACS 5.2)**](https://www2.archivists.org/standards/DACS/part_I/chapter_5/2_immediate_source_of_acquisition)
 
     -   Document the source from which the repository directly acquired
         the materials being described, as well as the date of
@@ -1594,7 +1594,7 @@ Commonly used notes may include:
         Rockefeller Foundation and ingested by RAC as Accession
         1992:100.
 
--   Related materials note **(DACS 6.3)**
+-   Related materials note [**(DACS 6.3)**](https://www2.archivists.org/standards/DACS/part_I/chapter_6/3_related_archival_materials)
 
     -   Indicate the existence and location of archival materials that
         are closely related to the materials being described by

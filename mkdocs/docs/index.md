@@ -203,9 +203,9 @@ may receive further processing based on RAC Processing Priorities).*
 
   *Each processing assignment is accomplished in two phases:*
 
-  *Phase I. Planning*
+  [*Phase I. Planning*](planning.md)
 
-  *Phase II. Processing*
+  [*Phase II. Processing*](processing.md)
 
   In an effort to facilitate the work accomplished by processing
   archivists and the interdepartmental teamwork which assists and
