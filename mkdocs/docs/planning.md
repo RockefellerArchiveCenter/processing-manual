@@ -1,6 +1,6 @@
 ## I. Planning
 
-***All processing activities at RAC must be approved by the Head of Processing. ***
+All processing activities at RAC must be approved by the Head of Processing.
 
 ### Step 1 - Project Kickoff
 

@@ -1,5 +1,11 @@
 # Rockefeller Archive Center Processing Manual
 
+Welcome to the Processing Manual of the [Rockefeller Archive Center](http://rockarch.org/), created by the RAC Processing team. The Manual is divided into three sections:
+
+- [About](about.md) - the mission of the Processing team and information about RAC processing methods.
+- [Planning](planning.md) - instructions on how to get started on a new processing project.
+- [Processing](processing.md) - provides step-by-step instructions for processing archival collections.
+
 ## Mission
 
 The Processing team establishes and enhances intellectual and physical
@@ -181,8 +187,8 @@ may receive further processing based on RAC Processing Priorities).*
   -   Description
 
       -   Create, or revise, standard finding aid to file level, in
-          accordance with all RAC descriptive standards. (See: [*Building
-          the Finding Aid*](http://127.0.0.1:8000/processing/#building-the-finding-aid_1), page 10).
+          accordance with all RAC descriptive standards. (See: *Building
+          the Finding Aid*, page 10).
 
   -   Preservation
 
@@ -197,15 +203,16 @@ may receive further processing based on RAC Processing Priorities).*
       -   Process materials to the file level, regardless of form, medium, or
           creator.
 
-      -   For description guidelines for audiovisual materials, see [page 20](http://127.0.0.1:8000/processing/#create-inventory).
+      -   For description guidelines for audiovisual materials, see page 20.
 
-## Processing Project Assignments (Minimal and Standard Processing)
+## Processing Project Assignments
+(**Minimal and Standard Processing**)
 
-  *Each processing assignment is accomplished in two phases:*
+  Each processing assignment is accomplished in two phases:
 
-  [*Phase I. Planning*](http://127.0.0.1:8000/planning/)
+  *Phase I. [Planning](planning.md)*
 
-  [*Phase II. Processing*](http://127.0.0.1:8000/processing/)
+  *Phase II. [Processing](processing.md)*
 
   In an effort to facilitate the work accomplished by processing
   archivists and the interdepartmental teamwork which assists and

@@ -1,5 +1,8 @@
-site_name: Processing Manual
+site_name: RAC Processing Manual
+copyright: Version 1.1 May 2017, Copyright © The Rockefeller Archive Center
 pages:
     - About: index.md
     - Planning: planning.md
     - Processing: processing.md
+
+google_analytics: ['UA-36723568-3', 'mkdocs.org']
