@@ -187,8 +187,8 @@ may receive further processing based on RAC Processing Priorities).*
   -   Description
 
       -   Create, or revise, standard finding aid to file level, in
-          accordance with all RAC descriptive standards. (See: *Building
-          the Finding Aid*, page 10).
+          accordance with all RAC descriptive standards. (See: [*Building
+          the Finding Aid*](processing.md#building-the-finding-aid), page 10).
 
   -   Preservation
 
@@ -203,16 +203,16 @@ may receive further processing based on RAC Processing Priorities).*
       -   Process materials to the file level, regardless of form, medium, or
           creator.
 
-      -   For description guidelines for audiovisual materials, see page 20.
+      -   For description guidelines for audiovisual materials, see [page 20](processing.md#describing-audiovisual-materials).
 
 ## Processing Project Assignments
 (**Minimal and Standard Processing**)
 
   Each processing assignment is accomplished in two phases:
 
-  *Phase I. [Planning](planning.md)*
+  [*Phase I. Planning*](planning.md)
 
-  *Phase II. [Processing](processing.md)*
+  [*Phase II. Processing*](processing.md)
 
   In an effort to facilitate the work accomplished by processing
   archivists and the interdepartmental teamwork which assists and

@@ -810,7 +810,7 @@ barcode to be individually documented.
         ii. Access copy currently unavailable. Please contact a RAC
             archivist for further instruction.
 
-        iii. The AV collection-level note [(page 15)](http://127.0.0.1:8000/processing/#building-the-finding-aid_1) can also be used at
+        iii. The AV collection-level note [(page 15)](#general-collection-level-access-statements-approved-for-use-at-RAC) can also be used at
             the series level.
 
 6.  Instances:
@@ -823,7 +823,7 @@ barcode to be individually documented.
 
 ### Rehouse Archival Materials
 
-#### Step 16 - Rehouse Archival Materials and/or Retain Existing Housing [(See Vitals)](http://127.0.0.1:8000/planning/#project-vitals-template)
+#### Step 16 - Rehouse Archival Materials and/or Retain Existing Housing [(See Vitals)](planning.md#project-vitals-template)
 
 -   Minimal Processing projects will most often retain existing housing
     when feasible.
@@ -946,6 +946,8 @@ The Collections Management team can assist with:
     - Grant Number
 
 -   RAC archival description will appear on processed folders as:
+
+![folder description](img/Folder_label.png)
 
 ### Stabilize or Separate At-Risk Materials
 
@@ -1103,7 +1105,7 @@ C.  Some collection agreements contain stipulations regarding permanent
     Head of Processing to determine the stipulations relevant to the
     assigned project.
 
-**D. Preservation Photocopying** [(See Step 24)](http://127.0.0.1:8000/processing/#preservation-photocopying)
+**D. Preservation Photocopying** [(See Step 24)](#preservation-photocopying)
 
 ##### Rights and Restrictions
 
@@ -1454,7 +1456,7 @@ facsimile_
 If the item bears no intrinsic value, the facsimile serves to replace
 the original in the collection, and the original item is
 discarded/shredded. _All materials proposed for shredding must follow
-the RAC destruction protocol, [see Step 37.](http://127.0.0.1:8000/processing/#finishing-the-project)_ If the item is of value in
+the RAC destruction protocol, [see Step 37.](#step-37-submit-any-materials-proposed-for-shredding-to-head-of-processing)_ If the item is of value in
 its original format, consult with the Head of Processing regarding its
 retention. When an original is retained with restricted access, a
 condition of access note should be added at the appropriate level of
@@ -1543,7 +1545,7 @@ _**Finishing the Project**_
 -   Complete one separation sheet for each assigned separation number.
 
 -   The current separation sheet is available on the shared drive. [(See
-    Step 19 for details.)](http://127.0.0.1:8000/processing/#stabilize-or-separate-at-risk-materials)
+    Step 19 for details.)](#stabilize-or-separate-at-risk-materials)
 
 #### Step 30 - Submit Special Format Tracking Form to Collections Management
 
@@ -1651,7 +1653,7 @@ Commonly used notes may include:
 
 -   Update or confirm final calculations for the Date and Extent
     elements, and compose final Scope and Content note. [(See Pages
-    11-12)](http://127.0.0.1:8000/processing/#building-the-finding-aid_1).
+    11-12)](#additional-required-collection-level-elements).
 
 -   The final Extent calculations should include a natural language
     Container Summary statement describing the number and type of
