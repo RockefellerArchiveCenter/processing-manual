@@ -946,6 +946,8 @@ The Collections Management team can assist with:
 
 -   RAC archival description will appear on processed folders as:
 
+![folder description](img/Folder_label.png)
+
 ### Stabilize or Separate At-Risk Materials
 
 #### Step 19 - Stabilize or Separate At-Risk Materials/Special Formats in Accordance with RAC Guidelines (See Project Vitals)
