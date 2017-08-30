@@ -1,5 +1,5 @@
 
-## Phase II. Processing
+## Processing
 
 The processing phase of each assignment begins with establishing the
 current arrangement of the material, evaluating the arrangement needs,
@@ -645,7 +645,7 @@ G.  Titles physically written or recorded on folders may be abbreviated
     or truncated. Corresponding finding aid description should follow
     all stated rules and guidelines.
 
-_**Describing Dates**_
+#### _Describing Dates_
 
 -   Answers the question – When is the content of this file created?
 
@@ -686,7 +686,7 @@ _**Describing Dates**_
 
 -   If the dates of the material are unknown, leave the field blank.
 
-_**Instance Information**_
+#### _Instance Information_
 
 -   Instance information should answer the question – Where is the file?
 
@@ -709,7 +709,7 @@ _**Instance Information**_
     “Microform”, “Moving Image”, “Still Image” are also common types
     used.
 
-_**Associated Notes**_
+#### _Associated Notes_
 
 -   Notes most often used at the FILE Level are the Conditions of Access
     note, and the Physical Description note (which is used to answer the
@@ -741,7 +741,7 @@ When the instances span multiple boxes, assigning each box to a separate
 instance allows each box to be designated as a Top Container and each
 barcode to be individually documented.
 
-####_Describing Audiovisual Materials_
+#### _Describing Audiovisual Materials_
 
 **File Level: Basic Information**
 
@@ -769,7 +769,7 @@ barcode to be individually documented.
         iii. Expression: YYYY-Month-DD (example: 1976 July 04)
 
     -   If recorded date is not a single creation date follow standard
-        practices (page 19).
+        practices (see [*Describing Dates*](processing.md#describing-dates)).
 
     -   Use “circa” or “c.” if approximating a date (example: c. 1970s)
 
@@ -810,7 +810,7 @@ barcode to be individually documented.
         ii. Access copy currently unavailable. Please contact a RAC
             archivist for further instruction.
 
-        iii. The AV collection-level note [(page 15)](#general-collection-level-access-statements-approved-for-use-at-RAC) can also be used at
+        iii. The AV collection-level note [(see collection-level access statements)](#general-collection-level-access-statements-approved-for-use-at-rac) can also be used at
             the series level.
 
 6.  Instances:
@@ -1154,7 +1154,7 @@ arise during processing, please consult with the Head of Processing._
 
 #### Step 23 - Add File-Level Conditions of Access Notes for Restricted Material
 
-(For collection-level access statements please see Page 13)
+(For collection-level access statements please [see above](#general-collection-level-access-statements-approved-for-use-at-rac))
 
 **A.  Common Types of Restricted Materials in RAC Collections**
 
@@ -1652,8 +1652,7 @@ Commonly used notes may include:
 #### Step 35 - Finalize Front Matter Notes
 
 -   Update or confirm final calculations for the Date and Extent
-    elements, and compose final Scope and Content note. [(See Pages
-    11-12)](#additional-required-collection-level-elements).
+    elements, and compose final Scope and Content note. [(See Additional Required Collection Level Elements)](#additional-required-collection-level-elements).
 
 -   The final Extent calculations should include a natural language
     Container Summary statement describing the number and type of

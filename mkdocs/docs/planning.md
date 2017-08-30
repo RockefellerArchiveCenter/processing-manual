@@ -1,4 +1,4 @@
-## I. Planning
+## Planning
 
 All processing activities at RAC must be approved by the Head of Processing.
 
