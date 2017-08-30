@@ -1,5 +1,5 @@
 
-## Processing
+## Phase II: Processing
 
 The processing phase of each assignment begins with establishing the
 current arrangement of the material, evaluating the arrangement needs,
