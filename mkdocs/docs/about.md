@@ -81,6 +81,7 @@ Level 1 actions include, but are not necessarily limited to:
       -   Records remain as received. No arrangement or rearrangement.
 
       -   Box-level instances are assigned.
+>
 
   -   Description
 
@@ -102,6 +103,7 @@ Level 1 actions include, but are not necessarily limited to:
 
           -   Accession contains grant files, Board of Directors files,
               and subject files.
+>
 
   -   Preservation
 
@@ -111,6 +113,7 @@ Level 1 actions include, but are not necessarily limited to:
 
       -   Materials are rehoused *only* when necessary to facilitate
           archival storage.
+>
 
   -   Special Formats
 
@@ -118,6 +121,7 @@ Level 1 actions include, but are not necessarily limited to:
           audiovisual materials, flat files, and oversized items in need
           of preservation are identified, separated, and initially
           described.  
+>
 
 ### Level 2: Minimal Processing
   *Level 1* processing, plus the following additions:
@@ -132,6 +136,7 @@ Level 1 actions include, but are not necessarily limited to:
       -   Establish multi-level intellectual arrangement and description,
           while facilitating preservation. Materials arranged and
           described together may be physically stored separately.
+>
 
   -   Description
 
@@ -145,6 +150,7 @@ Level 1 actions include, but are not necessarily limited to:
       -   Expand and enhance intellectual control of the material by
           adding front matter notes to the finding aid, as determined in
           Project Vitals.
+>
 
   -   Preservation
 
@@ -154,10 +160,12 @@ Level 1 actions include, but are not necessarily limited to:
       -   Work with Collections Management to further identify and
           segregate any materials with immediate or significant
           preservation concerns.
+>
 
   -   Level 2 assignments may take the form of a concentrated Archives
       Blitz conducted by individual staff or by the Processing Team (See
       Head of Processing for details).
+>
 
 *Note: Once all applicable Level 1 and Level 2 Processing steps are
 completed -- the collection/accession -- or all eligible material
@@ -177,12 +185,14 @@ may receive further processing based on RAC Processing Priorities).*
 
       -   Do not arrange material within a folder without the prior
           approval of the Head of Processing.
+>
 
   -   Description
 
       -   Create, or revise, standard finding aid to file level, in
           accordance with all RAC descriptive standards. (See: [*Building
           the Finding Aid*](processing.md#building-the-finding-aid)).
+>
 
   -   Preservation
 
@@ -191,6 +201,7 @@ may receive further processing based on RAC Processing Priorities).*
 
       -   Conduct minimal preservation actions at the file level (preservation
       photocopy and remove brittle or damaged material).
+>
 
   -   Special Formats
 
@@ -198,6 +209,7 @@ may receive further processing based on RAC Processing Priorities).*
           creator.
 
       -   For description guidelines for audiovisual materials, see [*Describing Audiovisual Materials*](processing.md#describing-audiovisual-materials).
+>
 
 ## Processing Project Assignments
 (**Minimal and Standard Processing**)
