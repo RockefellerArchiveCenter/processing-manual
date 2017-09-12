@@ -37,7 +37,7 @@ All processing activities at RAC must be approved by the Head of Processing.
 
 *   Once the Project Vitals document is submitted, discussed, and approved, it is shared by the Head of Processing with the Archives Management Team and the Processing Team.
 
->>>>>>>>> #### Project Vitals Template
+##### Project Vitals Template
 
 1. Physical Vitals
 
@@ -88,7 +88,7 @@ All processing activities at RAC must be approved by the Head of Processing.
     *   Arrangement
 
         >*   Standard – Original order/As received
->
+
         >*   If NOT Standard – Propose an Arrangement
 
     *   Processing Level
@@ -128,4 +128,4 @@ This Project Vitals template is also available in the Processing folder on the s
 
 *   Processing archivist should contact Collections Management to be assigned a location for all flat files.
 
-##### _When the planning steps are completed, it’s time to begin processing the records._
+**_When the planning steps are completed, it’s time to begin processing the records._**

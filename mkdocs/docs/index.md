@@ -1,8 +1,8 @@
 # Rockefeller Archive Center Processing Manual
 
-Welcome to the Processing Manual of the [Rockefeller Archive Center](http://rockarch.org/), created by the RAC Processing team. The Manual is divided into three sections:
+Welcome to the Processing Manual of the [Rockefeller Archive Center](http://rockarch.org/), created by the RAC processing team. The Manual is divided into three sections:
 
-- [About](about.md) - the mission of the Processing team and information about RAC processing methods.
+- [About](about.md) - the mission of the processing team and information about RAC processing methods.
 - [Planning](planning.md) - instructions on how to get started on a new processing project.
 - [Processing](processing.md) - provides step-by-step instructions for processing archival collections at the RAC.
 
