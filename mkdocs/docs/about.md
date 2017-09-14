@@ -165,7 +165,8 @@ within the collection/accession -- is open for research. (Records
 may receive further processing based on RAC Processing Priorities).*
 
 ### Level 3: Standard Processing
-*Level 2* processing, plus the following, as applicable:
+
+ *Level 2* processing, plus the following, as applicable:
 
   -   Arrangement
 
