@@ -124,7 +124,7 @@ level, some parts may be described at greater or varying levels of
 detail, with the resulting finding aid intentionally flexible in order
 to produce a variety of descriptive outputs.
 
-#### _Building the Finding Aid_
+### Building the Finding Aid
 
 At RAC all archival description is recorded in our collections
 management system (ArchivesSpace), and all completed processing projects
@@ -134,8 +134,6 @@ are displayed online through our collection guides website DIMES.
 compliance. To ensure that the quality and completeness of our guides is
 maintained, we take steps to comply with DACS as soon as the initial
 draft finding aids are created.
-
-### Building the Finding Aid
 
 #### Step 11 - Receive a Resource ID from the Head of Processing [(DACS 2.1.3)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/1_reference_code)
 
@@ -419,7 +417,7 @@ the shell include:
     -   The standard term “A Guide to the….” Is used to differentiate
         the finding aid title.
 
-    >>   For example: “A Guide to the Warren Weaver papers”
+        >>  For example: “A Guide to the Warren Weaver papers”
 
 2.  Finding Aid Filing Title
 
@@ -436,16 +434,16 @@ the shell include:
         >>  Ford Foundation records, Office of Communications, Advisor
             on Communications, Office Files of Fred W. Friendly
 
-3.   For personal papers, the Finding Aid Filing Title should be listed
-    with the last name first, followed by other names in parenthesis.
+    - For personal papers, the Finding Aid Filing Title should be listed
+        with the last name first, followed by other names in parenthesis.
 
-    >>   Weaver (Warren) papers
+        >>  Weaver (Warren) papers
 
-    >>   Frantz (Harry S.) papers
+        >>  Frantz (Harry S.) papers
 
-    >>  Harrar (J. George) papers
+        >>  Harrar (J. George) papers
 
-4.  EAD-ID (FA\#.xml)
+3.  EAD-ID (FA\#.xml)
 
     -   This is the unique identifier for the EAD file which is exported
         out of the collections management system for online display in
@@ -562,7 +560,7 @@ Example:
 
 >  Title: Reprint
 
->   Language of materials note: In Russian
+>  Language of materials note: In Russian
 
 #### _Recording Names in the Title Element_
 
@@ -828,7 +826,7 @@ barcode to be individually documented.
 -   Standard Processing projects will most often rehouse materials, with
     limited retention of existing housing when feasible.
 
-**Selecting Storage Containers and Enclosures**
+_**Selecting Storage Containers and Enclosures**_
 
 -   Select a box and folder size for documents based upon the dimensions
     of the majority of those to be contained within an enclosure. Most
@@ -839,14 +837,14 @@ barcode to be individually documented.
 
 -   Do not combine ‘unlike’ items in the same box.
 
-    Examples:
+  > Examples:
 
->  Documents with metallic items (medals).
+>>  Documents with metallic items (medals).
 
->  Documents with leather items which may be subject to deterioration
+>>  Documents with leather items which may be subject to deterioration
     (red rot) and bleed into the box.
 
-> Documents with liquid or powder in an envelope or container.
+>> Documents with liquid or powder in an envelope or container.
 
 Coordinate with Collections Management whenever the project necessitates
 the use of non-standard containers --- including but not limited to:
@@ -912,35 +910,35 @@ The Collections Management team can assist with:
 -   Required elements of description which must appear on all archival
     folders:
 
-      - Collection (Abbreviation)
+      >> Collection (Abbreviation)
 
-      - Box Number
+      >> Box Number
 
-      - Folder Number
+      >> Folder Number
 
-      - Folder Title (may be abbreviated or truncated on physical folder)
+      >> Folder Title (may be abbreviated or truncated on physical folder)
 
-      - Date
+      >> Date
 
 -   Elements of description which must appear on the folder(s) (when
     applicable to the material being described):
 
-    - Restrictions
+    >> Restrictions
 
 -   Additional description that will appear on the folder(s) (only if
     pertinent to the material being described):
 
-    - Record Group (Abbreviation or Number)
+    >> Record Group (Abbreviation or Number)
 
-    - Subgroup (Abbreviation or Number)
+    >> Subgroup (Abbreviation or Number)
 
-    - Series (Abbreviation or Number)
+    >> Series (Abbreviation or Number)
 
-    - Subseries (Abbreviation or Number)
+    >> Subseries (Abbreviation or Number)
 
-    - Index Number
+    >> Index Number
 
-    - Grant Number
+    >> Grant Number
 
 -   RAC archival description will appear on processed folders as:
 
@@ -1096,7 +1094,7 @@ C.  Some collection agreements contain stipulations regarding permanent
 
 **D. Preservation Photocopying** [(See Step 24)](#preservation-photocopying)
 
-##### Rights and Restrictions
+### Rights and Restrictions
 
 Transparency in the dissemination of information is a critical element
 of the archival profession. For RAC Processing, the creation of this
@@ -1138,8 +1136,6 @@ arise during processing, please consult with the Head of Processing._
     facility other than Hillcrest. Regardless of physical location, the
     restricted material should always be described intellectually in the
     appropriate place within the finding aid.
-
-### Rights and Restrictions
 
 #### Step 23 - Add File-Level Conditions of Access Notes for Restricted Material
 
@@ -1228,11 +1224,11 @@ Common types of records that fall into this category are:
     to those records by others without the permission of the student or
     parents.
 
-The Buckley Amendment to FERPA allows directory information to be made  public without permission, including the student name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student. Please consult the Head of Processing with any questions regarding the restriction of student records.
+>> The Buckley Amendment to FERPA allows directory information to be made  public without permission, including the student name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student. Please consult the Head of Processing with any questions regarding the restriction of student records.
 
--   Example of standard RAC file-level access note -
+  >>> - Example of standard RAC file-level access note -
 
-    >  Restricted - confidential material.
+  >>>> Restricted - confidential material.
 
 1.  _Peer Review_ – Privacy and confidentiality of individuals involved
     in a peer review process may necessitate a restriction on access to
@@ -1269,7 +1265,7 @@ specific collection pertinent to a given processing project. Consult
 with the Head of Processing for copies of appropriate documents from the
 collection files. The most common restrictions are:
 
-1\.  Date-based access – materials within a collection are often
+ 1\.  Date-based access – materials within a collection are often
     accessible to research following an agreed-upon embargo period (10
     years; 20 years). _**An entire file is restricted until the most
     recent date within that file has reached the end of the embargo.**_
@@ -1343,13 +1339,13 @@ material is restricted due to its format or other special needs.
 3.  Special technical access issues may also necessitate restrictions on
     access.
 
-Example of standard access note for technical access restrictions:
+    > Example of standard access note for technical access restrictions:
 
->   Researchers interested in accessing digital media (floppy disks,
-    CDs, DVDs, etc.) in this collection must use an access surrogate.
-    The original items may not be accessed because of preservation
-    concerns. To request an access surrogate be made, or if you are
-    unsure if there is an access surrogate, please contact an archivist.
+      >>   Researchers interested in accessing digital media (floppy disks,
+            CDs, DVDs, etc.) in this collection must use an access surrogate.
+            The original items may not be accessed because of preservation
+            concerns. To request an access surrogate be made, or if you are
+            unsure if there is an access surrogate, please contact an archivist.
 
 **2. Use Restrictions**
 
@@ -1429,7 +1425,7 @@ Documents that are fragile, damaged, or at risk for further
 deterioration are often photocopied in order to preserve their
 intellectual content and prevent potential damage to neighboring
 documents. A preservation photocopy is a facsimile of a document copied
-to acid-free, lignin-free paper._It is neither necessary nor feasible
+to acid-free, lignin-free paper. _It is neither necessary nor feasible
 to photocopy all fragile or potentially at risk materials during
 processing. Utilize processing time effectively in accordance with
 assigned priorities._
@@ -1522,8 +1518,6 @@ Record the following Container Management data in the finding aid:
 -   Container profiles
 
 -   For further assistance, see the Head of Processing.
-
-_**Finishing the Project**_
 
 ### Finishing the Project
 
