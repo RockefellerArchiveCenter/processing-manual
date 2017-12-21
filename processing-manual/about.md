@@ -1,4 +1,7 @@
-# Rockefeller Archive Center Processing
+---
+layout: docs-content
+title:  "Processing Manual - About"
+---
 
 ## Mission
 
@@ -113,14 +116,10 @@ Level 1 actions include, but are not necessarily limited to:
 
       -   Materials are rehoused *only* when necessary to facilitate
           archival storage.
->
 
-  -   Special Formats
-
-      -   Materials with special storage or handling requirements such as
-          audiovisual materials, flat files, and oversized items in need
-          of preservation are identified, separated, and initially
-          described.  
+      -   Additional preservation or stabilization steps may be taken for
+          materials with special handling requirements such as oversized,   
+          brittle or damaged items.
 >
 
 ### Level 2: Minimal Processing
@@ -158,7 +157,7 @@ Level 1 actions include, but are not necessarily limited to:
           acid-free lignin-free boxes and/or folders.
 
       -   Work with Collections Management to further identify and
-          segregate any materials with immediate or significant
+          stabilize any materials with immediate or significant
           preservation concerns.
 >
 
@@ -192,7 +191,7 @@ may receive further processing based on RAC Processing Priorities).*
 
       -   Create, or revise, standard finding aid to file level, in
           accordance with all RAC descriptive standards. (See: [*Building
-          the Finding Aid*](processing.md#building-the-finding-aid)).
+          the Finding Aid*](processing#building-the-finding-aid)).
 >
 
   -   Preservation
@@ -204,12 +203,12 @@ may receive further processing based on RAC Processing Priorities).*
       photocopy and remove brittle or damaged material).
 >
 
-  -   Special Formats
+  -   At-Risk Materials
 
       -   Process materials to the file level, regardless of form, medium, or
           creator.
 
-      -   For description guidelines for audiovisual materials, see [*Describing Audiovisual Materials*](processing.md#describing-audiovisual-materials).
+      -   See Step 16 “Stabilize and Describe At-Risk Materials” for details.
 >
 
 ## Processing Project Assignments
@@ -217,9 +216,9 @@ may receive further processing based on RAC Processing Priorities).*
 
   Each processing assignment is accomplished in two phases:
 
-  [*Phase I. Planning*](planning.md)
+  [*Phase I. Planning*](planning)
 
-  [*Phase II. Processing*](processing.md)
+  [*Phase II. Processing*](processing)
 
   In an effort to facilitate the work accomplished by processing
   archivists and the interdepartmental teamwork which assists and
@@ -227,9 +226,9 @@ may receive further processing based on RAC Processing Priorities).*
   a step-by-step instructional.
 
   The Planning phase consists of eight common steps, and the Processing
-  phase consists of 30 common steps. Due to the unique character of each
+  phase consists of 32 common steps. Due to the unique character of each
   individual archival collection and the unforeseen issues that may
   materialize or develop during a project, the ordering of these steps is
-  flexible in practice. However *ALL* 38 steps must be completed, by an
+  flexible in practice. However *ALL* 40 steps must be completed, by an
   individual or team, for a collection to be considered successfully
   processed.

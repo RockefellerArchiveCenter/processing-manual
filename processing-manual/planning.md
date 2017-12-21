@@ -1,3 +1,7 @@
+---
+layout: docs-content
+title:  "Processing Manual - Planning"
+---
 ## Phase I: Planning
 
 All processing activities at RAC must be approved by the Head of Processing.
@@ -41,7 +45,8 @@ All processing activities at RAC must be approved by the Head of Processing.
 
 1. Physical Vitals
 
-    *   Volume (cubic feet) and/or estimated volume of digital files(MB/GB)
+    *   Volume (cubic feet) and/or estimated volume of digital files (including     
+        estimated number of digital files and MB/GB)
 
     *   Current number of boxes
 
@@ -102,11 +107,13 @@ This Project Vitals template is also available in the Processing folder on the s
 
 #### Step 7 - Order Supplies or Confirm that Existing Supplies are Available Onsite
 
-*   Processing archivist should coordinate with Collections Management whenever the project necessitates use of non-standard containers --- including but not limited to: oversized or undersized flat boxes, clamshell boxes, index card boxes, microform boxes, still image containers, newspaper-sized and textile boxes, and flat files or tubes.
+*   RAC systematically orders all standard archival supplies.
+
+*   Processing archivist should coordinate with Collections Management whenever the project necessitates use of preservation supplies or non-standard containers --- including but not limited to: oversized or undersized flat boxes, clamshell boxes, index card boxes, microform boxes, still image containers, newspaper-sized and textile boxes, and flat files or tubes.
 
 *   The Collections Management team can assist with –
 
-    *   Ordering of RAC-preferred containers.
+    *   Ordering, or confirmation of on-site availability, of RAC-preferred containers.
 
     *   Identifying box-types that may already be assigned container profiles in the RAC collections management system.
 
