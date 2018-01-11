@@ -1051,8 +1051,7 @@ B.	Digital media.
         the RAC digital repository.
 
     -	  Image the removable media, note the presence of the item and document
-        the imaging process in the digital media log and finding aid. See Step
-        22 for details.
+        the imaging process in the digital media log and finding aid. [See Step 22](#image-eligible-digital-media) for details.
 
     -	  Describe the resulting file(s), within originating context, in aggregate
         in the finding aid and insert the applicable Processing Information
@@ -1232,8 +1231,7 @@ Notes:
     -	  Access copy currently unavailable. Please contact a RAC archivist for
         further instruction.
 
-    -	  The AV collection-level note (page 15) can also be used at the series
-        level.
+    -	  [The AV collection-level-note](#general-collection-level-access-statements-approved-for-use-at-rac) can also be used at the series level.
 
 -	  **Scope and Contents** (Collaborate with AV archivist to watch/listen to the
     material AFTER a digitized access copy is created, and generate applicable
@@ -1583,7 +1581,7 @@ C.  Some collection agreements contain stipulations regarding permanent
 
 **D. Preservation Photocopying** [(See Step 25)](#preservation-photocopying)
 
-### Image Eligible Digital media
+### Image Eligible Digital Media
 
 #### Step 22 – Image Eligible Digital Media and document in Finding Aid/Digital Media Log
 

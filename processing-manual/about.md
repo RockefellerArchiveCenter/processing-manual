@@ -208,7 +208,7 @@ may receive further processing based on RAC Processing Priorities).*
       -   Process materials to the file level, regardless of form, medium, or
           creator.
 
-      -   See Step 16 “Stabilize and Describe At-Risk Materials” for details.
+      -   See [Step 16 “Stabilize and Describe At-Risk Materials”](processing#stabilize-and-describe-at-risk-materials) for details.
 >
 
 ## Processing Project Assignments
