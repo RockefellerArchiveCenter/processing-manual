@@ -243,7 +243,7 @@ Naming Convention.
 
 #### _Additional Required Collection Level Elements_
 
-2\.  Extent [**(DACS 2.5)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/5_extent) (in cubic feet and/or born-digital in MB/GB or appropriate measure)  
+2\.  Extent [**(DACS 2.5)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/5_extent) (in cubic feet and/or born-digital in estimated number of files and MB/GB or appropriate measure)  
 
   - 1 record storage box = 1.3 cu. ft.
 
@@ -274,8 +274,7 @@ Naming Convention.
 
   - The overwhelming majority of RAC’s collections are in English.
 
-  - A natural language note should also be recorded at the top level of the finding aid   
-    for user readability.
+  - A natural language note should also be recorded at the top level of the finding aid for user readability.
 
 5\.  Creator/Author [**(DACS 2.6)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/6_name_of_creators)
 
@@ -961,9 +960,7 @@ barcode to be individually documented.
 
 #### Step 16 – Stabilize and Describe At-Risk Materials
 
-Identify and provide care for those materials, regardless of format, that are at greatest
-risk for obsolescence or data loss to facilitate their stabilization, preservation,
-further processing, and researcher access.   
+Identify and provide care for those materials, regardless of format, that are at greatest risk for obsolescence or data loss to facilitate their stabilization, preservation, further processing, and researcher access.   
 
 Most at-risk materials should be retained within the originating collection. Some
 commonly found at-risk materials should be transferred to the Library collection, while
@@ -972,7 +969,7 @@ extend their lifespan, or otherwise limit the risks of loss.
 
 #### Materials to be transferred to the Library collection
 
--  _An item belongs to either the RAC Archive or the RAC Library collection, not both._
+-  *An item belongs to either the RAC Archive or the RAC Library collection, not both.*
 
 -	 The library collection consists of stand-alone items, independent of archival    
     provenance, which are most often described, stored and accessed at the item level.
@@ -981,12 +978,11 @@ extend their lifespan, or otherwise limit the risks of loss.
 
 -	 Eligible materials include but are not necessarily limited to:
 
-    -   Collections or accessions whose entire contents is published materials within the
-        scope of the RAC Library collecting policy.
+    -   Collections or accessions whose entire contents is published materials within
+    the scope of the RAC Library collecting policy.
 
-    -   Published studies, reports and scientific or technical publications sponsored by,
-        or otherwise produced through, direct grants or funding from RAC or a
-        donor/depositor.
+    -   Published studies, reports and scientific or technical publications sponsored
+    by, or otherwise produced through, direct grants or funding from RAC or a donor/depositor.
 
 -	 No more than two copies of any publication will be acquired, cataloged and
     added to the Library collection. (Any additional copies should be submitted
@@ -1017,6 +1013,7 @@ detail any applicable conditions/restrictions of access and use as well as any
 significant stabilization or preservation issues*_
 
 #### Archival Materials to be retained within paper-based collections*
+
 A.	All materials that are an integral part of the originating accession/collection should be retained, including those for which provenance and the contextual relationship among and between associated records is essential.
 
 B.	Digital media.
@@ -1051,8 +1048,7 @@ B.	Digital media.
         the RAC digital repository.
 
     -	  Image the removable media, note the presence of the item and document
-        the imaging process in the digital media log and finding aid. See Step
-        22 for details.
+        the imaging process in the digital media log and finding aid. [See Step 22](#image-eligible-digital-media) for details.
 
     -	  Describe the resulting file(s), within originating context, in aggregate
         in the finding aid and insert the applicable Processing Information
@@ -1092,8 +1088,7 @@ files that can be appropriately preserved in specialized archival boxes.
     -	  All appropriate Top Container data should also be recorded in the
         Collection Management System (Barcode, Location, & Container Profile).
 
-    -	  Care of posters, blueprints and other flat files is addressed on Page
-        25.
+    -	  Care of posters, blueprints and other flat files is addressed [below](#at-risk-materials-which-may-require-specialized-care).
 
 D.	Still images or small items found within files of mixed materials.
 
@@ -1216,8 +1211,7 @@ Dates
 
     -	  Expression: YYYY-Month-DD (example: 1976 July 04)
 
--	  If recorded date is not a single creation date follow standard practices
-    (page 19).
+-	  If recorded date is not a single creation date follow [standard practices](#describing-dates).
 
 -	  Use “circa” or “c.” if approximating a date (example: c. 1970s)
 
@@ -1232,8 +1226,7 @@ Notes:
     -	  Access copy currently unavailable. Please contact a RAC archivist for
         further instruction.
 
-    -	  The AV collection-level note (page 15) can also be used at the series
-        level.
+    -	  [The AV collection-level-note](#general-collection-level-access-statements-approved-for-use-at-rac) can also be used at the series level.
 
 -	  **Scope and Contents** (Collaborate with AV archivist to watch/listen to the
     material AFTER a digitized access copy is created, and generate applicable
@@ -1248,7 +1241,7 @@ Notes:
     </div>
     </p>
 
-    -	  See PBCore controlled vocabulary or Audiovisual Archivist for details.
+    -	  [See PBCore controlled vocabulary](At-Risk materials which may require specialized care) or Audiovisual Archivist for details.
 
 -	  **Physical Description** (Data should always be written in the sequence below.)
 
@@ -1262,17 +1255,16 @@ Notes:
 
     <p>
     <div class="docs-example">
-    Example: Sound has heavy static throughout recording; Image goes black intermittently
-    near end of program.
+    Example: Sound has heavy static throughout recording; Image goes black intermittently near end of program.
     </div>
     </p>
 
 For further assistance with the description of audiovisual materials please
 refer to:
 
--	  The FIAF Moving Image Cataloguing Manual (2016):  http://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/20160920%20Fiaf%20Manual-WEB.pdf
+-	  The FIAF Moving Image Cataloguing Manual (2016):  <http://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/20160920%20Fiaf%20Manual-WEB.pdf>
 
--	  The Public Broadcasting Metadata Dictionary Project (PBCore) Controlled Vocabularies: http://pbcore.org/updated-pbcore-controlled-vocabularies/
+-	  The Public Broadcasting Metadata Dictionary Project (PBCore) Controlled Vocabularies: <http://pbcore.org/updated-pbcore-controlled-vocabularies/>
 
 
 C.	Materials whose composition or format places them in particular risk of
@@ -1320,7 +1312,9 @@ obsolescence or loss, such as:
 
 ### Rehouse Archival Materials
 
-#### Step 17 - Rehouse Archival Materials and/or Retain Existing Housing [(See Vitals)](planning#project-vitals-template)
+#### Step 17 - Rehouse Archival Materials and/or Retain Existing Housing
+
+[(See Vitals)](planning#project-vitals-template)
 
 -   Minimal Processing projects will most often retain existing housing
     when feasible.
@@ -1372,25 +1366,6 @@ The Collections Management team can assist with:
 -   Identifying and ordering of mylar, paper enclosures, support
     products, and other supplies which facilitate stabilization and
     long-term preservation.
-
--   Small Items
-
-    - To ensure that small items (may include business cards, postcards,
-    photographs, telegrams and greeting cards) are not misplaced or
-    lost, place the item in a Mylar sleeve during processing. This will
-    also assist users when requesting copies of small items.
-
--   Oversized Items
-
-    - Large formats such as maps, architectural drawings, bound ledgers,
-    and tabloid newspapers should be stored flat. Select a drawer or box
-    size to accommodate individual dimensions. Brittle materials may be
-    candidates for re-formatting. Please refer these items to
-    Collections Management.
-
--   Ephemera and Other Formats Ephemera should be housed separately from
-    documents to protect and distinguish the uniqueness of these items.
-    Please refer these items to Collections Management.
 
 ### Dispose of Used Boxes
 
@@ -1455,16 +1430,13 @@ The Collections Management team can assist with:
 
 ### Preservation Issues
 
-#### Step 20 - Submit Collection Concern form and discuss any Significant or Unexpected
-Preservation Issues with Collections Management.
+#### Step 20 - Submit Collection Concern form and discuss any Significant or Unexpected Preservation Issues with Collections Management.
 
-#### Step 21 - Address Collection Concerns and Preservation Issues based on the
-Recommendations of Collections Management.
+#### Step 21 - Address Collection Concerns and Preservation Issues based on the Recommendations of Collections Management.
 
 The **Collection Concern** form is currently located: **S:\Inter-Office\Archival\Forms.**
 
-Please consult with Collections Management and/or the Head of Processing
-if:
+*Please consult with Collections Management to request a stabilization consult,* or if:
 
 -   Material is damaged, torn or shedding.
 
@@ -1545,9 +1517,7 @@ B.  Consult with Collections Management if the act of unfolding or
 
 C.  In many cases, legal-size folders and/or boxes will accommodate the
     unfolded item(s). Material larger than a legal-size folder should be
-    separated from the body of the collection in accordance with all RAC
-    separation procedures. Extremely large flat item(s) may be relocated
-    to a map/flat file. (See Step 17).  
+    should be addressed in accordance with the practices for oversized material. Extremely large flat item(s) may be relocated to a map/flat file. [See Step 17](#rehouse-archival-materials).  
 
 D.  If the present form of an original oversize item(s) holds no
     intrinsic value, a reduced-size photocopy of the item(s) can be made
@@ -1583,22 +1553,20 @@ C.  Some collection agreements contain stipulations regarding permanent
 
 **D. Preservation Photocopying** [(See Step 25)](#preservation-photocopying)
 
-### Image Eligible Digital media
+### Image Eligible Digital Media
 
 #### Step 22 – Image Eligible Digital Media and document in Finding Aid/Digital Media Log
 
-Disk images are single files containing the complete content and structure representing a
-data storage medium or device. There are two primary types of images, forensic images and
-logical images. Forensic images perfectly replicate the structure and contents of a
+Disk images are single files containing the complete content and structure representing a data storage medium or device. There are two primary types of images, forensic images and logical images. Forensic images perfectly replicate the structure and contents of a
 storage device, and allow the viewing of deleted files and slackspace (i.e. the unused
 space on a disk). Logical images do not include slackspace. In general, all physical
 media is imaged forensically, and all digital materials received via electronic transfer
 are imaged logically. Variations are considered on a case-by case basis.
 
-Images for most removable media are created in-house, and the hardware used to create the
-images varies depending on the digital media type.
+Images for most removable media are created in-house, and the hardware used to create the images varies depending on the digital media type.
 
 The processing archivist will:
+
 -   Receive training to develop the necessary proficiencies for each of the common
     removable media types and sizes (floppy disks, optical discs, drives, etc.).
 
@@ -1638,8 +1606,8 @@ The processing archivist will:
             </div>
           </p>      
 
-        -	Insert the resulting formatted statement into a Processing Information Note in  
-          the finding aid.
+        -	Insert the resulting formatted statement into a Processing Information Note   
+          in the finding aid.
 
 -	  Describe the resulting file(s), within originating context, in aggregate in the   
     finding aid.
@@ -1696,7 +1664,7 @@ arise during processing, please consult with the Head of Processing._
 
 #### Step 24 - Add File-Level Conditions of Access Notes for Restricted Material
 
-(For collection-level access statements please [see Step 7](#general-collection-level-access-statements-approved-for-use-at-rac))
+(For collection-level access statements please [see Step 7 of establishing DACS-Single Level Minimum Compliance at the Collection Level](#general-collection-level-access-statements-approved-for-use-at-rac))
 
 **A.  Common Types of Restricted Materials in RAC Collections**
 
@@ -1760,7 +1728,7 @@ Common types of records that fall into this category are:
 3.  _Medical records/records that document the medical history of
     individuals_ - The Health Insurance Portability and Accountability
     Act (HIPAA) was enacted by the U.S. Congress in 1996. See
-    <http://www.hipaa.org/>. In accordance with the stipulations of
+    <https://www.hhs.gov/hipaa/>. In accordance with the stipulations of
     HIPAA and other personal privacy regulations, access to the
     following types of records are restricted: formal medical
     examination forms, patient files or doctor’s notes on the condition
@@ -1793,7 +1761,7 @@ Common types of records that fall into this category are:
     to those records by others without the permission of the student or
     parents.
 
-    The Buckley Amendment to FERPA allows directory information to be made  public without permission, including the student name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student. Please consult the Head of Processing with any questions regarding the restriction of student records.
+    The Buckley Amendment to FERPA allows directory information to be made public without permission, including the student name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student. Please consult the Head of Processing with any questions regarding the restriction of student records.
 
  - Example of standard RAC file-level access note -
 
@@ -1861,12 +1829,14 @@ collection files. The most common restrictions are:
     Rockefeller family collections.
 
 Notable exceptions include documentation of a Rockefeller family member acting in an
-official governmental capacity, and in situations in which the information in question is
-accessible through public sources such as newspapers.
+official governmental capacity, and in situations in which the information in question is accessible through public sources such as newspapers.
 
-Examples: References to Jay Rockefeller when he served in an official capacity as
-governor and then as a senator for West Virginia. References to Nelson A. Rockefeller
-when he served as governor of New York or as Vice President of the United States.
+  <p>
+    <div class="docs-example">
+    Examples: References to Jay Rockefeller when he served in an official capacity as
+    governor and then as a senator for West Virginia. References to Nelson A. Rockefeller when he served as governor of New York or as Vice President of the United States.
+    </div>
+  </p>
 
 For a list of relevant Rockefeller family names, see Head of Processing.
 
@@ -2029,7 +1999,7 @@ E.  Sometimes material in a collection has been declassified. In such
 #### Step 25 - Preservation Photocopying (Optional)
 
 Documents that are fragile, damaged, or at risk for further
-deterioration are often photocopied in order to preserve their
+deterioration may be photocopied in order to preserve their
 intellectual content and prevent potential damage to neighboring
 documents. A preservation photocopy is a facsimile of a document copied
 to acid-free, lignin-free paper. _It is neither necessary nor feasible
@@ -2043,20 +2013,18 @@ paper is distinguished from 20lb. bond paper used for routine
 photocopying by its composition and the placement of a ‘watermark’. This
 mark is visible most clearly when the paper is held up to a light
 source. _A preservation photocopy must bear a stamp applied by the
-archivist noting ‘Archival Copy’ in order to distinguish the copy as a
-facsimile_
+archivist noting ‘Archival Copy’_ in order to distinguish the copy as a
+facsimile.
 
 If the item bears no intrinsic value, the facsimile serves to replace
 the original in the collection, and the original item is
 discarded/shredded. _All materials proposed for shredding must follow
-the RAC destruction protocol, [see Step 39.](#step-37-submit-any-materials-proposed-for-shredding-to-head-of-processing)_ If the item is of value in
-its original format, consult with the Head of Processing regarding its
-retention. When an original is retained with restricted access, a
+the RAC destruction protocol, [see Step 39.](#step-39---submit-any-materials-proposed-for-shredding-to-head-of-processing)_ If the item is of value in its original format, consult with the Head of Processing regarding its retention. When an original is retained with restricted access, a
 condition of access note should be added at the appropriate level of
 description to indicate that the material is "restricted due to
 preservation concerns". _Note: A preservation photocopy is a ‘gray tone’ image;
 a color copy of a document may accurately duplicate tonal qualities however
-color is nota preservation-standard representation. It is essential to retain
+color is not a preservation-standard representation. It is essential to retain
 established order when removing documents from a collection or folder
 for photocopying. Carefully mark the item location(s), and after
 copying, replace the item(s) in the original order._
@@ -2095,8 +2063,8 @@ Processing.
     label, or in the front center of the box just above the pull tab.
     (See Collections Management for details).
 
--   If barcoding flat files or audiovisual containers, please consult
-    the Head of Processing.
+-   If barcoding flat files or temporary containers housing audiovisual containers,     
+    please consult the Head of Processing.
 
 ### Shelve Processed Records
 
@@ -2152,8 +2120,12 @@ Record the following Container Management data in the finding aid:
     Collections Management for details.)
 
 -   Eligible materials include but are not necessarily limited to:
-    o	Collections or accessions whose entire contents is published materials within the scope of the RAC Library collecting policy.
-    o	Published studies, reports and scientific or technical publications sponsored by, or otherwise produced through, direct grants or funding from RAC or a donor/depositor.
+
+    - Collections or accessions whose entire contents is published materials within the
+      scope of the RAC Library collecting policy.
+
+    -	Published studies, reports and scientific or technical publications sponsored by,
+      or otherwise produced through, direct grants or funding from RAC or a donor/depositor.
 
 -   No more than two copies of any publication will be acquired, cataloged and
     added to the Library collection. (Any additional copies should be submitted
@@ -2164,9 +2136,12 @@ Record the following Container Management data in the finding aid:
     RAC Collections Management/Library staff as applicable.
 
 -   The processing archivist should provide Collections Management/Library staff:
-    o	The Resource ID Number (FA#)
-    o	Accession/Collection Title
-    o	If no applicable Finding Aid is created, provide the accession number.
+
+    - The Resource ID Number (FA#)
+
+    -	Accession/Collection Title
+
+    -	If no applicable Finding Aid is created, provide the accession number.
 
 -   No separation number(s) is assigned, and the separation sheet is not used.
 
@@ -2195,7 +2170,7 @@ Record the following Container Management data in the finding aid:
 
       <p>
           <div class="docs-example">
-            Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <a href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</a>
+            Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <http://www.rockarch.org/research/citations.php>
           </div>
       </p>
 
