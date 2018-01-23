@@ -2019,7 +2019,7 @@ facsimile.
 If the item bears no intrinsic value, the facsimile serves to replace
 the original in the collection, and the original item is
 discarded/shredded. _All materials proposed for shredding must follow
-the RAC destruction protocol, [see Step 39.](#step-39-submit-any-materials-proposed-for-shredding-to-head-of-processing)_ If the item is of value in its original format, consult with the Head of Processing regarding its retention. When an original is retained with restricted access, a
+the RAC destruction protocol, [see Step 39.](#step-39---submit-any-materials-proposed-for-shredding-to-head-of-processing)_ If the item is of value in its original format, consult with the Head of Processing regarding its retention. When an original is retained with restricted access, a
 condition of access note should be added at the appropriate level of
 description to indicate that the material is "restricted due to
 preservation concerns". _Note: A preservation photocopy is a ‘gray tone’ image;
