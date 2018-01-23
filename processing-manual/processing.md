@@ -1728,7 +1728,7 @@ Common types of records that fall into this category are:
 3.  _Medical records/records that document the medical history of
     individuals_ - The Health Insurance Portability and Accountability
     Act (HIPAA) was enacted by the U.S. Congress in 1996. See
-    <http://www.hipaa.org/>. In accordance with the stipulations of
+    <https://www.hhs.gov/hipaa/>. In accordance with the stipulations of
     HIPAA and other personal privacy regulations, access to the
     following types of records are restricted: formal medical
     examination forms, patient files or doctor’s notes on the condition
