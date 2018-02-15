@@ -2,8 +2,8 @@
 
 This guide provides detailed documentation on the archival processing methods used at the RAC. It was written by the RAC Processing Team.
 
-## Accessing the Manual
-The `master` branch of this repository contains the full manual divided into three sections.
+## Accessing the Guide
+The `master` branch of this repository contains the full guide divided into three sections.
 
 * [About](mkdocs/docs/about.md) - the mission of the Processing Team and information about RAC processing methods.
 * [Planning](mkdocs/docs/planning.md) - instructions on how to get started on a new processing project.
