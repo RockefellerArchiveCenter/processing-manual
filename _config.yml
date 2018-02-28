@@ -1,2 +1,8 @@
 public: true
 type: docs
+tags:
+  - processing
+  - planning
+  - project vitals
+slug: processing_manual
+title: Guide to Processing Collections at the RAC
