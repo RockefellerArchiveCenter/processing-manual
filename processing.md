@@ -159,7 +159,7 @@ draft finding aids are created.
 
 #### Step 13 - Establish DACS Single-Level Minimum Compliance at the Collection Level/Highest Level of the Finding Aid
 
-1.  Title (Collection Level/Highest Level of finding aid) [**(DACS 2.3)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
+1\.  Title (Collection Level/Highest Level of finding aid) [**(DACS 2.3)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
 
 
 RAC has established a normalized descriptive Naming Convention, which
@@ -978,11 +978,17 @@ extend their lifespan, or otherwise limit the risks of loss.
 
 -	 Eligible materials include but are not necessarily limited to:
 
-    -   Collections or accessions whose entire contents is published materials within
-    the scope of the RAC Library collecting policy.
+      <p>
+      <div class="docs-example">
 
-    -   Published studies, reports and scientific or technical publications sponsored
-    by, or otherwise produced through, direct grants or funding from RAC or a donor/depositor.
+        <p>Collections or accessions whose entire contents is published materials within
+        the scope of the RAC Library collecting policy.</p>
+
+        <p>Published studies, reports and scientific or technical publications sponsored
+        by, or otherwise produced through, direct grants or funding from RAC or a donor/depositor.</p>
+
+      </div>
+      </p>
 
 -	 No more than two copies of any publication will be acquired, cataloged and
     added to the Library collection. (Any additional copies should be submitted
@@ -995,11 +1001,17 @@ extend their lifespan, or otherwise limit the risks of loss.
 -  When transferring published materials to the RAC Library, the processing archivist
     should provide Collections Management/Library staff:
 
-    -	  The Resource ID Number (FA#)
+    <p>
+    <div class="docs-example">
 
-    -	  Accession/Collection Title
+    	  <p>The Resource ID Number (FA#)</p>
 
-    -	  If no applicable Finding Aid is created, provide the accession number.
+    	  <p>Accession/Collection Title</p>
+
+    	  <p>If no applicable Finding Aid is created, provide the accession number.</p>
+
+    </div>
+    </p>
 
 -	 No separation number(s) is assigned, and the separation sheet is not used.
 
@@ -1023,38 +1035,44 @@ B.	Digital media.
 
 -	  When processing:
 
-    -	  A physical description note should be included at the file-level
+      -	  A physical description note should be included at the file-level
         indicating the existence of the digital media.
 
-    -	  When the entire contents of the file is digital media, the INSTANCE TYPE
+      -	  When the entire contents of the file is digital media, the INSTANCE TYPE
         “Digital” should be used.
 
-    -	  When the file also contains paper records or other materials, the
+      -	  When the file also contains paper records or other materials, the
         INSTANCE TYPE “Mixed Materials” should be used.
 
-    -	  Include a conditions governing access note at the file-level indicating
+      -	  Include a conditions governing access note at the file-level indicating
         either of these two options (as applicable):
 
-        - 1./	Access copy available.
+            <p>
+            <div class="docs-example">
 
-        - 2./	Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. Access copy currently unavailable. Please contact a RAC archivist for further instruction.
+            <p>1\.	Access copy available.</p>
+
+            <p>2\.	Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. Access copy currently unavailable. Please contact a RAC archivist for further instruction.</p>
+
+            </div>
+            </p>
 
 -	  The processing archivist will:
 
-    -	  Receive training to develop the necessary proficiencies for each of the
+      -	  Receive training to develop the necessary proficiencies for each of the
         common removable media types and sizes.
 
-    -	  Appraise and assess the eligibility of the item(s) for preservation in
+      -	  Appraise and assess the eligibility of the item(s) for preservation in
         the RAC digital repository.
 
-    -	  Image the removable media, note the presence of the item and document
+      -	  Image the removable media, note the presence of the item and document
         the imaging process in the digital media log and finding aid. [See Step 22](#image-eligible-digital-media) for details.
 
-    -	  Describe the resulting file(s), within originating context, in aggregate
+      -	  Describe the resulting file(s), within originating context, in aggregate
         in the finding aid and insert the applicable Processing Information
         Note.
 
-    -	  After imaging the original digital media should be submitted for
+      -	  After imaging the original digital media should be submitted for
         disposal in accordance with RAC Collections Management procedure.
 
 C.	Oversized materials (larger than legal size: such as reports, studies or
@@ -1063,32 +1081,34 @@ files that can be appropriately preserved in specialized archival boxes.
 
 -	  When processing:
 
-    -	  Collaborate with Collections Management as necessary.
+      -	  Collaborate with Collections Management as necessary.
 
-    -	  **Seek assistance from Collections Management to safely unroll or flatten
+      -	  **Seek assistance from Collections Management to safely unroll or flatten
         applicable records.**
 
-    -	  Remove the entire file from its existing housing or storage and rehouse
+      -	  Remove the entire file from its existing housing or storage and rehouse
         or relocate the file in its entirety to appropriately-sized archival
         folders and/or boxes. This rehousing may involve one file, a group of  
         files, or the contents of an entire box. It should never involve an
         individual item(s).
 
-    <p>
-      <div class="docs-example">
-      Example: rehousing material into legal-size box(es) and folder(s) that was originally folded/creased to fit in letter-size housing or vice versa.
-      </div>
-    </p>  
+            <p>
+            <div class="docs-example">
 
-    -	  No separation number(s) is assigned & the separation sheet is not used.
+              <p>Example: rehousing material into legal-size box(es) and folder(s) that was originally folded/creased to fit in letter-size housing or vice versa.</p>
 
-    -	  Finding Aid instance will designate the box and folder number(s) of the
+            </div>
+            </p>  
+
+      -	  No separation number(s) is assigned & the separation sheet is not used.
+
+      -	  Finding Aid instance will designate the box and folder number(s) of the
         new container(s).
 
-    -	  All appropriate Top Container data should also be recorded in the
+      -	  All appropriate Top Container data should also be recorded in the
         Collection Management System (Barcode, Location, & Container Profile).
 
-    -	  Care of posters, blueprints and other flat files is addressed [below](#at-risk-materials-which-may-require-specialized-care).
+      -	  Care of posters, blueprints and other flat files is addressed [below](#at-risk-materials-which-may-require-specialized-care).
 
 D.	Still images or small items found within files of mixed materials.
 
@@ -1099,16 +1119,16 @@ D.	Still images or small items found within files of mixed materials.
 
 -	  When processing:
 
-    -	  Stabilize the items in accordance with recommendations from Collections
+      -	  Stabilize the items in accordance with recommendations from Collections
         Management.
 
-    -	  A physical description note should be included at the file-level
+      -	  A physical description note should be included at the file-level
         indicating the existence of the still images.
 
-    -	  When the entire contents of the file is images, the INSTANCE TYPE “Still
+      -	  When the entire contents of the file is images, the INSTANCE TYPE “Still
         Image” should be used.
 
-    -	  When the file also contains paper records or other materials, the
+      -	  When the file also contains paper records or other materials, the
         INSTANCE TYPE “Mixed Materials” should be used.
 
 E.	Published articles, journals, magazines, papers, books, reprints, brochures, and
@@ -1205,11 +1225,11 @@ Dates
 -	  Date for audiovisual materials is most often recorded as single creation
     date.
 
-    -	  Label: Creation
+      -	  Label: Creation
 
-    -	  Type: Single
+      -	  Type: Single
 
-    -	  Expression: YYYY-Month-DD (example: 1976 July 04)
+      -	  Expression: YYYY-Month-DD (example: 1976 July 04)
 
 -	  If recorded date is not a single creation date follow [standard practices](#describing-dates).
 
@@ -1221,12 +1241,12 @@ Notes:
 
 -	  **Conditions Governing Access** (choose appropriate note at the file-level)
 
-    -	  Access copy available.
+      -	  Access copy available.
 
-    -	  Access copy currently unavailable. Please contact a RAC archivist for
+      -	  Access copy currently unavailable. Please contact a RAC archivist for
         further instruction.
 
-    -	  [The AV collection-level-note](#general-collection-level-access-statements-approved-for-use-at-rac) can also be used at the series level.
+        -	  [The AV collection-level-note](#general-collection-level-access-statements-approved-for-use-at-rac) can also be used at the series level.
 
 -	  **Scope and Contents** (Collaborate with AV archivist to watch/listen to the
     material AFTER a digitized access copy is created, and generate applicable
@@ -1235,29 +1255,33 @@ Notes:
 -	  **Materials Specific Details** (Add format or film gauge from accession
     inventory.)
 
-    <p>
-    <div class="docs-example">
-    Example: VHS, ¼ inch audio cassette, 16mm film.
-    </div>
-    </p>
+      <p>
+      <div class="docs-example">
 
-    -	  [See PBCore controlled vocabulary](At-Risk materials which may require specialized care) or Audiovisual Archivist for details.
+        <p>Example: VHS, ¼ inch audio cassette, 16mm film.</p>
+
+      </div>
+      </p>
+
+      -	  [See PBCore controlled vocabulary](At-Risk materials which may require specialized care) or Audiovisual Archivist for details.
 
 -	  **Physical Description** (Data should always be written in the sequence below.)
 
-    -	  Silent or Sound, Black and white or Color, xx minutes.
+      -	  Silent or Sound, Black and white or Color, xx minutes.
 
-    -	  Record, in Arabic numerals, the total duration/running time in minutes,
+      -	  Record, in Arabic numerals, the total duration/running time in minutes,
         normally rounded off to the nearest minute. Example: 75 minutes.
 
 -	  **Physical Characteristics and Technical Requirements Note** (Not required;
     use only if needed to inform user of important playback issues.)
 
-    <p>
-    <div class="docs-example">
-    Example: Sound has heavy static throughout recording; Image goes black intermittently near end of program.
-    </div>
-    </p>
+      <p>
+      <div class="docs-example">
+
+        <p>Example: Sound has heavy static throughout recording; Image goes black intermittently near end of program.</p>
+
+      </div>
+      </p>
 
 For further assistance with the description of audiovisual materials please
 refer to:
@@ -1578,36 +1602,38 @@ The processing archivist will:
 
 -	  Use the RAC standard workflows to virus check and image the eligible removable media.
 
-    -	  Note the presence of the item and document the imaging process in the
+      -	  Note the presence of the item and document the imaging process in the
         digital media log & finding aid.
 
-        -	In the Digital Media Log, the Processing Archivist should document:
+            -	In the Digital Media Log, the Processing Archivist should document:
 
-        <p>
-          <div class="docs-example">
-          <p>the transfer method (disk image, rip tracks, copy files)</p>
+                <p>
+                <div class="docs-example">
 
-          <p>the item's original carrier type.</p>
+                  <p>the transfer method (disk image, rip tracks, copy files)</p>
 
-          <p>the year of transfer</p>
-          </div>
-        </p>
+                  <p>the item's original carrier type.</p>
+
+                  <p>the year of transfer</p>
+
+                </div>
+                </p>
 
 
-        - Using this data, the Digital Media Log will automatically generate the    
-          following formatted statement:
+              - Using this data, the Digital Media Log will automatically generate      
+                the following formatted statement:
 
-          <p>
-            <div class="docs-example">
-            <p>“This item was **imaged** from a **CDROM** in **2017**”</p>
+                <p>
+                <div class="docs-example">
 
-            <p>The **bold text** shown in the above example is interchangeable based upon the metadata collected.</p>
+                  <p>“This item was **imaged** from a **CDROM** in **2017**”</p>
 
-            </div>
-          </p>      
+                  <p>The **bold text** shown in the above example is interchangeable based upon the metadata collected.</p>
 
-        -	Insert the resulting formatted statement into a Processing Information Note   
-          in the finding aid.
+                </div>
+                </p>      
+
+              -	Insert the resulting formatted statement into a Processing Information Note in the finding aid.
 
 -	  Describe the resulting file(s), within originating context, in aggregate in the   
     finding aid.
