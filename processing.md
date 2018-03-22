@@ -157,7 +157,7 @@ draft finding aids are created.
 
 #### Step 13 - Establish DACS Single-Level Minimum Compliance at the Collection Level/Highest Level of the Finding Aid
 
-1.  Title (Collection Level/Highest Level of finding aid) [**(DACS 2.3)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
+1\.  Title (Collection Level/Highest Level of finding aid) [**(DACS 2.3)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
 
 RAC has established a normalized descriptive Naming Convention, which
 augments DACS guidelines, pertinent only to the top level of a finding
