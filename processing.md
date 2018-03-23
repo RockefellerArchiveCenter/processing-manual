@@ -801,6 +801,46 @@ B. Audiovisual materials
 
 - AV Archivist will assign permanent unique identifiers (AV Numbers), adjust the finding aid accordingly, and perform preservation tasks in accordance with the _Guide to Processing Collections at RAC_ and the Collections Management Manual.
 
+- To facilitate long term storage the AV Archivist will make the following modifications to audiovisual top container:
+
+    - **For Film Material:** All film is stored individually on a shelf and therefore is its own Top Container.
+
+      Instance Type: Moving images
+
+      Top Container:
+
+        - Container Profile: choose correct film container
+
+        - Container Type: Reel
+
+        - Indicator: Unique AV Number (AV 100)
+
+        - Barcode: Add barcode to film container
+
+        - Add permanent location
+
+    - **For Audio or Video Material**: Individual video and audio items are stored in a box. The box is the Top Container.
+
+      Instance Type: Audio (for all audio) or Moving Images (for all video)  
+
+      Top Container:
+
+        - Container Profile: choose correct box
+
+        - Indicator: Enter box number
+
+        - Barcode: Add barcode to box
+
+        - Container Type: Box
+
+        - Add permanent location
+
+      Child Type:
+
+        - Choose Reel (for open reel formats) or Tape (for cassette formats)
+
+      Child Indicator: Unique AV number (AV 100)
+
 - Large volumes of audiovisual materials may necessitate the creation of an Audiovisual Series or Component.
 
 - Following digitization, the Processing Archivist may be consulted for creation of further metadata (Scope and Content note, etc.) or viewing/listening to the item(s) as applicable.
