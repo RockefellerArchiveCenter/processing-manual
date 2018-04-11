@@ -512,8 +512,6 @@ C. Abbreviations are strongly discouraged.
 
 When recording the name of an individual, family, or a corporate body, use the full name rather than an abbreviation. For example, Detlev W. Bronk should be used rather than DWB or DB. Use of abbreviations, instead of the full names, for a limited number of the most commonly found names in the RAC collections is acceptable (such as the abbreviation JDR Jr. for John D. Rockefeller Jr.). Use of abbreviations is also approved when an abbreviation is commonly known and used by the general public.
 
-- Example:
-
 <div class="docs-example">
   <h6>Examples</h6>
   <p>NATO can be used rather than North Atlantic Treaty Organization</p>
@@ -535,17 +533,16 @@ E. Titles recording multiple names should be written as follows:
 - If more than three persons are responsible for the creation of the materials, record the name of the individual who predominates. [(**DACS 2.3.8**)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title) Optionally, include all the names of the persons who are credited with or predominantly responsible for the creation of the materials. [(**DACS 2.3.9**)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
 
 <div class="docs-example">
-  <h6>Example</h6>
+  <h6>Examples</h6>
   <p>John Smith and Al Jones</p>
   <p>John Smith, Al Jones, and Paul Adams</p>
+  <p>If 6 people are responsible for creating the materials and John Smith predominates, record John Smith as the title (or the names of all 6 people)</p>
 </div>
-
-If 6 people are responsible for creating the materials and John Smith predominates, record John Smith as the title (or the names of all 6 people)
 
 F. If multiple files contain the same basic title, with varying added components, the components should be subdivided with a hyphen or colon to signify subordination.
 
 <div class="docs-example">
-  <h6>Example</h6>
+  <h6>Examples</h6>
   <p>Job Jackets - Maps for Trustees</p>
   <p>Job Jackets - Open House</p>
 </div>
@@ -566,7 +563,7 @@ all stated rules and guidelines.
 
 <div class="docs-example">
   <h6>Example</h6>
-  <p>For example: 1982 April 5.</p>
+  <p>1982 April 5.</p>
 </div>
 
 - When describing consecutive spans of years, record the full years:
@@ -583,7 +580,12 @@ all stated rules and guidelines.
   <p>1941, 1953, 1962.</p>
 </div>
 
-- Date ranges that encompass a combination of consecutive and non-consecutive date spans should be recorded as: 1941-1944, 1953.
+- Date ranges that encompass a combination of consecutive and non-consecutive date spans should be recorded as:
+
+<div class="docs-example">
+  <h6>Example</h6>
+  <p>1941-1944, 1953.</p>
+</div>
 
 - If the material in the file is not dated, record it as “undated”.
 
@@ -890,7 +892,7 @@ Notes:
     <p>VHS, ¼ inch audio cassette, 16mm film.</p>
   </div>
 
-  [See PBCore controlled vocabulary](At-Risk materials which may require specialized care) or Audiovisual Archivist for details.
+  [See PBCore controlled vocabulary](http://pbcore.org/updated-pbcore-controlled-vocabularies/) or Audiovisual Archivist for details.
 
 - **Physical Description** (Data should always be written in the sequence below.)
 
@@ -914,13 +916,12 @@ refer to:
 
 C. Materials whose composition or format places them in particular risk of obsolescence or loss, such as:
 
-- Flat files that will benefit from long-term flat or oversized storage (drawers, cabinets, rolled canisters) such as architectural drawings, blueprints, maps, plans, and posters.
-
-- Ephemera, memorabilia, realia, and three dimensional objects.
-
-- Photographic albums or large volumes of still images, and/or scrapbooks.
-
-- Microforms (microfilm, microfiche, microform cards, or associated cartridges)  
+<div class="docs-example">
+  <p>Flat files that will benefit from long-term flat or oversized storage (drawers, cabinets, rolled canisters) such as architectural drawings, blueprints, maps, plans, and posters.</p>
+  <p>Ephemera, memorabilia, realia, and three dimensional objects.</p>
+  <p>Photographic albums or large volumes of still images, and/or scrapbooks.</p>
+  <p>Microforms (microfilm, microfiche, microform cards, or associated cartridges)</p>
+</div>   
 
 - Seek assistance from, and work collaboratively with, Collections Management including formulating case by case recommendations in Project Vitals when feasible.
 
@@ -965,7 +966,7 @@ Coordinate with Collections Management whenever the project necessitates the use
 
 The Collections Management team can assist with:
 
-- Ordering, or confirmation of on-site availability, RAC-preferred containers.
+- Ordering, or confirmation of on-site availability, of RAC-preferred containers.
 
 - Identifying box-types that may already be assigned container profiles in the RAC collections management system.
 
@@ -1207,8 +1208,7 @@ Common types of records that fall into this category are:
     <p>Restricted - confidential material.</p>
   </div>
 
-5. _Peer Review_ – Privacy and confidentiality of individuals involved in a peer review process may necessitate a restriction on access to records. Often found in faculty papers, peer review is a common practice for grant applications and scholarly publications to evaluate the worthiness of grant recipients and submissions to academic journals. These reviews are often submitted with an expectation of confidentiality. Peer reviews are usually submitted on forms provided by the academic journal/grant-giving institution, or submitted on regular letterhead. (Depending on the collection, this may be stated as a donor-imposed access restriction, or access may be granted with a restriction placed on the use of the records.) Please consult the Head of Processing with
-any questions pertaining to peer review records.
+5. _Peer Review_ – Privacy and confidentiality of individuals involved in a peer review process may necessitate a restriction on access to records. Often found in faculty papers, peer review is a common practice for grant applications and scholarly publications to evaluate the worthiness of grant recipients and submissions to academic journals. These reviews are often submitted with an expectation of confidentiality. Peer reviews are usually submitted on forms provided by the academic journal/grant-giving institution, or submitted on regular letterhead. (Depending on the collection, this may be stated as a donor-imposed access restriction, or access may be granted with a restriction placed on the use of the records.) Please consult the Head of Processing with any questions pertaining to peer review records.
 
   - Example of standard RAC file-level access note -
 
@@ -1246,7 +1246,7 @@ Notable exceptions include documentation of a Rockefeller family member acting i
 
 For a list of relevant Rockefeller family names, see Head of Processing.
 
-- Example of standard RAC file-level access note -
+- Examples of standard RAC file-level access note -
 
   <div class="docs-example">
     <p>Material in the Rockefeller family collections which provides the names, correspondence, or activities of living members of the Rockefeller family, and/or documents the net worth of any Rockefeller family members, is restricted.</p>
