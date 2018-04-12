@@ -512,8 +512,6 @@ C. Abbreviations are strongly discouraged.
 
 When recording the name of an individual, family, or a corporate body, use the full name rather than an abbreviation. For example, Detlev W. Bronk should be used rather than DWB or DB. Use of abbreviations, instead of the full names, for a limited number of the most commonly found names in the RAC collections is acceptable (such as the abbreviation JDR Jr. for John D. Rockefeller Jr.). Use of abbreviations is also approved when an abbreviation is commonly known and used by the general public.
 
-- Example:
-
 <div class="docs-example">
   <h6>Examples</h6>
   <p>NATO can be used rather than North Atlantic Treaty Organization</p>
@@ -535,17 +533,16 @@ E. Titles recording multiple names should be written as follows:
 - If more than three persons are responsible for the creation of the materials, record the name of the individual who predominates. [(**DACS 2.3.8**)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title) Optionally, include all the names of the persons who are credited with or predominantly responsible for the creation of the materials. [(**DACS 2.3.9**)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
 
 <div class="docs-example">
-  <h6>Example</h6>
+  <h6>Examples</h6>
   <p>John Smith and Al Jones</p>
   <p>John Smith, Al Jones, and Paul Adams</p>
+  <p>If 6 people are responsible for creating the materials and John Smith predominates, record John Smith as the title (or the names of all 6 people)</p>
 </div>
-
-If 6 people are responsible for creating the materials and John Smith predominates, record John Smith as the title (or the names of all 6 people)
 
 F. If multiple files contain the same basic title, with varying added components, the components should be subdivided with a hyphen or colon to signify subordination.
 
 <div class="docs-example">
-  <h6>Example</h6>
+  <h6>Examples</h6>
   <p>Job Jackets - Maps for Trustees</p>
   <p>Job Jackets - Open House</p>
 </div>
@@ -566,7 +563,7 @@ all stated rules and guidelines.
 
 <div class="docs-example">
   <h6>Example</h6>
-  <p>For example: 1982 April 5.</p>
+  <p>1982 April 5.</p>
 </div>
 
 - When describing consecutive spans of years, record the full years:
@@ -583,7 +580,12 @@ all stated rules and guidelines.
   <p>1941, 1953, 1962.</p>
 </div>
 
-- Date ranges that encompass a combination of consecutive and non-consecutive date spans should be recorded as: 1941-1944, 1953.
+- Date ranges that encompass a combination of consecutive and non-consecutive date spans should be recorded as:
+
+<div class="docs-example">
+  <h6>Example</h6>
+  <p>1941-1944, 1953.</p>
+</div>
 
 - If the material in the file is not dated, record it as “undated”.
 
@@ -890,7 +892,7 @@ Notes:
     <p>VHS, ¼ inch audio cassette, 16mm film.</p>
   </div>
 
-  [See PBCore controlled vocabulary](At-Risk materials which may require specialized care) or Audiovisual Archivist for details.
+  [See PBCore controlled vocabulary](http://pbcore.org/updated-pbcore-controlled-vocabularies/) or Audiovisual Archivist for details.
 
 - **Physical Description** (Data should always be written in the sequence below.)
 
@@ -914,13 +916,12 @@ refer to:
 
 C. Materials whose composition or format places them in particular risk of obsolescence or loss, such as:
 
-- Flat files that will benefit from long-term flat or oversized storage (drawers, cabinets, rolled canisters) such as architectural drawings, blueprints, maps, plans, and posters.
-
-- Ephemera, memorabilia, realia, and three dimensional objects.
-
-- Photographic albums or large volumes of still images, and/or scrapbooks.
-
-- Microforms (microfilm, microfiche, microform cards, or associated cartridges)  
+<div class="docs-example">
+  <p>Flat files that will benefit from long-term flat or oversized storage (drawers, cabinets, rolled canisters) such as architectural drawings, blueprints, maps, plans, and posters.</p>
+  <p>Ephemera, memorabilia, realia, and three dimensional objects.</p>
+  <p>Photographic albums or large volumes of still images, and/or scrapbooks.</p>
+  <p>Microforms (microfilm, microfiche, microform cards, or associated cartridges)</p>
+</div>   
 
 - Seek assistance from, and work collaboratively with, Collections Management including formulating case by case recommendations in Project Vitals when feasible.
 
@@ -965,7 +966,7 @@ Coordinate with Collections Management whenever the project necessitates the use
 
 The Collections Management team can assist with:
 
-- Ordering, or confirmation of on-site availability, RAC-preferred containers.
+- Ordering, or confirmation of on-site availability, of RAC-preferred containers.
 
 - Identifying box-types that may already be assigned container profiles in the RAC collections management system.
 
@@ -1173,47 +1174,46 @@ requirements.
 
 Common types of records that fall into this category are:
 
-1.  _Personnel files (and/or personnel-like records)_ are restricted to ensure personal privacy and restrict access to materials generally considered confidential between an individual and his or her employer. Personnel records include: employment applications, resumes/CVs, letters of appointment, personal references, salary or withholding statements, performance evaluations, and other correspondence discussing general or particular circumstances of an individual’s employment or job performance. Personnel records also often include personal injury and/or workers compensation insurance records or claims and pension documents. Records gathered in the course of conducting an executive search, or in filling a professional position, may also be restricted. Please consult the Head of Processing with any questions regarding the restriction of personnel materials.
+1\.  _Personnel files (and/or personnel-like records)_ are restricted to ensure personal privacy and restrict access to materials generally considered confidential between an individual and his or her employer. Personnel records include: employment applications, resumes/CVs, letters of appointment, personal references, salary or withholding statements, performance evaluations, and other correspondence discussing general or particular circumstances of an individual’s employment or job performance. Personnel records also often include personal injury and/or workers compensation insurance records or claims and pension documents. Records gathered in the course of conducting an executive search, or in filling a professional position, may also be restricted. Please consult the Head of Processing with any questions regarding the restriction of personnel materials.
 
-    - Example of standard RAC file-level access note -
+  - Example of standard RAC file-level access note -
 
-    <div class="docs-example">
-      <p>Restricted - personnel material.</p>
-    </div>
+  <div class="docs-example">
+    <p>Restricted - personnel material.</p>
+  </div>
 
-2.  _Financial records_ – Access to a variety of financial records is restricted in order to protect personal privacy and insure RAC compliance with all applicable laws and regulations. Commonly restricted financial materials include, but are not limited to: state/federal income tax, property tax, payroll records, bank and brokerage statements, and account information, etc. Access is granted to some financial records, particularly those that are in the public domain such as copies of IRS Form 990 titled "Return of Organization Exempt From Income Tax." This form provides the public with financial information about a given non-profit organization and is often the only public source of such information. Some collection agreements also contain specific restriction stipulations regarding financial materials. Please consult the Head of Processing with any questions regarding the restriction of financial materials.
+2\.  _Financial records_ – Access to a variety of financial records is restricted in order to protect personal privacy and insure RAC compliance with all applicable laws and regulations. Commonly restricted financial materials include, but are not limited to: state/federal income tax, property tax, payroll records, bank and brokerage statements, and account information, etc. Access is granted to some financial records, particularly those that are in the public domain such as copies of IRS Form 990 titled "Return of Organization Exempt From Income Tax." This form provides the public with financial information about a given non-profit organization and is often the only public source of such information. Some collection agreements also contain specific restriction stipulations regarding financial materials. Please consult the Head of Processing with any questions regarding the restriction of financial materials.
 
-    - Example of standard RAC file-level access note -
+  - Example of standard RAC file-level access note -
 
-    <div class="docs-example">
-      <p>Restricted - financial material.</p>
-    </div>
+  <div class="docs-example">
+    <p>Restricted - financial material.</p>
+  </div>
 
-3. _Medical records/records that document the medical history of individuals_ - The [Health Insurance Portability and Accountability Act (HIPAA)](https://www.hhs.gov/hipaa/) was enacted by the U.S. Congress in 1996. In accordance with the stipulations of HIPAA and other personal privacy regulations, access to the following types of records are restricted: formal medical examination forms, patient files or doctor’s notes on the condition of a patient and/or his/her treatment, autopsy records, medical histories, and correspondence regarding a specific individual’s medical state. Additional restricted materials include but are not limited to: medical insurance records or claims, personal injury, workers compensation records or claims, any documentation from an individual describing a medical situation (physical or mental illness, surgery), or similar information about others (spouse’s or child’s illnesses or sensitive circumstances surrounding their death). The HIPAA regulations are broad and far reaching. When processing or handling medical records please consult the Head of Processing and act cautiously to restrict sensitive materials.
+3\. _Medical records/records that document the medical history of individuals_ - The [Health Insurance Portability and Accountability Act (HIPAA)](https://www.hhs.gov/hipaa/) was enacted by the U.S. Congress in 1996. In accordance with the stipulations of HIPAA and other personal privacy regulations, access to the following types of records are restricted: formal medical examination forms, patient files or doctor’s notes on the condition of a patient and/or his/her treatment, autopsy records, medical histories, and correspondence regarding a specific individual’s medical state. Additional restricted materials include but are not limited to: medical insurance records or claims, personal injury, workers compensation records or claims, any documentation from an individual describing a medical situation (physical or mental illness, surgery), or similar information about others (spouse’s or child’s illnesses or sensitive circumstances surrounding their death). The HIPAA regulations are broad and far reaching. When processing or handling medical records please consult the Head of Processing and act cautiously to restrict sensitive materials.
 
-    - Example of standard RAC file-level access note -
-
-    <div class="docs-example">
-      <p>Restricted - confidential material.</p>
-    </div>
-
-4. _Student records_ - [FERPA (the Family Education Right and Privacy Act)](http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html) restricts access to student records (e.g., health, grades, disciplinary action, etc.) for the lifetime of the student. FERPA protects student and parent rights to access their own student records, stored and maintained by the school, and restricts access to those records by others without the permission of the student or parents.
-
-  The Buckley Amendment to FERPA allows directory information to be made public without permission, including the student name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student. Please consult the Head of Processing with any questions regarding the restriction of student records.
-
- - Example of standard RAC file-level access note -
+  - Example of standard RAC file-level access note -
 
   <div class="docs-example">
     <p>Restricted - confidential material.</p>
   </div>
 
-5. _Peer Review_ – Privacy and confidentiality of individuals involved in a peer review process may necessitate a restriction on access to records. Often found in faculty papers, peer review is a common practice for grant applications and scholarly publications to evaluate the worthiness of grant recipients and submissions to academic journals. These reviews are often submitted with an expectation of confidentiality. Peer reviews are usually submitted on forms provided by the academic journal/grant-giving institution, or submitted on regular letterhead. (Depending on the collection, this may be stated as a donor-imposed access restriction, or access may be granted with a restriction placed on the use of the records.) Please consult the Head of Processing with
-any questions pertaining to peer review records.
+4\. _Student records_ - [FERPA (the Family Education Right and Privacy Act)](http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html) restricts access to student records (e.g., health, grades, disciplinary action, etc.) for the lifetime of the student. FERPA protects student and parent rights to access their own student records, stored and maintained by the school, and restricts access to those records by others without the permission of the student or parents.
+
+The Buckley Amendment to FERPA allows directory information to be made public without permission, including the student name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student. Please consult the Head of Processing with any questions regarding the restriction of student records.
 
   - Example of standard RAC file-level access note -
 
   <div class="docs-example">
-    Restricted - confidential material.
+    <p>Restricted - confidential material.</p>
+  </div>
+
+5\. _Peer Review_ – Privacy and confidentiality of individuals involved in a peer review process may necessitate a restriction on access to records. Often found in faculty papers, peer review is a common practice for grant applications and scholarly publications to evaluate the worthiness of grant recipients and submissions to academic journals. These reviews are often submitted with an expectation of confidentiality. Peer reviews are usually submitted on forms provided by the academic journal/grant-giving institution, or submitted on regular letterhead. (Depending on the collection, this may be stated as a donor-imposed access restriction, or access may be granted with a restriction placed on the use of the records.) Please consult the Head of Processing with any questions pertaining to peer review records.
+
+  - Example of standard RAC file-level access note -
+
+  <div class="docs-example">
+    <p>Restricted - confidential material.</p>
   </div>
 
 B. _Classified materials_ – Sensitive materials that are restricted due to content pertaining to national security. (Further details are provided later in this section regarding the identification and handling protocol for classified materials.)
@@ -1223,7 +1223,7 @@ C. _Donation/Deposit Agreement-based access restrictions_ (terms of the collecti
 Each individual collection may have its own stipulations, so it is
 essential to become familiar with all the terms of the agreement for the specific collection pertinent to a given processing project. Consult with the Head of Processing for copies of appropriate documents from the collection files. The most common restrictions are:
 
- 1\. Date-based access – materials within a collection are often
+1\. Date-based access – materials within a collection are often
     accessible to research following an agreed-upon embargo period (10 years; 20 years). _**An entire file is restricted until the most recent date within that file has reached the end of the embargo.**_
 
   - With a 10-year embargo, a file dated 1992-2007 would be open in 2018.
@@ -1241,7 +1241,7 @@ essential to become familiar with all the terms of the agreement for the specifi
 Notable exceptions include documentation of a Rockefeller family member acting in an official governmental capacity, and in situations in which the information in question is accessible through public sources such as newspapers.
 
 <div class="docs-example">
-  <p>References to Jay Rockefeller when he served in an official capacity as governor and then as a senator for West Virginia. References to Nelson A. Rockefeller when he served as governor of New York or as Vice President of the United States.</p>
+  <p>Example: References to Jay Rockefeller when he served in an official capacity as governor and then as a senator for West Virginia. References to Nelson A. Rockefeller when he served as governor of New York or as Vice President of the United States.</p>
 </div>
 
 For a list of relevant Rockefeller family names, see Head of Processing.
@@ -1276,22 +1276,24 @@ D.  _Condition/Security-based access restrictions_ [**(DACS 4.2)**](https://www2
 
 E. _Technical access restrictions_ [**(DACS 4.3)**](https://www2.archivists.org/standards/DACS/part_I/chapter_4/3_technical_access)  – Some archival material is restricted due to its format or other special needs.
 
-1.  Format – Access to certain formats may be completely or partially restricted. Examples:
+1\.  Format – Access to certain formats may be completely or partially restricted. Examples:
 
   <div class="docs-example">
     <p>Access to photographic negatives is restricted unless special permission is granted by RAC.</p>
     <p>Access to Paul Ehrlich copy books is restricted, and researchers are directed to typescript copies.</p>
   </div>
 
-2.  Re-formatted collections – Access to original archival materials is restricted after a collection has been reformatted (microfilm, microfiche, digital files). Researchers are only provided access to the user copies of the reformatted media or digital files. (Example: JDR Sr.’s Letterbooks, RF Officer’s Diaries).
+2\.  Re-formatted collections – Access to original archival materials is restricted after a collection has been reformatted (microfilm, microfiche, digital files). Researchers are only provided access to the user copies of the reformatted media or digital files. Example:
 
-3.  Special technical access issues may also necessitate restrictions on access.
+  <div class="docs-example">
+    <p>JDR Sr.’s Letterbooks, RF Officer’s Diaries</p>
+  </div>
 
-    - Example of standard access note for technical access restrictions:
+3\.  Special technical access issues may also necessitate restrictions on access. Example of standard access note for technical access restrictions:
 
-    <div class="docs-example">
-      <p>Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-    </div>
+  <div class="docs-example">
+    <p>Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
+  </div>
 
 **2. Use Restrictions**
 

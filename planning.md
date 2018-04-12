@@ -4,7 +4,7 @@ title:  "Processing Manual - Planning"
 ---
 ## Phase I: Planning
 
-All processing activities at RAC must be approved by the Head of Processing.
+**_All processing activities at RAC must be approved by the Head of Processing._**
 
 ### Project Kickoff
 #### Step 1 - Project Kickoff
@@ -130,4 +130,4 @@ This Project Vitals template is also available in the Processing folder on the s
 
 - Processing archivist should contact Collections Management to be assigned a location for all flat files.
 
-**_When the planning steps are completed, it’s time to begin processing the records._**
+_When the planning steps are completed, it’s time to begin processing the records._

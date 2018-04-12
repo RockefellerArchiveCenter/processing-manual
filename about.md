@@ -54,9 +54,9 @@ Level 1: Basic/Preliminary Processing – establishes initial intellectual
  Level 3: Standard Processing – focuses on rehousing and file-level
   description.
 
-  *** Note: All incoming archival materials must complete the accessioning
+  _**Note: All incoming archival materials must complete the accessioning
   process and receive Level 1 and Level 2 Processing in order to be OPEN
-  for research. ***  
+  for research.**_  
 
 ### Level 1: Basic/Preliminary Processing
 
