@@ -3,10 +3,8 @@ layout: docs-content
 title:  "Processing Manual - Processing"
 ---
 
-## Phase II: Processing
-
 The processing phase of each assignment begins with establishing the
- current arrangement of the material, evaluating the arrangement needs,
+current arrangement of the material, evaluating the arrangement needs,
 and crafting an arrangement proposal for the project. The proposed
 arrangement should then be approved by the Head of Processing and stated
 in the Project Vitals.
@@ -51,12 +49,12 @@ arrangement. Items that are described together may be stored separately
 because of their differing size, shape, condition, access or use
 conditions, physical composition, format or other factors.
 
-### Arrangement
+## Arrangement
 
 
-#### Step 9 - Follow Arrangement Recommendations in Project Vitals
+### Step 9 - Follow Arrangement Recommendations in Project Vitals
 
-#### Step 10 - Standard Arrangement
+### Step 10 - Standard Arrangement
 
 The most common and often the most appropriate arrangement action is to
 leave things as they are. In such cases, the processing archivist
@@ -96,7 +94,7 @@ project which necessitates considering arrangement options, **consult
 the Head of Processing and receive his/her approval before proceeding to
 alter the existing arrangement.**_
 
-#### _Description_
+### _Description_
 
 Once an arrangement plan is chosen, archival description begins, and
 this work continues through all phases of the project until completion.
@@ -128,7 +126,7 @@ level, some parts may be described at greater or varying levels of
 detail, with the resulting finding aid intentionally flexible in order
 to produce a variety of descriptive outputs.
 
-### Building the Finding Aid
+## Building the Finding Aid
 
 At RAC all archival description is recorded in our collections
 management system (ArchivesSpace), and all completed processing projects
@@ -139,7 +137,7 @@ compliance. To ensure that the quality and completeness of our guides is
 maintained, we take steps to comply with DACS as soon as the initial
 draft finding aids are created.
 
-#### Step 11 - Receive a Resource ID from the Head of Processing [(DACS 2.1.3)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/1_reference_code)
+### Step 11 - Receive a Resource ID from the Head of Processing [(DACS 2.1.3)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/1_reference_code)
 
 - Each resource record/finding aid at RAC is assigned a unique ID.
 
@@ -151,11 +149,11 @@ draft finding aids are created.
 
 - The Resource ID (FA\#) may be included in the Project Vitals or may be assigned at a later date (as needed).
 
-#### Step 12 - Create (or receive from the Head of Processing) a Shell Resource Record in ArchivesSpace for the Finding Aid
+### Step 12 - Create (or receive from the Head of Processing) a Shell Resource Record in ArchivesSpace for the Finding Aid
 
 - For assistance or instruction with creating the shell, please see the Head of Processing.
 
-#### Step 13 - Establish DACS Single-Level Minimum Compliance at the Collection Level/Highest Level of the Finding Aid
+### Step 13 - Establish DACS Single-Level Minimum Compliance at the Collection Level/Highest Level of the Finding Aid
 
 1\.  Title (Collection Level/Highest Level of finding aid) [**(DACS 2.3)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
 
@@ -220,7 +218,7 @@ highest level of a finding aid, the title consists of:
 Consult the Head of Processing for more information regarding the RAC
 Naming Convention.
 
-#### Additional Required Collection Level Elements
+### Additional Required Collection Level Elements
 
 2\. Extent [**(DACS 2.5)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/5_extent) (in cubic feet and/or born-digital in estimated number of files and MB/GB or appropriate measure)  
 
@@ -283,7 +281,7 @@ The processing archivist should document the nature of the materials and activit
 
 7\. Conditions Governing Access [**(DACS 4.1)**](https://www2.archivists.org/standards/DACS/part_I/chapter_4/1_conditions_governing_access)
 
-#### General Collection-Level Access Statements Approved for Use at RAC
+### General Collection-Level Access Statements Approved for Use at RAC
 
 The following four approved collection-level standard access statements cover the large majority of RAC collections. Select the access statement that fits the collection. If the project entails processing a collection with unique conditions, contact the Head of Processing.
 
@@ -353,7 +351,7 @@ The access statement used should only refer to the terms of access for specific 
   <p>All inquiries to view memorabilia require advanced notice of at least 2 business days, and may necessitate notice of up to one week. Items are available at the discretion of RAC.</p>
 </div>
 
-#### Step 14 - Add Additional Required Elements to the Shell Record
+### Step 14 - Add Additional Required Elements to the Shell Record
 
 In addition to single level compliance – RAC required data elements for
 the shell include:
@@ -399,9 +397,9 @@ the shell include:
 
     - PDF versions of the EAD file can also be exported.
 
-### Create Inventory
+## Create Inventory
 
-#### Step 15 - Create Inventory, or Build Upon/Revise/Confirm Existing Inventory
+### Step 15 - Create Inventory, or Build Upon/Revise/Confirm Existing Inventory
 
 - At Processing Level 1, particularly during initial ingest and
     accessioning, the minimum requirement is single-level general
@@ -454,7 +452,7 @@ Remember FILE LEVEL description does NOT equate to FOLDER LEVEL description.
 
 In multi-level description, always remember to focus on the level being described (Collection, Record Group, Subgroup, Series, Subseries, File) with the description reflecting the arrangement and the inherent relationship among and between the records of each level.
 
-#### Describing Titles
+### Describing Titles
 
 See [**section 2.3**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title) of _DACS_ for a complete description of the guidelines for the title element. Guidelines for establishing name authorities and forms of names including those of persons, families, geographic names and corporate bodies are available [_in DACS -Part II_](https://www2.archivists.org/standards/DACS/part_II)
 and [_Chapter 10_.](https://www2.archivists.org/standards/DACS/part_II/chapter_10)
@@ -488,7 +486,7 @@ E. All RAC finding aids should be written predominantly using the English langua
   <p>Language of materials note: In Russian</p>
 </div>
 
-#### Recording Names in the Title Element
+### Recording Names in the Title Element
 
 _It is important to note that this section addresses NAMES USED IN THE TITLE ELEMENT ONLY. If a name has been chosen for recording in the name of creator element, an authority record, or as an access point, the form of that name is established by approved sources and national standards, such as the Library of Congress Authorities and the Library of Congress Subject Headings._
 
@@ -512,8 +510,6 @@ C. Abbreviations are strongly discouraged.
 
 When recording the name of an individual, family, or a corporate body, use the full name rather than an abbreviation. For example, Detlev W. Bronk should be used rather than DWB or DB. Use of abbreviations, instead of the full names, for a limited number of the most commonly found names in the RAC collections is acceptable (such as the abbreviation JDR Jr. for John D. Rockefeller Jr.). Use of abbreviations is also approved when an abbreviation is commonly known and used by the general public.
 
-- Example:
-
 <div class="docs-example">
   <h6>Examples</h6>
   <p>NATO can be used rather than North Atlantic Treaty Organization</p>
@@ -535,17 +531,16 @@ E. Titles recording multiple names should be written as follows:
 - If more than three persons are responsible for the creation of the materials, record the name of the individual who predominates. [(**DACS 2.3.8**)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title) Optionally, include all the names of the persons who are credited with or predominantly responsible for the creation of the materials. [(**DACS 2.3.9**)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
 
 <div class="docs-example">
-  <h6>Example</h6>
+  <h6>Examples</h6>
   <p>John Smith and Al Jones</p>
   <p>John Smith, Al Jones, and Paul Adams</p>
+  <p>If 6 people are responsible for creating the materials and John Smith predominates, record John Smith as the title (or the names of all 6 people)</p>
 </div>
-
-If 6 people are responsible for creating the materials and John Smith predominates, record John Smith as the title (or the names of all 6 people)
 
 F. If multiple files contain the same basic title, with varying added components, the components should be subdivided with a hyphen or colon to signify subordination.
 
 <div class="docs-example">
-  <h6>Example</h6>
+  <h6>Examples</h6>
   <p>Job Jackets - Maps for Trustees</p>
   <p>Job Jackets - Open House</p>
 </div>
@@ -554,7 +549,7 @@ G. Titles physically written or recorded on folders may be abbreviated
 or truncated. Corresponding finding aid description should follow
 all stated rules and guidelines.
 
-#### Describing Dates
+### Describing Dates
 
 - Answers the question – When is the content of this file created?  
 
@@ -566,7 +561,7 @@ all stated rules and guidelines.
 
 <div class="docs-example">
   <h6>Example</h6>
-  <p>For example: 1982 April 5.</p>
+  <p>1982 April 5.</p>
 </div>
 
 - When describing consecutive spans of years, record the full years:
@@ -583,7 +578,12 @@ all stated rules and guidelines.
   <p>1941, 1953, 1962.</p>
 </div>
 
-- Date ranges that encompass a combination of consecutive and non-consecutive date spans should be recorded as: 1941-1944, 1953.
+- Date ranges that encompass a combination of consecutive and non-consecutive date spans should be recorded as:
+
+<div class="docs-example">
+  <h6>Example</h6>
+  <p>1941-1944, 1953.</p>
+</div>
 
 - If the material in the file is not dated, record it as “undated”.
 
@@ -604,7 +604,7 @@ all stated rules and guidelines.
 
 - If the dates of the material are unknown, leave the field blank.
 
-#### Instance Information
+### Instance Information
 
 - Instance information should answer the question – Where is the file?
 
@@ -618,7 +618,7 @@ all stated rules and guidelines.
 
 - It also records the instance type – most often “Mixed Materials”. “Microform”, “Moving Image”, “Still Image” are also common types used.
 
-#### Associated Notes
+### Associated Notes
 
 - Notes most often used at the FILE Level are the Conditions of Access note, and the Physical Description note (which is used to answer the question – What is this physically?).
 
@@ -649,15 +649,15 @@ all stated rules and guidelines.
 
 When the instances span multiple boxes, assigning each box to a separate instance allows each box to be designated as a Top Container and each barcode to be individually documented.
 
-### Stabilize and Describe At-Risk materials
+## Stabilize and Describe At-Risk materials
 
-#### Step 16 – Stabilize and Describe At-Risk Materials
+### Step 16 – Stabilize and Describe At-Risk Materials
 
 Identify and provide care for those materials, regardless of format, that are at greatest risk for obsolescence or data loss to facilitate their stabilization, preservation, further processing, and researcher access.   
 
 Most at-risk materials should be retained within the originating collection. Some commonly found at-risk materials should be transferred to the Library collection, while others require specialized care to enable their preservation, facilitate migration, extend their lifespan, or otherwise limit the risks of loss.  
 
-#### Materials to be transferred to the Library collection
+### Materials to be transferred to the Library collection
 
 -  *An item belongs to either the RAC Archive or the RAC Library collection, not both.*
 
@@ -690,7 +690,7 @@ Most at-risk materials should be retained within the originating collection. Som
 
 _*All processed at-risk materials should be arranged in accordance with the Project Vitals, approved by the Head of Processing, and described in the finding aid at applicable levels within the originating context. Materials arranged and described together may be physically stored separately. The associated description should also detail any applicable conditions/restrictions of access and use as well as any significant stabilization or preservation issues*_
 
-#### Archival Materials to be retained within paper-based collections
+### Archival Materials to be retained within paper-based collections
 
 A. All materials that are an integral part of the originating accession/collection should be retained, including those for which provenance and the contextual relationship among and between associated records is essential.
 
@@ -767,7 +767,7 @@ E. Published articles, journals, magazines, papers, books, reprints, brochures, 
 
 - Process and describe the materials in accordance with all RAC standard practices and procedures.
 
-#### At-Risk materials which may require specialized care
+### At-Risk materials which may require specialized care
 
 A. Brittle or damaged items or materials with significant/immediate preservation concerns.
 
@@ -890,7 +890,7 @@ Notes:
     <p>VHS, ¼ inch audio cassette, 16mm film.</p>
   </div>
 
-  [See PBCore controlled vocabulary](At-Risk materials which may require specialized care) or Audiovisual Archivist for details.
+  [See PBCore controlled vocabulary](http://pbcore.org/updated-pbcore-controlled-vocabularies/) or Audiovisual Archivist for details.
 
 - **Physical Description** (Data should always be written in the sequence below.)
 
@@ -914,13 +914,12 @@ refer to:
 
 C. Materials whose composition or format places them in particular risk of obsolescence or loss, such as:
 
-- Flat files that will benefit from long-term flat or oversized storage (drawers, cabinets, rolled canisters) such as architectural drawings, blueprints, maps, plans, and posters.
-
-- Ephemera, memorabilia, realia, and three dimensional objects.
-
-- Photographic albums or large volumes of still images, and/or scrapbooks.
-
-- Microforms (microfilm, microfiche, microform cards, or associated cartridges)  
+<div class="docs-example">
+  <p>Flat files that will benefit from long-term flat or oversized storage (drawers, cabinets, rolled canisters) such as architectural drawings, blueprints, maps, plans, and posters.</p>
+  <p>Ephemera, memorabilia, realia, and three dimensional objects.</p>
+  <p>Photographic albums or large volumes of still images, and/or scrapbooks.</p>
+  <p>Microforms (microfilm, microfiche, microform cards, or associated cartridges)</p>
+</div>   
 
 - Seek assistance from, and work collaboratively with, Collections Management including formulating case by case recommendations in Project Vitals when feasible.
 
@@ -938,9 +937,9 @@ C. Materials whose composition or format places them in particular risk of obsol
 
 - All appropriate Top Container data should also be recorded in the Collection Management System (Barcode, Location, and Container Profile).
 
-### Rehouse Archival Materials
+## Rehouse Archival Materials
 
-#### Step 17 - Rehouse Archival Materials and/or Retain Existing Housing
+### Step 17 - Rehouse Archival Materials and/or Retain Existing Housing
 
 [(See Vitals)](planning#project-vitals-template)
 
@@ -965,7 +964,7 @@ Coordinate with Collections Management whenever the project necessitates the use
 
 The Collections Management team can assist with:
 
-- Ordering, or confirmation of on-site availability, RAC-preferred containers.
+- Ordering, or confirmation of on-site availability, of RAC-preferred containers.
 
 - Identifying box-types that may already be assigned container profiles in the RAC collections management system.
 
@@ -973,15 +972,15 @@ The Collections Management team can assist with:
 
 - Identifying and ordering of mylar, paper enclosures, support products, and other supplies which facilitate stabilization and long-term preservation.
 
-### Dispose of Used Boxes
+## Dispose of Used Boxes
 
-#### Step 18 - Dispose of Used Boxes (Place in Operations Assistant office on Basement Level)
+### Step 18 - Dispose of Used Boxes (Place in Operations Assistant office on Basement Level)
 
 - Disposing of used or damaged containers in an efficient and timely manner assists RAC with the institutional objectives of providing safe, secure, and clean spaces throughout all public and staff spaces including processing space, office space, hallways, staging areas, and vault spaces.
 
-### Label and Assign Instances
+## Label and Assign Instances
 
-#### Step 19 – Label and Assign Instances (on Physical Files and in the Finding Aid, including Top Container/Container Profile)
+### Step 19 – Label and Assign Instances (on Physical Files and in the Finding Aid, including Top Container/Container Profile)
 
 - For assistance with Top Container creation see Head of Processing.
 
@@ -1023,11 +1022,11 @@ The Collections Management team can assist with:
 
 ![folder description](img/Folder_label.png)
 
-### Preservation Issues
+## Preservation Issues
 
-#### Step 20 - Submit Collection Concern form and discuss any Significant or Unexpected Preservation Issues with Collections Management.
+### Step 20 - Submit Collection Concern form and discuss any Significant or Unexpected Preservation Issues with Collections Management.
 
-#### Step 21 - Address Collection Concerns and Preservation Issues based on the Recommendations of Collections Management.
+### Step 21 - Address Collection Concerns and Preservation Issues based on the Recommendations of Collections Management.
 
 The **Collection Concern** form is currently located: **S:\Inter-Office\Archival\Forms.**
 
@@ -1051,7 +1050,7 @@ Mold spores can easily spread. Do not attempt to remove mold with cloth. Althoug
 
 Conservation treatment of items often requires invasive procedures to restore damaged and brittle paper including de-acidification, fumigation, solvent treatments, polyester film encapsulation, and paper strengthening. Such procedures require the expertise of an approved conservator or an off-site conservation technician. If materials are discovered that may benefit from or require conservation treatment, please consult Collections Management.
 
-##### Preservation During Processing
+#### Preservation During Processing
 
 **A. Metal Fasteners, Paperclips, and More**
 
@@ -1091,9 +1090,9 @@ C.  Some collection agreements contain stipulations regarding permanent removal,
 
 **D. Preservation Photocopying** [(See Step 25)](#preservation-photocopying)
 
-### Image Eligible Digital Media
+## Image Eligible Digital Media
 
-#### Step 22 – Image Eligible Digital Media and document in Finding Aid/Digital Media Log
+### Step 22 – Image Eligible Digital Media and document in Finding Aid/Digital Media Log
 
 Disk images are single files containing the complete content and structure representing a data storage medium or device. There are two primary types of images, forensic images and logical images. Forensic images perfectly replicate the structure and contents of a storage device, and allow the viewing of deleted files and slackspace (i.e. the unused space on a disk). Logical images do not include slackspace. In general, all physical media is imaged forensically, and all digital materials received via electronic transfer are imaged logically. Variations are considered on a case-by case basis.
 
@@ -1135,7 +1134,7 @@ The processing archivist will:
 
 - After imaging, submit the original digital media for disposal in accordance with RAC Collections Management procedure.
 
-### Rights and Restrictions
+## Rights and Restrictions
 
 Transparency in the dissemination of information is a critical element of the archival profession. For RAC Processing, the creation of this guide serves to document our policies, practices, and procedures. In the eyes of our users, transparency of the archival collections most often manifests itself through our Access and Use policies and the professional manner in which we systematically carry out our practices. RAC strives to inform users of all access and use conditions pertinent to our collections; identify and describe all restricted materials; and inform all users of what they can see and use, what they can't see and use, and why. Entire archival collections or components of collections (record group, subgroup, series, subseries, box, folder, and item) may be restricted from public access or use.
 
@@ -1143,7 +1142,7 @@ _During RACcess registration, all users agree to the terms of access/use of all 
 
 _If questions regarding restricted or potentially restricted materials arise during processing, please consult with the Head of Processing._
 
-#### Step 23 - Label Physical Folders Containing Restricted Material in Accordance with RAC Guidelines
+### Step 23 - Label Physical Folders Containing Restricted Material in Accordance with RAC Guidelines
 
 - If all items in a folder are restricted, the folder is labeled "Closed” or “Restricted”.
 
@@ -1157,7 +1156,7 @@ _If questions regarding restricted or potentially restricted materials arise dur
 
 - Physically relocating restricted material to the end of a collection or series/component is preferable (when viable), rather than having restricted and open materials stored in the same box. This provides RAC the opportunity to store the restricted material at an RAC facility other than Hillcrest. Regardless of physical location, the restricted material should always be described intellectually in the appropriate place within the finding aid.
 
-#### Step 24 - Add File-Level Conditions of Access Notes for Restricted Material
+### Step 24 - Add File-Level Conditions of Access Notes for Restricted Material
 
 (For collection-level access statements please [see Step 7 of establishing DACS-Single Level Minimum Compliance at the Collection Level](#general-collection-level-access-statements-approved-for-use-at-rac))
 
@@ -1173,47 +1172,46 @@ requirements.
 
 Common types of records that fall into this category are:
 
-1.  _Personnel files (and/or personnel-like records)_ are restricted to ensure personal privacy and restrict access to materials generally considered confidential between an individual and his or her employer. Personnel records include: employment applications, resumes/CVs, letters of appointment, personal references, salary or withholding statements, performance evaluations, and other correspondence discussing general or particular circumstances of an individual’s employment or job performance. Personnel records also often include personal injury and/or workers compensation insurance records or claims and pension documents. Records gathered in the course of conducting an executive search, or in filling a professional position, may also be restricted. Please consult the Head of Processing with any questions regarding the restriction of personnel materials.
+1\.  _Personnel files (and/or personnel-like records)_ are restricted to ensure personal privacy and restrict access to materials generally considered confidential between an individual and his or her employer. Personnel records include: employment applications, resumes/CVs, letters of appointment, personal references, salary or withholding statements, performance evaluations, and other correspondence discussing general or particular circumstances of an individual’s employment or job performance. Personnel records also often include personal injury and/or workers compensation insurance records or claims and pension documents. Records gathered in the course of conducting an executive search, or in filling a professional position, may also be restricted. Please consult the Head of Processing with any questions regarding the restriction of personnel materials.
 
-    - Example of standard RAC file-level access note -
+  - Example of standard RAC file-level access note -
 
-    <div class="docs-example">
-      <p>Restricted - personnel material.</p>
-    </div>
+  <div class="docs-example">
+    <p>Restricted - personnel material.</p>
+  </div>
 
-2.  _Financial records_ – Access to a variety of financial records is restricted in order to protect personal privacy and insure RAC compliance with all applicable laws and regulations. Commonly restricted financial materials include, but are not limited to: state/federal income tax, property tax, payroll records, bank and brokerage statements, and account information, etc. Access is granted to some financial records, particularly those that are in the public domain such as copies of IRS Form 990 titled "Return of Organization Exempt From Income Tax." This form provides the public with financial information about a given non-profit organization and is often the only public source of such information. Some collection agreements also contain specific restriction stipulations regarding financial materials. Please consult the Head of Processing with any questions regarding the restriction of financial materials.
+2\.  _Financial records_ – Access to a variety of financial records is restricted in order to protect personal privacy and insure RAC compliance with all applicable laws and regulations. Commonly restricted financial materials include, but are not limited to: state/federal income tax, property tax, payroll records, bank and brokerage statements, and account information, etc. Access is granted to some financial records, particularly those that are in the public domain such as copies of IRS Form 990 titled "Return of Organization Exempt From Income Tax." This form provides the public with financial information about a given non-profit organization and is often the only public source of such information. Some collection agreements also contain specific restriction stipulations regarding financial materials. Please consult the Head of Processing with any questions regarding the restriction of financial materials.
 
-    - Example of standard RAC file-level access note -
+  - Example of standard RAC file-level access note -
 
-    <div class="docs-example">
-      <p>Restricted - financial material.</p>
-    </div>
+  <div class="docs-example">
+    <p>Restricted - financial material.</p>
+  </div>
 
-3. _Medical records/records that document the medical history of individuals_ - The [Health Insurance Portability and Accountability Act (HIPAA)](https://www.hhs.gov/hipaa/) was enacted by the U.S. Congress in 1996. In accordance with the stipulations of HIPAA and other personal privacy regulations, access to the following types of records are restricted: formal medical examination forms, patient files or doctor’s notes on the condition of a patient and/or his/her treatment, autopsy records, medical histories, and correspondence regarding a specific individual’s medical state. Additional restricted materials include but are not limited to: medical insurance records or claims, personal injury, workers compensation records or claims, any documentation from an individual describing a medical situation (physical or mental illness, surgery), or similar information about others (spouse’s or child’s illnesses or sensitive circumstances surrounding their death). The HIPAA regulations are broad and far reaching. When processing or handling medical records please consult the Head of Processing and act cautiously to restrict sensitive materials.
+3\. _Medical records/records that document the medical history of individuals_ - The [Health Insurance Portability and Accountability Act (HIPAA)](https://www.hhs.gov/hipaa/) was enacted by the U.S. Congress in 1996. In accordance with the stipulations of HIPAA and other personal privacy regulations, access to the following types of records are restricted: formal medical examination forms, patient files or doctor’s notes on the condition of a patient and/or his/her treatment, autopsy records, medical histories, and correspondence regarding a specific individual’s medical state. Additional restricted materials include but are not limited to: medical insurance records or claims, personal injury, workers compensation records or claims, any documentation from an individual describing a medical situation (physical or mental illness, surgery), or similar information about others (spouse’s or child’s illnesses or sensitive circumstances surrounding their death). The HIPAA regulations are broad and far reaching. When processing or handling medical records please consult the Head of Processing and act cautiously to restrict sensitive materials.
 
-    - Example of standard RAC file-level access note -
-
-    <div class="docs-example">
-      <p>Restricted - confidential material.</p>
-    </div>
-
-4. _Student records_ - [FERPA (the Family Education Right and Privacy Act)](http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html) restricts access to student records (e.g., health, grades, disciplinary action, etc.) for the lifetime of the student. FERPA protects student and parent rights to access their own student records, stored and maintained by the school, and restricts access to those records by others without the permission of the student or parents.
-
-  The Buckley Amendment to FERPA allows directory information to be made public without permission, including the student name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student. Please consult the Head of Processing with any questions regarding the restriction of student records.
-
- - Example of standard RAC file-level access note -
+  - Example of standard RAC file-level access note -
 
   <div class="docs-example">
     <p>Restricted - confidential material.</p>
   </div>
 
-5. _Peer Review_ – Privacy and confidentiality of individuals involved in a peer review process may necessitate a restriction on access to records. Often found in faculty papers, peer review is a common practice for grant applications and scholarly publications to evaluate the worthiness of grant recipients and submissions to academic journals. These reviews are often submitted with an expectation of confidentiality. Peer reviews are usually submitted on forms provided by the academic journal/grant-giving institution, or submitted on regular letterhead. (Depending on the collection, this may be stated as a donor-imposed access restriction, or access may be granted with a restriction placed on the use of the records.) Please consult the Head of Processing with
-any questions pertaining to peer review records.
+4\. _Student records_ - [FERPA (the Family Education Right and Privacy Act)](http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html) restricts access to student records (e.g., health, grades, disciplinary action, etc.) for the lifetime of the student. FERPA protects student and parent rights to access their own student records, stored and maintained by the school, and restricts access to those records by others without the permission of the student or parents.
+
+The Buckley Amendment to FERPA allows directory information to be made public without permission, including the student name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student. Please consult the Head of Processing with any questions regarding the restriction of student records.
 
   - Example of standard RAC file-level access note -
 
   <div class="docs-example">
-    Restricted - confidential material.
+    <p>Restricted - confidential material.</p>
+  </div>
+
+5\. _Peer Review_ – Privacy and confidentiality of individuals involved in a peer review process may necessitate a restriction on access to records. Often found in faculty papers, peer review is a common practice for grant applications and scholarly publications to evaluate the worthiness of grant recipients and submissions to academic journals. These reviews are often submitted with an expectation of confidentiality. Peer reviews are usually submitted on forms provided by the academic journal/grant-giving institution, or submitted on regular letterhead. (Depending on the collection, this may be stated as a donor-imposed access restriction, or access may be granted with a restriction placed on the use of the records.) Please consult the Head of Processing with any questions pertaining to peer review records.
+
+  - Example of standard RAC file-level access note -
+
+  <div class="docs-example">
+    <p>Restricted - confidential material.</p>
   </div>
 
 B. _Classified materials_ – Sensitive materials that are restricted due to content pertaining to national security. (Further details are provided later in this section regarding the identification and handling protocol for classified materials.)
@@ -1223,7 +1221,7 @@ C. _Donation/Deposit Agreement-based access restrictions_ (terms of the collecti
 Each individual collection may have its own stipulations, so it is
 essential to become familiar with all the terms of the agreement for the specific collection pertinent to a given processing project. Consult with the Head of Processing for copies of appropriate documents from the collection files. The most common restrictions are:
 
- 1\. Date-based access – materials within a collection are often
+1\. Date-based access – materials within a collection are often
     accessible to research following an agreed-upon embargo period (10 years; 20 years). _**An entire file is restricted until the most recent date within that file has reached the end of the embargo.**_
 
   - With a 10-year embargo, a file dated 1992-2007 would be open in 2018.
@@ -1241,7 +1239,7 @@ essential to become familiar with all the terms of the agreement for the specifi
 Notable exceptions include documentation of a Rockefeller family member acting in an official governmental capacity, and in situations in which the information in question is accessible through public sources such as newspapers.
 
 <div class="docs-example">
-  <p>References to Jay Rockefeller when he served in an official capacity as governor and then as a senator for West Virginia. References to Nelson A. Rockefeller when he served as governor of New York or as Vice President of the United States.</p>
+  <p>Example: References to Jay Rockefeller when he served in an official capacity as governor and then as a senator for West Virginia. References to Nelson A. Rockefeller when he served as governor of New York or as Vice President of the United States.</p>
 </div>
 
 For a list of relevant Rockefeller family names, see Head of Processing.
@@ -1276,22 +1274,24 @@ D.  _Condition/Security-based access restrictions_ [**(DACS 4.2)**](https://www2
 
 E. _Technical access restrictions_ [**(DACS 4.3)**](https://www2.archivists.org/standards/DACS/part_I/chapter_4/3_technical_access)  – Some archival material is restricted due to its format or other special needs.
 
-1.  Format – Access to certain formats may be completely or partially restricted. Examples:
+1\.  Format – Access to certain formats may be completely or partially restricted. Examples:
 
   <div class="docs-example">
     <p>Access to photographic negatives is restricted unless special permission is granted by RAC.</p>
     <p>Access to Paul Ehrlich copy books is restricted, and researchers are directed to typescript copies.</p>
   </div>
 
-2.  Re-formatted collections – Access to original archival materials is restricted after a collection has been reformatted (microfilm, microfiche, digital files). Researchers are only provided access to the user copies of the reformatted media or digital files. (Example: JDR Sr.’s Letterbooks, RF Officer’s Diaries).
+2\.  Re-formatted collections – Access to original archival materials is restricted after a collection has been reformatted (microfilm, microfiche, digital files). Researchers are only provided access to the user copies of the reformatted media or digital files. Example:
 
-3.  Special technical access issues may also necessitate restrictions on access.
+  <div class="docs-example">
+    <p>JDR Sr.’s Letterbooks, RF Officer’s Diaries</p>
+  </div>
 
-    - Example of standard access note for technical access restrictions:
+3\.  Special technical access issues may also necessitate restrictions on access. Example of standard access note for technical access restrictions:
 
-    <div class="docs-example">
-      <p>Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-    </div>
+  <div class="docs-example">
+    <p>Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
+  </div>
 
 **2. Use Restrictions**
 
@@ -1299,7 +1299,7 @@ This note documents those materials whose use is completely restricted, or limit
 
 If the material being processed has use restrictions or stipulations, such conditions will be identified, and a course of action will be established through discussions with the Head of Processing during the planning phase of the project.
 
-##### Classified Material
+#### Classified Material
 
 The RAC maintains U.S. government classified material that originated from a number of its collections, including the Nelson A. Rockefeller papers, the Rockefeller University archives, and the Warren Weaver papers. The RAC does not currently maintain any classified digital or born-digital records.
 
@@ -1324,9 +1324,9 @@ D.  No RAC staff members are authorized to handle material designated as TOP SEC
 
 E.  Sometimes material in a collection has been declassified. In such instances, please be aware that even if all of the documents in a given section have been declassified, every individual page may not have been specifically marked as such. Depending on the situation, the declassified material can either be integrated back into the main body of the collection, or it may be placed as a separate group of files at or near the end of a collection.
 
-### Preservation Photocopying
+## Preservation Photocopying
 
-#### Step 25 - Preservation Photocopying (Optional)
+### Step 25 - Preservation Photocopying (Optional)
 
 Documents that are fragile, damaged, or at risk for further deterioration may be photocopied in order to preserve their intellectual content and prevent potential damage to neighboring documents. A preservation photocopy is a facsimile of a document copied to acid-free, lignin-free paper. _It is neither necessary nor feasible to photocopy all fragile or potentially at risk materials during processing and preservation photocopying is an optional task. Utilize processing time effectively in accordance with assigned priorities and project deadlines._
 
@@ -1343,15 +1343,15 @@ photocopy machines. It is important to generate as accurate a facsimile as possi
 Additional examples of materials that are routinely replaced by
 preservation photocopies include: deteriorated newspaper clippings, thermo fax and other glossy copy paper, telegrams, and items that are glued or otherwise damaged by adhesives. For recommendations on how best to photocopy non-standard or damaged materials, see the Head of Processing.
 
-### Box Labeling and Barcoding
+## Box Labeling and Barcoding
 
-#### Step 26 – Box Labeling
+### Step 26 – Box Labeling
 
 - Box labels for all processed archival holdings can be generated by a labeling template which works in tandem with ArchivesSpace to automatically generate box labels based on the finding aid description.
 
 - Following completion and approval of finding aid description, generate labels for all applicable containers.
 
-#### Step 27 – Barcoding
+### Step 27 – Barcoding
 
 - All containers are barcoded at the box-level.
 
@@ -1359,17 +1359,17 @@ preservation photocopies include: deteriorated newspaper clippings, thermo fax a
 
 - If barcoding flat files or temporary containers housing audiovisual containers, please consult the Head of Processing.
 
-### Shelve Processed Records
+## Shelve Processed Records
 
-#### Step 28 - Shelve Processed Records in Assigned Vault/Unit/Shelf Location
+### Step 28 - Shelve Processed Records in Assigned Vault/Unit/Shelf Location
 
 - All materials stored in RAC’s archival vaults are officially assigned locations by the Collections Management team.
 
 - Material should _NOT_ be shelved until authorization is received from Collections Management.
 
-### Container Management
+## Container Management
 
-#### Step 29 – Container Management
+### Step 29 – Container Management
 
 Record the following Container Management data in the finding aid:
 
@@ -1381,15 +1381,15 @@ Record the following Container Management data in the finding aid:
 
 - For further assistance, see the Head of Processing.
 
-### Finishing the Project
+## Finishing the Project
 
-#### Step 30 - Submit Audiovisual Materials to Assigned Location
+### Step 30 - Submit Audiovisual Materials to Assigned Location
 
 - Place any containers exclusively housing audiovisual material (“T” boxes), on the assigned audiovisual shelves
 
 - Notify the Audiovisual Archivist via Project Management (Asana) task completion.
 
-#### Step 31 - Audiovisual Archivist Begins Preservation/Digitization Procedures
+### Step 31 - Audiovisual Archivist Begins Preservation/Digitization Procedures
 
 - The Audiovisual Archivist will assess the condition of the material, record a variety of preservation and technical metadata, and enhance description (as feasible).
 
@@ -1397,7 +1397,7 @@ Record the following Container Management data in the finding aid:
 
 - Once an access copy has been created, the Processing Archivist will be contacted to potentially view/listen to the material and further enhance the available description.
 
-#### Step 32 – Transfer eligible Published Materials to the RAC Library
+### Step 32 – Transfer eligible Published Materials to the RAC Library
 
 - Drop off eligible published materials in the designated location. (See Collections Management for details.)
 
@@ -1424,13 +1424,13 @@ Record the following Container Management data in the finding aid:
 
 - No archival description should be added to the finding aid.
 
-#### Step 33 – Inform Collections Management of the Original Boxes/Box Numbers That Have Been Eliminated During Processing
+### Step 33 – Inform Collections Management of the Original Boxes/Box Numbers That Have Been Eliminated During Processing
 
 - As collections/accessions are processed and documented in the collections management system, the Collections Management team removes the corresponding notations from the RAC Master Shelf List.
 
 - Ultimately, all archival materials will be documented in the RAC collections management system, and the Master Shelf List will be phased out.
 
-#### Step 34 – Add Local RAC-Required Single-Level Notes
+### Step 34 – Add Local RAC-Required Single-Level Notes
 
 - Arrangement [**(DACS 3.2)**](https://www2.archivists.org/standards/DACS/part_I/chapter_3/2_system_of_arrangement)
 
@@ -1446,7 +1446,7 @@ Record the following Container Management data in the finding aid:
   </div>
 
 
-#### Step 35 – Add Single-Level/Multi-Level Notes to Finding Aid in Accordance with Assigned Processing Level
+### Step 35 – Add Single-Level/Multi-Level Notes to Finding Aid in Accordance with Assigned Processing Level
 
 Commonly used notes may include:
 
@@ -1486,7 +1486,7 @@ Commonly used notes may include:
 
 - Other notes as recommended in Project Vitals.
 
-#### Step 36 – Revise Accession Record(s)
+### Step 36 – Revise Accession Record(s)
 
 - Link Related Accession record(s) to Resource.
 
@@ -1494,7 +1494,7 @@ Commonly used notes may include:
 
 - See Head of Processing for assistance.
 
-#### Step 37 - Finalize Front Matter Notes
+### Step 37 - Finalize Front Matter Notes
 
 - Update or confirm final calculations for the Date and Extent elements, and compose final Scope and Content note. [(See Additional Required Collection Level Elements)](#additional-required-collection-level-elements).
 
@@ -1504,7 +1504,7 @@ Commonly used notes may include:
     <p>24 document boxes.</p>
   </div>
 
-#### Step 38 - Publish Finding Aid
+### Step 38 - Publish Finding Aid
 
 - Submit the draft finding aid to the Head of Processing for final review.
 
@@ -1514,8 +1514,8 @@ Commonly used notes may include:
 
 - RAC DIMES automatically updates once a day. Newly published guide(s) will be available in DIMES the following day.
 
-#### Step 39 - Submit Any Materials Proposed for Shredding to Head of Processing
+### Step 39 - Submit Any Materials Proposed for Shredding to Head of Processing
 
-#### Step 40 - DONE!!!
+### Step 40 - DONE!!!
 
 Rejoice
