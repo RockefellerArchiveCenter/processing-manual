@@ -1,5 +1,5 @@
 ---
-layout: docs-home
+layout: docs-content
 title:  "Guide to Processing Collections at the RAC"
 ---
 Welcome to the *Guide to Processing Collections at the Rockefeller Archive Center*, created by the RAC Processing Team. The Manual is divided into three sections:
