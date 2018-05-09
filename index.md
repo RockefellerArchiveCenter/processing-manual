@@ -1,5 +1,5 @@
 ---
-layout: docs-content
+layout: docs
 title:  "Guide to Processing Collections at the RAC"
 ---
 The *Guide to Processing Collections at the Rockefeller Archive Center* provides detailed documentation on the archival processing methods used at the RAC. It was written by the RAC Processing Team, and within the institution, it is commonly referred to as the processing manual.
