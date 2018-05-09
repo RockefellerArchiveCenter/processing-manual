@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Processing Manual - About"
+title:  "Rockefeller Archive Center Guide to Processing Collections - About"
 ---
 
 ## Mission
