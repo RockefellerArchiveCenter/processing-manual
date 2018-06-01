@@ -130,3 +130,5 @@ This Project Vitals template is also available in the Processing folder on the s
 - Processing archivist should contact Collections Management to be assigned a location for all flat files.
 
 _When the planning steps are completed, it’s time to begin processing the records._
+
+[Processing](processing) >>
