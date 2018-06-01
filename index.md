@@ -117,8 +117,7 @@ Level 1 actions include, but are not necessarily limited to:
           archival storage.
 
       - Additional preservation or stabilization steps may be taken for
-          materials with special handling requirements such as oversized,   
-          brittle or damaged items.
+          materials with special handling requirements such as oversized, brittle or damaged items.
 
 ### Level 2: Minimal Processing
   *Level 1* processing, plus the following additions:
