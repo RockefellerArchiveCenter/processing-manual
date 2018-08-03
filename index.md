@@ -89,9 +89,7 @@ Level 1 actions include, but are not necessarily limited to:
           whole such as:
           - Accession contains grant files, Board of Directors files,
               and subject files.
-
   - Preservation
-
       - A preservation assessment is conducted to identify any immediate
           preservation concerns (e.g. mold, water damage, pests,
           decomposing items).
