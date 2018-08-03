@@ -299,7 +299,6 @@ Basic Access Statement I is appropriate if/when the collection/finding aid conta
 _Notes on the four general collection-level access statements_
 
 - The term “with select materials restricted as noted” should be added or removed depending on if the contents of the entire guide are open.
-
 - The portion of the statement pertaining to digital and/or audiovisual materials (see below) should ONLY be included if the collection/finding aid actually contains those materials.
 
 **_Format-Based Collection Level Access Statements Approved for Use at RAC_**
@@ -332,12 +331,9 @@ In addition to single level compliance – RAC required data elements for
 the shell include:
 
 1.  Finding Aid Title
-
     - The bibliographic title of the finding aid itself.
     - The standard term “A Guide to the...” Is used to differentiate the finding aid title, for example: “A Guide to the Warren Weaver papers”
-
 2.  Finding Aid Filing Title
-
     - An edited version of the Formal Title intended to facilitate searching, sorting and browsing of finding aids.
     - In most cases, the Finding Aid Filing Title is the same as the Formal Title. For example:
 
@@ -367,7 +363,6 @@ the shell include:
 3.  EAD-ID (FA\#.xml)
 
     - This is the unique identifier for the EAD file which is exported out of the collections management system for online display in DIMES.
-
     - PDF versions of the EAD file can also be exported.
 
 ## Create Inventory
@@ -494,7 +489,6 @@ D. Acronyms should be spelled out, with the full name followed by the acronym pr
 E. Titles recording multiple names should be written as follows:
 
 - If three or fewer persons are credited with, or predominantly responsible for, the creation of the materials as a whole, record their names in direct order. [(**DACS 2.3.7**)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
-
 - If more than three persons are responsible for the creation of the materials, record the name of the individual who predominates. [(**DACS 2.3.8**)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title) Optionally, include all the names of the persons who are credited with or predominantly responsible for the creation of the materials. [(**DACS 2.3.9**)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
 
 <div class="docs-example">
@@ -519,11 +513,8 @@ all stated rules and guidelines.
 ### Describing Dates
 
 - Answers the question – When is the content of this file created?
-
 - It can be a single date (like the date of a meeting), or a range of inclusive dates.
-
 - At RAC the date assigned is most often an inclusive date.
-
 - Date should be expressed as year month day.
 
 <div class="docs-example">
@@ -553,7 +544,6 @@ all stated rules and guidelines.
 </div>
 
 - If the material in the file is not dated, record it as “undated”.
-
 - If file contents are differentiated by months rather than years, record the dates as:
 
 <div class="docs-example">
@@ -627,7 +617,6 @@ Most at-risk materials should be retained within the originating collection. Som
 - Library holdings are described bibliographically.
 - Eligible materials include but are not necessarily limited to:
     - Collections or accessions whose entire contents is published materials within the scope of the RAC Library collecting policy.
-
     - Published studies, reports and scientific or technical publications sponsored by, or otherwise produced through, direct grants or funding from RAC or a donor/depositor.
 - No more than two copies of any publication will be acquired, cataloged and added to the Library collection. (Any additional copies should be submitted for disposal or return to the donor/depositor in accordance with RAC Collections Management procedure.)
 - Bibliographic records will be created in the Collection Management system by RAC Collections Management/Library staff as applicable.
@@ -743,7 +732,6 @@ B. Audiovisual materials
       Child Indicator: Unique AV number (AV 100)
 
 - Large volumes of audiovisual materials may necessitate the creation of an Audiovisual Series or Component.
-
 - Following digitization, the Processing Archivist may be consulted for creation of further metadata (Scope and Content note, etc.) or viewing/listening to the item(s) as applicable.
 
 Describe audiovisual item(s) within originating context, using the following basic information:
@@ -762,7 +750,6 @@ Dates
     - Label: Creation
     - Type: Single
     - Expression: YYYY-Month-DD (example: 1976 July 04)
-
 - If recorded date is not a single creation date follow [standard practices](#describing-dates).
 - Use “circa” or “c.” if approximating a date (example: c. 1970s)
 
@@ -786,7 +773,6 @@ Notes:
 - **Physical Description** (Data should always be written in the sequence below.)
     - Silent or Sound, Black and white or Color, xx minutes.
     - Record, in Arabic numerals, the total duration/running time in minutes, normally rounded off to the nearest minute. Example: 75 minutes.
-
 - **Physical Characteristics and Technical Requirements Note** (Not required; use only if needed to inform user of important playback issues.)
 
   <div class="docs-example">
@@ -797,7 +783,6 @@ For further assistance with the description of audiovisual materials please
 refer to:
 
 - [The FIAF Moving Image Cataloguing Manual (2016)](http://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/20160920%20Fiaf%20Manual-WEB.pdf)
-
 - [The Public Broadcasting Metadata Dictionary Project (PBCore) Controlled Vocabularies](http://pbcore.org/updated-pbcore-controlled-vocabularies/)
 
 
@@ -831,7 +816,6 @@ C. Materials whose composition or format places them in particular risk of obsol
 _**Selecting Storage Containers and Enclosures**_
 
 - Select a box and folder size for documents based upon the dimensions of the majority of those to be contained within an enclosure. Most documents are up to 8 ½” in width and 11” in length, require a letter-size folder and box; papers larger than this size and up to 8 ½” in width and 14” in length, require a legal-size folder and box. Box sizes may vary within a collection.
-
 - Do not combine ‘unlike’ items in the same box.
 
 <div class="docs-example">
