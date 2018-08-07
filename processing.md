@@ -726,7 +726,6 @@ B. Audiovisual materials
         - Add permanent location
 
       Child Type:
-
         - Choose Reel (for open reel formats) or Tape (for cassette formats)
 
       Child Indicator: Unique AV number (AV 100)
@@ -737,14 +736,12 @@ B. Audiovisual materials
 Describe audiovisual item(s) within originating context, using the following basic information:
 
 Title
-
 - Description in the title element should be based on container and/or item annotations, usually on accessioning inventory spreadsheet.
 - Title may be revised after the material in question has been digitized and played if content and/or title differs from original container/item annotations.
 
 Level of Description: File
 
 Dates
-
 - Date for audiovisual materials is most often recorded as single creation
     date.
     - Label: Creation
@@ -756,7 +753,6 @@ Dates
 Extent: TBD
 
 Notes:
-
 - **Conditions Governing Access** (choose appropriate note at the file-level)
     - Access copy available.
     - Access copy currently unavailable. Please contact a RAC archivist for further instruction.
@@ -1194,7 +1190,6 @@ preservation photocopies include: deteriorated newspaper clippings, thermo fax a
 ### Step 29 – Container Management
 
 Record the following Container Management data in the finding aid:
-
 - Locations
 - Barcodes
 - Container profiles
