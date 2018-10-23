@@ -1,5 +1,6 @@
 public: true
 type: "docs"
+category: "arrangement and description"
 tags:
   - "processing"
   - "planning"
