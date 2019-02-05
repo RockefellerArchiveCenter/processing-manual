@@ -2,9 +2,7 @@ public: true
 type: "docs"
 category: "arrangement and description"
 tags:
-  - "processing"
-  - "planning"
-  - "project vitals"
+  - "workflow"
 title: "Guide to Processing Collections"
 description: "A manual for arranging and describing archival collections."
 pages:
