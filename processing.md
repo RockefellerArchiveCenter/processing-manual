@@ -51,7 +51,6 @@ conditions, physical composition, format or other factors.
 
 ## Arrangement
 
-
 ### Step 9 - Follow Arrangement Recommendations in Project Vitals
 
 ### Step 10 - Standard Arrangement
@@ -61,9 +60,7 @@ leave things as they are. In such cases, the processing archivist
 should:
 
 - Maintain original order/as received
-
 - Conduct minimal physical arrangement
-
 - Not undertake rearrangement of material within folders
 
 **Whenever it exists, original order should be maintained.** Original
@@ -140,13 +137,9 @@ draft finding aids are created.
 ### Step 11 - Receive a Resource ID from the Head of Processing [(DACS 2.1.3)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/1_reference_code)
 
 - Each resource record/finding aid at RAC is assigned a unique ID.
-
 - Resources created during Processing are assigned a FA\#.
-
 - Resources created during Accessioning are assigned an AC\#.
-
 - AC\# records may be converted to FA\# during processing.
-
 - The Resource ID (FA\#) may be included in the Project Vitals or may be assigned at a later date (as needed).
 
 ### Step 12 - Create (or receive from the Head of Processing) a Shell Resource Record in ArchivesSpace for the Finding Aid
@@ -223,40 +216,29 @@ Naming Convention.
 2\. Extent [**(DACS 2.5)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/5_extent) (in cubic feet and/or born-digital in estimated number of files and MB/GB or appropriate measure)  
 
   - 1 record storage box = 1.3 cu. ft.
-
   - 1 letter document box = 0.38 cu. ft.
-
   - 1 legal document box = 0.47 cu. ft.
-
   - 1 letter half-document box = 0.19 cu. ft.
-
   - 1 legal half-document box = 0.24 cu. ft.
-
   - Example: 30 cu. ft. and 3000 digital files (1 GB)
 
 
 3\. Date [**(DACS 2.4)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/4_date)
 
   - Record inclusive date when known (Begin Year–End Year).
-
   - Recording bulk date is optional.
-
   - Date may initially be recorded as “undated” in order to save the shell record.
 
 4\. Language (English) [**(DACS 4.5)**](https://www2.archivists.org/standards/DACS/part_I/chapter_4/5_languages_and_scripts_of_the_material)
 
   - Records the Language term and code predominately represented in the material described.
-
   - The overwhelming majority of RAC’s collections are in English.
-
   - A natural language note should also be recorded at the top level of the finding aid for user readability.
 
 5\. Creator/Author [**(DACS 2.6)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/6_name_of_creators)
 
   - Record the provenance of the material in the “Agent Links” in ArchivesSpace.
-
   - In rare cases it is appropriate to record multiple creators. Limit creators to a maximum of three.
-
   - If the creator is unknown, “Source” can be used as an acceptable substitute.
 
 6\. Scope and Content [**(DACS 3.1)**](https://www2.archivists.org/standards/DACS/part_I/chapter_3/1_scope_and_content)
@@ -264,19 +246,12 @@ Naming Convention.
 The processing archivist should document the nature of the materials and activities reflected in the unit being described to enable users to judge its potential relevance. The Scope and Content may include information about any or all of the following, as appropriate:
 
 - The function(s), activity(ies), transaction(s), and process(es) that generated the materials being described  
-
 - The documentary form(s) or intellectual characteristics of the records being described (e.g., minutes, diaries, reports, watercolors, documentaries)  
-
 - The content dates, that is, the time period(s) covered by the intellectual content or subject of the unit being described  
-
 - The geographic area(s) and places to which the records pertain  
-
 - The subject matter to which the records pertain, such as topics, events, people, and organizations  
-
 - Any other information that assists the user in evaluating the relevance of the materials, such as completeness, changes in location, ownership, and custody while still in the possession of the creator, etc.  
-
 - This information should be derived from the materials themselves and any relevant documentation.  
-
 -  When the unit being described is known to be incomplete due to reasons other than archival appraisal decisions, information about the gaps should be recorded.  
 
 7\. Conditions Governing Access [**(DACS 4.1)**](https://www2.archivists.org/standards/DACS/part_I/chapter_4/1_conditions_governing_access)
@@ -324,7 +299,6 @@ Basic Access Statement I is appropriate if/when the collection/finding aid conta
 _Notes on the four general collection-level access statements_
 
 - The term “with select materials restricted as noted” should be added or removed depending on if the contents of the entire guide are open.
-
 - The portion of the statement pertaining to digital and/or audiovisual materials (see below) should ONLY be included if the collection/finding aid actually contains those materials.
 
 **_Format-Based Collection Level Access Statements Approved for Use at RAC_**
@@ -357,15 +331,10 @@ In addition to single level compliance – RAC required data elements for
 the shell include:
 
 1.  Finding Aid Title
-
     - The bibliographic title of the finding aid itself.
-
     - The standard term “A Guide to the...” Is used to differentiate the finding aid title, for example: “A Guide to the Warren Weaver papers”
-
 2.  Finding Aid Filing Title
-
     - An edited version of the Formal Title intended to facilitate searching, sorting and browsing of finding aids.
-
     - In most cases, the Finding Aid Filing Title is the same as the Formal Title. For example:
 
     <div class="docs-example">
@@ -394,7 +363,6 @@ the shell include:
 3.  EAD-ID (FA\#.xml)
 
     - This is the unique identifier for the EAD file which is exported out of the collections management system for online display in DIMES.
-
     - PDF versions of the EAD file can also be exported.
 
 ## Create Inventory
@@ -404,7 +372,6 @@ the shell include:
 - At Processing Level 1, particularly during initial ingest and
     accessioning, the minimum requirement is single-level general
     description of contents, which can serve in lieu of an inventory.
-
 - General description can be a summary statement describing the whole
     such as:
 
@@ -415,11 +382,8 @@ the shell include:
 </div>
 
 - General description of contents from an appraisal report, or from documents provided by the donor/depositor, could also serve in lieu of an inventory.
-
 - Ideally, the donor/depositor will provide RAC with an inventory.
-
 - If the inventory prepared by the donor/depositor adequately meets basic processing requirements, no additional RAC-produced inventory is required at accessioning.
-
 - For the purposes of Level 1 inventorying, file-level description also can be utilized to generally describe the contents of an entire file, often spanning multiple folders or multiple boxes, with individual instances assigned for each box.
 
 <div class="docs-example">
@@ -458,7 +422,6 @@ See [**section 2.3**](https://www2.archivists.org/standards/DACS/part_I/chapter_
 and [_Chapter 10_.](https://www2.archivists.org/standards/DACS/part_II/chapter_10)
 
 - Title is intent on concisely describing the content or nature of the file.
-
 - The Title for each file should answer the question – What is this file? Or, what is the content of this file?
 
 <div class="docs-example">
@@ -467,7 +430,6 @@ and [_Chapter 10_.](https://www2.archivists.org/standards/DACS/part_II/chapter_1
 </div>
 
 - The File Title can be a Formal Title (supplied by the creator) or it can be a Devised Title (created by the archivist during processing).
-
 - In multilevel descriptions the name segment, or a portion of the name segment, may be inherited from a higher level of description and may not need to be explicitly stated at lower levels.
 
 A. Titles should be brief, yet uniquely identify the material.
@@ -527,7 +489,6 @@ D. Acronyms should be spelled out, with the full name followed by the acronym pr
 E. Titles recording multiple names should be written as follows:
 
 - If three or fewer persons are credited with, or predominantly responsible for, the creation of the materials as a whole, record their names in direct order. [(**DACS 2.3.7**)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
-
 - If more than three persons are responsible for the creation of the materials, record the name of the individual who predominates. [(**DACS 2.3.8**)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title) Optionally, include all the names of the persons who are credited with or predominantly responsible for the creation of the materials. [(**DACS 2.3.9**)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
 
 <div class="docs-example">
@@ -551,12 +512,9 @@ all stated rules and guidelines.
 
 ### Describing Dates
 
-- Answers the question – When is the content of this file created?  
-
+- Answers the question – When is the content of this file created?
 - It can be a single date (like the date of a meeting), or a range of inclusive dates.
-
 - At RAC the date assigned is most often an inclusive date.
-
 - Date should be expressed as year month day.
 
 <div class="docs-example">
@@ -586,7 +544,6 @@ all stated rules and guidelines.
 </div>
 
 - If the material in the file is not dated, record it as “undated”.
-
 - If file contents are differentiated by months rather than years, record the dates as:
 
 <div class="docs-example">
@@ -607,15 +564,10 @@ all stated rules and guidelines.
 ### Instance Information
 
 - Instance information should answer the question – Where is the file?
-
 - The instance connects intellectual control with physical control of the file.
-
 - FILE LEVEL description does not directly equate to FOLDER LEVEL description.
-
 - Instance Information records the carrier or container. Most often the container is a Box, Box/Folder. In some cases, it is used to record the Reel/Frame of microforms, or the Unique ID (AV#) of an audiovisual item.
-
 - The primary instance (most often a “Box”) is designated as a Top Container. For assistance with Top Container creation see Head of Processing.
-
 - It also records the instance type – most often “Mixed Materials”. “Microform”, “Moving Image”, “Still Image” are also common types used.
 
 ### Associated Notes
@@ -660,32 +612,19 @@ Most at-risk materials should be retained within the originating collection. Som
 ### Materials to be transferred to the Library collection
 
 -  *An item belongs to either the RAC Archive or the RAC Library collection, not both.*
-
 - The library collection consists of stand-alone items, independent of archival    
     provenance, which are most often described, stored and accessed at the item level.
-
 - Library holdings are described bibliographically.
-
 - Eligible materials include but are not necessarily limited to:
-
     - Collections or accessions whose entire contents is published materials within the scope of the RAC Library collecting policy.
-
     - Published studies, reports and scientific or technical publications sponsored by, or otherwise produced through, direct grants or funding from RAC or a donor/depositor.
-
 - No more than two copies of any publication will be acquired, cataloged and added to the Library collection. (Any additional copies should be submitted for disposal or return to the donor/depositor in accordance with RAC Collections Management procedure.)
-
 - Bibliographic records will be created in the Collection Management system by RAC Collections Management/Library staff as applicable.
-
 - When transferring published materials to the RAC Library, the processing archivist should provide Collections Management/Library staff:
-
     - The Resource ID Number (FA#)
-
     - Accession/Collection Title
-
     - If no applicable Finding Aid is created, provide the accession number.
-
 - No separation number(s) is assigned, and the separation sheet is not used.
-
 - No archival description should be added to the finding aid.
 
 _*All processed at-risk materials should be arranged in accordance with the Project Vitals, approved by the Head of Processing, and described in the finding aid at applicable levels within the originating context. Materials arranged and described together may be physically stored separately. The associated description should also detail any applicable conditions/restrictions of access and use as well as any significant stabilization or preservation issues*_
@@ -697,74 +636,48 @@ A. All materials that are an integral part of the originating accession/collecti
 B. Digital media.
 
 - Digital media should be retained within the originating file or an accompanying associated file (as feasible), and inventoried at the file-level.
-
 - When processing:
-
     - A physical description note should be included at the file-level indicating the existence of the digital media.
-
     - When the entire contents of the file is digital media, the INSTANCE TYPE “Digital” should be used.
-
     - When the file also contains paper records or other materials, the INSTANCE TYPE “Mixed Materials” should be used.
-
     - Include a conditions governing access note at the file-level indicating
         either of these two options (as applicable):
-
         1. Access copy available.
-
         2. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. Access copy currently unavailable. Please contact a RAC archivist for further instruction.
-
 - The processing archivist will:
-
     - Receive training to develop the necessary proficiencies for each of the common removable media types and sizes.
-
     - Appraise and assess the eligibility of the item(s) for preservation in the RAC digital repository.
-
     - Image the removable media, note the presence of the item and document the imaging process in the digital media log and finding aid. [See Step 22](#image-eligible-digital-media) for details.
-
     - Describe the resulting file(s), within originating context, in aggregate in the finding aid and insert the applicable Processing Information Note.
-
     - After imaging the original digital media should be submitted for disposal in accordance with RAC Collections Management procedure.
 
 C. Oversized materials (larger than legal size: such as reports, studies or ledgers), index cards, postcards, unrolled or flattened materials, or other such files that can be appropriately preserved in specialized archival boxes.
 
 - When processing:
-
     - Collaborate with Collections Management as necessary.
-
     -  **Seek assistance from Collections Management to safely unroll or flatten applicable records.**
-
     - Remove the entire file from its existing housing or storage and rehouse or relocate the file in its entirety to appropriately-sized archival folders and/or boxes. This rehousing may involve one file, a group of files, or the contents of an entire box. It should never involve an individual item(s).
 
     Example: rehousing material into legal-size box(es) and folder(s) that was originally folded/creased to fit in letter-size housing or vice versa.
 
     - No separation number(s) is assigned & the separation sheet is not used.
-
     - Finding Aid instance will designate the box and folder number(s) of the new container(s).
-
     - All appropriate Top Container data should also be recorded in the Collection Management System (Barcode, Location, & Container Profile).
-
     - Care of posters, blueprints and other flat files is addressed [below](#at-risk-materials-which-may-require-specialized-care).
 
 D. Still images or small items found within files of mixed materials.
 
 - Individual items, small items (business cards, postcards, photographs, telegrams and greeting cards), or small volumes of still images should be retained within the originating file or an accompanying associated file (as feasible).
-
 - When processing:
-
     - Stabilize the items in accordance with recommendations from Collections Management.
-
     - A physical description note should be included at the file-level indicating the existence of the still images.
-
     - When the entire contents of the file is images, the INSTANCE TYPE “Still Image” should be used.
-
     - When the file also contains paper records or other materials, the INSTANCE TYPE “Mixed Materials” should be used.
 
 E. Published articles, journals, magazines, papers, books, reprints, brochures, and pamphlets (and any other publications less than 50 pages) found within files of mixed materials.
 
 - Published material that is an integral part of the content and context of the originating collection/accession, or otherwise benefits from the retention of archival provenance, should be retained within the originating file or an accompanying associated file (as feasible).
-
 - Case by case recommendations will be addressed in Project Vitals preparation in coordination with recommendations of Collections Management/Library staff.
-
 - Process and describe the materials in accordance with all RAC standard practices and procedures.
 
 ### At-Risk materials which may require specialized care
@@ -772,35 +685,22 @@ E. Published articles, journals, magazines, papers, books, reprints, brochures, 
 A. Brittle or damaged items or materials with significant/immediate preservation concerns.
 
 - **Contact Collections Management immediately if the issue involves evidence of active, suspected, or dormant mold/mildew/pests.**
-
 - Submit a **Collection Concern** form to Collections Management to document a non-immediate preservation issue(s).
-
 - Collaborate with Collections Management as necessary and implement any recommendations received.
-
 - _Completion of the processing entails fully addressing each preservation concern(s) and documenting the necessary care in the completed finding aid, including but not necessarily limited to stabilization and/or the creation/assignment of any applicable containers/instances._
-
 - Select materials may require removal from the body of the collection, or from reference circulation, due to preservation concerns.
 
 B. Audiovisual materials
 
 - Remove audiovisual material from its originating archival container and relocate the item(s) to a temporary container(s) exclusively holding AV material.
-
 - This newly created temporary container(s) should be used to house all AV holdings for a given processing project.
-
 - The number assigned to the temporary container should be “T 1”, “T 2”, etc.
-
 - No separation number is assigned, and the separation sheet is not used.
-
 - Finding Aid instance will designate the box and folder number(s) of the temporary AV container(s).
-
 - The INSTANCE TYPE “Audio” or “Moving Image” should be used as applicable.
-
 - All appropriate Top Container data should also be recorded in the Collection Management System (Barcode, Location, and Container Profile).
-
 - After recording all applicable Top Container data, notify the Audiovisual Archivist via Project Management software (Asana) to inform him/her of the existence of the AV material.
-
 - AV Archivist will assign permanent unique identifiers (AV Numbers), adjust the finding aid accordingly, and perform preservation tasks in accordance with the _Guide to Processing Collections at RAC_ and the Collections Management Manual.
-
 - To facilitate long term storage the AV Archivist will make the following modifications to audiovisual top container:
 
     - **For Film Material:** All film is stored individually on a shelf and therefore is its own Top Container.
@@ -808,15 +708,10 @@ B. Audiovisual materials
       Instance Type: Moving images
 
       Top Container:
-
         - Container Profile: choose correct film container
-
         - Container Type: Reel
-
         - Indicator: Unique AV Number (AV 100)
-
         - Barcode: Add barcode to film container
-
         - Add permanent location
 
     - **For Audio or Video Material**: Individual video and audio items are stored in a box. The box is the Top Container.
@@ -824,66 +719,45 @@ B. Audiovisual materials
       Instance Type: Audio (for all audio) or Moving Images (for all video)  
 
       Top Container:
-
         - Container Profile: choose correct box
-
         - Indicator: Enter box number
-
         - Barcode: Add barcode to box
-
         - Container Type: Box
-
         - Add permanent location
 
       Child Type:
-
         - Choose Reel (for open reel formats) or Tape (for cassette formats)
 
       Child Indicator: Unique AV number (AV 100)
 
 - Large volumes of audiovisual materials may necessitate the creation of an Audiovisual Series or Component.
-
 - Following digitization, the Processing Archivist may be consulted for creation of further metadata (Scope and Content note, etc.) or viewing/listening to the item(s) as applicable.
 
 Describe audiovisual item(s) within originating context, using the following basic information:
 
 Title
-
 - Description in the title element should be based on container and/or item annotations, usually on accessioning inventory spreadsheet.
-
 - Title may be revised after the material in question has been digitized and played if content and/or title differs from original container/item annotations.
 
 Level of Description: File
 
 Dates
-
 - Date for audiovisual materials is most often recorded as single creation
     date.
-
     - Label: Creation
-
     - Type: Single
-
     - Expression: YYYY-Month-DD (example: 1976 July 04)
-
 - If recorded date is not a single creation date follow [standard practices](#describing-dates).
-
 - Use “circa” or “c.” if approximating a date (example: c. 1970s)
 
 Extent: TBD
 
 Notes:
-
 - **Conditions Governing Access** (choose appropriate note at the file-level)
-
     - Access copy available.
-
     - Access copy currently unavailable. Please contact a RAC archivist for further instruction.
-
     - [The AV collection-level-note](#general-collection-level-access-statements-approved-for-use-at-rac) can also be used at the series level.
-
 - **Scope and Contents** (Collaborate with AV archivist to watch/listen to the material AFTER a digitized access copy is created, and generate applicable notes.)
-
 - **Materials Specific Details** (Add format or film gauge from accession inventory.)
 
   <div class="docs-example">
@@ -893,11 +767,8 @@ Notes:
   [See PBCore controlled vocabulary](http://pbcore.org/updated-pbcore-controlled-vocabularies/) or Audiovisual Archivist for details.
 
 - **Physical Description** (Data should always be written in the sequence below.)
-
     - Silent or Sound, Black and white or Color, xx minutes.
-
     - Record, in Arabic numerals, the total duration/running time in minutes, normally rounded off to the nearest minute. Example: 75 minutes.
-
 - **Physical Characteristics and Technical Requirements Note** (Not required; use only if needed to inform user of important playback issues.)
 
   <div class="docs-example">
@@ -908,7 +779,6 @@ For further assistance with the description of audiovisual materials please
 refer to:
 
 - [The FIAF Moving Image Cataloguing Manual (2016)](http://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/20160920%20Fiaf%20Manual-WEB.pdf)
-
 - [The Public Broadcasting Metadata Dictionary Project (PBCore) Controlled Vocabularies](http://pbcore.org/updated-pbcore-controlled-vocabularies/)
 
 
@@ -922,19 +792,12 @@ C. Materials whose composition or format places them in particular risk of obsol
 </div>   
 
 - Seek assistance from, and work collaboratively with, Collections Management including formulating case by case recommendations in Project Vitals when feasible.
-
 - Inform Collections Management when flat files are encountered during processing, so that the Collections Management team can assign suitable flat file storage space.
-
 - Stabilize and house the materials in accordance with recommendations from Collections Management.
-
 - No separation number(s) is assigned, and the separation sheet is not used.
-
 - Finding Aid instance will designate the box and folder number(s) of the new container(s).
-
 - INSTANCE TYPE should be recorded as appropriate (“Mixed Materials”, “Still Image”, “Bound Volume”, etc.).
-
 - Inform Collections Management of all containers that house materials in this category (III.C) so that Collections Management can allocate space for these containers in suitable storage locations (Vault 105, Vault 106, Vault 107 drawers).
-
 - All appropriate Top Container data should also be recorded in the Collection Management System (Barcode, Location, and Container Profile).
 
 ## Rehouse Archival Materials
@@ -944,13 +807,11 @@ C. Materials whose composition or format places them in particular risk of obsol
 [(See Vitals)](planning#project-vitals-template)
 
 -   Minimal Processing projects will most often retain existing housing when feasible.
-
 -   Standard Processing projects will most often rehouse materials, with limited retention of existing housing when feasible.
 
 _**Selecting Storage Containers and Enclosures**_
 
 - Select a box and folder size for documents based upon the dimensions of the majority of those to be contained within an enclosure. Most documents are up to 8 ½” in width and 11” in length, require a letter-size folder and box; papers larger than this size and up to 8 ½” in width and 14” in length, require a legal-size folder and box. Box sizes may vary within a collection.
-
 - Do not combine ‘unlike’ items in the same box.
 
 <div class="docs-example">
@@ -965,11 +826,8 @@ Coordinate with Collections Management whenever the project necessitates the use
 The Collections Management team can assist with:
 
 - Ordering, or confirmation of on-site availability, of RAC-preferred containers.
-
 - Identifying box-types that may already be assigned container profiles in the RAC collections management system.
-
 - Measuring the boxes to create container profiles when needed.
-
 - Identifying and ordering of mylar, paper enclosures, support products, and other supplies which facilitate stabilization and long-term preservation.
 
 ## Dispose of Used Boxes
@@ -983,41 +841,23 @@ The Collections Management team can assist with:
 ### Step 19 – Label and Assign Instances (on Physical Files and in the Finding Aid, including Top Container/Container Profile)
 
 - For assistance with Top Container creation see Head of Processing.
-
 - Folders and boxes are commonly numbered consecutively from one box to the next. For example, if Box 1 contains Folders 1-10, then Box 2 would contain Folders 11-20.
-
 -   With prior approval of the Head of Processing, projects may be processed with Folder 1-Folder X recurring in each box.
-
 - Required elements of description which must appear on all archival folders:
-
-  - Collection (Abbreviation)
-
-  - Box Number
-
-  - Folder Number
-
-  - Folder Title (may be abbreviated or truncated on physical folder)
-
-  - Date
-
+    - Collection (Abbreviation)
+    - Box Number
+    - Folder Number
+    - Folder Title (may be abbreviated or truncated on physical folder)
+    - Date
 - Elements of description which must appear on the folder(s) (when applicable to the material being described):
-
-  - Restrictions
-
+    - Restrictions
 - Additional description that will appear on the folder(s) (only if pertinent to the material being described):
-
-  - Record Group (Abbreviation or Number)
-
-  - Subgroup (Abbreviation or Number)
-
-  - Series (Abbreviation or Number)
-
-  - Subseries (Abbreviation or Number)
-
-  - Index Number
-
-  - Grant Number
-
+    - Record Group (Abbreviation or Number)
+    - Subgroup (Abbreviation or Number)
+    - Series (Abbreviation or Number)
+    - Subseries (Abbreviation or Number)
+    - Index Number
+    - Grant Number
 - RAC archival description will appear on processed folders as:
 
 ![folder description](img/Folder_label.png)
@@ -1033,13 +873,9 @@ The **Collection Concern** form is currently located: **S:\Inter-Office\Archival
 *Please consult with Collections Management to request a stabilization consult,* or if:
 
 - Material is damaged, torn or shedding.
-
 - Material has a particular odor or stickiness.
-
 - An unusual pattern exists on paper or film.
-
 - Edges of materials appear irregular or ragged and appear to have been ‘chewed’.
-
 - Material shows signs of active or dormant mold, mildew or water damage.
 
 Mold and mildew are types of fungi which may appear as brown, blue-black, or green irregularly-shaped spots. Mold will predominate when environmental conditions exhibit fluctuations in temperature, high humidity, moisture, and limited circulation. Mold often develops after water damage has occurred. _When mold is discovered, it is crucial to isolate any affected items to prevent further contamination. Please take immediate action by referring any mold or mildew issues to Collections Management._
@@ -1101,23 +937,14 @@ Images for most removable media are created in-house, and the hardware used to c
 The processing archivist will:
 
 - Receive training to develop the necessary proficiencies for each of the common removable media types and sizes (floppy disks, optical discs, drives, etc.).
-
 - Appraise and assess the eligibility of the item(s) for preservation in our digital repository in accordance with RAC collecting policy, copyrights, privacy rights, or any legal, or statutory requirements.
-
 - Inventory the item in the Digital Media Log.
-
 - Use the RAC standard workflows to virus check and image the eligible removable media.
-
     - Note the presence of the item and document the imaging process in the digital media log & finding aid.
-
         - In the Digital Media Log, the Processing Archivist should document:
-
           - the transfer method (disk image, rip tracks, copy files)
-
           - the item's original carrier type.
-
           - the year of transfer
-
         - Using this data, the Digital Media Log will automatically generate the following formatted statement:
 
         <div class="docs-example">
@@ -1131,7 +958,6 @@ The processing archivist will:
           in the finding aid.
 
 - Describe the resulting file(s), within originating context, in aggregate in the finding aid.
-
 - After imaging, submit the original digital media for disposal in accordance with RAC Collections Management procedure.
 
 ## Rights and Restrictions
@@ -1145,7 +971,6 @@ _If questions regarding restricted or potentially restricted materials arise dur
 ### Step 23 - Label Physical Folders Containing Restricted Material in Accordance with RAC Guidelines
 
 - If all items in a folder are restricted, the folder is labeled "Closed” or “Restricted”.
-
 - If all items in a folder or box are temporarily restricted, such as by a time embargo, clearly state on the folder or box when the material will be open.
 
 <div class="docs-example">
@@ -1153,7 +978,6 @@ _If questions regarding restricted or potentially restricted materials arise dur
 </div>
 
 - If a portion of the contents of a box or folder is restricted, the container is labeled "Closed Material Within".
-
 - Physically relocating restricted material to the end of a collection or series/component is preferable (when viable), rather than having restricted and open materials stored in the same box. This provides RAC the opportunity to store the restricted material at an RAC facility other than Hillcrest. Regardless of physical location, the restricted material should always be described intellectually in the appropriate place within the finding aid.
 
 ### Step 24 - Add File-Level Conditions of Access Notes for Restricted Material
@@ -1225,9 +1049,7 @@ essential to become familiar with all the terms of the agreement for the specifi
     accessible to research following an agreed-upon embargo period (10 years; 20 years). _**An entire file is restricted until the most recent date within that file has reached the end of the embargo.**_
 
   - With a 10-year embargo, a file dated 1992-2007 would be open in 2018.
-
   - With a 20-year embargo, a file dated 1992-2007 would be open in 2028.
-
   - Example of standard RAC file-level access note -
 
   <div class="docs-example">
@@ -1348,15 +1170,12 @@ preservation photocopies include: deteriorated newspaper clippings, thermo fax a
 ### Step 26 – Box Labeling
 
 - Box labels for all processed archival holdings can be generated by a labeling template which works in tandem with ArchivesSpace to automatically generate box labels based on the finding aid description.
-
 - Following completion and approval of finding aid description, generate labels for all applicable containers.
 
 ### Step 27 – Barcoding
 
 - All containers are barcoded at the box-level.
-
 - Affix barcodes to the front center of the box lid below the box label, or in the front center of the box just above the pull tab. (See Collections Management for details).
-
 - If barcoding flat files or temporary containers housing audiovisual containers, please consult the Head of Processing.
 
 ## Shelve Processed Records
@@ -1364,7 +1183,6 @@ preservation photocopies include: deteriorated newspaper clippings, thermo fax a
 ### Step 28 - Shelve Processed Records in Assigned Vault/Unit/Shelf Location
 
 - All materials stored in RAC’s archival vaults are officially assigned locations by the Collections Management team.
-
 - Material should _NOT_ be shelved until authorization is received from Collections Management.
 
 ## Container Management
@@ -1372,13 +1190,9 @@ preservation photocopies include: deteriorated newspaper clippings, thermo fax a
 ### Step 29 – Container Management
 
 Record the following Container Management data in the finding aid:
-
 - Locations
-
 - Barcodes
-
 - Container profiles
-
 - For further assistance, see the Head of Processing.
 
 ## Finishing the Project
@@ -1386,59 +1200,41 @@ Record the following Container Management data in the finding aid:
 ### Step 30 - Submit Audiovisual Materials to Assigned Location
 
 - Place any containers exclusively housing audiovisual material (“T” boxes), on the assigned audiovisual shelves
-
 - Notify the Audiovisual Archivist via Project Management (Asana) task completion.
 
 ### Step 31 - Audiovisual Archivist Begins Preservation/Digitization Procedures
 
 - The Audiovisual Archivist will assess the condition of the material, record a variety of preservation and technical metadata, and enhance description (as feasible).
-
 - Materials will be evaluated for potential reformatting and eligible items will be considered for digitization (either through in house procedures or outsourced to an appropriate vendor).
-
 - Once an access copy has been created, the Processing Archivist will be contacted to potentially view/listen to the material and further enhance the available description.
 
 ### Step 32 – Transfer eligible Published Materials to the RAC Library
 
 - Drop off eligible published materials in the designated location. (See Collections Management for details.)
-
 - Eligible materials include but are not necessarily limited to:
-
     - Collections or accessions whose entire contents is published materials within the
       scope of the RAC Library collecting policy.
-
     - Published studies, reports and scientific or technical publications sponsored by, or otherwise produced through, direct grants or funding from RAC or a donor/depositor.
-
 - No more than two copies of any publication will be acquired, cataloged and added to the Library collection. (Any additional copies should be submitted for disposal or return to the donor/depositor in accordance with RAC Collections Management procedure.)
-
 - Bibliographic records will be created in the Collection Management system by RAC Collections Management/Library staff as applicable.
-
 - The processing archivist should provide Collections Management/Library staff:
-
     - The Resource ID Number (FA#)
-
     - Accession/Collection Title
-
     - If no applicable Finding Aid is created, provide the accession number.
-
 - No separation number(s) is assigned, and the separation sheet is not used.
-
 - No archival description should be added to the finding aid.
 
 ### Step 33 – Inform Collections Management of the Original Boxes/Box Numbers That Have Been Eliminated During Processing
 
 - As collections/accessions are processed and documented in the collections management system, the Collections Management team removes the corresponding notations from the RAC Master Shelf List.
-
 - Ultimately, all archival materials will be documented in the RAC collections management system, and the Master Shelf List will be phased out.
 
 ### Step 34 – Add Local RAC-Required Single-Level Notes
 
 - Arrangement [**(DACS 3.2)**](https://www2.archivists.org/standards/DACS/part_I/chapter_3/2_system_of_arrangement)
-
     - Describe the current organization of the collection.
-
     - At the collection level provide the names and numbers for the
         major components of the collection/accession such as the Series.
-
 - Preferred Citation – Standard RAC note
 
   <div class="docs-example">
@@ -1451,15 +1247,10 @@ Record the following Container Management data in the finding aid:
 Commonly used notes may include:
 
 - Biographical/Historical sketch [**(DACS 2.7)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/7_administrative_biographical_history)
-
     - Provide information about the corporate body, person, or family that created, assembled, accumulated, and/or maintained and used the materials being described. This element also describes the relationship of creators to archival materials by providing information about the context in which those materials were created.
-
 - Conditions Governing Use [**(DACS 4.4)**](https://www2.archivists.org/standards/DACS/part_I/chapter_4/4_conditions_governing_reproduction_and_use)
-
     - Identify any restrictions on reproduction due to copyright or other reasons, as well as restrictions on further use of the materials being described, such as publication, after access has been provided.
-
 - Immediate Source of Acquisition [**(DACS 5.2)**](https://www2.archivists.org/standards/DACS/part_I/chapter_5/2_immediate_source_of_acquisition)
-
     - Document the source from which the repository directly acquired the materials being described, as well as the date of acquisition, the method of acquisition, and other relevant information.
 
     <div class="docs-example">
@@ -1469,35 +1260,24 @@ Commonly used notes may include:
     </div>
 
 - Related materials note [**(DACS 6.3)**](https://www2.archivists.org/standards/DACS/part_I/chapter_6/3_related_archival_materials)
-
     - Indicate the existence and location of archival materials that are closely related to the materials being described by provenance, sphere of activity, or subject matter, either in the same repository, in other repositories, or elsewhere.
-
     - If there are materials that have a direct and significant connection to those being described by reason of closely shared responsibility or sphere of activity, provide the title, location, and, optionally, the reference number(s) of the related materials and their relationship with the materials being described.
-
     - If the materials are available at RAC, a link to the applicable finding aid can be provided.
-
     - If the materials are available at another repository, a general reference to the repository will suffice.
-
 - Series-Level or Component-Level notes
-
     - Always focus all multi-level notes specifically on the level and the material being described.
-
     - For example, a scope and content note at the Series level should focus only on documenting the content of that given series.
-
 - Other notes as recommended in Project Vitals.
 
 ### Step 36 – Revise Accession Record(s)
 
 - Link Related Accession record(s) to Resource.
-
 - Delete Box Instances from Accession record(s).
-
 - See Head of Processing for assistance.
 
 ### Step 37 - Finalize Front Matter Notes
 
 - Update or confirm final calculations for the Date and Extent elements, and compose final Scope and Content note. [(See Additional Required Collection Level Elements)](#additional-required-collection-level-elements).
-
 - The final Extent calculations should include a natural language Container Summary statement describing the number and type of archival containers used.
 
   <div class="docs-example">
@@ -1507,11 +1287,8 @@ Commonly used notes may include:
 ### Step 38 - Publish Finding Aid
 
 - Submit the draft finding aid to the Head of Processing for final review.
-
 - Once approval has been received from the Head of Processing, “check” the publish box at the highest level of the finding aid to publish the guide.
-
 - If any individual components are NOT to be shown online, uncheck the publish box for the applicable component(s).
-
 - RAC DIMES automatically updates once a day. Newly published guide(s) will be available in DIMES the following day.
 
 ### Step 39 - Submit Any Materials Proposed for Shredding to Head of Processing
