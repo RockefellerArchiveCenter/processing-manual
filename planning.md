@@ -1,7 +1,7 @@
 ---
 layout: docs
 title:  "Rockefeller Archive Center Guide to Processing Collections - Planning"
-permalink: /processing_manual/planning/
+permalink: planning/
 ---
 
 **_All processing activities at RAC must be approved by the Head of Processing._**
