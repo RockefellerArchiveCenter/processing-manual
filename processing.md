@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Rockefeller Archive Center Guide to Processing Collections - Processing"
+title:  "Guide to Processing Collections - Processing"
 ---
 
 The processing phase of each assignment begins with establishing the
