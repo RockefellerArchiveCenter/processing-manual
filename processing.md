@@ -1271,9 +1271,10 @@ Commonly used notes may include:
 
 ### Step 36 – Revise Accession Record(s)
 
-- Link Related Accession record(s) to Resource.
-- Delete Box Instances from Accession record(s).
-- See Head of Processing for assistance.
+- Prompt the Head of Processing to revise the applicable accession record(s).
+- Head of Processing will:
+    - Link Related Accession record(s) to Resource.
+    - Delete Box Instances from Accession record(s).
 
 ### Step 37 - Finalize Front Matter Notes
 
