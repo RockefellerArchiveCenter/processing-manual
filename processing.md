@@ -764,7 +764,7 @@ Notes:
     <p>VHS, ¼ inch audio cassette, 16mm film.</p>
   </div>
 
-  [See PBCore controlled vocabulary](http://pbcore.org/updated-pbcore-controlled-vocabularies/) or Audiovisual Archivist for details.
+  [See PBCore controlled vocabulary](https://pbcore.org/pbcore-controlled-vocabularies) or Audiovisual Archivist for details.
 
 - **Physical Description** (Data should always be written in the sequence below.)
     - Silent or Sound, Black and white or Color, xx minutes.
@@ -779,7 +779,7 @@ For further assistance with the description of audiovisual materials please
 refer to:
 
 - [The FIAF Moving Image Cataloguing Manual (2016)](http://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/20160920%20Fiaf%20Manual-WEB.pdf)
-- [The Public Broadcasting Metadata Dictionary Project (PBCore) Controlled Vocabularies](http://pbcore.org/updated-pbcore-controlled-vocabularies/)
+- [The Public Broadcasting Metadata Dictionary Project (PBCore) Controlled Vocabularies](https://pbcore.org/pbcore-controlled-vocabularies)
 
 
 C. Materials whose composition or format places them in particular risk of obsolescence or loss, such as:
