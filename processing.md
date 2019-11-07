@@ -860,7 +860,7 @@ The Collections Management team can assist with:
     - Grant Number
 - RAC archival description will appear on processed folders as:
 
-![folder description](img/Folder_label.png)
+![folder description](/processing-manual/img/Folder_label.png)
 
 ## Preservation Issues
 
@@ -1236,11 +1236,7 @@ Record the following Container Management data in the finding aid:
     - At the collection level provide the names and numbers for the
         major components of the collection/accession such as the Series.
 - Preferred Citation – Standard RAC note
-
-  <div class="docs-example">
-    Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <http://www.rockarch.org/research/citations.php>
-  </div>
-
+    - Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at on the [RAC website](https://www.rockarch.org/collections/access-and-request-materials/)
 
 ### Step 35 – Add Single-Level/Multi-Level Notes to Finding Aid in Accordance with Assigned Processing Level
 
