@@ -1236,7 +1236,7 @@ Record the following Container Management data in the finding aid:
     - At the collection level provide the names and numbers for the
         major components of the collection/accession such as the Series.
 - Preferred Citation – Standard RAC note
-    - Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at on the [RAC website](https://www.rockarch.org/collections/access-and-request-materials/)
+    - Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at on the [RAC website](https://www.rockarch.org/collections/access-and-request-materials/##citations)
 
 ### Step 35 – Add Single-Level/Multi-Level Notes to Finding Aid in Accordance with Assigned Processing Level
 
