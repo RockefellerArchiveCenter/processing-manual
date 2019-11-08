@@ -804,7 +804,7 @@ C. Materials whose composition or format places them in particular risk of obsol
 
 ### Step 17 - Rehouse Archival Materials and/or Retain Existing Housing
 
-[(See Vitals)](planning#project-vitals-template)
+[(See Vitals)](/processing-manual/planning#project-vitals-template)
 
 -   Minimal Processing projects will most often retain existing housing when feasible.
 -   Standard Processing projects will most often rehouse materials, with limited retention of existing housing when feasible.
