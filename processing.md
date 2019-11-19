@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Rockefeller Archive Center Guide to Processing Collections - Processing"
+title:  "Guide to Processing Collections - Processing"
 ---
 
 The processing phase of each assignment begins with establishing the
@@ -764,7 +764,7 @@ Notes:
     <p>VHS, ¼ inch audio cassette, 16mm film.</p>
   </div>
 
-  [See PBCore controlled vocabulary](http://pbcore.org/updated-pbcore-controlled-vocabularies/) or Audiovisual Archivist for details.
+  [See PBCore controlled vocabulary](https://pbcore.org/pbcore-controlled-vocabularies) or Audiovisual Archivist for details.
 
 - **Physical Description** (Data should always be written in the sequence below.)
     - Silent or Sound, Black and white or Color, xx minutes.
@@ -779,7 +779,7 @@ For further assistance with the description of audiovisual materials please
 refer to:
 
 - [The FIAF Moving Image Cataloguing Manual (2016)](http://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/CDC-resources/20160920%20Fiaf%20Manual-WEB.pdf)
-- [The Public Broadcasting Metadata Dictionary Project (PBCore) Controlled Vocabularies](http://pbcore.org/updated-pbcore-controlled-vocabularies/)
+- [The Public Broadcasting Metadata Dictionary Project (PBCore) Controlled Vocabularies](https://pbcore.org/pbcore-controlled-vocabularies)
 
 
 C. Materials whose composition or format places them in particular risk of obsolescence or loss, such as:
@@ -804,7 +804,7 @@ C. Materials whose composition or format places them in particular risk of obsol
 
 ### Step 17 - Rehouse Archival Materials and/or Retain Existing Housing
 
-[(See Vitals)](planning#project-vitals-template)
+[(See Vitals)](/processing-manual/planning#project-vitals-template)
 
 -   Minimal Processing projects will most often retain existing housing when feasible.
 -   Standard Processing projects will most often rehouse materials, with limited retention of existing housing when feasible.
@@ -860,7 +860,7 @@ The Collections Management team can assist with:
     - Grant Number
 - RAC archival description will appear on processed folders as:
 
-![folder description](img/Folder_label.png)
+![folder description](/processing-manual/img/Folder_label.png)
 
 ## Preservation Issues
 
@@ -1236,11 +1236,7 @@ Record the following Container Management data in the finding aid:
     - At the collection level provide the names and numbers for the
         major components of the collection/accession such as the Series.
 - Preferred Citation – Standard RAC note
-
-  <div class="docs-example">
-    Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <http://www.rockarch.org/research/citations.php>
-  </div>
-
+    - Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at on the [RAC website](https://www.rockarch.org/collections/access-and-request-materials/##citations)
 
 ### Step 35 – Add Single-Level/Multi-Level Notes to Finding Aid in Accordance with Assigned Processing Level
 
