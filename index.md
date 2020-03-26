@@ -181,6 +181,6 @@ may receive further processing based on RAC Processing Priorities).*
 
 ## Acknowledgements
 
-In drafting the guide, the RAC Processing Team focused primarily on creating local practices and procedures that implemented the guidelines and principles established in [Describing Archives: A Content Standard (DACS)](https://www2.archivists.org/standards/DACS). DACS is the official archival description standard of the [Society of American Archivists (SAA)](https://www2.archivists.org/), a national professional association for archivists. The RAC Processing Team consulted a number of SAA resources such as the SAA online glossary - [A Glossary of Archival and Records Terminology, by Richard Pearce-Moses](https://www2.archivists.org/glossary) - when outlining its policies in the guide.
+In drafting the guide, the RAC Processing Team focused primarily on creating local practices and procedures that implemented the guidelines and principles established in [Describing Archives: A Content Standard (DACS)](https://saa-ts-dacs.github.io/). DACS is the official archival description standard of the [Society of American Archivists (SAA)](https://www2.archivists.org/), a national professional association for archivists. The RAC Processing Team consulted a number of SAA resources such as the SAA online glossary - [A Glossary of Archival and Records Terminology, by Richard Pearce-Moses](https://www2.archivists.org/glossary) - when outlining its policies in the guide.
 
 [Planning](planning) >>
