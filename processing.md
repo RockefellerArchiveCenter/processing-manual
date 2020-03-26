@@ -110,7 +110,7 @@ The RAC has adopted the Society of American Archivists’ endorsed
 _Describing Archives: A Content Standard (DACS)_ to govern the archival
 description of all RAC archival holdings, regardless of form, medium or
 creator (individuals, families or corporate bodies). For details, please
-refer to [http://www2.archivists.org/standards/DACS](http://www2.archivists.org/standards/DACS).
+refer to [https://saa-ts-dacs.github.io/](https://saa-ts-dacs.github.io/).
 
 Archival description most often consists of a multi-level structure that
 reflects the arrangement of the material, and the relationship between
@@ -134,7 +134,7 @@ compliance. To ensure that the quality and completeness of our guides is
 maintained, we take steps to comply with DACS as soon as the initial
 draft finding aids are created.
 
-### Step 11 - Receive a Resource ID from the Head of Processing [(DACS 2.1.3)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/1_reference_code)
+### Step 11 - Receive a Resource ID from the Head of Processing [(DACS 2.1.3)](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/01_reference_code.html)
 
 - Each resource record/finding aid at RAC is assigned a unique ID.
 - Resources created during Processing are assigned a FA\#.
@@ -148,7 +148,7 @@ draft finding aids are created.
 
 ### Step 13 - Establish DACS Single-Level Minimum Compliance at the Collection Level/Highest Level of the Finding Aid
 
-1\.  Title (Collection Level/Highest Level of finding aid) [**(DACS 2.3)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
+1\.  Title (Collection Level/Highest Level of finding aid) [**(DACS 2.3)**](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html)
 
 RAC has established a normalized descriptive Naming Convention, which
 augments DACS guidelines, pertinent only to the top level of a finding
@@ -213,7 +213,7 @@ Naming Convention.
 
 ### Additional Required Collection Level Elements
 
-2\. Extent [**(DACS 2.5)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/5_extent) (in cubic feet and/or born-digital in estimated number of files and MB/GB or appropriate measure)  
+2\. Extent [**(DACS 2.5)**](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/05_extent.html) (in cubic feet and/or born-digital in estimated number of files and MB/GB or appropriate measure)  
 
   - 1 record storage box = 1.3 cu. ft.
   - 1 letter document box = 0.38 cu. ft.
@@ -223,25 +223,25 @@ Naming Convention.
   - Example: 30 cu. ft. and 3000 digital files (1 GB)
 
 
-3\. Date [**(DACS 2.4)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/4_date)
+3\. Date [**(DACS 2.4)**](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/04_date.html)
 
   - Record inclusive date when known (Begin Year–End Year).
   - Recording bulk date is optional.
   - Date may initially be recorded as “undated” in order to save the shell record.
 
-4\. Language (English) [**(DACS 4.5)**](https://www2.archivists.org/standards/DACS/part_I/chapter_4/5_languages_and_scripts_of_the_material)
+4\. Language (English) [**(DACS 4.5)**](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/05_languages_and_scripts_of_the_material.html)
 
   - Records the Language term and code predominately represented in the material described.
   - The overwhelming majority of RAC’s collections are in English.
   - A natural language note should also be recorded at the top level of the finding aid for user readability.
 
-5\. Creator/Author [**(DACS 2.6)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/6_name_of_creators)
+5\. Creator/Author [**(DACS 2.6)**](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/06_name_of_creators.html)
 
   - Record the provenance of the material in the “Agent Links” in ArchivesSpace.
   - In rare cases it is appropriate to record multiple creators. Limit creators to a maximum of three.
   - If the creator is unknown, “Source” can be used as an acceptable substitute.
 
-6\. Scope and Content [**(DACS 3.1)**](https://www2.archivists.org/standards/DACS/part_I/chapter_3/1_scope_and_content)
+6\. Scope and Content [**(DACS 3.1)**](https://saa-ts-dacs.github.io/dacs/06_part_I/04_chapter_03/01_scope_and_content.html)
 
 The processing archivist should document the nature of the materials and activities reflected in the unit being described to enable users to judge its potential relevance. The Scope and Content may include information about any or all of the following, as appropriate:
 
@@ -254,7 +254,7 @@ The processing archivist should document the nature of the materials and activit
 - This information should be derived from the materials themselves and any relevant documentation.  
 -  When the unit being described is known to be incomplete due to reasons other than archival appraisal decisions, information about the gaps should be recorded.  
 
-7\. Conditions Governing Access [**(DACS 4.1)**](https://www2.archivists.org/standards/DACS/part_I/chapter_4/1_conditions_governing_access)
+7\. Conditions Governing Access [**(DACS 4.1)**](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/01_conditions_governing_access.html)
 
 ### General Collection-Level Access Statements Approved for Use at RAC
 
@@ -418,8 +418,8 @@ In multi-level description, always remember to focus on the level being describe
 
 ### Describing Titles
 
-See [**section 2.3**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title) of _DACS_ for a complete description of the guidelines for the title element. Guidelines for establishing name authorities and forms of names including those of persons, families, geographic names and corporate bodies are available [_in DACS -Part II_](https://www2.archivists.org/standards/DACS/part_II)
-and [_Chapter 10_.](https://www2.archivists.org/standards/DACS/part_II/chapter_10)
+See [**section 2.3**](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html) of _DACS_ for a complete description of the guidelines for the title element. Guidelines for establishing name authorities and forms of names including those of persons, families, geographic names and corporate bodies are available [_in DACS -Part II_](https://saa-ts-dacs.github.io/dacs/08_part_II/02_chapter_09.html)
+and [_Chapter 10_.](https://saa-ts-dacs.github.io/dacs/08_part_II/03_chapter_10/00_form_of_the_name.html)
 
 - Title is intent on concisely describing the content or nature of the file.
 - The Title for each file should answer the question – What is this file? Or, what is the content of this file?
@@ -452,9 +452,9 @@ E. All RAC finding aids should be written predominantly using the English langua
 
 _It is important to note that this section addresses NAMES USED IN THE TITLE ELEMENT ONLY. If a name has been chosen for recording in the name of creator element, an authority record, or as an access point, the form of that name is established by approved sources and national standards, such as the Library of Congress Authorities and the Library of Congress Subject Headings._
 
-A. Record the name(s) of the person(s), family (families), or corporate body predominantly responsible for the creation, assembly, accumulation, and/or maintenance of the records. [(**DACS 2.3.4**)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
+A. Record the name(s) of the person(s), family (families), or corporate body predominantly responsible for the creation, assembly, accumulation, and/or maintenance of the records. [(**DACS 2.3.4**)](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html)
 
-B. Record the name(s) in the form by which the creator(s) or collector(s) is generally known, and by using the natural language order of the English language (or the natural language order of the language of the person or corporate body’s country of residence) [(**DACS 2.3.5**).](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
+B. Record the name(s) in the form by which the creator(s) or collector(s) is generally known, and by using the natural language order of the English language (or the natural language order of the language of the person or corporate body’s country of residence) [(**DACS 2.3.5**).](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html)
 
 <div class="docs-example">
   <h6>Example</h6>
@@ -488,8 +488,8 @@ D. Acronyms should be spelled out, with the full name followed by the acronym pr
 
 E. Titles recording multiple names should be written as follows:
 
-- If three or fewer persons are credited with, or predominantly responsible for, the creation of the materials as a whole, record their names in direct order. [(**DACS 2.3.7**)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
-- If more than three persons are responsible for the creation of the materials, record the name of the individual who predominates. [(**DACS 2.3.8**)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title) Optionally, include all the names of the persons who are credited with or predominantly responsible for the creation of the materials. [(**DACS 2.3.9**)](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
+- If three or fewer persons are credited with, or predominantly responsible for, the creation of the materials as a whole, record their names in direct order. [(**DACS 2.3.7**)](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html)
+- If more than three persons are responsible for the creation of the materials, record the name of the individual who predominates. [(**DACS 2.3.8**)](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html) Optionally, include all the names of the persons who are credited with or predominantly responsible for the creation of the materials. [(**DACS 2.3.9**)](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html)
 
 <div class="docs-example">
   <h6>Examples</h6>
@@ -986,7 +986,7 @@ _If questions regarding restricted or potentially restricted materials arise dur
 
 **A. Common Types of Restricted Materials in RAC Collections**
 
-**1. Access Restrictions [(DACS 4.1)](https://www2.archivists.org/standards/DACS/part_I/chapter_4/1_conditions_governing_access)**
+**1. Access Restrictions [(DACS 4.1)](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/01_conditions_governing_access.html)**
 
 This note is used to document archival materials whose access is
 physically and/or intellectually restricted due to the nature of the information documented.
@@ -1085,7 +1085,7 @@ For a list of relevant Rockefeller family names, see Head of Processing.
 
 5\. Some collection agreements indicate that the archival material is closed pending processing. In this case, access/use is restricted until the collection is processed. The Head of Processing will designate the material "open" once the necessary work is completed.
 
-D.  _Condition/Security-based access restrictions_ [**(DACS 4.2)**](https://www2.archivists.org/standards/DACS/part_I/chapter_4/2_physical_access) - A fundamental objective of RAC is to facilitate the long-term preservation, conservation, and security of our archival holdings. At times the long-term care of individual items will take precedence over their availability for immediate access. Access to extremely valuable, fragile, brittle, unstable, or damaged items is restricted by RAC in order to protect these high-risk items from theft, damage, or further deterioration. (Example: JDR Sr’s Ledger A).
+D.  _Condition/Security-based access restrictions_ [**(DACS 4.2)**](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/02_physical_access.html) - A fundamental objective of RAC is to facilitate the long-term preservation, conservation, and security of our archival holdings. At times the long-term care of individual items will take precedence over their availability for immediate access. Access to extremely valuable, fragile, brittle, unstable, or damaged items is restricted by RAC in order to protect these high-risk items from theft, damage, or further deterioration. (Example: JDR Sr’s Ledger A).
 
 - Examples of standard file-level access notes -
 
@@ -1094,7 +1094,7 @@ D.  _Condition/Security-based access restrictions_ [**(DACS 4.2)**](https://www2
     <p>Closed due to preservation concerns.</p>
   </div>
 
-E. _Technical access restrictions_ [**(DACS 4.3)**](https://www2.archivists.org/standards/DACS/part_I/chapter_4/3_technical_access)  – Some archival material is restricted due to its format or other special needs.
+E. _Technical access restrictions_ [**(DACS 4.3)**](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/03_technical_access.html)  – Some archival material is restricted due to its format or other special needs.
 
 1\.  Format – Access to certain formats may be completely or partially restricted. Examples:
 
@@ -1231,7 +1231,7 @@ Record the following Container Management data in the finding aid:
 
 ### Step 34 – Add Local RAC-Required Single-Level Notes
 
-- Arrangement [**(DACS 3.2)**](https://www2.archivists.org/standards/DACS/part_I/chapter_3/2_system_of_arrangement)
+- Arrangement [**(DACS 3.2)**](https://saa-ts-dacs.github.io/dacs/06_part_I/04_chapter_03/02_system_of_arrangement.html)
     - Describe the current organization of the collection.
     - At the collection level provide the names and numbers for the
         major components of the collection/accession such as the Series.
@@ -1242,11 +1242,11 @@ Record the following Container Management data in the finding aid:
 
 Commonly used notes may include:
 
-- Biographical/Historical sketch [**(DACS 2.7)**](https://www2.archivists.org/standards/DACS/part_I/chapter_2/7_administrative_biographical_history)
+- Biographical/Historical sketch [**(DACS 2.7)**](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/07_administrative_biographical_history.html)
     - Provide information about the corporate body, person, or family that created, assembled, accumulated, and/or maintained and used the materials being described. This element also describes the relationship of creators to archival materials by providing information about the context in which those materials were created.
-- Conditions Governing Use [**(DACS 4.4)**](https://www2.archivists.org/standards/DACS/part_I/chapter_4/4_conditions_governing_reproduction_and_use)
+- Conditions Governing Use [**(DACS 4.4)**](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/04_conditions_governing_reproduction_and_use.html)
     - Identify any restrictions on reproduction due to copyright or other reasons, as well as restrictions on further use of the materials being described, such as publication, after access has been provided.
-- Immediate Source of Acquisition [**(DACS 5.2)**](https://www2.archivists.org/standards/DACS/part_I/chapter_5/2_immediate_source_of_acquisition)
+- Immediate Source of Acquisition [**(DACS 5.2)**](https://saa-ts-dacs.github.io/dacs/06_part_I/06_chapter_05/02_immediate_source_of_acquisition.html)
     - Document the source from which the repository directly acquired the materials being described, as well as the date of acquisition, the method of acquisition, and other relevant information.
 
     <div class="docs-example">
@@ -1255,7 +1255,7 @@ Commonly used notes may include:
       1992:100.</p>
     </div>
 
-- Related materials note [**(DACS 6.3)**](https://www2.archivists.org/standards/DACS/part_I/chapter_6/3_related_archival_materials)
+- Related materials note [**(DACS 6.3)**](https://saa-ts-dacs.github.io/dacs/06_part_I/07_chapter_06/03_related_archival_materials.html)
     - Indicate the existence and location of archival materials that are closely related to the materials being described by provenance, sphere of activity, or subject matter, either in the same repository, in other repositories, or elsewhere.
     - If there are materials that have a direct and significant connection to those being described by reason of closely shared responsibility or sphere of activity, provide the title, location, and, optionally, the reference number(s) of the related materials and their relationship with the materials being described.
     - If the materials are available at RAC, a link to the applicable finding aid can be provided.
