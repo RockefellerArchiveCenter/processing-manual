@@ -25,7 +25,7 @@ lost, or of establishing an order when one never existed. The archivist
 may then identify further subgroupings within each unit down to the
 level of granularity that is feasible or desirable. This process creates
 hierarchical groupings of material, with each step in the hierarchy
-described as a level." [(_DACS 2013, Principle 3, p.xvii_)](https://www2.archivists.org/standards/DACS/statement_of_principles).
+described as a level." [(_DACS 2013, Principle 3, p.xvii_)](http://files.archivists.org/pubs/DACS2E-2013_v0315.pdf).
 
 The hierarchical levels commonly used at RAC are: Collection, Record
 Group, Subgroup, Series, Subseries, and File.
