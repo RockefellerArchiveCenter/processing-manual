@@ -249,8 +249,8 @@ Naming Convention.
         - Rockefeller Brothers Fund
         - Other foundations
         - Goal: These finding aids will have the individual officer as the creator/author, and the significant foundation as creator/contributor.
-    - Assign primary individual (creator/author) to Ford Foundation office files.
-    	- Goal: These finding aids will have two creator/authors assigned – the individual officer, and the Ford Foundation.
+     - Assign primary individual (creator/author) to Ford Foundation office files.
+    	 - Goal: These finding aids will have two creator/authors assigned – the individual officer, and the Ford Foundation.
 - Rockefeller Family
      - Assign primary Rockefeller family member(s) to applicable guides as creator/author or creator/contributor (as applicable).
      - Assign the following agents (creator/author) to the finding aids of Rockefeller family associates papers:
