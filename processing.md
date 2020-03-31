@@ -237,9 +237,34 @@ Naming Convention.
 
 5\. Creator/Author [**(DACS 2.6)**](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/06_name_of_creators.html)
 
-  - Record the provenance of the material in the “Agent Links” in ArchivesSpace.
-  - In rare cases it is appropriate to record multiple creators. Limit creators to a maximum of three.
-  - If the creator is unknown, “Source” can be used as an acceptable substitute.
+**General Guidelines for Assigning Agents**
+
+- Assign agents for primary creators or contributors at the collection level/top of finding aid.
+- For any questions regarding assigning agents, please contact the Head of Processing.
+- Foundation records
+      - Assign the given Foundation as creator/author for all Foundation records.
+      - Assign significant Foundation to the personal collections of applicable officers (creator/contributor)
+            - Ford Foundation
+            - Rockefeller Foundation
+            - Rockefeller Brothers Fund
+            - Other foundations
+            - Goal: These finding aids will have the individual officer as the creator/author, and the significant foundation as        creator/contributor.
+       - Assign primary individual (creator/author) to Ford Foundation office files.
+	        - Goal: These finding aids will have two creator/authors assigned – the individual officer, and the Ford Foundation.
+- Rockefeller Family
+        - Assign primary Rockefeller family member(s) to applicable guides as creator/author or creator/contributor (as applicable).
+        - Assign the following agents (creator/author) to the finding aids of Rockefeller family associates papers:
+                - Primary associate
+                - Primary Rockefeller family member
+        - Consider assigning agents for prominent collaborators (creator/contributor) when appropriate.
+- Rockefeller University
+        - Rockefeller University records
+                - Assign Rockefeller University as creator/author.
+        - Faculty papers
+                - Assign Rockefeller University as creator/author.
+                - Assign primary faculty member (creator/author).
+                - Goal: These guides will have two creator/authors assigned – the faculty member, and the Rockefeller University.
+        - Assign agents for Laboratory Heads or prominent collaborators to applicable RU records or papers (creator/contributor).
 
 6\. Scope and Content [**(DACS 3.1)**](https://saa-ts-dacs.github.io/dacs/06_part_I/04_chapter_03/01_scope_and_content.html)
 
