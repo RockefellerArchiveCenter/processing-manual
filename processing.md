@@ -250,7 +250,7 @@ Naming Convention.
         - Other foundations
         - Goal: These finding aids will have the individual officer as the creator/author, and the significant foundation as creator/contributor.
     - Assign primary individual (creator/author) to Ford Foundation office files.
-	- Goal: These finding aids will have two creator/authors assigned – the individual officer, and the Ford Foundation.
+    	- Goal: These finding aids will have two creator/authors assigned – the individual officer, and the Ford Foundation.
 - Rockefeller Family
      - Assign primary Rockefeller family member(s) to applicable guides as creator/author or creator/contributor (as applicable).
      - Assign the following agents (creator/author) to the finding aids of Rockefeller family associates papers:
@@ -264,7 +264,7 @@ Naming Convention.
           - Assign Rockefeller University as creator/author.
           - Assign primary faculty member (creator/author).
           - Goal: These guides will have two creator/authors assigned – the faculty member, and the Rockefeller University.
-      - Assign agents for Laboratory Heads or prominent collaborators to applicable RU records or papers (creator/contributor).
+    - Assign agents for Laboratory Heads or prominent collaborators to applicable RU records or papers (creator/contributor).
 
 6\. Scope and Content [**(DACS 3.1)**](https://saa-ts-dacs.github.io/dacs/06_part_I/04_chapter_03/01_scope_and_content.html)
 
