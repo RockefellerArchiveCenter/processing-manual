@@ -792,8 +792,9 @@ Notes:
   [See PBCore controlled vocabulary](https://pbcore.org/pbcore-controlled-vocabularies) or Audiovisual Archivist for details.
 
 - **Physical Description** (Data should always be written in the sequence below.)
-    - Silent or Sound, Black and white or Color, xx minutes.
-    - Record, in Arabic numerals, the total duration/running time in minutes, normally rounded off to the nearest minute. Example: 75 minutes.
+    - Silent or Sound, Black and white or Color, xx minutes/hours.
+    - Record, in Arabic numerals, the total duration/running time, normally rounded off to the nearest minute. If the duration is under 2 hours (120 minutes), describe in minutes. Example: 115 minutes. If duration is longer than 2 hours, describe in hours. Example: 2 hours, 15 minutes.
+
 - **Physical Characteristics and Technical Requirements Note** (Not required; use only if needed to inform user of important playback issues.)
 
   <div class="docs-example">
