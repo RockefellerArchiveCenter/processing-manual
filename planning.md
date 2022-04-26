@@ -8,13 +8,13 @@ title:  "Guide to Processing Collections - Planning"
 ## Project Kickoff
 ### Step 1 - Project Kickoff
 
-- The Head of Processing sends a Project Kickoff (notification email) to assign a given collection/project to the archival staff member.
+- The Assistant Director for Processing sends a Project Kickoff (Teams notification) to assign a given collection/project to the archival staff member.
 - The Head of Processing also sends a corresponding Project Kickoff to the Head of Collections Management and to the supervisor of the staff member (when the assigned staff is not a member of the Processing Team).
 - The Kickoff informs the applicable staff that the work will soon take place, and it is comprised of basic information such as project volume, current location, and processing priority.
 
 ## Project Vitals
 
-### Step 2 - Create Project Vitals (or receive Vitals from Head of Processing)
+### Step 2 - Create Project Vitals (or receive Vitals from Assistant Director for Processing)
 
 - The assigned archival staff member begins his/her work on the project by compiling vital information about the assignment.
 - The Project Vitals documented is intended to serve as a simplified processing plan, focusing on the critical data necessary to visualize, plan, and execute the work ahead.
@@ -25,16 +25,16 @@ title:  "Guide to Processing Collections - Planning"
 
 ### Step 4 - Submit Draft of Project Vitals
 
-- The Project Vitals draft is submitted to the Head of Processing for discussion and approval.
+- The Project Vitals draft is submitted to the Assistant Director for Processing for discussion and approval.
 
 ### Step 5 - Save approved version of Vitals in the project management software
 
 - Saving all applicable project documentation in the project management software facilitates interdepartmental information sharing and teamwork.
-- The Project Vitals document will also be made available in the Processing folder of the RAC shared network drive.
+- The Project Vitals document will also be made available to all RAC staff through the RAC SharePoint network.
 
 ### Step 6 - Sharing the Project Vitals
 
-- Once the Project Vitals document is submitted, discussed, and approved, it is shared by the Head of Processing with the Archives Management Team and the Processing Team.
+- Once the Project Vitals document is submitted, discussed, and approved, it is shared by the Assistant Director for Processing with the Archives Management Team and the Processing Team.
 
 #### Project Vitals Template
 
@@ -60,13 +60,19 @@ title:  "Guide to Processing Collections - Planning"
     - Are any specialized supplies needed?
 5.  Processing Vitals
     - Conditions of Access
-    - Arrangement
-        - Standard – Original order/As received
-        - If NOT Standard – Propose an Arrangement
+    - Establishing Archival Context and Structure
+        - What are these records/papers?
+        - Who created them?
+        - What do they mean or represent?
+        - How, or by what process, were they created or maintained? (Together? Separate?)
+        - Are there any biases, institutional or personal, that might apply to the material?
+        - Arrangement
+            - Standard – Original order/As received
+            - If NOT Standard – Propose an Arrangement
     - Processing Level
 6.  Projected Work Time
 
-This Project Vitals template is also available in the Processing folder on the shared drive.
+This Project Vitals template is also available in the Processing folder of the All Staff SharePoint network.
 
 ## Supplies
 
@@ -78,13 +84,15 @@ This Project Vitals template is also available in the Processing folder on the s
     - Ordering, or confirmation of on-site availability, of RAC-preferred containers.
     - Identifying box-types that may already be assigned container profiles in the RAC collections management system.
     - Measuring the boxes to create container profiles when needed.
-    - Identifying and ordering of appropriately-sized mylar, paper enclosures, support products, and other supplies which facilitate stabilization and long-term preservation.
+    - Identifying and ordering of appropriately-sized mylar, paper enclosures, support products, and other supplies which facilitate stabilization and long-term preservation. 
+- To order supplies, submit a **Preservation Supplies Order** form available on the *InteRACt* front page
 
 ## Location Assignments
 
 ### Step 8 - Receive Location Assignments from Collections Management Team
 
 - All materials stored in RAC’s archival vaults are assigned vault/unit/shelf or drawer locations by the Collections Management team.
+- To request space, use the **Vault Space Request** form, available on the InteRACt front page 
 - **Processing archivist must request locations from the Collections Management team in advance of beginning the processing to allow ample time for space to be assigned.**
 - **Material should _NOT_ be shelved until authorization is received from Collections Management.**
 - Projects larger than 30 cu. ft. may have incremental location assignments.
