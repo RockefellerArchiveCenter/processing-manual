@@ -3,7 +3,7 @@ layout: docs
 title:  "Guide to Processing Collections - Processing"
 ---
 
-## *Establishing Archival Context and Structure*
+### *Establishing Archival Context and Structure*
 
 The processing phase of each assignment begins with contemplating five vital questions –  
 
@@ -51,7 +51,7 @@ The concepts of archival arrangement apply to the organization of all archival r
 
 Description reflects arrangement, but the physical arrangement of the items in a collection may or may not parallel the intellectual arrangement. Items that are described together may be stored separately because of their differing size, shape, condition, access or use conditions, physical composition, format or other factors.
 
-***Deep Dive – The Value of Arrangement Lies in its Flexibility***
+**Deep Dive – The Value of Arrangement Lies in its Flexibility**
 
 While ***Arrangement is no longer considered a fundamental principle of archival description*** (DACS-2019.03), it remains an important element of our efforts to document and express archival context and it provides practical instruction for creating useful description.  
 
@@ -79,7 +79,7 @@ Each individual map is:
 
 - A living document created, and maintained in Cartographer, an inhouse application developed in a cross-team collaboration with Processing, Digital Strategies, and Information Technology (IT).
 - Revised/updated whenever archival materials are processed, opened, or finding aids are created/removed.
-- To display your completed finding aid in an applicable map, contact the Assistant Director for Processing upon completion of your project.
+- *To display your completed finding aid in an applicable map, contact the Assistant Director for Processing upon completion of your project.*
 
 
 
@@ -119,7 +119,7 @@ order.
 
 *If assigned a project which necessitates considering broad arrangement options, __consult the Assistant Director for Processing and receive their approval before proceeding to alter the existing arrangement.__*
 
-# *Culturally Competent Description*
+### *Culturally Competent Description*
 
 Once archival context has been established, and a structure of the records is proposed, or otherwise identified and understood, archival description begins, and this work continues through all phases of the project until completion.
 
@@ -158,7 +158,7 @@ Before writing archival description, consider these points:
 - Whenever possible, identify women beyond their husbands’ names; this may require additional research.
     - In terms of applying reparative actions to legacy description that identifies women by their husbands’ names, the names should be deleted and replaced with names that center the woman’s identity. For example, for this legacy file title  “Pierrepont, Mrs. John (nee Mrs. A. Peter Dewey), 1941-1950”, delete the text and replace it with “Pierrepont, Nancy Weller”.
 - For further guidance, consult the [Anti-Racist Description Resources from the Archives for Black Lives in Philadelphia](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf) and the [University of Iowa’s Style Guide: Race and Ethnicity](https://diversity.uiowa.edu/resources/dei-style-guide/style-guide-race-and-ethnicity)
-The RAC has adopted the Society of American Archivists’ endorsed Describing Archives: A Content Standard (DACS) to govern the archival description of all RAC archival holdings, regardless of form, medium or creator (individuals, families or corporate bodies). For details, please refer to https://saa-ts-dacs.github.io/.
+The RAC has adopted the Society of American Archivists’ endorsed Describing Archives: A Content Standard (DACS) to govern the archival description of all RAC archival holdings, regardless of form, medium or creator (individuals, families or corporate bodies). For details, please refer to [https://saa-ts-dacs.github.io/](https://saa-ts-dacs.github.io/).
 
 #### Redescription
 
@@ -305,8 +305,8 @@ Identifying, assigning, and creating agents can significantly improve our capaci
 - RAC has compiled a significant library of agent records.
 - Focus on using and assigning existing agents whenever applicable.
 - Link the following information to agent records when assigned
-      - Role – Creator
-      - Relator – Author or Contributor
+  - Role – Creator
+  - Relator – Author or Contributor
 - Assign agents for primary creators or contributors at the collection level/top of finding aid.
 - Efforts should also be made to assign agents for those known individuals actively creating or contributing to the records and conducting the work of an office/foundation/institution/organization on a daily basis.
 - For any questions regarding assigning agents, please contact the Assistant Director for Processing.
@@ -336,32 +336,32 @@ Identifying, assigning, and creating agents can significantly improve our capaci
           - Goal: These guides will have two creator/authors assigned – the faculty member, and the Rockefeller University.
     - Assign agents for Laboratory Heads or prominent collaborators to applicable RU records or papers (creator/contributor).
 
-  **General Guidelines for Creating Agents**
+**General Guidelines for Creating Agents**
 
-  *\*\*Prior to creating any new agents -- Search agent records to confirm if a record exists for the given agent. If a record exists do NOT create a new agent\*\**
-  - If a record does NOT already exist for a given agent, a new record may be created.
-  - Record the following information in newly created agent records
-    - Agent Type
-        - Person
-        - Corporate Entity
-            - Corporate agents may require recording of the language/script.
-        - Family
-    - Name Form
-        - Primary Part of Name
-        - Rest of Name
-        - Use Authorized forms of names whenever possible, such as:
-            - NACO Authority File
-            - SNAC
-            - Union List of Artists Names
-            - Other more specific authority files as applicable
-        - Recording the Authority ID is optional.
-      - Dates of Existence
-        - Format: Year-Year (unless specific birth/death dates are known)
-        - Date Expression (Begin and End dates)
-        - Standardized Date (Begin and End dates)
-      - Biographical/Historical Note
-        - The Agent record serves as the data home for biographical/institutional history notes.
-        - Easily accessed, revised and maintained and linked to all applicable collections.
+*\*\*Prior to creating any new agents -- Search agent records to confirm if a record exists for the given agent. If a record exists do NOT create a new agent\*\**
+- If a record does NOT already exist for a given agent, a new record may be created.
+- Record the following information in newly created agent records
+  - Agent Type
+      - Person
+      - Corporate Entity
+          - Corporate agents may require recording of the language/script.
+      - Family
+  - Name Form
+      - Primary Part of Name
+      - Rest of Name
+      - Use Authorized forms of names whenever possible, such as:
+          - NACO Authority File
+          - SNAC
+          - Union List of Artists Names
+          - Other more specific authority files as applicable
+      - Recording the Authority ID is optional.
+  - Dates of Existence
+      - Format: Year-Year (unless specific birth/death dates are known)
+      - Date Expression (Begin and End dates)
+      - Standardized Date (Begin and End dates)
+  - Biographical/Historical Note
+      - The Agent record serves as the data home for biographical/institutional history notes.
+      - Easily accessed, revised and maintained and linked to all applicable collections.
   - All Agents should be published.
 
   **Merging Agents**
@@ -779,7 +779,7 @@ At-risk materials should be retained within the originating collection. Some com
 - All pertinent books, brochures, grant reports, journals, pamphlets, papers, periodicals, reprints, studies, and publications found in an archival collection should be retained within the body of the originating collection.
 - Previous practice to care for these materials as Library items had a detrimental impact on access and often resulted in the loss of originating context.
 
-### Archival Materials to be retained within paper-based collections
+#### Archival Materials to be retained within paper-based collections
 
 A. All materials that are an integral part of the originating accession/collection should be retained, including those for which provenance and the contextual relationship among and between associated records is essential.
 
@@ -929,13 +929,15 @@ Notes:
 - **Processing Information Note**
   - The following statement should be used to provide further context and explain that titles within audiovisual materials may be offensive because original/formal titles are not changed and that description provided by a creator might be problematic.
 
-The Rockefeller Archive Center recognizes that our audiovisual materials may contain problematic language and/or content.
+<div class="docs-example">
+<p>The Rockefeller Archive Center recognizes that our audiovisual materials may contain problematic language and/or content.</p>
 
-The films, videos, and/or sound in this collection have not been altered in any way. All titles and/or content are illustrative of the creator’s original vision. As such, this audiovisual collection may contain discriminatory visual and/or aural content that is representative of racial, gendered, or ableist biases.
+<p>The films, videos, and/or sound in this collection have not been altered in any way. All titles and/or content are illustrative of the creator’s original vision. As such, this audiovisual collection may contain discriminatory visual and/or aural content that is representative of racial, gendered, or ableist biases.</p>
 
-Accompanying description, most often with creator or donor-generated language and terminology, has to this point been retained and maintained “as received” by RAC with minimal archivist intervention or augmentation.
+<p>Accompanying description, most often with creator or donor-generated language and terminology, has to this point been retained and maintained “as received” by RAC with minimal archivist intervention or augmentation.</p>
 
-We acknowledge these problems and aim to cultivate inclusive representation and equity by reconsidering and enhancing our description of this audiovisual material with current sensibilities.
+<p>We acknowledge these problems and aim to cultivate inclusive representation and equity by reconsidering and enhancing our description of this audiovisual material with current sensibilities.</p>
+ </div>
 
 - **Physical Characteristics and Technical Requirements Note** (Not required; use only if needed to inform user of important playback issues.)
 
@@ -1113,7 +1115,7 @@ The processing archivist will:
           - the transfer method (disk image, rip tracks, copy files)
           - the item's original carrier type.
           - the year of transfer
-          - Using this data, record the information as a natural language statement in a Processing Information note in the finding aid::
+          - Using this data, record the information as a natural language statement in a Processing Information note in the finding aid:
 
         <div class="docs-example">
         <p>“This item was <strong>imaged</strong> from a <strong>CDROM</strong> in <strong>2017</strong>”</p>
@@ -1134,7 +1136,7 @@ Transparency in the dissemination of information is a critical element of the ar
 
 _During RACcess registration, all users agree to the terms of access/use of all RAC holdings._
 
-_If questions regarding restricted or potentially restricted materials arise during processing, please consult with the the Assistant Director for Processing._
+_If questions regarding restricted or potentially restricted materials arise during processing, please consult with the Assistant Director for Processing._
 
 ### Step 23 - Label Physical Folders Containing Restricted Material in Accordance with RAC Guidelines
 
@@ -1164,7 +1166,7 @@ requirements.
 
 Common types of records that fall into this category are:
 
-1\.  _Personnel files (and/or personnel-like records)_ are restricted to ensure personal privacy and restrict access to materials generally considered confidential between an individual and his or her employer. Personnel records include: employment applications, resumes/CVs, letters of appointment, personal references, salary or withholding statements, performance evaluations, and other correspondence discussing general or particular circumstances of an individual’s employment or job performance. Personnel records also often include personal injury and/or workers compensation insurance records or claims and pension documents. Records gathered in the course of conducting an executive search, or in filling a professional position, may also be restricted. Please consult the the Assistant Director for Processing with any questions regarding the restriction of personnel materials.
+1\.  _Personnel files (and/or personnel-like records)_ are restricted to ensure personal privacy and restrict access to materials generally considered confidential between an individual and his or her employer. Personnel records include: employment applications, resumes/CVs, letters of appointment, personal references, salary or withholding statements, performance evaluations, and other correspondence discussing general or particular circumstances of an individual’s employment or job performance. Personnel records also often include personal injury and/or workers compensation insurance records or claims and pension documents. Records gathered in the course of conducting an executive search, or in filling a professional position, may also be restricted. Please consult the Assistant Director for Processing with any questions regarding the restriction of personnel materials.
 
   - Example of standard RAC file-level access note -
 
@@ -1344,7 +1346,7 @@ preservation photocopies include: deteriorated newspaper clippings, thermo fax a
 
 - All containers are barcoded at the box-level.
 - Affix barcodes to the front center of the box lid below the box label, or in the front center of the box just above the pull tab. (See Collections Management for details).
-- If barcoding flat files or temporary containers housing audiovisual containers, please consult the Head of Processing.
+- If barcoding flat files or temporary containers housing audiovisual containers, please consult the Assistant Director for Processing.
 
 ## Shelve Processed Records
 
@@ -1361,7 +1363,7 @@ Record the following Container Management data in the finding aid:
 - Locations
 - Barcodes
 - Container profiles
-- For further assistance, see the Head of Processing.
+- For further assistance, see the Assistant Director for Processing.
 
 ## Finishing the Project
 
@@ -1435,8 +1437,8 @@ Commonly used notes may include:
 
 ### Step 36 – Revise Accession Record(s)
 
-- Prompt the Head of Processing to revise the applicable accession record(s).
-- Head of Processing will:
+- Prompt the Assistant Director for Processing to revise the applicable accession record(s).
+- Assistant Director for Processing will:
     - Link Related Accession record(s) to Resource.
     - Delete Box Instances from Accession record(s).
 
@@ -1451,12 +1453,12 @@ Commonly used notes may include:
 
 ### Step 38 - Publish Finding Aid
 
-- Submit the draft finding aid to the Head of Processing for final review.
-- Once approval has been received from the Head of Processing, “check” the publish box at the highest level of the finding aid to publish the guide.
+- Submit the draft finding aid to the Assistant Director for Processing for final review.
+- Once approval has been received from the Assistant Director for Processing, “check” the publish box at the highest level of the finding aid to publish the guide.
 - If any individual components are NOT to be shown online, uncheck the publish box for the applicable component(s).
 - RAC DIMES automatically updates once a day. Newly published guide(s) will be available in DIMES the following day.
 
-### Step 39 - Submit Any Materials Proposed for Shredding to Head of Processing
+### Step 39 - Submit Any Materials Proposed for Shredding to Assistant Director for Processing
 
 ### Step 40 - DONE!!!
 
