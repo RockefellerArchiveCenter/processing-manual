@@ -362,13 +362,13 @@ Identifying, assigning, and creating agents can significantly improve our capaci
   - Biographical/Historical Note
       - The Agent record serves as the data home for biographical/institutional history notes.
       - Easily accessed, revised and maintained and linked to all applicable collections.
-  - All Agents should be published.
+- All Agents should be published.
 
-  **Merging Agents**
+**Merging Agents**
 
-  - In the rare case when two agent records exist for the same agent, contact the Assistant Director for Processing.
-  - ***Merging agents can result in DATA LOSS.***
-  - *\*\*Merging agents must be pre-approved, or otherwise conducted, by the Assistant Director for Processing.\*\**
+- In the rare case when two agent records exist for the same agent, contact the Assistant Director for Processing.
+- ***Merging agents can result in DATA LOSS.***
+- *\*\*Merging agents must be pre-approved, or otherwise conducted, by the Assistant Director for Processing.\*\**
 
 6\. Scope and Content [**(DACS 3.1)**](https://saa-ts-dacs.github.io/dacs/06_part_I/04_chapter_03/01_scope_and_content.html)
 
@@ -670,8 +670,8 @@ If the organization in question has continued to operate into present times, its
 - RAC actively uses an automated date parser plug-in for ArchivesSpace called Timewalk.
 - Timewalk will automatically parse any values in ArchivesSpace's Date Expresssion field into ISO8601-compliant Begin and End values. In addition, it will parse out date certainties and set the calendar/era values automatically.
 - Automatically creating begin/end dates in a standardized manner facilitates accurate use of the Date Calculator in ArchivesSpace.
-- To ensure that Timewalk records dates properly, please follow all recommendations in this section for the creation of date expressions.
-- After creating the Date Expression and entering all applicable data in the field, record the Date Type as Inclusive Dates, and then leave the Begin/End date fields blank. When the record is saved, TimeWalk will automatically create the begin/end date.
+- *To ensure that Timewalk records dates properly, please follow all recommendations in this section for the creation of date expressions.*
+- **After creating the Date Expression and entering all applicable data in the field, record the Date Type as Inclusive Dates, and then leave the Begin/End date fields blank. When the record is saved, TimeWalk will automatically create the begin/end date.**
 
 ### Date Expression
 
@@ -929,15 +929,15 @@ Notes:
 - **Processing Information Note**
   - The following statement should be used to provide further context and explain that titles within audiovisual materials may be offensive because original/formal titles are not changed and that description provided by a creator might be problematic.
 
-<div class="docs-example">
-<p>The Rockefeller Archive Center recognizes that our audiovisual materials may contain problematic language and/or content.</p>
+    <div class="docs-example">
+    <p>The Rockefeller Archive Center recognizes that our audiovisual materials may contain problematic language and/or content.</p>
 
-<p>The films, videos, and/or sound in this collection have not been altered in any way. All titles and/or content are illustrative of the creator’s original vision. As such, this audiovisual collection may contain discriminatory visual and/or aural content that is representative of racial, gendered, or ableist biases.</p>
+    <p>The films, videos, and/or sound in this collection have not been altered in any way. All titles and/or content are illustrative of the creator’s original vision. As such, this audiovisual collection may contain discriminatory visual and/or aural content that is representative of racial, gendered, or ableist biases.</p>
 
-<p>Accompanying description, most often with creator or donor-generated language and terminology, has to this point been retained and maintained “as received” by RAC with minimal archivist intervention or augmentation.</p>
+    <p>Accompanying description, most often with creator or donor-generated language and terminology, has to this point been retained and maintained “as received” by RAC with minimal archivist intervention or augmentation.</p>
 
-<p>We acknowledge these problems and aim to cultivate inclusive representation and equity by reconsidering and enhancing our description of this audiovisual material with current sensibilities.</p>
- </div>
+    <p>We acknowledge these problems and aim to cultivate inclusive representation and equity by reconsidering and enhancing our description of this audiovisual material with current sensibilities.</p>
+     </div>
 
 - **Physical Characteristics and Technical Requirements Note** (Not required; use only if needed to inform user of important playback issues.)
 
@@ -1326,7 +1326,7 @@ Acid-free, lignin-free paper consists of 25% cotton rag content; this paper is d
 photocopying by its composition and the placement of a ‘watermark’. This mark is visible most clearly when the paper is held up to a light source. _A preservation photocopy must bear a stamp applied by the archivist noting ‘Archival Copy’_ in order to distinguish the copy as a facsimile.
 
 If the item bears no intrinsic value, the facsimile serves to replace the original in the collection, and the original item is
-discarded/shredded. _All materials proposed for shredding must follow the RAC destruction protocol_, [see Step 39](#step-39---submit-any-materials-proposed-for-shredding-to-head-of-processing). If the item is of value in its original format, consult with the Assistant Director for Processing regarding its retention. When an original is retained with restricted access, a condition of access note should be added at the appropriate level of description to indicate that the material is "restricted due to
+discarded/shredded. _All materials proposed for shredding must follow the RAC destruction protocol_, [see Step 39](#step-39---submit-any-materials-proposed-for-shredding-to-assistant-director-for-processing). If the item is of value in its original format, consult with the Assistant Director for Processing regarding its retention. When an original is retained with restricted access, a condition of access note should be added at the appropriate level of description to indicate that the material is "restricted due to
 preservation concerns". _Note: A preservation photocopy is a ‘gray tone’ image; a color copy of a document may accurately duplicate tonal qualities however color is not a preservation-standard representation. It is essential to retain established order when removing documents from a collection or folder for photocopying. Carefully mark the item location(s), and after copying, replace the item(s) in the original order._
 
 Most archival material may be accurately duplicated using in-house
@@ -1378,26 +1378,49 @@ Record the following Container Management data in the finding aid:
 - Materials will be evaluated for potential reformatting and eligible items will be considered for digitization (either through in house procedures or outsourced to an appropriate vendor).
 - Once an access copy has been created, the Processing Archivist will be contacted to potentially view/listen to the material and further enhance the available description.
 
-### Step 32 – Transfer eligible Published Materials to the RAC Library
+### Step 32 – Subjects
 
-- Drop off eligible published materials in the designated location. (See Collections Management for details.)
-- Eligible materials include but are not necessarily limited to:
-    - Collections or accessions whose entire contents is published materials within the
-      scope of the RAC Library collecting policy.
-    - Published studies, reports and scientific or technical publications sponsored by, or otherwise produced through, direct grants or funding from RAC or a donor/depositor.
-- No more than two copies of any publication will be acquired, cataloged and added to the Library collection. (Any additional copies should be submitted for disposal or return to the donor/depositor in accordance with RAC Collections Management procedure.)
-- Bibliographic records will be created in the Collection Management system by RAC Collections Management/Library staff as applicable.
-- The processing archivist should provide Collections Management/Library staff:
-    - The Resource ID Number (FA#)
-    - Accession/Collection Title
-    - If no applicable Finding Aid is created, provide the accession number.
-- No separation number(s) is assigned, and the separation sheet is not used.
-- No archival description should be added to the finding aid.
+Creating and/or assigning standardized subject terms helps to further illuminate the functions, activities, events, places, and ideas documented in the records being described. When thoughtfully assigned, subjects offer a powerful tool for broadly researching among and between collections.
+Subject terms can also be utilized to draw attention to materials created by or about underrepresented groups. Processors should be mindful of offensive, outdated, or inaccurate subject terms that might still be present within the RAC’s list of subject terms (for example: “Art, Primitive” and “Illegal Aliens.” Please use the Report Problematic Description tool if there are subject terms that should be reviewed and removed.
+**\*\* “Can’t see the forest for the trees” Do NOT overuse Subjects. Overuse could be detrimental to data access \*\***
 
-### Step 33 – Inform Collections Management of the Original Boxes/Box Numbers That Have Been Eliminated During Processing
+**General Guidelines for Creating or Assigning Subjects**
 
-- As collections/accessions are processed and documented in the collections management system, the Collections Management team removes the corresponding notations from the RAC Master Shelf List.
-- Ultimately, all archival materials will be documented in the RAC collections management system, and the Master Shelf List will be phased out.
+*\*\*Prior to creating any new subjects -- Search subject records to confirm if a record exists for the given subject. If a record exists do NOT create a new subject\*\**
+
+- Create or assign Subjects only when the terms are directly associated to the material being described.
+  - Topical
+  - Geographic
+  - Genre form
+- Assign only to aggregates of records -- at collection, record group, subgroup, series, or subseries level. Do not assign at file-level.
+- As with description of archival records, the principle of inheritance applies to structured terms.
+  - Any term assigned to an entire collection or the top level of a finding aid, applies to ALL components/objects within that collection/finding aid.
+  - Terms should only be assigned at a lower-level if those terms are directly and specifically associated to that given level (and not directly and specifically associated to any higher levels).
+- Subject Authorities include:
+  - [Library of Congress Subject Headings (LCSH)](https://id.loc.gov/authorities/subjects.html)
+    - Widely recognized and used across archives LCSH and are the source for many of the RAC’s subject terms. Because of the periodic revisions the Library of Congress (LOC) makes to the terms, LCSH terms can be consulted for the purposes of applying subjects to the records of the RAC, and the most up-to-date terms can often be used and retained within the RAC’s repository. Nevertheless, subject terms cannot be exclusively sourced from LCSH because of biases embedded in the terms and because of LCSH delays in responding to community needs. LCSH terms that communities have identified as harmful to them should be avoided.
+  - Getty Research Institute Art & Architecture Thesaurus
+  - Alternative authorities are available for more specialized records, more specific subjects, or for the purpose of procuring terms that are more in line with the language communities use to describe themselves.
+    - If the authority being consulted is not available as a source in ArchivesSpace, utilize the subject terms’ scope note to identify the authority used.
+  - Terms may also be created locally (when applicable).
+
+**Merging or Removing Subjects**
+
+- Please submit an Archival Description Concern form:
+  - In the rare case when two or more subject records exist for the same term.
+  - To identify harmful existing terms that may be good candidates for removal or merging with another authorized term that more accurately or respectfully represents the concept.
+    - For example: “Afro-American politicians” can be merged into “African-American politicians”.
+    - Removed/Deleted terms may be replaced with a newly created, or newly identified, culturally conscious authorized term.
+- **Merging or removing agents can result in DATA LOSS.**
+- *\*\*Merging or removing agents must be pre-approved, or otherwise conducted, by the Assistant Director for Processing.\*\**
+
+### Step 33 – Finalize Agents
+
+- Update or confirm data recorded in applicable agent records.
+- Update or confirm agent assignments (authors/contributors)
+- Record or revise Biographical/Historical sketch in Agent record [**(DACS 2.7)**](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/07_administrative_biographical_history.html)
+    - Provide information about the corporate body, person, or family that created, assembled, accumulated, and/or maintained and used the materials being described. This element also describes the relationship of creators to archival materials by providing information about the context in which those materials were created.
+- See Step 13 for details on creating and/or assigning agents.
 
 ### Step 34 – Add Local RAC-Required Single-Level Notes
 
@@ -1405,8 +1428,24 @@ Record the following Container Management data in the finding aid:
     - Describe the current organization of the collection.
     - At the collection level provide the names and numbers for the
         major components of the collection/accession such as the Series.
-- Preferred Citation – Standard RAC note
-    - Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at on the [RAC website](https://www.rockarch.org/collections/access-and-request-materials/##citations)
+- Processing Information Note
+
+  <div class="docs-example">
+  <p>For legacy mixed materials/paper collections, or in the case where reparative redescription actions have NOT yet been taken (during processing or otherwise), the following statement should be used to provide further context and explain that titles or proper names may be offensive because original titles are not changed and that description provided by a creator might be inadequate:
+  The Rockefeller Archive Center recognizes that our archival collections may contain problematic language and/or content.</p>
+
+  <p>Accompanying description, most often with creator or donor-generated language and terminology, has to this point been retained and maintained “as received” by RAC with minimal archivist intervention or augmentation.</p>
+
+  <p>We acknowledge these problems and aim to cultivate inclusive representation and equity by reconsidering and enhancing our description of this material with current sensibilities.</p>
+  </div>
+
+Following reparative redescription actions, including if/when any such actions are taken during processing, the following statement should be used:
+
+  <div class="docs-example">
+  Reparative redescription actions have been taken to reconsider and enhance the description of this material. As we aim to cultivate inclusive representation and equity in our archives, reparative actions will continue as necessary.
+  </div>
+
+- Adding applicable notes to components at lower levels is optional.
 
 ### Step 35 – Add Single-Level/Multi-Level Notes to Finding Aid in Accordance with Assigned Processing Level
 
@@ -1428,11 +1467,15 @@ Commonly used notes may include:
 - Related materials note [**(DACS 6.3)**](https://saa-ts-dacs.github.io/dacs/06_part_I/07_chapter_06/03_related_archival_materials.html)
     - Indicate the existence and location of archival materials that are closely related to the materials being described by provenance, sphere of activity, or subject matter, either in the same repository, in other repositories, or elsewhere.
     - If there are materials that have a direct and significant connection to those being described by reason of closely shared responsibility or sphere of activity, provide the title, location, and, optionally, the reference number(s) of the related materials and their relationship with the materials being described.
-    - If the materials are available at RAC, a link to the applicable finding aid can be provided.
+    - If the materials are available at RAC, indicate the applicable finding aid.
     - If the materials are available at another repository, a general reference to the repository will suffice.
 - Series-Level or Component-Level notes
     - Always focus all multi-level notes specifically on the level and the material being described.
     - For example, a scope and content note at the Series level should focus only on documenting the content of that given series.
+- Arrangement Map
+  - General notes pertaining to an entire collection can be added at the Top Level of the collection’s Arrangement Map.
+  - Utilizing the arrangement map can help reduce or eliminate data duplication.
+  - Contact Assistant Director for Processing for more information and assistance.
 - Other notes as recommended in Project Vitals.
 
 ### Step 36 – Revise Accession Record(s)
@@ -1445,6 +1488,7 @@ Commonly used notes may include:
 ### Step 37 - Finalize Front Matter Notes
 
 - Update or confirm final calculations for the Date and Extent elements, and compose final Scope and Content note. [(See Additional Required Collection Level Elements)](#additional-required-collection-level-elements).
+- The Date Calculator and Extent Calculator (cu. ft.) should be used at all major component levels (Collection/Top of Guide, RG, SG, Series) as applicable.
 - The final Extent calculations should include a natural language Container Summary statement describing the number and type of archival containers used.
 
   <div class="docs-example">
@@ -1456,7 +1500,8 @@ Commonly used notes may include:
 - Submit the draft finding aid to the Assistant Director for Processing for final review.
 - Once approval has been received from the Assistant Director for Processing, “check” the publish box at the highest level of the finding aid to publish the guide.
 - If any individual components are NOT to be shown online, uncheck the publish box for the applicable component(s).
-- RAC DIMES automatically updates once a day. Newly published guide(s) will be available in DIMES the following day.
+- If the finding aid is part of a collection documented in multiple resource records, prompt the Assistant Director for Processing to update the applicable Arrangement Map.
+- RAC DIMES automatically updates once a day. Newly published guide(s) will be available in DIMES shortly after publication.
 
 ### Step 39 - Submit Any Materials Proposed for Shredding to Assistant Director for Processing
 
