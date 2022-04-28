@@ -1382,6 +1382,7 @@ Record the following Container Management data in the finding aid:
 
 Creating and/or assigning standardized subject terms helps to further illuminate the functions, activities, events, places, and ideas documented in the records being described. When thoughtfully assigned, subjects offer a powerful tool for broadly researching among and between collections.
 Subject terms can also be utilized to draw attention to materials created by or about underrepresented groups. Processors should be mindful of offensive, outdated, or inaccurate subject terms that might still be present within the RAC’s list of subject terms (for example: “Art, Primitive” and “Illegal Aliens.” Please use the Report Problematic Description tool if there are subject terms that should be reviewed and removed.
+
 **\*\* “Can’t see the forest for the trees” Do NOT overuse Subjects. Overuse could be detrimental to data access \*\***
 
 **General Guidelines for Creating or Assigning Subjects**
@@ -1420,7 +1421,7 @@ Subject terms can also be utilized to draw attention to materials created by or 
 - Update or confirm agent assignments (authors/contributors)
 - Record or revise Biographical/Historical sketch in Agent record [**(DACS 2.7)**](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/07_administrative_biographical_history.html)
     - Provide information about the corporate body, person, or family that created, assembled, accumulated, and/or maintained and used the materials being described. This element also describes the relationship of creators to archival materials by providing information about the context in which those materials were created.
-- See Step 13 for details on creating and/or assigning agents.
+- See [Step 13](#building-the-finding-aid) for details on creating and/or assigning agents.
 
 ### Step 34 – Add Local RAC-Required Single-Level Notes
 
@@ -1430,8 +1431,10 @@ Subject terms can also be utilized to draw attention to materials created by or 
         major components of the collection/accession such as the Series.
 - Processing Information Note
 
+  For legacy mixed materials/paper collections, or in the case where reparative redescription actions have NOT yet been taken (during processing or otherwise), the following statement should be used to provide further context and explain that titles or proper names may be offensive because original titles are not changed and that description provided by a creator might be inadequate:
+
   <div class="docs-example">
-  <p>For legacy mixed materials/paper collections, or in the case where reparative redescription actions have NOT yet been taken (during processing or otherwise), the following statement should be used to provide further context and explain that titles or proper names may be offensive because original titles are not changed and that description provided by a creator might be inadequate:
+  <p>
   The Rockefeller Archive Center recognizes that our archival collections may contain problematic language and/or content.</p>
 
   <p>Accompanying description, most often with creator or donor-generated language and terminology, has to this point been retained and maintained “as received” by RAC with minimal archivist intervention or augmentation.</p>
@@ -1451,8 +1454,6 @@ Following reparative redescription actions, including if/when any such actions a
 
 Commonly used notes may include:
 
-- Biographical/Historical sketch [**(DACS 2.7)**](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/07_administrative_biographical_history.html)
-    - Provide information about the corporate body, person, or family that created, assembled, accumulated, and/or maintained and used the materials being described. This element also describes the relationship of creators to archival materials by providing information about the context in which those materials were created.
 - Conditions Governing Use [**(DACS 4.4)**](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/04_conditions_governing_reproduction_and_use.html)
     - Identify any restrictions on reproduction due to copyright or other reasons, as well as restrictions on further use of the materials being described, such as publication, after access has been provided.
 - Immediate Source of Acquisition [**(DACS 5.2)**](https://saa-ts-dacs.github.io/dacs/06_part_I/06_chapter_05/02_immediate_source_of_acquisition.html)
@@ -1501,7 +1502,7 @@ Commonly used notes may include:
 - Once approval has been received from the Assistant Director for Processing, “check” the publish box at the highest level of the finding aid to publish the guide.
 - If any individual components are NOT to be shown online, uncheck the publish box for the applicable component(s).
 - If the finding aid is part of a collection documented in multiple resource records, prompt the Assistant Director for Processing to update the applicable Arrangement Map.
-- RAC DIMES automatically updates once a day. Newly published guide(s) will be available in DIMES shortly after publication.
+- RAC DIMES automatically updates. Newly published guide(s) will be available in DIMES shortly after publication.
 
 ### Step 39 - Submit Any Materials Proposed for Shredding to Assistant Director for Processing
 
@@ -1511,5 +1512,5 @@ Rejoice
 
 ## Endnotes
 
-[^1]: Tang, Annie. “Dealing with Dealer Descriptions: Navigating Black and Asian Identities as Creators and Subjects in Purchased Manuscripts Collections.” In “Toward Culturally Competent Archival (Re)Description of Marginalized Histories”, by Tang, Annie; Berry, Dorothy; Bolding, Kelly; and Winston, Rachel E. (2018). Library Presentations, Posters, and Videos. Society of American Archivists Conference Presentation. ↩
-[^2]: Farnel, Sharon, et al. “Rethinking representation: indigenous peoples and contexts at the University of Alberta Libraries.” (2018). ↩
+[^1]: Tang, Annie. “Dealing with Dealer Descriptions: Navigating Black and Asian Identities as Creators and Subjects in Purchased Manuscripts Collections.” In “Toward Culturally Competent Archival (Re)Description of Marginalized Histories”, by Tang, Annie; Berry, Dorothy; Bolding, Kelly; and Winston, Rachel E. (2018). Library Presentations, Posters, and Videos. Society of American Archivists Conference Presentation.
+[^2]: Farnel, Sharon, et al. “Rethinking representation: indigenous peoples and contexts at the University of Alberta Libraries.” (2018).
