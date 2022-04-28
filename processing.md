@@ -35,7 +35,7 @@ At its core, archival processing is an iterative process that identifies and des
 
 Aggregate centered multi-level description begins with a description of the whole, and proceeds hierarchically through identifying subgroupings within each set of records progressing down to the desired level of specificity to facilitate effective use and management of the collection and open the material to research as quickly as possible.
 
-This process strives to represent content within context, and thus provide users the opportunity to seek, and hopefully find, value and meaning in the records we hold.
+*This process strives to represent content within context*, and thus provide users the opportunity to seek, and hopefully find, value and meaning in the records we hold.
 
 The hierarchical levels of description commonly used at RAC are: Collection, Record Group, Subgroup, Series, Subseries, and File.
 
@@ -45,7 +45,7 @@ What we learn about the agents, functions, events, and other actors documented i
 
 ***Arrangement***
 
-Arrangement is a long-standing element of archival theory that is generally defined as the organizing and sequencing of materials in a collection in a meaningful way. More specifically, it is most often associated with the process of organizing materials with respect to provenance and original order, theoretically considered the order established by the creator, to preserve context and to attain physical and intellectual control of the holdings.
+*Arrangement* is a long-standing element of archival theory that is generally defined as the organizing and sequencing of materials in a collection in a meaningful way. More specifically, it is most often associated with the process of organizing materials with respect to provenance and *original order*, theoretically considered the order established by the creator, to preserve context and to attain physical and intellectual control of the holdings.
 
 The concepts of archival arrangement apply to the organization of all archival records, across all applicable hierarchical levels, regardless of format, including paper materials, audiovisual materials, hybrid and digital records.
 
@@ -53,7 +53,7 @@ Description reflects arrangement, but the physical arrangement of the items in a
 
 **Deep Dive – The Value of Arrangement Lies in its Flexibility**
 
-While ***Arrangement is no longer considered a fundamental principle of archival description*** (DACS-2019.03), it remains an important element of our efforts to document and express archival context and it provides practical instruction for creating useful description.  
+While ***Arrangement is no longer considered a fundamental principle of archival description*** [DACS-2019.03)](https://saa-ts-dacs.github.io/dacs/04_statement_of_principles.html#original-order-and-arrangement-as-archival-context), it remains an important element of our efforts to document and express archival context and it provides practical instruction for creating useful description.  
 
 In so doing **we recognize that arrangement of collections is not static.** Intellectual control may be cyclical or change over time. In fact, over their lifespan a given set of records may have been used, arranged, or maintained in multiple different ways. This is particularly true for digital records or “hybrid” collections (which consist of multiple formats including paper and digital files) that are often created and maintained in different or multiple file structures.
 
@@ -158,13 +158,13 @@ Before writing archival description, consider these points:
 - Whenever possible, identify women beyond their husbands’ names; this may require additional research.
     - In terms of applying reparative actions to legacy description that identifies women by their husbands’ names, the names should be deleted and replaced with names that center the woman’s identity. For example, for this legacy file title  “Pierrepont, Mrs. John (nee Mrs. A. Peter Dewey), 1941-1950”, delete the text and replace it with “Pierrepont, Nancy Weller”.
 - For further guidance, consult the [Anti-Racist Description Resources from the Archives for Black Lives in Philadelphia](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf) and the [University of Iowa’s Style Guide: Race and Ethnicity](https://diversity.uiowa.edu/resources/dei-style-guide/style-guide-race-and-ethnicity)
-The RAC has adopted the Society of American Archivists’ endorsed Describing Archives: A Content Standard (DACS) to govern the archival description of all RAC archival holdings, regardless of form, medium or creator (individuals, families or corporate bodies). For details, please refer to [https://saa-ts-dacs.github.io/](https://saa-ts-dacs.github.io/).
+The RAC has adopted the Society of American Archivists’ endorsed *Describing Archives: A Content Standard (DACS)* to govern the archival description of all RAC archival holdings, regardless of form, medium or creator (individuals, families or corporate bodies). For details, please refer to [https://saa-ts-dacs.github.io/](https://saa-ts-dacs.github.io/).
 
 #### Redescription
 
 As a project finishes, or as processing of a given collection concludes, the Processing Team periodically takes further steps to evaluate, improve, and optimize the description through editing, updating, and at times performing reparative redescription, of all collection guides as necessary. Project assignments given to any processing archivist may, and often do, include redescription activities.
 
-Redescription projects may take the form of targeted efforts to improve or enhance description in accordance with institutional or team initiatives, such as large-scale data cleanup efforts, as well as evaluation, maintenance, and expansion of additional access points. Significant priority is also placed on repository wide ongoing reparative activities such as the Culturally Competent Description Action Campaign.
+Redescription projects may take the form of targeted efforts to improve or enhance description in accordance with institutional or team initiatives, such as large-scale data cleanup efforts, as well as evaluation, maintenance, and expansion of additional access points. Significant priority is also placed on repository wide ongoing reparative activities such as the *Culturally Competent Description Action Campaign*.
 
 Largely due to the archival professions’ preferred processing practice of retaining original order and original description, including donor-sourced titles, problematic language is present in finding aids throughout RAC’s archival holdings, and may exist at any hierarchical level of archival description (collection, series, file, etc.). The descriptive elements most commonly impacted include, but are not limited to:
 
