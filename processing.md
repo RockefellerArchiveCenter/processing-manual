@@ -139,22 +139,34 @@ Before writing archival description, consider these points:
 
 #### Language, Naming Choices, and Power Dynamics
 
-- Avoid passive voice; assign agency to individuals and organizations.
-    - Example of passive voice: “The land was cleared of more than 200 brownstone houses and other antiquated buildings, and the first fourteen buildings of the Rockefeller Center were erected between 1931 and 1940.” Biographical note, John D. Rockefeller, Jr. Papers.
+- Avoid passive voice; assign agency to individuals and organizations. Example of passive voice:
+    <div class="docs-example">
+        <p>Example of passive voice: “The land was cleared of more than 200 brownstone houses and other antiquated buildings, and the first fourteen        buildings of the Rockefeller Center were erected between 1931 and 1940.” Biographical note, John D. Rockefeller, Jr. Papers.</p>
+    </div>
 - Use direct language. Avoid euphemisms to ensure that researchers can locate materials.
-    - The subject term, “Japanese Americans -- Evacuation and relocation, 1942-1945,” should not be used and should be replaced with another appropriate subject term, for example, “Japanese Americans – Internment, 1942-1945”
+    <div class="docs-example">
+        <p>The subject term, “Japanese Americans -- Evacuation and relocation, 1942-1945,” should not be used and should be replaced with another appropriate subject term, for example, “Japanese Americans – Internment, 1942-1945”</p>
+    </div>
 - Use accessible language.
 - Include and identify all known key creators.
 - While crafting archival description, consider legacy descriptions or donor-generated descriptions as one potential source of information, that can and should be assessed and evaluated for biases.
-- Do not valorize white male creators
-    - Example from the biographical note of the John D. Rockefeller, Jr. papers: “It may be said that John D. Rockefeller, Jr.'s life was directed toward the ideal chiseled in stone over International House in New York: ‘That Brotherhood May Prevail.’ He pursued this ideal through all means -- race, religion, business, education, welfare and science.”
-- Avoid “peacock terms” that promote individuals or organizations with little context or citation. See [Wikipedia:Manual of Style/Words to watch](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Words_to_watch).
-    - Examples: “iconic,” “visionary,” “most influential”, “leading,” “renowned”
+- Do not valorize white male creators. Example from the biographical note of the John D. Rockefeller, Jr. papers: 
+    <div class="docs-example">
+        <p>“It may be said that John D. Rockefeller, Jr.'s life was directed toward the ideal chiseled in stone over International House in New York: ‘That Brotherhood May Prevail.’ He pursued this ideal through all means -- race, religion, business, education, welfare and science.”</p>
+    </div>
+- Avoid “peacock terms” that promote individuals or organizations with little context or citation. See [Wikipedia:Manual of Style/Words to watch](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Words_to_watch). Examples:
+    <div class="docs-example">
+        <p>“iconic,” “visionary,” “most influential”, “leading,” “renowned”</p>
+    </div>
 - Ensure proper representation is given in archival descriptions where cultures are being depicted or referenced. Whenever possible, identify a community in its own preferred language.  Determining these names or terms may require additional research.
 - Avoid language and/or terminology that leads to erasure of marginalized groups.
-    - Be mindful when using terms like “minority,” “minorities,” or “communities of color.” These terms can obscure specific identities.
+    <div class="docs-example">
+        <p>Be mindful when using terms like “minority,” “minorities,” or “communities of color.” These terms can obscure specific identities.</p>
+    </div>
 - Whenever possible, identify women beyond their husbands’ names; this may require additional research.
-    - In terms of applying reparative actions to legacy description that identifies women by their husbands’ names, the names should be deleted and replaced with names that center the woman’s identity. For example, for this legacy file title  “Pierrepont, Mrs. John (nee Mrs. A. Peter Dewey), 1941-1950”, delete the text and replace it with “Pierrepont, Nancy Weller”.
+    <div class="docs-example">
+        <p>In terms of applying reparative actions to legacy description that identifies women by their husbands’ names, the names should be deleted and replaced with names that center the woman’s identity. For example, for this legacy file title  “Pierrepont, Mrs. John (nee Mrs. A. Peter Dewey), 1941-1950”, delete the text and replace it with “Pierrepont, Nancy Weller”.</p>
+    </div>
 - For further guidance, consult the [Anti-Racist Description Resources from the Archives for Black Lives in Philadelphia](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf) and the [University of Iowa’s Style Guide: Race and Ethnicity](https://diversity.uiowa.edu/resources/dei-style-guide/style-guide-race-and-ethnicity)
 The RAC has adopted the Society of American Archivists’ endorsed *Describing Archives: A Content Standard (DACS)* to govern the archival description of all RAC archival holdings, regardless of form, medium or creator (individuals, families or corporate bodies). For details, please refer to [https://saa-ts-dacs.github.io/](https://saa-ts-dacs.github.io/).
 
@@ -646,20 +658,28 @@ Formal titles of published and distributed works such as films, publications, ar
 When describing a published or distributed work with a problematic formal title:
 - Retain the original title to accurately describe the name of the work.
 - Add the appropriate contextual statement at the collection level if one is not already applied.
-- Remove harmful language that is carried into archival description if it is not directly referencing the title of the work.
-    - For examples, the scope and content note from the Ford Foundation film mentioned above: “A documentary about bilingual education in Eskimo communities in Alaska. The title in Eskimo is Elitnaureyaraq Yupigtun. Produced by the US Department of the Interior, Juneau Area Office.”
+- Remove harmful language that is carried into archival description if it is not directly referencing the title of the work. For example:
+    <div class="docs-example">
+        <p> the scope and content note from the Ford Foundation film mentioned above: “A documentary about bilingual education in Eskimo communities in Alaska. The title in Eskimo is Elitnaureyaraq Yupigtun. Produced by the US Department of the Interior, Juneau Area Office.”</p>
+    </div>
 
 ### Names of Organizations
 
-Problematic or outdated terms may be found within the official names of organizations documented within the records of the RAC. These names can appear in object title and other descriptive metadata fields.
-- File title - National Association for the Advancement of Colored People (NAACP)
-- Collection title - Museum of Primitive Art records
+Problematic or outdated terms may be found within the official names of organizations documented within the records of the RAC. These names can appear in object title and other descriptive metadata fields. For example:
+    <div class="docs-example">
+        <p>File title - National Association for the Advancement of Colored People (NAACP)</p>
+        <p>Collection title - Museum of Primitive Art records</p>
+    </div>
 
 Like the formal titles of films, books, and other published works, these official organization names should not be changed. Instead, archivists should follow similar procedures for supplying context to the records’ description and ensuring the harmful language contained within the organization name does not carry over to other parts of the description.
-- The scope note for the file American Institute for Retarded Children, 1956-1957 carries the title into the description: “Pearl Buck referred to Rockefeller Brothers Fund for support of proposed program for retarded children. Correspondents include Stacy May.”
+    <div class="docs-example">
+        <p>The scope note for the file American Institute for Retarded Children, 1956-1957 carries the title into the description: “Pearl Buck referred to Rockefeller Brothers Fund for support of proposed program for retarded children. Correspondents include Stacy May.”</p>
+    </div>
 
 If the organization in question has continued to operate into present times, its official name may have likely been changed to reflect a more sensitive outlook. If the organization is represented within an agent record, add the updated name to the title of the agent record when appropriate and add the retired name to the alternative name field. If a file title needs further contextualization, add a scope and contents note at the file level with the updated name.
-- National Council of La Raza is now UnidosUS
+    <div class="docs-example">
+        <p>National Council of La Raza is now UnidosUS</p>
+    </div>
 
 ### Describing Dates
 
