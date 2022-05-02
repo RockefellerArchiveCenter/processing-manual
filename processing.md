@@ -653,14 +653,17 @@ all stated rules and guidelines.
 
 #### Original Titles
 
-Formal titles of published and distributed works such as films, publications, art, or maps can include dehumanizing, dated, or offensive language, for example, the Ford Foundation film Education in Eskimo.
+Formal titles of published and distributed works such as films, publications, art, or maps can include dehumanizing, dated, or offensive language. For example: 
+    <div class="docs-example">
+        <p>The Ford Foundation film Education in Eskimo.</p>
+    </div>
 
 When describing a published or distributed work with a problematic formal title:
 - Retain the original title to accurately describe the name of the work.
 - Add the appropriate contextual statement at the collection level if one is not already applied.
 - Remove harmful language that is carried into archival description if it is not directly referencing the title of the work. For example:
     <div class="docs-example">
-        <p> the scope and content note from the Ford Foundation film mentioned above: “A documentary about bilingual education in Eskimo communities in Alaska. The title in Eskimo is Elitnaureyaraq Yupigtun. Produced by the US Department of the Interior, Juneau Area Office.”</p>
+        <p>The scope and content note from the Ford Foundation film mentioned above: “A documentary about bilingual education in Eskimo communities in Alaska. The title in Eskimo is Elitnaureyaraq Yupigtun. Produced by the US Department of the Interior, Juneau Area Office.”</p>
     </div>
 
 ### Names of Organizations
@@ -1428,7 +1431,9 @@ Subject terms can also be utilized to draw attention to materials created by or 
 - Please submit an Archival Description Concern form:
   - In the rare case when two or more subject records exist for the same term.
   - To identify harmful existing terms that may be good candidates for removal or merging with another authorized term that more accurately or respectfully represents the concept.
-    - For example: “Afro-American politicians” can be merged into “African-American politicians”.
+    <div class="docs-example">
+        <p>For example: “Afro-American politicians” can be merged into “African-American politicians”.</p>
+    </div>
     - Removed/Deleted terms may be replaced with a newly created, or newly identified, culturally conscious authorized term.
 - **Merging or removing agents can result in DATA LOSS.**
 - *\*\*Merging or removing agents must be pre-approved, or otherwise conducted, by the Assistant Director for Processing.\*\**
