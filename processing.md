@@ -3,8 +3,6 @@ layout: docs
 title:  "Guide to Processing Collections - Processing"
 ---
 
-### *Establishing Archival Context and Structure*
-
 The processing phase of each assignment begins with contemplating five vital questions –  
 
 1. What are these records/papers?  
@@ -53,7 +51,7 @@ Description reflects arrangement, but the physical arrangement of the items in a
 
 **Deep Dive – The Value of Arrangement Lies in its Flexibility**
 
-While ***Arrangement is no longer considered a fundamental principle of archival description*** [DACS-2019.03)](https://saa-ts-dacs.github.io/dacs/04_statement_of_principles.html#original-order-and-arrangement-as-archival-context), it remains an important element of our efforts to document and express archival context and it provides practical instruction for creating useful description.  
+While ***Arrangement is no longer considered a fundamental principle of archival description*** [DACS-Statement of Principles)](https://saa-ts-dacs.github.io/dacs/04_statement_of_principles.html#original-order-and-arrangement-as-archival-context), it remains an important element of our efforts to document and express archival context and it provides practical instruction for creating useful description.  
 
 In so doing **we recognize that arrangement of collections is not static.** Intellectual control may be cyclical or change over time. In fact, over their lifespan a given set of records may have been used, arranged, or maintained in multiple different ways. This is particularly true for digital records or “hybrid” collections (which consist of multiple formats including paper and digital files) that are often created and maintained in different or multiple file structures.
 
