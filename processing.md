@@ -670,8 +670,8 @@ When describing a published or distributed work with a problematic formal title:
 
 Problematic or outdated terms may be found within the official names of organizations documented within the records of the RAC. These names can appear in object title and other descriptive metadata fields. For example:
     <div class="docs-example">
-        <p>File title - National Association for the Advancement of Colored People (NAACP)</p>
-        <p>Collection title - Museum of Primitive Art records</p>
+    <p>File title - National Association for the Advancement of Colored People (NAACP)</p>
+    <p>Collection title - Museum of Primitive Art records</p>
     </div>
 
 Like the formal titles of films, books, and other published works, these official organization names should not be changed. Instead, archivists should follow similar procedures for supplying context to the records’ description and ensuring the harmful language contained within the organization name does not carry over to other parts of the description.
@@ -681,7 +681,7 @@ Like the formal titles of films, books, and other published works, these officia
 
 If the organization in question has continued to operate into present times, its official name may have likely been changed to reflect a more sensitive outlook. If the organization is represented within an agent record, add the updated name to the title of the agent record when appropriate and add the retired name to the alternative name field. If a file title needs further contextualization, add a scope and contents note at the file level with the updated name.
     <div class="docs-example">
-        <p>National Council of La Raza is now UnidosUS</p>
+    <p>National Council of La Raza is now UnidosUS</p>
     </div>
 
 ### Describing Dates
