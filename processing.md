@@ -676,9 +676,9 @@ Problematic or outdated terms may be found within the official names of organiza
 </div>
 
 Like the formal titles of films, books, and other published works, these official organization names should not be changed. Instead, archivists should follow similar procedures for supplying context to the records’ description and ensuring the harmful language contained within the organization name does not carry over to other parts of the description.
-    <div class="docs-example">
-        <p>The scope note for the file American Institute for Retarded Children, 1956-1957 carries the title into the description: “Pearl Buck referred to Rockefeller Brothers Fund for support of proposed program for retarded children. Correspondents include Stacy May.”</p>
-    </div>
+<div class="docs-example">
+    <p>The scope note for the file American Institute for Retarded Children, 1956-1957 carries the title into the description: “Pearl Buck referred to Rockefeller Brothers Fund for support of proposed program for retarded children. Correspondents include Stacy May.”</p>
+</div>
 
 If the organization in question has continued to operate into present times, its official name may have likely been changed to reflect a more sensitive outlook. If the organization is represented within an agent record, add the updated name to the title of the agent record when appropriate and add the retired name to the alternative name field. If a file title needs further contextualization, add a scope and contents note at the file level with the updated name.
 <div class="docs-example">
