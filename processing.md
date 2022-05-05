@@ -75,7 +75,7 @@ Arrangement Maps comprehensively display entire collections/archives in a hierar
 
 Each individual map is:
 
-- A living document created, and maintained in Cartographer, an inhouse application developed in a cross-team collaboration with Processing, Digital Strategies, and Information Technology (IT).
+- A living document created, and maintained in *Cartographer*, an inhouse application developed in a cross-team collaboration with Processing, Digital Strategies, and Information Technology (IT).
 - Revised/updated whenever archival materials are processed, opened, or finding aids are created/removed.
 - *To display your completed finding aid in an applicable map, contact the Assistant Director for Processing upon completion of your project.*
 
@@ -150,7 +150,7 @@ Before writing archival description, consider these points:
 - Use accessible language.
 - Include and identify all known key creators.
 - While crafting archival description, consider legacy descriptions or donor-generated descriptions as one potential source of information, that can and should be assessed and evaluated for biases.
-- Do not valorize white male creators. Example from the biographical note of the John D. Rockefeller, Jr. papers: 
+- Do not valorize white male creators. Example from the biographical note of the John D. Rockefeller, Jr. papers:
     <div class="docs-example">
         <p>“It may be said that John D. Rockefeller, Jr.'s life was directed toward the ideal chiseled in stone over International House in New York: ‘That Brotherhood May Prevail.’ He pursued this ideal through all means -- race, religion, business, education, welfare and science.”</p>
     </div>
@@ -653,26 +653,27 @@ all stated rules and guidelines.
 
 #### Original Titles
 
-Formal titles of published and distributed works such as films, publications, art, or maps can include dehumanizing, dated, or offensive language. For example: 
-    <div class="docs-example">
-        <p>The Ford Foundation film Education in Eskimo.</p>
-    </div>
+Formal titles of published and distributed works such as films, publications, art, or maps can include dehumanizing, dated, or offensive language. For example:
+
+<div class="docs-example">
+  <p>The Ford Foundation film Education in Eskimo.</p>
+</div>
 
 When describing a published or distributed work with a problematic formal title:
 - Retain the original title to accurately describe the name of the work.
 - Add the appropriate contextual statement at the collection level if one is not already applied.
 - Remove harmful language that is carried into archival description if it is not directly referencing the title of the work. For example:
-    <div class="docs-example">
-        <p>The scope and content note from the Ford Foundation film mentioned above: “A documentary about bilingual education in Eskimo communities in Alaska. The title in Eskimo is Elitnaureyaraq Yupigtun. Produced by the US Department of the Interior, Juneau Area Office.”</p>
-    </div>
+<div class="docs-example">
+    <p>The scope and content note from the Ford Foundation film mentioned above: “A documentary about bilingual education in Eskimo communities in Alaska. The title in Eskimo is Elitnaureyaraq Yupigtun. Produced by the US Department of the Interior, Juneau Area Office.”</p>
+</div>
 
 ### Names of Organizations
 
 Problematic or outdated terms may be found within the official names of organizations documented within the records of the RAC. These names can appear in object title and other descriptive metadata fields. For example:
-    <div class="docs-example">
+<div class="docs-example">
     <p>File title - National Association for the Advancement of Colored People (NAACP)</p>
     <p>Collection title - Museum of Primitive Art records</p>
-    </div>
+</div>
 
 Like the formal titles of films, books, and other published works, these official organization names should not be changed. Instead, archivists should follow similar procedures for supplying context to the records’ description and ensuring the harmful language contained within the organization name does not carry over to other parts of the description.
     <div class="docs-example">
@@ -680,9 +681,9 @@ Like the formal titles of films, books, and other published works, these officia
     </div>
 
 If the organization in question has continued to operate into present times, its official name may have likely been changed to reflect a more sensitive outlook. If the organization is represented within an agent record, add the updated name to the title of the agent record when appropriate and add the retired name to the alternative name field. If a file title needs further contextualization, add a scope and contents note at the file level with the updated name.
-    <div class="docs-example">
-    <p>National Council of La Raza is now UnidosUS</p>
-    </div>
+<div class="docs-example">
+  <p>National Council of La Raza is now UnidosUS</p>
+</div>
 
 ### Describing Dates
 
@@ -1431,7 +1432,7 @@ Subject terms can also be utilized to draw attention to materials created by or 
 - Please submit an Archival Description Concern form:
   - In the rare case when two or more subject records exist for the same term.
   - To identify harmful existing terms that may be good candidates for removal or merging with another authorized term that more accurately or respectfully represents the concept.
-    <div class="docs-example">
+    - <div class="docs-example">
         <p>For example: “Afro-American politicians” can be merged into “African-American politicians”.</p>
     </div>
     - Removed/Deleted terms may be replaced with a newly created, or newly identified, culturally conscious authorized term.

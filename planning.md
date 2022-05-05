@@ -84,15 +84,15 @@ This Project Vitals template is also available in the Processing folder of the A
     - Ordering, or confirmation of on-site availability, of RAC-preferred containers.
     - Identifying box-types that may already be assigned container profiles in the RAC collections management system.
     - Measuring the boxes to create container profiles when needed.
-    - Identifying and ordering of appropriately-sized mylar, paper enclosures, support products, and other supplies which facilitate stabilization and long-term preservation. 
-- To order supplies, submit a **Preservation Supplies Order** form available on the *InteRACt* front page
+    - Identifying and ordering of appropriately-sized mylar, paper enclosures, support products, and other supplies which facilitate stabilization and long-term preservation.
+- To order supplies, submit a ***Preservation Supplies Order*** form available on the *InteRACt* front page
 
 ## Location Assignments
 
 ### Step 8 - Receive Location Assignments from Collections Management Team
 
 - All materials stored in RAC’s archival vaults are assigned vault/unit/shelf or drawer locations by the Collections Management team.
-- To request space, use the **Vault Space Request** form, available on the InteRACt front page 
+- To request space, use the **Vault Space Request** form, available on the *InteRACt* front page 
 - **Processing archivist must request locations from the Collections Management team in advance of beginning the processing to allow ample time for space to be assigned.**
 - **Material should _NOT_ be shelved until authorization is received from Collections Management.**
 - Projects larger than 30 cu. ft. may have incremental location assignments.
