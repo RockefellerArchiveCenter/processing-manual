@@ -1174,7 +1174,7 @@ _If questions regarding restricted or potentially restricted materials arise dur
 
 ### Step 24 - Add File-Level Conditions of Access Notes for Restricted Material
 
-(For collection-level access statements please [see Step 7 of establishing DACS-Single Level Minimum Compliance at the Collection Level](#general-collection-level-access-statements-approved-for-use-at-rac))
+(For collection-level access statements please [see Step 7 of establishing DACS-Single Level Minimum Compliance at the Collection Level](#general-collection-level-access-statements-approved-for-use-at-rac)
 
 **A. Common Types of Restricted Materials in RAC Collections**
 
