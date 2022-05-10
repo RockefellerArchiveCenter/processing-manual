@@ -1434,7 +1434,7 @@ Subject terms can also be utilized to draw attention to materials created by or 
   - To identify harmful existing terms that may be good candidates for removal or merging with another authorized term that more accurately or respectfully represents the concept.
     - <div class="docs-example">
         <p>For example: “Afro-American politicians” can be merged into “African-American politicians”.</p>
-    </div>
+      </div>
     - Removed/Deleted terms may be replaced with a newly created, or newly identified, culturally conscious authorized term.
 - **Merging or removing agents can result in DATA LOSS.**
 - *\*\*Merging or removing agents must be pre-approved, or otherwise conducted, by the Assistant Director for Processing.\*\**
