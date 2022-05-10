@@ -3,57 +3,99 @@ layout: docs
 title:  "Guide to Processing Collections - Processing"
 ---
 
-The processing phase of each assignment begins with establishing the
-current arrangement of the material, evaluating the arrangement needs,
-and crafting an arrangement proposal for the project. The proposed
-arrangement should then be approved by the Head of Processing and stated
-in the Project Vitals.
+The processing phase of each assignment begins with contemplating five vital questions –  
 
- **_Arrangement_**
+1. What are these records/papers?  
+2. Who created them?  
+3. What do they mean or represent?
+4. How, or by what process, were they created and/or maintained?
+5. Are there any biases, institutional or personal, that might apply to the material?
 
-Arrangement is the organizing and sequencing of materials in a
-collection in a meaningful way. More specifically, it is the process of
-ordering materials with respect to _provenance_ and _original order_ to
-preserve context and to attain physical and intellectual control of the
-holdings.
+Our objective as processing archivists is to provide user-friendly equitable access to archival collections. Thinking through these questions at the beginning of each project helps us to organize and contextualize our collection guides in an informative, inclusive, and user-centered manner, that considers the four fundamental concepts of archival description – the records; the agents who created and used them; the activities, events and people documented in them; and the relationships among and between them. Effectively and honestly representing content and inherent context will help to reveal the meaning and value of the records, and the people represented and stories told within them, to our users.  
 
-_Describing Archives: A Content Standard_ _(DACS)_ defines the process
-of arrangement as: "identifying the logical groupings of materials
-within the whole as they were established by the creator, of
-constructing a new organization when the original ordering has been
-lost, or of establishing an order when one never existed. The archivist
-may then identify further subgroupings within each unit down to the
-level of granularity that is feasible or desirable. This process creates
-hierarchical groupings of material, with each step in the hierarchy
-described as a level." [(_DACS 2013, Principle 3, p.xvii_)](http://files.archivists.org/pubs/DACS2E-2013_v0315.pdf).
+Once crafted the proposed structure for the project should then be approved by the Assistant Director for Processing and stated in the Project Vitals.
 
-The hierarchical levels commonly used at RAC are: Collection, Record
-Group, Subgroup, Series, Subseries, and File.
+**Fundamentals of Description \#1 - User-Centered Processing of Records/Papers**
 
-_Item-level description is extremely rare, and such detailed description
-must be pre-approved by the Head of Processing._
+Users are the central reason for archival processing. Identifying our community of users, and observing, testing, analyzing, and understanding user needs and behaviors helps to shape the way our archival collections are organized and described. The description we create and the choices we make in the arrangement, and descriptive processes impact the way users can find, search, and do research in, and with, the collection data and associated metadata. Those choices should always be made with an emphasis on making our data as easy as possible to use, retain, and share by utilizing open platforms, standardizing our practices and procedures, and presenting the resulting data, and metadata, in a structured, intuitive, and transparent manner which highlights context through aggregates of records.
 
-The concepts of archival arrangement apply to the organization of all
-records regardless of format, including paper collections, audiovisual
-collections, digital collections, and "hybrid" collections which consist
-of multiple formats including paper and digital files. When arranging
-hybrid records -- whether representing original order, maintaining an
-existing order, or otherwise establishing an arrangement -- the archival
-arrangement is pertinent to all holdings across all applicable
-hierarchical levels and should be designated and expressed consistently
-regardless of the format being arranged.
+**Fundamentals of Description \#2 – Identifying and Understanding Creators/Agents**  
 
-Description reflects arrangement, but the physical arrangement of the
-items in a collection may or may not parallel the intellectual
-arrangement. Items that are described together may be stored separately
-because of their differing size, shape, condition, access or use
-conditions, physical composition, format or other factors.
+Examining elements of archival theory help us to identify and understand the structure of a collection. Provenance is the origin or source of a collection. Identifying the creator(s) and the origin of the material helps to determine ownership and establish systems to maintain chain of custody and ensure authenticity of the records. Users also benefit from knowing and understanding how records are created, used, and maintained, and if or when those processes may have introduced systems, barriers, or biases that could complicate or impede access.
 
-## Arrangement
+**Fundamentals of Description \#3 – Identifying Activities, Events, Functions & People**  
 
-### Step 9 - Follow Arrangement Recommendations in Project Vitals
+Human networks, interpersonal and professional contacts and relationships are often quite complex. All records within a collection are very rarely created by one person or even one institution. Personal collections may document the activities of families, current and past friends, distant relatives and professional colleagues. Modern foundations function through a network of contacts encompassing people within and outside the given organization. While the mission, programs, and goals of a foundation or institution may be formulated by executive officers and a Board of Directors, daily administration and implementation of the work is most often accomplished by staff and other actors too often hidden from the historical record. Through documenting functions, activities, events, creators, contributors and others agents and people associated with, and documented in, collections, we seek to provide users with a broad understanding of the context, relationships and networks of power and privilege that created and maintained the records we hold.
+
+**Fundamentals of Description \#4 – Aggregate Centered Description Illuminating the Relationships Among and Between the Records and All Associated Actors.**  
+
+At its core, archival processing is an iterative process that identifies and describes meaningful groupings of records, with continual remedial actions to maintain and improve intellectual and physical control of our holdings, and expand and enhance access to the collections in our care.
+
+Aggregate centered multi-level description begins with a description of the whole, and proceeds hierarchically through identifying subgroupings within each set of records progressing down to the desired level of specificity to facilitate effective use and management of the collection and open the material to research as quickly as possible.
+
+*This process strives to represent content within context*, and thus provide users the opportunity to seek, and hopefully find, value and meaning in the records we hold.
+
+The hierarchical levels of description commonly used at RAC are: Collection, Record Group, Subgroup, Series, Subseries, and File.
+
+*Item-level description is extremely rare, and such detailed description must be pre-approved by the Assistant Director for Processing.*
+
+What we learn about the agents, functions, events, and other actors documented in a collection can later be used to create standardized structured terms. Those terms can then be assigned to the pertinent archival objects at the appropriate level of description and made directly searchable and discoverable by our users in DIMES. This structured data is also research ready for statistical analysis, or other quantitative and qualitative research, via direct access through the RAC Collections API.
+
+***Arrangement***
+
+*Arrangement* is a long-standing element of archival theory that is generally defined as the organizing and sequencing of materials in a collection in a meaningful way. More specifically, it is most often associated with the process of organizing materials with respect to provenance and *original order*, theoretically considered the order established by the creator, to preserve context and to attain physical and intellectual control of the holdings.
+
+The concepts of archival arrangement apply to the organization of all archival records, across all applicable hierarchical levels, regardless of format, including paper materials, audiovisual materials, hybrid and digital records.
+
+Description reflects arrangement, but the physical arrangement of the items in a collection may or may not parallel the intellectual arrangement. Items that are described together may be stored separately because of their differing size, shape, condition, access or use conditions, physical composition, format or other factors.
+
+**Deep Dive – The Value of Arrangement Lies in its Flexibility**
+
+While ***Arrangement is no longer considered a fundamental principle of archival description*** *([DACS-Statement of Principles](https://saa-ts-dacs.github.io/dacs/04_statement_of_principles.html#original-order-and-arrangement-as-archival-context))*, it remains an important element of our efforts to document and express archival context and it provides practical instruction for creating useful description.  
+
+In so doing **we recognize that arrangement of collections is not static.** Intellectual control may be cyclical or change over time. In fact, over their lifespan a given set of records may have been used, arranged, or maintained in multiple different ways. This is particularly true for digital records or “hybrid” collections (which consist of multiple formats including paper and digital files) that are often created and maintained in different or multiple file structures.
+
+We must also acknowledge that different cultures or societies live and experience themselves and others in different ways. Therefore, they also document their activities or histories in different ways. Equitable and inclusive standards and practices to identify and describe agents and events will help to facilitate the recording of the stories and experiences of underrepresented communities.
+
+**Rather than a privileged system or a special physical sequence of records, original order is one tool in the archivists’ toolbox to help us create finding aids that will illuminate context** by identifying structured groups of records, or file types, that reflect the key activities and functions of the creator(s) and associated agents, events, and people documented in the historical record.
+
+*Arrangement Maps*
+
+Arrangement Maps comprehensively display entire collections/archives in a hierarchical structured manner that aims to express archival context by showing the inherent relationships among and between records and creators.
+
+- An arrangement map is created for any collection that spans more than one ArchivesSpace resource record/finding aid.
+- Displays all open records in DIMES.
+- Improves the user experience by enabling users to browse and navigate archival relationships between groups of records, agents, and subjects.
+- Examples of large arrangement maps at the RAC include but are not limited to:
+    - Commonwealth Fund records
+    - Ford Foundation records
+    - Population Council records
+    - Rockefeller Foundation records
+    - Nelson A. Rockefeller papers
+
+Each individual map is:
+
+- A living document created, and maintained in *Cartographer*, an inhouse application developed in a cross-team collaboration with Processing, Digital Strategies, and Information Technology (IT).
+- Revised/updated whenever archival materials are processed, opened, or finding aids are created/removed.
+- *To display your completed finding aid in an applicable map, contact the Assistant Director for Processing upon completion of your project.*
+
+
+
+## Establishing Archival Context and Structure
+
+### Step 9 – Follow Context and Structure Recommendations in Project Vitals
+
+To organize a project or collection, consider our five vital questions.
+
+1. What are these records?  
+2. Who created them?  
+3. What do they mean or represent?
+4. How, or by what process, were they created and/or maintained?
+5. Are there any biases, institutional or personal, that might apply to the material?
 
 ### Step 10 - Standard Arrangement
+
+*\*\*Archivist imposed arrangement can negatively impact user trust, particularly for users from underprivileged or underrepresented communities. Altering the received physical order of a collection is NOT advised except in the rare case of a compelling user-driven need to significantly improve access.\*\**
 
 The most common and often the most appropriate arrangement action is to
 leave things as they are. In such cases, the processing archivist
@@ -63,16 +105,7 @@ should:
 - Conduct minimal physical arrangement
 - Not undertake rearrangement of material within folders
 
-**Whenever it exists, original order should be maintained.** Original
-order represents the creator’s structure, and reveals information about
-the creator, the use of the records, and the relationship among and
-between the files. However, in cases in which the original order is
-indiscernible or untenable, introducing or establishing a workable
-arrangement is an acceptable option. As stated in the Society of
-American Archivists online glossary, “archivists are not required to
-preserve ‘original chaos’ and may arrange such materials in a way that
-facilitates their use and management without violation of any archival
-principle.”
+**Original order should be maintained when that order accurately reflects the records, the manner in which the records were created and maintained, and the function or activities of the creator(s).**
 
 Often it may not be known if the existing arrangement comprises the
 original order. In cases such as this, the processing archivist consider
@@ -82,46 +115,79 @@ In addition to Original Order or “As Received”, common arrangement types
 include: Type/Format; Activity/Function; Alphabetical; and Chronological
 order.
 
-_Arrangement creates an intellectual and most often a physical structure
-for a collection, with the objective of enabling accurate descriptions,
-which lead to efficient access and management. Effective arrangement
-opens collections to research as quickly as possible, but it is not a
-tool used to create perfectly manicured collections. If assigned a
-project which necessitates considering arrangement options, **consult
-the Head of Processing and receive his/her approval before proceeding to
-alter the existing arrangement.**_
+*If assigned a project which necessitates considering broad arrangement options, __consult the Assistant Director for Processing and receive their approval before proceeding to alter the existing arrangement.__*
 
-### _Description_
+### *Culturally Competent Description*
 
-Once an arrangement plan is chosen, archival description begins, and
-this work continues through all phases of the project until completion.
-As processing of a given collection concludes, the Processing Team
-periodically takes further steps to evaluate, improve, and optimize the
-description through editing and updating all collection guides as
-necessary.
+Once archival context has been established, and a structure of the records is proposed, or otherwise identified and understood, archival description begins, and this work continues through all phases of the project until completion.
 
-Description is the creation of an accurate representation of the
-archival material by the process of capturing, collating, analyzing, and
-organizing information that serves to identify archival material.
-Description also explains the context and records systems that produced
-the archival material, as well as the results of these processes.
+Description is the creation of an accurate representation of the archival material by the process of capturing, collating, analyzing, and organizing information that serves to identify archival material. Description also explains the context, records systems, and structures of power, privilege, and influence that produced the archival material, as well as the results of these processes. Archives are complex, just like the human interactions they document. Our primary task is to make access to the collections, and the associated data, as easy as possible for users.
 
-The RAC has adopted the Society of American Archivists’ endorsed
-_Describing Archives: A Content Standard (DACS)_ to govern the archival
-description of all RAC archival holdings, regardless of form, medium or
-creator (individuals, families or corporate bodies). For details, please
-refer to [https://saa-ts-dacs.github.io/](https://saa-ts-dacs.github.io/).
+Archival description most often consists of a multi-level structure that reflects the organization of the material, and the relationship between those levels, beginning with a description of the whole and most often continuing with description of the parts. It may consist only of a description of the whole, but most often the description tends to be more and more detailed with progression through the parts. Within a given collection or project, and depending on the chosen processing level, some parts may be described at greater or varying levels of detail, with the resulting finding aid intentionally flexible in order to produce a variety of descriptive outputs.
 
-Archival description most often consists of a multi-level structure that
-reflects the arrangement of the material, and the relationship between
-those levels, beginning with a description of the whole and most often
-continuing with description of the parts. It may consist only of a
-description of the whole, but most often the description tends to be
-more and more detailed with progression through the parts. Within a
-given collection or project, and depending on the chosen processing
-level, some parts may be described at greater or varying levels of
-detail, with the resulting finding aid intentionally flexible in order
-to produce a variety of descriptive outputs.
+At RAC we strive to create culturally competent archival description, which is the documenting of materials with an awareness of one’s own cultural identity as well as the cultural identities of donors, sellers, custodians, creators, subjects, and users. It includes the ability and willingness to learn continually about how to apply those skills and knowledge in writing descriptive metadata.[^1] Culturally competent archival description also strives to represent “accurately, appropriately, and respectfully” marginalized, underrepresented, and historically oppressed people and contexts through descriptive metadata practices, whether during initial description and processing of current projects, or reevaluation and reprocessing of legacy holdings.[^2]
+
+As we actively create new description, as well as reexamine description of legacy holdings, we understand that description itself can perpetuate systemic structures of white supremacy, misogyny, and other forms of oppression. This section serves to provide guidance for RAC Archivists who create and encounter archival description as we move toward more inclusive, honest, and accurate description.
+
+#### Pre-Description Guiding Statements and Questions
+
+Before writing archival description, consider these points:
+
+- Archives are not neutral and cannot be considered solely objective.
+- Through our work, archivists are active participants in the creation and preservation of the historical record.
+- Are there any biases, institutional or personal, that might apply to the material?
+
+#### Language, Naming Choices, and Power Dynamics
+
+- Avoid passive voice; assign agency to individuals and organizations. Example of passive voice:
+    <div class="docs-example">
+        <p>Example of passive voice: “The land was cleared of more than 200 brownstone houses and other antiquated buildings, and the first fourteen        buildings of the Rockefeller Center were erected between 1931 and 1940.” Biographical note, John D. Rockefeller, Jr. Papers.</p>
+    </div>
+- Use direct language. Avoid euphemisms to ensure that researchers can locate materials.
+    <div class="docs-example">
+        <p>The subject term, “Japanese Americans -- Evacuation and relocation, 1942-1945,” should not be used and should be replaced with another appropriate subject term, for example, “Japanese Americans – Internment, 1942-1945”</p>
+    </div>
+- Use accessible language.
+- Include and identify all known key creators.
+- While crafting archival description, consider legacy descriptions or donor-generated descriptions as one potential source of information, that can and should be assessed and evaluated for biases.
+- Do not valorize white male creators. Example from the biographical note of the John D. Rockefeller, Jr. papers:
+    <div class="docs-example">
+        <p>“It may be said that John D. Rockefeller, Jr.'s life was directed toward the ideal chiseled in stone over International House in New York: ‘That Brotherhood May Prevail.’ He pursued this ideal through all means -- race, religion, business, education, welfare and science.”</p>
+    </div>
+- Avoid “peacock terms” that promote individuals or organizations with little context or citation. See [Wikipedia:Manual of Style/Words to watch](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Words_to_watch). Examples:
+    <div class="docs-example">
+        <p>“iconic,” “visionary,” “most influential”, “leading,” “renowned”</p>
+    </div>
+- Ensure proper representation is given in archival descriptions where cultures are being depicted or referenced. Whenever possible, identify a community in its own preferred language.  Determining these names or terms may require additional research.
+- Avoid language and/or terminology that leads to erasure of marginalized groups.
+    <div class="docs-example">
+        <p>Be mindful when using terms like “minority,” “minorities,” or “communities of color.” These terms can obscure specific identities.</p>
+    </div>
+- Whenever possible, identify women beyond their husbands’ names; this may require additional research.
+    <div class="docs-example">
+        <p>In terms of applying reparative actions to legacy description that identifies women by their husbands’ names, the names should be deleted and replaced with names that center the woman’s identity. For example, for this legacy file title  “Pierrepont, Mrs. John (nee Mrs. A. Peter Dewey), 1941-1950”, delete the text and replace it with “Pierrepont, Nancy Weller”.</p>
+    </div>
+- For further guidance, consult the [Anti-Racist Description Resources from the Archives for Black Lives in Philadelphia](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf) and the [University of Iowa’s Style Guide: Race and Ethnicity](https://diversity.uiowa.edu/resources/dei-style-guide/style-guide-race-and-ethnicity)
+The RAC has adopted the Society of American Archivists’ endorsed *Describing Archives: A Content Standard (DACS)* to govern the archival description of all RAC archival holdings, regardless of form, medium or creator (individuals, families or corporate bodies). For details, please refer to [https://saa-ts-dacs.github.io/](https://saa-ts-dacs.github.io/).
+
+#### Redescription
+
+As a project finishes, or as processing of a given collection concludes, the Processing Team periodically takes further steps to evaluate, improve, and optimize the description through editing, updating, and at times performing reparative redescription, of all collection guides as necessary. Project assignments given to any processing archivist may, and often do, include redescription activities.
+
+Redescription projects may take the form of targeted efforts to improve or enhance description in accordance with institutional or team initiatives, such as large-scale data cleanup efforts, as well as evaluation, maintenance, and expansion of additional access points. Significant priority is also placed on repository wide ongoing reparative activities such as the *Culturally Competent Description Action Campaign*.
+
+Largely due to the archival professions’ preferred processing practice of retaining original order and original description, including donor-sourced titles, problematic language is present in finding aids throughout RAC’s archival holdings, and may exist at any hierarchical level of archival description (collection, series, file, etc.). The descriptive elements most commonly impacted include, but are not limited to:
+
+- File Titles
+- Component Titles (record group, subgroup, series, subseries)
+- Associated notes (at any applicable level):
+- Biographical notes for individuals
+- Institutional history notes
+- Scope and Content notes
+- Agent terms
+- Subject terms (geographic, genre form, topical, including some authorized terms)
+
+Revision of the file title, or other prominent titles such as series or record group, may require corresponding changes to the physical materials like archivist created folder labels or box labels.
 
 ## Building the Finding Aid
 
@@ -132,9 +198,9 @@ are displayed online through our collection guides website DIMES.
 100% of our online guides conform to DACS single-level minimum
 compliance. To ensure that the quality and completeness of our guides is
 maintained, we take steps to comply with DACS as soon as the initial
-draft finding aids are created.
+draft finding aids are created, and we run the compliance evaluation tool DACSSpace annually, an application created and maintained by our colleague Amy Berish, to identify and address any applicable data compliance issues.
 
-### Step 11 - Receive a Resource ID from the Head of Processing [(DACS 2.1.3)](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/01_reference_code.html)
+### Step 11 - Receive a Resource ID from the Assistant Director for Processing [(DACS 2.1.3)](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/01_reference_code.html)
 
 - Each resource record/finding aid at RAC is assigned a unique ID.
 - Resources created during Processing are assigned a FA\#.
@@ -142,9 +208,9 @@ draft finding aids are created.
 - AC\# records may be converted to FA\# during processing.
 - The Resource ID (FA\#) may be included in the Project Vitals or may be assigned at a later date (as needed).
 
-### Step 12 - Create (or receive from the Head of Processing) a Shell Resource Record in ArchivesSpace for the Finding Aid
+### Step 12 - Create (or receive from the Assistant Director for Processing) a Shell Resource Record in ArchivesSpace for the Finding Aid
 
-- For assistance or instruction with creating the shell, please see the Head of Processing.
+- For assistance or instruction with creating the shell, please see the Assistant Director for Processing.
 
 ### Step 13 - Establish DACS Single-Level Minimum Compliance at the Collection Level/Highest Level of the Finding Aid
 
@@ -208,13 +274,15 @@ highest level of a finding aid, the title consists of:
   <p>Nelson A. Rockefeller Vice Presidential records, New York Office, Series 10</p>
 </div>
 
-Consult the Head of Processing for more information regarding the RAC
-Naming Convention.
+Consult the Assistant Director for Processing for more information regarding the RAC Naming Convention.
 
 ### Additional Required Collection Level Elements
 
 2\. Extent [**(DACS 2.5)**](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/05_extent.html) (in cubic feet and/or born-digital in estimated number of files and MB/GB or appropriate measure)  
 
+  - Use the Extent Calculator in ArchivesSpace to calculate and record extent at:
+      - Collection Level/Top Level of the finding aid
+      - Each major component level (RG, SG, Series) as applicable
   - 1 record storage box = 1.3 cu. ft.
   - 1 letter document box = 0.38 cu. ft.
   - 1 legal document box = 0.47 cu. ft.
@@ -228,19 +296,30 @@ Naming Convention.
   - Record inclusive date when known (Begin Year–End Year).
   - Recording bulk date is optional.
   - Date may initially be recorded as “undated” in order to save the shell record.
+  - Use the Date Calculator in ArchivesSpace to calculate and record dates at:
+        - Collection Level/Top Level of finding aid
+        - Each major component levels (RG, SG, Series) as applicable
 
 4\. Language (English) [**(DACS 4.5)**](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/05_languages_and_scripts_of_the_material.html)
 
-  - Records the Language term and code predominately represented in the material described.
-  - The overwhelming majority of RAC’s collections are in English.
+  - Records the Language term and script predominately represented in the material described.
+  - The overwhelming majority of RAC’s collections are in English, with Latin script.
   - A natural language note should also be recorded at the top level of the finding aid for user readability.
 
 5\. Creator/Author [**(DACS 2.6)**](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/06_name_of_creators.html)
 
 **General Guidelines for Assigning Agents**
 
+Identifying, assigning, and creating agents can significantly improve our capacity to tell the stories of people, families and institutions; illuminate their role(s) in the records we hold; and help to document their activities and relationships with others across our archival holdings. The associated data also expands user access and provides new avenues for research in our collections.
+
+- RAC has compiled a significant library of agent records.
+- Focus on using and assigning existing agents whenever applicable.
+- Link the following information to agent records when assigned
+  - Role – Creator
+  - Relator – Author or Contributor
 - Assign agents for primary creators or contributors at the collection level/top of finding aid.
-- For any questions regarding assigning agents, please contact the Head of Processing.
+- Efforts should also be made to assign agents for those known individuals actively creating or contributing to the records and conducting the work of an office/foundation/institution/organization on a daily basis.
+- For any questions regarding assigning agents, please contact the Assistant Director for Processing.
 - Foundation records
     - Assign the given Foundation as creator/author for all Foundation records.
     - Assign significant Foundation to the personal collections of applicable officers (creator/contributor)
@@ -251,6 +330,7 @@ Naming Convention.
         - Goal: These finding aids will have the individual officer as the creator/author, and the significant foundation as creator/contributor.
      - Assign primary individual (creator/author) to Ford Foundation office files.
          * Goal: These finding aids will have two creator/authors assigned – the individual officer, and the Ford Foundation.
+    - Agents may also be assigned to Program/Department/Office within a Foundation.
 - Rockefeller Family
      - Assign primary Rockefeller family member(s) to applicable guides as creator/author or creator/contributor (as applicable).
      - Assign the following agents (creator/author) to the finding aids of Rockefeller family associates papers:
@@ -265,6 +345,40 @@ Naming Convention.
           - Assign primary faculty member (creator/author).
           - Goal: These guides will have two creator/authors assigned – the faculty member, and the Rockefeller University.
     - Assign agents for Laboratory Heads or prominent collaborators to applicable RU records or papers (creator/contributor).
+
+**General Guidelines for Creating Agents**
+
+*\*\*Prior to creating any new agents -- Search agent records to confirm if a record exists for the given agent. If a record exists do NOT create a new agent\*\**
+- If a record does NOT already exist for a given agent, a new record may be created.
+- Record the following information in newly created agent records
+  - Agent Type
+      - Person
+      - Corporate Entity
+          - Corporate agents may require recording of the language/script.
+      - Family
+  - Name Form
+      - Primary Part of Name
+      - Rest of Name
+      - Use Authorized forms of names whenever possible, such as:
+          - NACO Authority File
+          - SNAC
+          - Union List of Artists Names
+          - Other more specific authority files as applicable
+      - Recording the Authority ID is optional.
+  - Dates of Existence
+      - Format: Year-Year (unless specific birth/death dates are known)
+      - Date Expression (Begin and End dates)
+      - Standardized Date (Begin and End dates)
+  - Biographical/Historical Note
+      - The Agent record serves as the data home for biographical/institutional history notes.
+      - Easily accessed, revised and maintained and linked to all applicable collections.
+- All Agents should be published.
+
+**Merging Agents**
+
+- In the rare case when two agent records exist for the same agent, contact the Assistant Director for Processing.
+- ***Merging agents can result in DATA LOSS.***
+- *\*\*Merging agents must be pre-approved, or otherwise conducted, by the Assistant Director for Processing.\*\**
 
 6\. Scope and Content [**(DACS 3.1)**](https://saa-ts-dacs.github.io/dacs/06_part_I/04_chapter_03/01_scope_and_content.html)
 
@@ -283,7 +397,7 @@ The processing archivist should document the nature of the materials and activit
 
 ### General Collection-Level Access Statements Approved for Use at RAC
 
-The following four approved collection-level standard access statements cover the large majority of RAC collections. Select the access statement that fits the collection. If the project entails processing a collection with unique conditions, contact the Head of Processing.
+The following four approved collection-level standard access statements cover the large majority of RAC collections. Select the access statement that fits the collection. If the project entails processing a collection with unique conditions, contact the Assistant Director for Processing.
 
 **General Collection-Level Access Statement I**
 
@@ -441,7 +555,7 @@ Remember FILE LEVEL description does NOT equate to FOLDER LEVEL description.
 
 In multi-level description, always remember to focus on the level being described (Collection, Record Group, Subgroup, Series, Subseries, File) with the description reflecting the arrangement and the inherent relationship among and between the records of each level.
 
-### Describing Titles
+### Describing Titles - The Basics
 
 See [**section 2.3**](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html) of _DACS_ for a complete description of the guidelines for the title element. Guidelines for establishing name authorities and forms of names including those of persons, families, geographic names and corporate bodies are available [_in DACS -Part II_](https://saa-ts-dacs.github.io/dacs/08_part_II/02_chapter_09.html)
 and [_Chapter 10_.](https://saa-ts-dacs.github.io/dacs/08_part_II/03_chapter_10/00_form_of_the_name.html)
@@ -535,7 +649,53 @@ G. Titles physically written or recorded on folders may be abbreviated
 or truncated. Corresponding finding aid description should follow
 all stated rules and guidelines.
 
+### Adding Context to Original Titles and Names of Organizations
+
+#### Original Titles
+
+Formal titles of published and distributed works such as films, publications, art, or maps can include dehumanizing, dated, or offensive language. For example:
+
+<div class="docs-example">
+  <p>The Ford Foundation film Education in Eskimo.</p>
+</div>
+
+When describing a published or distributed work with a problematic formal title:
+- Retain the original title to accurately describe the name of the work.
+- Add the appropriate contextual statement at the collection level if one is not already applied.
+- Remove harmful language that is carried into archival description if it is not directly referencing the title of the work. For example:
+<div class="docs-example">
+    <p>The scope and content note from the Ford Foundation film mentioned above: “A documentary about bilingual education in Eskimo communities in Alaska. The title in Eskimo is Elitnaureyaraq Yupigtun. Produced by the US Department of the Interior, Juneau Area Office.”</p>
+</div>
+
+### Names of Organizations
+
+Problematic or outdated terms may be found within the official names of organizations documented within the records of the RAC. These names can appear in object title and other descriptive metadata fields. For example:
+<div class="docs-example">
+    <p>File title - National Association for the Advancement of Colored People (NAACP)</p>
+    <p>Collection title - Museum of Primitive Art records</p>
+</div>
+
+Like the formal titles of films, books, and other published works, these official organization names should not be changed. Instead, archivists should follow similar procedures for supplying context to the records’ description and ensuring the harmful language contained within the organization name does not carry over to other parts of the description.
+<div class="docs-example">
+    <p>The scope note for the file American Institute for Retarded Children, 1956-1957 carries the title into the description: “Pearl Buck referred to Rockefeller Brothers Fund for support of proposed program for retarded children. Correspondents include Stacy May.”</p>
+</div>
+
+If the organization in question has continued to operate into present times, its official name may have likely been changed to reflect a more sensitive outlook. If the organization is represented within an agent record, add the updated name to the title of the agent record when appropriate and add the retired name to the alternative name field. If a file title needs further contextualization, add a scope and contents note at the file level with the updated name.
+<div class="docs-example">
+  <p>National Council of La Raza is now UnidosUS</p>
+</div>
+
 ### Describing Dates
+
+### Timewalk
+
+- RAC actively uses an automated date parser plug-in for ArchivesSpace called Timewalk.
+- Timewalk will automatically parse any values in ArchivesSpace's Date Expresssion field into ISO8601-compliant Begin and End values. In addition, it will parse out date certainties and set the calendar/era values automatically.
+- Automatically creating begin/end dates in a standardized manner facilitates accurate use of the Date Calculator in ArchivesSpace.
+- *To ensure that Timewalk records dates properly, please follow all recommendations in this section for the creation of date expressions.*
+- **After creating the Date Expression and entering all applicable data in the field, record the Date Type as Inclusive Dates, and then leave the Begin/End date fields blank. When the record is saved, TimeWalk will automatically create the begin/end date.**
+
+### Date Expression
 
 - Answers the question – When is the content of this file created?
 - It can be a single date (like the date of a meeting), or a range of inclusive dates.
@@ -592,7 +752,7 @@ all stated rules and guidelines.
 - The instance connects intellectual control with physical control of the file.
 - FILE LEVEL description does not directly equate to FOLDER LEVEL description.
 - Instance Information records the carrier or container. Most often the container is a Box, Box/Folder. In some cases, it is used to record the Reel/Frame of microforms, or the Unique ID (AV#) of an audiovisual item.
-- The primary instance (most often a “Box”) is designated as a Top Container. For assistance with Top Container creation see Head of Processing.
+- The primary instance (most often a “Box”) is designated as a Top Container. For assistance with Top Container creation see Assistant Director for Processing.
 - It also records the instance type – most often “Mixed Materials”. “Microform”, “Moving Image”, “Still Image” are also common types used.
 
 ### Associated Notes
@@ -632,29 +792,16 @@ When the instances span multiple boxes, assigning each box to a separate instanc
 
 Identify and provide care for those materials, regardless of format, that are at greatest risk for obsolescence or data loss to facilitate their stabilization, preservation, further processing, and researcher access.   
 
-Most at-risk materials should be retained within the originating collection. Some commonly found at-risk materials should be transferred to the Library collection, while others require specialized care to enable their preservation, facilitate migration, extend their lifespan, or otherwise limit the risks of loss.  
+At-risk materials should be retained within the originating collection. Some commonly found at-risk materials require specialized care to enable their preservation, while others need care to facilitate migration, extend their lifespan, or otherwise limit the risks of loss.
 
-### Materials to be transferred to the Library collection
+*\*All processed at-risk materials should be arranged in accordance with the Project Vitals, approved by the Assistant Director for Processing, and described in the finding aid at applicable levels within the originating context. Materials arranged and described together may be physically stored separately. The associated description should also detail any applicable conditions/restrictions of access and use as well as any significant stabilization or preservation issues\**
 
--  *An item belongs to either the RAC Archive or the RAC Library collection, not both.*
-- The library collection consists of stand-alone items, independent of archival    
-    provenance, which are most often described, stored and accessed at the item level.
-- Library holdings are described bibliographically.
-- Eligible materials include but are not necessarily limited to:
-    - Collections or accessions whose entire contents is published materials within the scope of the RAC Library collecting policy.
-    - Published studies, reports and scientific or technical publications sponsored by, or otherwise produced through, direct grants or funding from RAC or a donor/depositor.
-- No more than two copies of any publication will be acquired, cataloged and added to the Library collection. (Any additional copies should be submitted for disposal or return to the donor/depositor in accordance with RAC Collections Management procedure.)
-- Bibliographic records will be created in the Collection Management system by RAC Collections Management/Library staff as applicable.
-- When transferring published materials to the RAC Library, the processing archivist should provide Collections Management/Library staff:
-    - The Resource ID Number (FA#)
-    - Accession/Collection Title
-    - If no applicable Finding Aid is created, provide the accession number.
-- No separation number(s) is assigned, and the separation sheet is not used.
-- No archival description should be added to the finding aid.
+\*Transferring Material to the Library Collection is a legacy practice no longer followed or recommended\*
 
-_*All processed at-risk materials should be arranged in accordance with the Project Vitals, approved by the Head of Processing, and described in the finding aid at applicable levels within the originating context. Materials arranged and described together may be physically stored separately. The associated description should also detail any applicable conditions/restrictions of access and use as well as any significant stabilization or preservation issues*_
+- All pertinent books, brochures, grant reports, journals, pamphlets, papers, periodicals, reprints, studies, and publications found in an archival collection should be retained within the body of the originating collection.
+- Previous practice to care for these materials as Library items had a detrimental impact on access and often resulted in the loss of originating context.
 
-### Archival Materials to be retained within paper-based collections
+#### Archival Materials to be retained within paper-based collections
 
 A. All materials that are an integral part of the originating accession/collection should be retained, including those for which provenance and the contextual relationship among and between associated records is essential.
 
@@ -777,6 +924,12 @@ Dates
 
 Extent: TBD
 
+Special Considerations for AV Description:
+
+- Who are the creators of the material? Who are the subjects of the material?
+- How is representation reflected visually and audibly in these materials? What power dynamics might be at play?
+
+
 Notes:
 - **Conditions Governing Access** (choose appropriate note at the file-level)
     - Access copy available.
@@ -793,7 +946,20 @@ Notes:
 
 - **Physical Description** (Data should always be written in the sequence below.)
     - Silent or Sound, Black and white or Color, xx minutes/hours.
-    - Record, in Arabic numerals, the total duration/running time, normally rounded off to the nearest minute. If the duration is under 2 hours (120 minutes), describe in minutes. Example: 115 minutes. If duration is longer than 2 hours, describe in hours. Example: 2 hours, 15 minutes.
+    - Record, in Arabic numerals, the total duration/running time, normally rounded off to the nearest minute. If the duration is under 2 hours (120 minutes), describe in minutes. Example: 115 minutes. If duration is longer than 2 hours, describe in hours. Example: 2 hours, 15 minutes
+
+- **Processing Information Note**
+  - The following statement should be used to provide further context and explain that titles within audiovisual materials may be offensive because original/formal titles are not changed and that description provided by a creator might be problematic.
+
+    <div class="docs-example">
+    <p>The Rockefeller Archive Center recognizes that our audiovisual materials may contain problematic language and/or content.</p>
+
+    <p>The films, videos, and/or sound in this collection have not been altered in any way. All titles and/or content are illustrative of the creator’s original vision. As such, this audiovisual collection may contain discriminatory visual and/or aural content that is representative of racial, gendered, or ableist biases.</p>
+
+    <p>Accompanying description, most often with creator or donor-generated language and terminology, has to this point been retained and maintained “as received” by RAC with minimal archivist intervention or augmentation.</p>
+
+    <p>We acknowledge these problems and aim to cultivate inclusive representation and equity by reconsidering and enhancing our description of this audiovisual material with current sensibilities.</p>
+     </div>
 
 - **Physical Characteristics and Technical Requirements Note** (Not required; use only if needed to inform user of important playback issues.)
 
@@ -866,9 +1032,9 @@ The Collections Management team can assist with:
 
 ### Step 19 – Label and Assign Instances (on Physical Files and in the Finding Aid, including Top Container/Container Profile)
 
-- For assistance with Top Container creation see Head of Processing.
+- For assistance with Top Container creation see Assistant Director for Processing.
 - Folders and boxes are commonly numbered consecutively from one box to the next. For example, if Box 1 contains Folders 1-10, then Box 2 would contain Folders 11-20.
--   With prior approval of the Head of Processing, projects may be processed with Folder 1-Folder X recurring in each box.
+-   With prior approval of the Assistant Director for Processing, projects may be processed with Folder 1-Folder X recurring in each box.
 - Required elements of description which must appear on all archival folders:
     - Collection (Abbreviation)
     - Box Number
@@ -894,7 +1060,7 @@ The Collections Management team can assist with:
 
 ### Step 21 - Address Collection Concerns and Preservation Issues based on the Recommendations of Collections Management.
 
-The **Collection Concern** form is currently located: **S:\Inter-Office\Archival\Forms.**
+The **Preservation Concern** form is currently located on *InteRACt* front page
 
 *Please consult with Collections Management to request a stabilization consult,* or if:
 
@@ -948,7 +1114,7 @@ A.  If multiple exact copies of reports or other records are found within a coll
 
 B.  Copies of items with added research value, such as handwritten notations, comments, or revisions, are NOT considered exact copies, and should always be retained in the archival collection.
 
-C.  Some collection agreements contain stipulations regarding permanent removal, destruction or final disposition of materials removed from the archival collection during processing. Please consult with the Head of Processing to determine the stipulations relevant to the assigned project.
+C.  Some collection agreements contain stipulations regarding permanent removal, destruction or final disposition of materials removed from the archival collection during processing. Please consult with the Assistant Director for Processing to determine the stipulations relevant to the assigned project.
 
 **D. Preservation Photocopying** [(See Step 25)](#preservation-photocopying)
 
@@ -971,7 +1137,7 @@ The processing archivist will:
           - the transfer method (disk image, rip tracks, copy files)
           - the item's original carrier type.
           - the year of transfer
-        - Using this data, the Digital Media Log will automatically generate the following formatted statement:
+          - Using this data, record the information as a natural language statement in a Processing Information note in the finding aid:
 
         <div class="docs-example">
         <p>“This item was <strong>imaged</strong> from a <strong>CDROM</strong> in <strong>2017</strong>”</p>
@@ -992,7 +1158,7 @@ Transparency in the dissemination of information is a critical element of the ar
 
 _During RACcess registration, all users agree to the terms of access/use of all RAC holdings._
 
-_If questions regarding restricted or potentially restricted materials arise during processing, please consult with the Head of Processing._
+_If questions regarding restricted or potentially restricted materials arise during processing, please consult with the Assistant Director for Processing._
 
 ### Step 23 - Label Physical Folders Containing Restricted Material in Accordance with RAC Guidelines
 
@@ -1022,7 +1188,7 @@ requirements.
 
 Common types of records that fall into this category are:
 
-1\.  _Personnel files (and/or personnel-like records)_ are restricted to ensure personal privacy and restrict access to materials generally considered confidential between an individual and his or her employer. Personnel records include: employment applications, resumes/CVs, letters of appointment, personal references, salary or withholding statements, performance evaluations, and other correspondence discussing general or particular circumstances of an individual’s employment or job performance. Personnel records also often include personal injury and/or workers compensation insurance records or claims and pension documents. Records gathered in the course of conducting an executive search, or in filling a professional position, may also be restricted. Please consult the Head of Processing with any questions regarding the restriction of personnel materials.
+1\.  _Personnel files (and/or personnel-like records)_ are restricted to ensure personal privacy and restrict access to materials generally considered confidential between an individual and his or her employer. Personnel records include: employment applications, resumes/CVs, letters of appointment, personal references, salary or withholding statements, performance evaluations, and other correspondence discussing general or particular circumstances of an individual’s employment or job performance. Personnel records also often include personal injury and/or workers compensation insurance records or claims and pension documents. Records gathered in the course of conducting an executive search, or in filling a professional position, may also be restricted. Please consult the Assistant Director for Processing with any questions regarding the restriction of personnel materials.
 
   - Example of standard RAC file-level access note -
 
@@ -1030,7 +1196,7 @@ Common types of records that fall into this category are:
     <p>Restricted - personnel material.</p>
   </div>
 
-2\.  _Financial records_ – Access to a variety of financial records is restricted in order to protect personal privacy and insure RAC compliance with all applicable laws and regulations. Commonly restricted financial materials include, but are not limited to: state/federal income tax, property tax, payroll records, bank and brokerage statements, and account information, etc. Access is granted to some financial records, particularly those that are in the public domain such as copies of IRS Form 990 titled "Return of Organization Exempt From Income Tax." This form provides the public with financial information about a given non-profit organization and is often the only public source of such information. Some collection agreements also contain specific restriction stipulations regarding financial materials. Please consult the Head of Processing with any questions regarding the restriction of financial materials.
+2\.  _Financial records_ – Access to a variety of financial records is restricted in order to protect personal privacy and insure RAC compliance with all applicable laws and regulations. Commonly restricted financial materials include, but are not limited to: state/federal income tax, property tax, payroll records, bank and brokerage statements, and account information, etc. Access is granted to some financial records, particularly those that are in the public domain such as copies of IRS Form 990 titled "Return of Organization Exempt From Income Tax." This form provides the public with financial information about a given non-profit organization and is often the only public source of such information. Some collection agreements also contain specific restriction stipulations regarding financial materials. Please consult the Assistant Director for Processing with any questions regarding the restriction of financial materials.
 
   - Example of standard RAC file-level access note -
 
@@ -1038,7 +1204,7 @@ Common types of records that fall into this category are:
     <p>Restricted - financial material.</p>
   </div>
 
-3\. _Medical records/records that document the medical history of individuals_ - The [Health Insurance Portability and Accountability Act (HIPAA)](https://www.hhs.gov/hipaa/) was enacted by the U.S. Congress in 1996. In accordance with the stipulations of HIPAA and other personal privacy regulations, access to the following types of records are restricted: formal medical examination forms, patient files or doctor’s notes on the condition of a patient and/or his/her treatment, autopsy records, medical histories, and correspondence regarding a specific individual’s medical state. Additional restricted materials include but are not limited to: medical insurance records or claims, personal injury, workers compensation records or claims, any documentation from an individual describing a medical situation (physical or mental illness, surgery), or similar information about others (spouse’s or child’s illnesses or sensitive circumstances surrounding their death). The HIPAA regulations are broad and far reaching. When processing or handling medical records please consult the Head of Processing and act cautiously to restrict sensitive materials.
+3\. _Medical records/records that document the medical history of individuals_ - The [Health Insurance Portability and Accountability Act (HIPAA)](https://www.hhs.gov/hipaa/) was enacted by the U.S. Congress in 1996. In accordance with the stipulations of HIPAA and other personal privacy regulations, access to the following types of records are restricted: formal medical examination forms, patient files or doctor’s notes on the condition of a patient and/or his/her treatment, autopsy records, medical histories, and correspondence regarding a specific individual’s medical state. Additional restricted materials include but are not limited to: medical insurance records or claims, personal injury, workers compensation records or claims, any documentation from an individual describing a medical situation (physical or mental illness, surgery), or similar information about others (spouse’s or child’s illnesses or sensitive circumstances surrounding their death). The HIPAA regulations are broad and far reaching. When processing or handling medical records please consult the Assistant Director for Processing and act cautiously to restrict sensitive materials.
 
   - Example of standard RAC file-level access note -
 
@@ -1048,7 +1214,7 @@ Common types of records that fall into this category are:
 
 4\. _Student records_ - [FERPA (the Family Education Right and Privacy Act)](http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html) restricts access to student records (e.g., health, grades, disciplinary action, etc.) for the lifetime of the student. FERPA protects student and parent rights to access their own student records, stored and maintained by the school, and restricts access to those records by others without the permission of the student or parents.
 
-The Buckley Amendment to FERPA allows directory information to be made public without permission, including the student name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student. Please consult the Head of Processing with any questions regarding the restriction of student records.
+The Buckley Amendment to FERPA allows directory information to be made public without permission, including the student name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student. Please consult the Assistant Director for Processing with any questions regarding the restriction of student records.
 
   - Example of standard RAC file-level access note -
 
@@ -1056,7 +1222,7 @@ The Buckley Amendment to FERPA allows directory information to be made public wi
     <p>Restricted - confidential material.</p>
   </div>
 
-5\. _Peer Review_ – Privacy and confidentiality of individuals involved in a peer review process may necessitate a restriction on access to records. Often found in faculty papers, peer review is a common practice for grant applications and scholarly publications to evaluate the worthiness of grant recipients and submissions to academic journals. These reviews are often submitted with an expectation of confidentiality. Peer reviews are usually submitted on forms provided by the academic journal/grant-giving institution, or submitted on regular letterhead. (Depending on the collection, this may be stated as a donor-imposed access restriction, or access may be granted with a restriction placed on the use of the records.) Please consult the Head of Processing with any questions pertaining to peer review records.
+5\. _Peer Review_ – Privacy and confidentiality of individuals involved in a peer review process may necessitate a restriction on access to records. Often found in faculty papers, peer review is a common practice for grant applications and scholarly publications to evaluate the worthiness of grant recipients and submissions to academic journals. These reviews are often submitted with an expectation of confidentiality. Peer reviews are usually submitted on forms provided by the academic journal/grant-giving institution, or submitted on regular letterhead. (Depending on the collection, this may be stated as a donor-imposed access restriction, or access may be granted with a restriction placed on the use of the records.) Please consult the Assistant Director for Processing with any questions pertaining to peer review records.
 
   - Example of standard RAC file-level access note -
 
@@ -1069,7 +1235,7 @@ B. _Classified materials_ – Sensitive materials that are restricted due to con
 C. _Donation/Deposit Agreement-based access restrictions_ (terms of the collection agreement with which the RAC has agreed to abide and/or subsequent relevant correspondence establishing such restrictions).
 
 Each individual collection may have its own stipulations, so it is
-essential to become familiar with all the terms of the agreement for the specific collection pertinent to a given processing project. Consult with the Head of Processing for copies of appropriate documents from the collection files. The most common restrictions are:
+essential to become familiar with all the terms of the agreement for the specific collection pertinent to a given processing project. Consult with the Assistant Director for Processing for copies of appropriate documents from the collection files. The most common restrictions are:
 
 1\. Date-based access – materials within a collection are often
     accessible to research following an agreed-upon embargo period (10 years; 20 years). _**An entire file is restricted until the most recent date within that file has reached the end of the embargo.**_
@@ -1090,7 +1256,7 @@ Notable exceptions include documentation of a Rockefeller family member acting i
   <p>Example: References to Jay Rockefeller when he served in an official capacity as governor and then as a senator for West Virginia. References to Nelson A. Rockefeller when he served as governor of New York or as Vice President of the United States.</p>
 </div>
 
-For a list of relevant Rockefeller family names, see Head of Processing.
+For a list of relevant Rockefeller family names, see Assistant Director for Processing.
 
 - Example of standard RAC file-level access note -
 
@@ -1109,7 +1275,7 @@ For a list of relevant Rockefeller family names, see Head of Processing.
 
 4\.  Some collection agreements require the researcher to acquire written or oral permission directly from the donor or depositor institution, or the RAC, prior to conducting their research.
 
-5\. Some collection agreements indicate that the archival material is closed pending processing. In this case, access/use is restricted until the collection is processed. The Head of Processing will designate the material "open" once the necessary work is completed.
+5\. Some collection agreements indicate that the archival material is closed pending processing. In this case, access/use is restricted until the collection is processed. The Assistant Director for Processing will designate the material "open" once the necessary work is completed.
 
 D.  _Condition/Security-based access restrictions_ [**(DACS 4.2)**](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/02_physical_access.html) - A fundamental objective of RAC is to facilitate the long-term preservation, conservation, and security of our archival holdings. At times the long-term care of individual items will take precedence over their availability for immediate access. Access to extremely valuable, fragile, brittle, unstable, or damaged items is restricted by RAC in order to protect these high-risk items from theft, damage, or further deterioration. (Example: JDR Sr’s Ledger A).
 
@@ -1145,7 +1311,7 @@ E. _Technical access restrictions_ [**(DACS 4.3)**](https://saa-ts-dacs.github.i
 
 This note documents those materials whose use is completely restricted, or limited in some manner, due to legal requirements, stipulations of a donor/depositor agreement with RAC, or other factors imposed directly by RAC after physical or intellectual access has been provided.
 
-If the material being processed has use restrictions or stipulations, such conditions will be identified, and a course of action will be established through discussions with the Head of Processing during the planning phase of the project.
+If the material being processed has use restrictions or stipulations, such conditions will be identified, and a course of action will be established through discussions with the Assistant Director for Processing during the planning phase of the project.
 
 #### Classified Material
 
@@ -1164,7 +1330,7 @@ B.  Be particularly sensitive to government documents from: Atomic Energy Commis
 
 A.  The RAC follows CIA-approved procedures for handling and storage of classified records by qualified RAC archivists with security clearance at the SECRET level.
 
-B.  Upon discovery of classified material, or potentially classified material, in a collection, the processing archivist should immediately alert the Head of Processing. The qualified archivist will then remove the pertinent material from the body of the collection and secure it in the RAC Classified safes, along with a brief inventory.
+B.  Upon discovery of classified material, or potentially classified material, in a collection, the processing archivist should immediately alert the Assistant Director for Processing. The qualified archivist will then remove the pertinent material from the body of the collection and secure it in the RAC Classified safes, along with a brief inventory.
 
 C.  The qualified archivist then follows the established practice of periodically requesting review for declassification of these records by the relevant federal agencies. Recent reviews have been conducted by the CIA, the U.S. Army, the NSA, the Department of Defense, and the Department of Energy.
 
@@ -1182,14 +1348,14 @@ Acid-free, lignin-free paper consists of 25% cotton rag content; this paper is d
 photocopying by its composition and the placement of a ‘watermark’. This mark is visible most clearly when the paper is held up to a light source. _A preservation photocopy must bear a stamp applied by the archivist noting ‘Archival Copy’_ in order to distinguish the copy as a facsimile.
 
 If the item bears no intrinsic value, the facsimile serves to replace the original in the collection, and the original item is
-discarded/shredded. _All materials proposed for shredding must follow the RAC destruction protocol_, [see Step 39](#step-39---submit-any-materials-proposed-for-shredding-to-head-of-processing). If the item is of value in its original format, consult with the Head of Processing regarding its retention. When an original is retained with restricted access, a condition of access note should be added at the appropriate level of description to indicate that the material is "restricted due to
+discarded/shredded. _All materials proposed for shredding must follow the RAC destruction protocol_, [see Step 39](#step-39---submit-any-materials-proposed-for-shredding-to-assistant-director-for-processing). If the item is of value in its original format, consult with the Assistant Director for Processing regarding its retention. When an original is retained with restricted access, a condition of access note should be added at the appropriate level of description to indicate that the material is "restricted due to
 preservation concerns". _Note: A preservation photocopy is a ‘gray tone’ image; a color copy of a document may accurately duplicate tonal qualities however color is not a preservation-standard representation. It is essential to retain established order when removing documents from a collection or folder for photocopying. Carefully mark the item location(s), and after copying, replace the item(s) in the original order._
 
 Most archival material may be accurately duplicated using in-house
 photocopy machines. It is important to generate as accurate a facsimile as possible in order to replicate the original item. Correspondence, manuscripts, photographs and line drawings may be duplicated by adjusting the settings on the photocopy machine. Check that the copy toner adheres to the paper with no smudge or other excess markings.
 
 Additional examples of materials that are routinely replaced by
-preservation photocopies include: deteriorated newspaper clippings, thermo fax and other glossy copy paper, telegrams, and items that are glued or otherwise damaged by adhesives. For recommendations on how best to photocopy non-standard or damaged materials, see the Head of Processing.
+preservation photocopies include: deteriorated newspaper clippings, thermo fax and other glossy copy paper, telegrams, and items that are glued or otherwise damaged by adhesives. For recommendations on how best to photocopy non-standard or damaged materials, see the Assistant Director for Processing.
 
 ## Box Labeling and Barcoding
 
@@ -1202,7 +1368,7 @@ preservation photocopies include: deteriorated newspaper clippings, thermo fax a
 
 - All containers are barcoded at the box-level.
 - Affix barcodes to the front center of the box lid below the box label, or in the front center of the box just above the pull tab. (See Collections Management for details).
-- If barcoding flat files or temporary containers housing audiovisual containers, please consult the Head of Processing.
+- If barcoding flat files or temporary containers housing audiovisual containers, please consult the Assistant Director for Processing.
 
 ## Shelve Processed Records
 
@@ -1219,7 +1385,7 @@ Record the following Container Management data in the finding aid:
 - Locations
 - Barcodes
 - Container profiles
-- For further assistance, see the Head of Processing.
+- For further assistance, see the Assistant Director for Processing.
 
 ## Finishing the Project
 
@@ -1234,26 +1400,52 @@ Record the following Container Management data in the finding aid:
 - Materials will be evaluated for potential reformatting and eligible items will be considered for digitization (either through in house procedures or outsourced to an appropriate vendor).
 - Once an access copy has been created, the Processing Archivist will be contacted to potentially view/listen to the material and further enhance the available description.
 
-### Step 32 – Transfer eligible Published Materials to the RAC Library
+### Step 32 – Subjects
 
-- Drop off eligible published materials in the designated location. (See Collections Management for details.)
-- Eligible materials include but are not necessarily limited to:
-    - Collections or accessions whose entire contents is published materials within the
-      scope of the RAC Library collecting policy.
-    - Published studies, reports and scientific or technical publications sponsored by, or otherwise produced through, direct grants or funding from RAC or a donor/depositor.
-- No more than two copies of any publication will be acquired, cataloged and added to the Library collection. (Any additional copies should be submitted for disposal or return to the donor/depositor in accordance with RAC Collections Management procedure.)
-- Bibliographic records will be created in the Collection Management system by RAC Collections Management/Library staff as applicable.
-- The processing archivist should provide Collections Management/Library staff:
-    - The Resource ID Number (FA#)
-    - Accession/Collection Title
-    - If no applicable Finding Aid is created, provide the accession number.
-- No separation number(s) is assigned, and the separation sheet is not used.
-- No archival description should be added to the finding aid.
+Creating and/or assigning standardized subject terms helps to further illuminate the functions, activities, events, places, and ideas documented in the records being described. When thoughtfully assigned, subjects offer a powerful tool for broadly researching among and between collections.
+Subject terms can also be utilized to draw attention to materials created by or about underrepresented groups. Processors should be mindful of offensive, outdated, or inaccurate subject terms that might still be present within the RAC’s list of subject terms (for example: “Art, Primitive” and “Illegal Aliens.” Please use the Report Problematic Description tool if there are subject terms that should be reviewed and removed.
 
-### Step 33 – Inform Collections Management of the Original Boxes/Box Numbers That Have Been Eliminated During Processing
+**\*\* “Can’t see the forest for the trees” Do NOT overuse Subjects. Overuse could be detrimental to data access \*\***
 
-- As collections/accessions are processed and documented in the collections management system, the Collections Management team removes the corresponding notations from the RAC Master Shelf List.
-- Ultimately, all archival materials will be documented in the RAC collections management system, and the Master Shelf List will be phased out.
+**General Guidelines for Creating or Assigning Subjects**
+
+*\*\*Prior to creating any new subjects -- Search subject records to confirm if a record exists for the given subject. If a record exists do NOT create a new subject\*\**
+
+- Create or assign Subjects only when the terms are directly associated to the material being described.
+  - Topical
+  - Geographic
+  - Genre form
+- Assign only to aggregates of records -- at collection, record group, subgroup, series, or subseries level. Do not assign at file-level.
+- As with description of archival records, the principle of inheritance applies to structured terms.
+  - Any term assigned to an entire collection or the top level of a finding aid, applies to ALL components/objects within that collection/finding aid.
+  - Terms should only be assigned at a lower-level if those terms are directly and specifically associated to that given level (and not directly and specifically associated to any higher levels).
+- Subject Authorities include:
+  - [Library of Congress Subject Headings (LCSH)](https://id.loc.gov/authorities/subjects.html)
+    - Widely recognized and used across archives LCSH and are the source for many of the RAC’s subject terms. Because of the periodic revisions the Library of Congress (LOC) makes to the terms, LCSH terms can be consulted for the purposes of applying subjects to the records of the RAC, and the most up-to-date terms can often be used and retained within the RAC’s repository. Nevertheless, subject terms cannot be exclusively sourced from LCSH because of biases embedded in the terms and because of LCSH delays in responding to community needs. LCSH terms that communities have identified as harmful to them should be avoided.
+  - Getty Research Institute Art & Architecture Thesaurus
+  - Alternative authorities are available for more specialized records, more specific subjects, or for the purpose of procuring terms that are more in line with the language communities use to describe themselves.
+    - If the authority being consulted is not available as a source in ArchivesSpace, utilize the subject terms’ scope note to identify the authority used.
+  - Terms may also be created locally (when applicable).
+
+**Merging or Removing Subjects**
+
+- Please submit an Archival Description Concern form:
+  - In the rare case when two or more subject records exist for the same term.
+  - To identify harmful existing terms that may be good candidates for removal or merging with another authorized term that more accurately or respectfully represents the concept.
+    - <div class="docs-example">
+        <p>For example: “Afro-American politicians” can be merged into “African-American politicians”.</p>
+      </div>
+    - Removed/Deleted terms may be replaced with a newly created, or newly identified, culturally conscious authorized term.
+- **Merging or removing agents can result in DATA LOSS.**
+- *\*\*Merging or removing agents must be pre-approved, or otherwise conducted, by the Assistant Director for Processing.\*\**
+
+### Step 33 – Finalize Agents
+
+- Update or confirm data recorded in applicable agent records.
+- Update or confirm agent assignments (authors/contributors)
+- Record or revise Biographical/Historical sketch in Agent record [**(DACS 2.7)**](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/07_administrative_biographical_history.html)
+    - Provide information about the corporate body, person, or family that created, assembled, accumulated, and/or maintained and used the materials being described. This element also describes the relationship of creators to archival materials by providing information about the context in which those materials were created.
+- See [Step 13](#building-the-finding-aid) for details on creating and/or assigning agents.
 
 ### Step 34 – Add Local RAC-Required Single-Level Notes
 
@@ -1261,15 +1453,31 @@ Record the following Container Management data in the finding aid:
     - Describe the current organization of the collection.
     - At the collection level provide the names and numbers for the
         major components of the collection/accession such as the Series.
-- Preferred Citation – Standard RAC note
-    - Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at on the [RAC website](https://www.rockarch.org/collections/access-and-request-materials/##citations)
+- Processing Information Note
+
+  For legacy mixed materials/paper collections, or in the case where reparative redescription actions have NOT yet been taken (during processing or otherwise), the following statement should be used to provide further context and explain that titles or proper names may be offensive because original titles are not changed and that description provided by a creator might be inadequate:
+
+  <div class="docs-example">
+  <p>
+  The Rockefeller Archive Center recognizes that our archival collections may contain problematic language and/or content.</p>
+
+  <p>Accompanying description, most often with creator or donor-generated language and terminology, has to this point been retained and maintained “as received” by RAC with minimal archivist intervention or augmentation.</p>
+
+  <p>We acknowledge these problems and aim to cultivate inclusive representation and equity by reconsidering and enhancing our description of this material with current sensibilities.</p>
+  </div>
+
+Following reparative redescription actions, including if/when any such actions are taken during processing, the following statement should be used:
+
+  <div class="docs-example">
+  Reparative redescription actions have been taken to reconsider and enhance the description of this material. As we aim to cultivate inclusive representation and equity in our archives, reparative actions will continue as necessary.
+  </div>
+
+- Adding applicable notes to components at lower levels is optional.
 
 ### Step 35 – Add Single-Level/Multi-Level Notes to Finding Aid in Accordance with Assigned Processing Level
 
 Commonly used notes may include:
 
-- Biographical/Historical sketch [**(DACS 2.7)**](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/07_administrative_biographical_history.html)
-    - Provide information about the corporate body, person, or family that created, assembled, accumulated, and/or maintained and used the materials being described. This element also describes the relationship of creators to archival materials by providing information about the context in which those materials were created.
 - Conditions Governing Use [**(DACS 4.4)**](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/04_conditions_governing_reproduction_and_use.html)
     - Identify any restrictions on reproduction due to copyright or other reasons, as well as restrictions on further use of the materials being described, such as publication, after access has been provided.
 - Immediate Source of Acquisition [**(DACS 5.2)**](https://saa-ts-dacs.github.io/dacs/06_part_I/06_chapter_05/02_immediate_source_of_acquisition.html)
@@ -1284,23 +1492,28 @@ Commonly used notes may include:
 - Related materials note [**(DACS 6.3)**](https://saa-ts-dacs.github.io/dacs/06_part_I/07_chapter_06/03_related_archival_materials.html)
     - Indicate the existence and location of archival materials that are closely related to the materials being described by provenance, sphere of activity, or subject matter, either in the same repository, in other repositories, or elsewhere.
     - If there are materials that have a direct and significant connection to those being described by reason of closely shared responsibility or sphere of activity, provide the title, location, and, optionally, the reference number(s) of the related materials and their relationship with the materials being described.
-    - If the materials are available at RAC, a link to the applicable finding aid can be provided.
+    - If the materials are available at RAC, indicate the applicable finding aid.
     - If the materials are available at another repository, a general reference to the repository will suffice.
 - Series-Level or Component-Level notes
     - Always focus all multi-level notes specifically on the level and the material being described.
     - For example, a scope and content note at the Series level should focus only on documenting the content of that given series.
+- Arrangement Map
+  - General notes pertaining to an entire collection can be added at the Top Level of the collection’s Arrangement Map.
+  - Utilizing the arrangement map can help reduce or eliminate data duplication.
+  - Contact Assistant Director for Processing for more information and assistance.
 - Other notes as recommended in Project Vitals.
 
 ### Step 36 – Revise Accession Record(s)
 
-- Prompt the Head of Processing to revise the applicable accession record(s).
-- Head of Processing will:
+- Prompt the Assistant Director for Processing to revise the applicable accession record(s).
+- Assistant Director for Processing will:
     - Link Related Accession record(s) to Resource.
     - Delete Box Instances from Accession record(s).
 
 ### Step 37 - Finalize Front Matter Notes
 
 - Update or confirm final calculations for the Date and Extent elements, and compose final Scope and Content note. [(See Additional Required Collection Level Elements)](#additional-required-collection-level-elements).
+- The Date Calculator and Extent Calculator (cu. ft.) should be used at all major component levels (Collection/Top of Guide, RG, SG, Series) as applicable.
 - The final Extent calculations should include a natural language Container Summary statement describing the number and type of archival containers used.
 
   <div class="docs-example">
@@ -1309,13 +1522,19 @@ Commonly used notes may include:
 
 ### Step 38 - Publish Finding Aid
 
-- Submit the draft finding aid to the Head of Processing for final review.
-- Once approval has been received from the Head of Processing, “check” the publish box at the highest level of the finding aid to publish the guide.
+- Submit the draft finding aid to the Assistant Director for Processing for final review.
+- Once approval has been received from the Assistant Director for Processing, “check” the publish box at the highest level of the finding aid to publish the guide.
 - If any individual components are NOT to be shown online, uncheck the publish box for the applicable component(s).
-- RAC DIMES automatically updates once a day. Newly published guide(s) will be available in DIMES the following day.
+- If the finding aid is part of a collection documented in multiple resource records, prompt the Assistant Director for Processing to update the applicable Arrangement Map.
+- RAC DIMES automatically updates. Newly published guide(s) will be available in DIMES shortly after publication.
 
-### Step 39 - Submit Any Materials Proposed for Shredding to Head of Processing
+### Step 39 - Submit Any Materials Proposed for Shredding to Assistant Director for Processing
 
 ### Step 40 - DONE!!!
 
 Rejoice
+
+## Endnotes
+
+[^1]: Tang, Annie. “Dealing with Dealer Descriptions: Navigating Black and Asian Identities as Creators and Subjects in Purchased Manuscripts Collections.” In “Toward Culturally Competent Archival (Re)Description of Marginalized Histories”, by Tang, Annie; Berry, Dorothy; Bolding, Kelly; and Winston, Rachel E. (2018). Library Presentations, Posters, and Videos. Society of American Archivists Conference Presentation.
+[^2]: Farnel, Sharon, et al. “Rethinking representation: indigenous peoples and contexts at the University of Alberta Libraries.” (2018).
