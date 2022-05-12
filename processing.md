@@ -1149,7 +1149,7 @@ The processing archivist will:
         - Insert the resulting formatted statement into a Processing Information Note   
           in the finding aid.
 
-- If the item’s format is NOT listed in the Digital Media Log fill out the **Digital Media Vendor Transfer Form**. *The Digital Media Log is meant to track in-house transfers only. Any other formats must be sent out to a vendor to be transferred.*
+- If the item’s format is not listed in the Digital Media Log, fill out the **Digital Media Vendor Transfer Form**. *The Digital Media Log is meant to track in-house transfers only. Any other formats must be sent out to a vendor to be transferred.*
 
     - Individually label and folder each item. Include the Ref ID, finding aid number, and associated file title on the label of each folder.
 
