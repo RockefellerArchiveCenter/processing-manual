@@ -1149,6 +1149,14 @@ The processing archivist will:
         - Insert the resulting formatted statement into a Processing Information Note   
           in the finding aid.
 
+- If the item’s format is NOT listed in the Digital Media Log fill out the **Digital Media Vendor Transfer Form**. *The Digital Media Log is meant to track in-house transfers only. Any other formats must be sent out to a vendor to be transferred.*
+
+    - Individually label and folder each item. Include the Ref ID, finding aid number, and associated file title on the label of each folder.
+
+    - Assign an additional instance for the digital media item within ArchivesSpace. This instance will be used to describe the “DM box.” Enter the box number (example: DM1, DM2, etc.), location information, and barcode of the DM Box. If the current DM box is full, create a new top container with the next sequential number and fill out the top container information accordingly.
+
+    - Place the folders containing the digital media items inside the DM box and shelve in the appropriate location (see the Digital Media Vendor Transfer Form for details).
+
 - Describe the resulting file(s), within originating context, in aggregate in the finding aid.
 - After imaging, submit the original digital media for disposal in accordance with RAC Collections Management procedure.
 
