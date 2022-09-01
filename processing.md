@@ -1187,7 +1187,7 @@ The *Conditions Governing Access* note is used to document archival materials wh
 
 **A. Common Types of Restricted Materials in RAC Collections**
 
-\1. **Access Restrictions [(DACS 4.1)](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/01_conditions_governing_access.html)**
+1\. **Access Restrictions [(DACS 4.1)](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/01_conditions_governing_access.html)**
 
 A. *Donation/Deposit Agreement-based access restrictions* (terms of the collection agreement with which the RAC has agreed to abide and/or subsequent relevant correspondence establishing such restrictions).
 
@@ -1289,14 +1289,14 @@ E. *Condition/Security-based access restrictions* **[(DACS 4.2)](https://saa-ts-
 
 F. *Technical access restrictions* **[(DACS 4.3)](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/03_technical_access.html)** – Some archival material is restricted due to its format or other special needs.
 
-\1. Format – Access to certain formats may be completely or partially restricted. Examples:
+1\. Format – Access to certain formats may be completely or partially restricted. Examples:
 <div class="docs-example"><p>Photographic negatives are available at the discretion of RAC.</p>
 <p>Access to Paul Ehrlich copy books is restricted, and researchers are directed to typescript copies.</p></div>
 
-\2. Re-formatted collections – Access to original archival materials is restricted after a collection has been reformatted (microfilm, microfiche, digital files). Researchers are only provided access to the user copies of the reformatted media or digital files. Example:
+2\. Re-formatted collections – Access to original archival materials is restricted after a collection has been reformatted (microfilm, microfiche, digital files). Researchers are only provided access to the user copies of the reformatted media or digital files. Example:
 <div class="docs-example"><p>JDR Sr.’s Letterbooks, RF Officer’s Diaries</p></div>
 
-\3. Special technical access issues may also necessitate restrictions on access. Example of standard access note for technical access restrictions:
+3\. Special technical access issues may also necessitate restrictions on access. Example of standard access note for technical access restrictions:
 <div class="docs-example"><p>Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p></div>
 
 **2. Use Restrictions**
