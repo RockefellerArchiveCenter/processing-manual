@@ -1187,7 +1187,7 @@ The *Conditions Governing Access* note is used to document archival materials wh
 
 **A. Common Types of Restricted Materials in RAC Collections**
 
-1\. **Access Restrictions [(DACS 4.1)](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/01_conditions_governing_access.html)**
+**1\. Access Restrictions [(DACS 4.1)](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/01_conditions_governing_access.html)**
 
 A. *Donation/Deposit Agreement-based access restrictions* (terms of the collection agreement with which the RAC has agreed to abide and/or subsequent relevant correspondence establishing such restrictions).
 
