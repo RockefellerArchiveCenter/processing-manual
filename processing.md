@@ -1162,189 +1162,174 @@ The processing archivist will:
 
 ## Rights and Restrictions
 
-Transparency in the dissemination of information is a critical element of the archival profession. For RAC Processing, the creation of this guide serves to document our policies, practices, and procedures. In the eyes of our users, transparency of the archival collections most often manifests itself through our Access and Use policies and the professional manner in which we systematically carry out our practices. RAC strives to inform users of all access and use conditions pertinent to our collections; identify and describe all restricted materials; and inform all users of what they can see and use, what they can't see and use, and why. Entire archival collections or components of collections (record group, subgroup, series, subseries, box, folder, and item) may be restricted from public access or use.
+Transparency in the dissemination of information is a critical element of the archival profession. For the Processing Team, the creation of this guide serves to document our policies, practices, and procedures. In the eyes of our users, transparency of the archival collections most often manifests itself through our Access and Use policies and the professional manner in which we systematically carry out our practices. We strive to inform users of all access and use conditions pertinent to our collections; identify and describe all restricted materials; and inform all users of *what* they can see and use, *what* they can’t see and use, and *why*. In addition, for those records that are currently restricted, we inform all users when they can access and use the materials. Entire archival collections or components of collections (record group, subgroup, series, subseries, box, folder, and item) may be restricted from public access or use.
 
-_During RACcess registration, all users agree to the terms of access/use of all RAC holdings._
+*During RACcess registration, all users agree to the terms of access/use of all RAC holdings.*
 
-_If questions regarding restricted or potentially restricted materials arise during processing, please consult with the Assistant Director for Processing._
+*If questions regarding restricted or potentially restricted materials arise during processing, please consult with the Assistant Director for Processing.*
 
-### Step 23 - Label Physical Folders Containing Restricted Material in Accordance with RAC Guidelines
+### Step 23 – Consider Strategic Placement of Physical Folders Containing Restricted Material in Accordance with RAC Guidelines
 
-- If all items in a folder are restricted, the folder is labeled "Closed” or “Restricted”.
-- If all items in a folder or box are temporarily restricted, such as by a time embargo, clearly state on the folder or box when the material will be open.
+- **Physical labeling of restricted folders and/or boxes is a legacy practice no longer followed or recommended.**
 
-<div class="docs-example">
-  <p>Restricted – Open in 20XX</p>
-</div>
+- **All documentation of restricted materials is now maintained in the RAC Collections Management System, which works in tandem with our Request Broker to output restriction information on applicable Request Call Slips.**
 
-- If a portion of the contents of a box or folder is restricted, the container is labeled "Closed Material Within".
-- Physically relocating restricted material to the end of a collection or series/component is preferable (when viable), rather than having restricted and open materials stored in the same box. This provides RAC the opportunity to store the restricted material at an RAC facility other than Hillcrest. Regardless of physical location, the restricted material should always be described intellectually in the appropriate place within the finding aid.
+- Consider options for strategic physical placement of restricted material in the project/collection to assist with efficient retrieval of archival records and effective vault and collections management.
+
+- Physically relocating restricted material to a segregated box(es), or to the end of a collection or series/component is preferable (when viable), rather than having restricted and open materials stored in the same box. This facilitates faster and more efficient retrieval of open archival records, and offers RAC the opportunity to store the restricted material at an RAC facility other than Hillcrest.
+
+- Regardless of physical location, the restricted material should always be described intellectually in the appropriate place within the finding aid.
 
 ### Step 24 - Add File-Level Conditions of Access Notes for Restricted Material
+The *Conditions Governing Access* note is used to document archival materials whose access is physically and/or intellectually restricted due to the nature of the information documented.
 
-(For collection-level access statements please [see Step 7 of establishing DACS-Single Level Minimum Compliance at the Collection Level](#general-collection-level-access-statements-approved-for-use-at-rac))
+(For collection-level access statements please [see Step 7 of establishing DACS-Single Level Minimum Compliance at the Collection Level](https://docs.rockarch.org/processing-manual/processing/#general-collection-level-access-statements-approved-for-use-at-rac))
 
 **A. Common Types of Restricted Materials in RAC Collections**
 
-**1. Access Restrictions [(DACS 4.1)](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/01_conditions_governing_access.html)**
+**1\. Access Restrictions [(DACS 4.1)](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/01_conditions_governing_access.html)**
 
-This note is used to document archival materials whose access is
-physically and/or intellectually restricted due to the nature of the information documented.
+A. *Donation/Deposit Agreement-based access restrictions* (terms of the collection agreement with which the RAC has agreed to abide and/or subsequent relevant correspondence establishing such restrictions).
 
-A. Material restricted due to privacy rights, legal, or statutory
-requirements.
+  - Each individual collection may have its own stipulations, so it is essential to become familiar with all the terms of the agreement for the specific collection pertinent to a processing project. Consult with the Assistant Director for Processing for copies of appropriate documents from the collection files.
 
-Common types of records that fall into this category are:
+  - Some collection agreements require the researcher to sign a RAC access and/or use permission form prior to conducting research. (Example: Population Council Accession 2). Any applicable permissions are addressed during *RACcess* registration.
 
-1\.  _Personnel files (and/or personnel-like records)_ are restricted to ensure personal privacy and restrict access to materials generally considered confidential between an individual and his or her employer. Personnel records include: employment applications, resumes/CVs, letters of appointment, personal references, salary or withholding statements, performance evaluations, and other correspondence discussing general or particular circumstances of an individual’s employment or job performance. Personnel records also often include personal injury and/or workers compensation insurance records or claims and pension documents. Records gathered in the course of conducting an executive search, or in filling a professional position, may also be restricted. Please consult the Assistant Director for Processing with any questions regarding the restriction of personnel materials.
+  - Some collection agreements indicate that the archival material is closed pending processing. In this case, access/use is restricted until the collection is processed. The Assistant Director for Processing will designate the material “open” once the necessary work is completed.
 
-  - Example of standard RAC file-level access note -
+B. For all newly processed or previously restricted materials NOT governed by specific stipulations of a collection agreement, the following terms of access apply (all restriction periods are from date of creation unless noted):
 
-  <div class="docs-example">
-    <p>Restricted - personnel material.</p>
-  </div>
+| Record Type                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                             | Restriction Period                                                                            |
+|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Declinations                       | 20 years.                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                               |
+| Development records                | May include fundraising, major contributions, appropriations, capital projects, recruitment campaigns, etc.                                                                                                                                                                                                                                                                                                                             | 20 years.                                                                                     |
+| Executive Search records           | Often include the records of an associated search committee or search team. Archival records may or may not document the selection/hire resulting from the search.                                                                                                                                                                                                                                                                      | 40 years.                                                                                     |
+| Medical records/Health Information | Medical records found within the body of an archival collection may include: methodologies, patient records, consent forms, medical or experimental research applications or approvals. Health information relates to the past, present, or future physical or mental health or condition of an individual (including symptoms, diagnoses, treatments, diagnostics, etc.), or the provision or payment of health care to an individual. | 100 years.                                                                                    |
+| Peer review                        | Often found in foundation records or faculty papers, peer review is a common practice for grant or fellowship applications and scholarly publications to evaluate the worthiness of grant or award recipients or submissions to academic journals. These reviews are often submitted with an expectation of confidentiality, often with stipulations established by the given foundation.                                               | 40 years.                                                                                     |
+| Personnel-type records             | Official personnel files are non-archival. Personnel-type records are materials with historical value within the body of an archival collection that in part document the terms or nature of an individual’s employment such as: employment history and dates, salary, position titles and responsibilities, and/or occupational events that occurred during the course of employment.                                                  | 70 years (with discretion of archivist)                                                       |
+| Property/Real Estate               | Archival records documenting the history and management of donor-owned property/real estate such as Harkness House, Asia House, Japan House                                                                                                                                                                                                                                                                                             | 30 years                                                                                      |
+| Publications                       | Publicly available information including but not limited to: annual reports, blogs, bulletins, newsletters, news/press releases, quarterly reports, periodicals, programs reports, staff listings, and website announcements.                                                                                                                                                                                                           | None.                                                                                         |
+| Safety & Security                  | Security for buildings, expositions, events, homes, meetings, people, or property.                                                                                                                                                                                                                                                                                                                                                      | Disposal or return to donor in accordance with established procedure for collection material. |
+| Student records                    | Vital records such as: admissions, personnel, human resources or registrar files are non-archival. Student records found within the body of an archival collection may include: grade reports; exams or test results; transcripts; correspondence; notes, papers, and drafts; laboratory notebooks; unpublished thesis and dissertations.                                                                                               | 75 years.                                                                                     |
+| Tax records                        | Form 990s and any other publicly available records                                                                                                                                                                                                                                                                                                                                                                                      | None.                                                                                         |
+| Treasurer records (or similar)     | Treasurer's files include but are not limited to: grants, vouchers, cash books, financial reports, payments, appropriations, expenditures, trial balances, and related files.                                                                                                                                                                                                                                                           | 20 years.                                                                                     |
 
-2\.  _Financial records_ – Access to a variety of financial records is restricted in order to protect personal privacy and insure RAC compliance with all applicable laws and regulations. Commonly restricted financial materials include, but are not limited to: state/federal income tax, property tax, payroll records, bank and brokerage statements, and account information, etc. Access is granted to some financial records, particularly those that are in the public domain such as copies of IRS Form 990 titled "Return of Organization Exempt From Income Tax." This form provides the public with financial information about a given non-profit organization and is often the only public source of such information. Some collection agreements also contain specific restriction stipulations regarding financial materials. Please consult the Assistant Director for Processing with any questions regarding the restriction of financial materials.
+The file-level *Conditions Governing Access* note should address the questions of *WHAT, WHO, WHY* and *WHEN (The four W’s)*.
 
-  - Example of standard RAC file-level access note -
+- *What is it? – Restricted material.*
+- *Who or What is being described? Is the Who or What important to the terms of access?*
+- *Why is it restricted? – Indicate the File Type or stipulation of restriction.*
+- *When will it be open? – Indicate the YEAR the material will be open (dependent upon the applicable terms of access).*
 
-  <div class="docs-example">
-    <p>Restricted - financial material.</p>
-  </div>
+- Example of standard RAC file-level access note –
+    <div class="docs-example"><p>Restricted – Executive Search – Open in 20XX</p>
 
-3\. _Medical records/records that document the medical history of individuals_ - The [Health Insurance Portability and Accountability Act (HIPAA)](https://www.hhs.gov/hipaa/) was enacted by the U.S. Congress in 1996. In accordance with the stipulations of HIPAA and other personal privacy regulations, access to the following types of records are restricted: formal medical examination forms, patient files or doctor’s notes on the condition of a patient and/or his/her treatment, autopsy records, medical histories, and correspondence regarding a specific individual’s medical state. Additional restricted materials include but are not limited to: medical insurance records or claims, personal injury, workers compensation records or claims, any documentation from an individual describing a medical situation (physical or mental illness, surgery), or similar information about others (spouse’s or child’s illnesses or sensitive circumstances surrounding their death). The HIPAA regulations are broad and far reaching. When processing or handling medical records please consult the Assistant Director for Processing and act cautiously to restrict sensitive materials.
+    <p>Restricted – Personnel – Open in 20XX</p>
 
-  - Example of standard RAC file-level access note -
+    <p>Restricted – Treasurer – Open in 20XX</p>
+    </div>
 
-  <div class="docs-example">
-    <p>Restricted - confidential material.</p>
-  </div>
+C. *Personally Identifiable Information* – Content, outside any of the above-listed file-types, that is restricted due to individual privacy and security including but not limited to: social security numbers, tax ID numbers, and other uniquely identifiable data. Personally identifiable information is most often found in application packets within program, grant, or fellowship files. When processing or handling such records, please consult the Assistant Director for Processing and act cautiously to restrict sensitive materials.
 
-4\. _Student records_ - [FERPA (the Family Education Right and Privacy Act)](http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html) restricts access to student records (e.g., health, grades, disciplinary action, etc.) for the lifetime of the student. FERPA protects student and parent rights to access their own student records, stored and maintained by the school, and restricts access to those records by others without the permission of the student or parents.
+Example of standard RAC file-level access note –
 
-The Buckley Amendment to FERPA allows directory information to be made public without permission, including the student name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student. Please consult the Assistant Director for Processing with any questions regarding the restriction of student records.
+<div class="docs-example">Restricted – confidential material</div>
 
-  - Example of standard RAC file-level access note -
+D. Terms of Access for Rockefeller family collections
+- **Restricting materials simply because they document the actions or activities of living Rockefeller family members is a legacy practice no longer followed or recommended**
 
-  <div class="docs-example">
-    <p>Restricted - confidential material.</p>
-  </div>
+- For all newly processed or previously restricted materials documenting the actions or activities of living Rockefeller family members within Rockefeller family collections, the following terms of access apply (all restriction periods are from date of creation unless noted):
 
-5\. _Peer Review_ – Privacy and confidentiality of individuals involved in a peer review process may necessitate a restriction on access to records. Often found in faculty papers, peer review is a common practice for grant applications and scholarly publications to evaluate the worthiness of grant recipients and submissions to academic journals. These reviews are often submitted with an expectation of confidentiality. Peer reviews are usually submitted on forms provided by the academic journal/grant-giving institution, or submitted on regular letterhead. (Depending on the collection, this may be stated as a donor-imposed access restriction, or access may be granted with a restriction placed on the use of the records.) Please consult the Assistant Director for Processing with any questions pertaining to peer review records.
+|                                Record Content                                |                                                                Description                                                               |                                                                                      Restriction Period                                                                                     |
+|:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Philanthropic & Charitable Activities                                        |                                                                                                                                          | 25   years (or death of documented family member(s) if earlier).                                                                                                                            |
+| Personal   Material & Activities                                             | Those materials that document both   philanthropic and personal matters will be designated as personal (with   discretion of archivist). | 50 years (or death of documented   family member(s) if earlier).                                                                                                                            |
+| Immediate Inter-family,  Extended Intra-family, or other sensitive   matters | With   discretion of archivist.                                                                                                          | Until   death of documented family member(s).                                                                                                                                               |
+| Estate   matters                                                             |                                                                                                                                          | 50 years after death of family   member (unless otherwise noted below).                                                                                                                     |
+| Estate - JDR Jr.                                                             | Death:   1960. 50-year embargo would end 2010.                                                                                           | None   (Originally opened in 1998 by RAC Director Darwin Stapleton).                                                                                                                        |
+| Estate -   Martha Baird Rockefeller                                          | Death: 1971. 50-year embargo would   end 2021.                                                                                           | None (Originally opened in 1998 by   RAC Director Darwin Stapleton).                                                                                                                        |
+| Estate – Winthrop Rockefeller                                                | Death:   1973. 50-year embargo ends 2023.                                                                                                | 2023                                                                                                                                                                                        |
+| Estate –   Abby Rockefeller Mauze                                            | Death: 1976. 50-year embargo ends   2026.                                                                                                | 2026                                                                                                                                                                                        |
+| Estate – John D. Rockefeller 3rd                                             | Death:   1978. 50-year embargo ends 2028.                                                                                                | 2028                                                                                                                                                                                        |
+| Estate –   Nelson A. Rockefeller                                             | Death: 1979. 50-year embargo ends   2029.                                                                                                | 2029                                                                                                                                                                                        |
+| Estate – Laurance S. Rockefeller                                             |                                                                                                                                          | 2029   (in accordance with terms of donation of LSR papers, 2009)                                                                                                                           |
+| 1934   Trust                                                                 | Restrictions pertinent to the   David Rockefeller papers lifted as of 2027.                                                              | 2029 or 5 years after closure of   the estate/death of last beneficiary (whichever is later) (remaining LSR   restrictions lifted in accordance with terms of donation of LSR papers, 2009) |
+| Estate – David Rockefeller                                                   |                                                                                                                                          | 2042   (in accordance with terms of donation of DR papers, 2019)                                                                                                                            |
 
-  - Example of standard RAC file-level access note -
-
-  <div class="docs-example">
-    <p>Restricted - confidential material.</p>
-  </div>
-
-B. _Classified materials_ – Sensitive materials that are restricted due to content pertaining to national security. (Further details are provided later in this section regarding the identification and handling protocol for classified materials.)
-
-C. _Donation/Deposit Agreement-based access restrictions_ (terms of the collection agreement with which the RAC has agreed to abide and/or subsequent relevant correspondence establishing such restrictions).
-
-Each individual collection may have its own stipulations, so it is
-essential to become familiar with all the terms of the agreement for the specific collection pertinent to a given processing project. Consult with the Assistant Director for Processing for copies of appropriate documents from the collection files. The most common restrictions are:
-
-1\. Date-based access – materials within a collection are often
-    accessible to research following an agreed-upon embargo period (10 years; 20 years). _**An entire file is restricted until the most recent date within that file has reached the end of the embargo.**_
-
-  - With a 10-year embargo, a file dated 1992-2007 would be open in 2018.
-  - With a 20-year embargo, a file dated 1992-2007 would be open in 2028.
-  - Example of standard RAC file-level access note -
-
-  <div class="docs-example">
-    <p>Restricted - "Open in 20XX”</p>
-  </div>
-
-2\. Access to archival material providing the names, correspondence, and/or activities of living Rockefeller family members, and the net worth of any Rockefeller family members, is restricted in all Rockefeller family collections.
-
-Notable exceptions include documentation of a Rockefeller family member acting in an official governmental capacity, and in situations in which the information in question is accessible through public sources such as newspapers.
-
-<div class="docs-example">
-  <p>Example: References to Jay Rockefeller when he served in an official capacity as governor and then as a senator for West Virginia. References to Nelson A. Rockefeller when he served as governor of New York or as Vice President of the United States.</p>
-</div>
-
-For a list of relevant Rockefeller family names, see Assistant Director for Processing.
-
+- The file-level *Conditions Governing Access* note should address the questions of *WHAT, WHO, WHY* and *WHEN (The four W’s)*.
+    - *What is it? – Restricted material.*
+    - *Who or What is being described? Is the Who or What important to the terms of access?*
+    - *Why is it restricted? – Indicate the File Type or stipulation of restriction*
+    - *When will it be open? – Indicate the YEAR the material will be open (dependent upon the applicable terms of access).*
 - Example of standard RAC file-level access note -
 
-  <div class="docs-example">
-    <p>Material in the Rockefeller family collections which provides the names, correspondence, or activities of living members of the Rockefeller family, and/or documents the net worth of any Rockefeller family members, is restricted.</p>
-  </div>
+<div class="docs-example"><p>Restricted – Living Rockefeller family – Philanthropy – Open in 20XX</p>
 
-- An additional unpublished note should be added at the file-level
-    indicating the name of the family member(s) described.
+<p>Restricted – Living Rockefeller family – Personal – Open in 20XX</p>
 
-  <div class="docs-example">
-    <p>Restricted - David Rockefeller Jr.</p>
-  </div>
+<p>Restricted – Living Rockefeller family – Family matters - Restricted for Life</p>
 
-3\. Some collection agreements require the researcher to sign a RAC access and/or use permission form prior to conducting research. (Example: Population Council Accession 2).
+<p>Restricted – Abby Rockefeller Mauze estate – Open in 2026</p></div>
 
-4\.  Some collection agreements require the researcher to acquire written or oral permission directly from the donor or depositor institution, or the RAC, prior to conducting their research.
+- Create a second “unpublished” access note listing the specific name of the living Rockefeller family member(s) documented in the file.
+- Example of standard “unpublished” file-level access note -
 
-5\. Some collection agreements indicate that the archival material is closed pending processing. In this case, access/use is restricted until the collection is processed. The Assistant Director for Processing will designate the material "open" once the necessary work is completed.
+<div class="docs-example">Restricted – David Rockefeller Jr.</div>
 
-D.  _Condition/Security-based access restrictions_ [**(DACS 4.2)**](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/02_physical_access.html) - A fundamental objective of RAC is to facilitate the long-term preservation, conservation, and security of our archival holdings. At times the long-term care of individual items will take precedence over their availability for immediate access. Access to extremely valuable, fragile, brittle, unstable, or damaged items is restricted by RAC in order to protect these high-risk items from theft, damage, or further deterioration. (Example: JDR Sr’s Ledger A).
+- If the records are to remain restricted until the death of the Rockefeller family member(s), create a second “unpublished” access note:
+    - Name of the family member(s) – Restricted for Life
+
+<div class="docs-example">David Rockefeller Jr. – Restricted for Life</div>
+
+E. *Condition/Security-based access restrictions* **[(DACS 4.2)](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/02_physical_access.html)** - A fundamental objective of RAC is to facilitate the long-term preservation, conservation, and security of our archival holdings. At times the long-term care of individual items will take precedence over their availability for immediate access. Access to extremely valuable, fragile, brittle, unstable, or damaged items is restricted by RAC in order to protect these high-risk items from theft, damage, or further deterioration. (Example: JDR Sr’s Ledger A).
 
 - Examples of standard file-level access notes -
+<div class="docs-example"><p>Brittle or damaged items are available at the discretion of RAC.</p>
+<p>Restricted - Preservation Concerns</p></div>
 
-  <div class="docs-example">
-    <p>Brittle or damaged items are available at the discretion of RAC.</p>
-    <p>Closed due to preservation concerns.</p>
-  </div>
+F. *Technical access restrictions* **[(DACS 4.3)](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/03_technical_access.html)** – Some archival material is restricted due to its format or other special needs.
 
-E. _Technical access restrictions_ [**(DACS 4.3)**](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/03_technical_access.html)  – Some archival material is restricted due to its format or other special needs.
+1\. Format – Access to certain formats may be completely or partially restricted. Examples:
+<div class="docs-example"><p>Photographic negatives are available at the discretion of RAC.</p>
+<p>Access to Paul Ehrlich copy books is restricted, and researchers are directed to typescript copies.</p></div>
 
-1\.  Format – Access to certain formats may be completely or partially restricted. Examples:
+2\. Re-formatted collections – Access to original archival materials is restricted after a collection has been reformatted (microfilm, microfiche, digital files). Researchers are only provided access to the user copies of the reformatted media or digital files. Example:
+<div class="docs-example"><p>JDR Sr.’s Letterbooks, RF Officer’s Diaries</p></div>
 
-  <div class="docs-example">
-    <p>Access to photographic negatives is restricted unless special permission is granted by RAC.</p>
-    <p>Access to Paul Ehrlich copy books is restricted, and researchers are directed to typescript copies.</p>
-  </div>
-
-2\.  Re-formatted collections – Access to original archival materials is restricted after a collection has been reformatted (microfilm, microfiche, digital files). Researchers are only provided access to the user copies of the reformatted media or digital files. Example:
-
-  <div class="docs-example">
-    <p>JDR Sr.’s Letterbooks, RF Officer’s Diaries</p>
-  </div>
-
-3\.  Special technical access issues may also necessitate restrictions on access. Example of standard access note for technical access restrictions:
-
-  <div class="docs-example">
-    <p>Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-  </div>
+3\. Special technical access issues may also necessitate restrictions on access. Example of standard access note for technical access restrictions:
+<div class="docs-example"><p>Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p></div>
 
 **2. Use Restrictions**
 
-This note documents those materials whose use is completely restricted, or limited in some manner, due to legal requirements, stipulations of a donor/depositor agreement with RAC, or other factors imposed directly by RAC after physical or intellectual access has been provided.
+The *Conditions Governing Use* note documents those materials whose use is completely restricted, or limited in some manner, due to legal requirements, stipulations of a donor/depositor agreement with RAC, or other factors imposed directly by RAC after physical or intellectual access has been provided.
 
 If the material being processed has use restrictions or stipulations, such conditions will be identified, and a course of action will be established through discussions with the Assistant Director for Processing during the planning phase of the project.
 
-#### Classified Material
+**3. Classified Material**
+
+Classified material contains content pertinent to United States national security. Irrespective of its form, nature, or medium of transmission, such classified information requires protection against destruction, disclosure, loss, theft, or access by unauthorized persons, pursuant to all applicable laws and regulations.
 
 The RAC maintains U.S. government classified material that originated from a number of its collections, including the Nelson A. Rockefeller papers, the Rockefeller University archives, and the Warren Weaver papers. The RAC does not currently maintain any classified digital or born-digital records.
 
 **1. Identifying Classified Materials**
 
-Be particularly sensitive to discovering classified materials in a
-collection that includes government documents and/or scientific research which may contain sensitive materials pertaining to the national security of the United States or other countries.
+Be particularly sensitive to discovering classified materials in a collection that includes government documents and/or scientific research which may contain sensitive materials pertaining to the national security of the United States or other countries.
 
-A.  Material stamped Confidential, Secret, Top Secret, Restricted, Restricted Data, or FRD (Formally Restricted Data).
+A. Material stamped Confidential, Secret, Top Secret, Restricted, Restricted Data, or FRD (Formally Restricted Data).
 
-B.  Be particularly sensitive to government documents from: Atomic Energy Commission, Central Intelligence Agency, Federal Bureau of Investigation, President’s Foreign Intelligence Advisory Board (PFIAB), U.S. Department of the Army, U.S. Department of Defense, U.S. Department of Energy, U.S. Department of the Navy, and U.S. Department of State.
+B. Be particularly sensitive to government documents from: Atomic Energy Commission, Central Intelligence Agency, Federal Bureau of Investigation, President’s Foreign Intelligence Advisory Board (PFIAB), U.S. Department of the Army, U.S. Department of Defense, U.S. Department of Energy, U.S. Department of the Navy, and U.S. Department of State.
 
 **2. Protocol for Handling Classified Materials**
 
-A.  The RAC follows CIA-approved procedures for handling and storage of classified records by qualified RAC archivists with security clearance at the SECRET level.
+A. The RAC follows CIA-approved procedures for handling and storage of classified records by qualified RAC archivists with security clearance at the SECRET level.
 
-B.  Upon discovery of classified material, or potentially classified material, in a collection, the processing archivist should immediately alert the Assistant Director for Processing. The qualified archivist will then remove the pertinent material from the body of the collection and secure it in the RAC Classified safes, along with a brief inventory.
+B. Upon discovery of classified material, or potentially classified material, in a collection, the processing archivist should immediately alert the Assistant Director for Processing. The qualified archivist will then remove the pertinent material from the body of the collection and secure it in the RAC Classified safes, along with a brief inventory.
 
-C.  The qualified archivist then follows the established practice of periodically requesting review for declassification of these records by the relevant federal agencies. Recent reviews have been conducted by the CIA, the U.S. Army, the NSA, the Department of Defense, and the Department of Energy.
+C. The qualified archivist then follows the established practice of periodically requesting review for declassification of these records by the relevant federal agencies. Recent reviews have been conducted by the CIA, the U.S. Army, the NSA, the Department of Defense, and the Department of Energy.
 
-D.  No RAC staff members are authorized to handle material designated as TOP SECRET or higher. However, the secret-level qualified archivist should immediately secure the materials in the RAC classified safe. An applicable government official must be contacted to address this material further.
+D. No RAC staff members are authorized to handle material designated as TOP SECRET or higher. However, the secret-level qualified archivist should immediately secure the materials in the RAC classified safe. An applicable government official must be contacted to address this material further.
 
-E.  Sometimes material in a collection has been declassified. In such instances, please be aware that even if all of the documents in a given section have been declassified, every individual page may not have been specifically marked as such. Depending on the situation, the declassified material can either be integrated back into the main body of the collection, or it may be placed as a separate group of files at or near the end of a collection.
+E. Sometimes material in a collection has been declassified. In such instances, please be aware that even if all of the documents in a given section have been declassified, every individual page may not have been specifically marked as such. Depending on the situation, the declassified material can either be integrated back into the main body of the collection, or it may be placed as a separate group of files at or near the end of a collection.
 
 ## Preservation Photocopying
 
