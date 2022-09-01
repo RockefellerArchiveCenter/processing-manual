@@ -1183,7 +1183,7 @@ Transparency in the dissemination of information is a critical element of the ar
 ### Step 24 - Add File-Level Conditions of Access Notes for Restricted Material
 The *Conditions Governing Access* note is used to document archival materials whose access is physically and/or intellectually restricted due to the nature of the information documented.
 
-(For collection-level access statements please [see Step 7 of establishing DACS-Single Level Minimum Compliance at the Collection Level](https://docs.rockarch.org/processing-manual/planning#supplies))
+(For collection-level access statements please [see Step 7 of establishing DACS-Single Level Minimum Compliance at the Collection Level](https://docs.rockarch.org/processing-manual/processing/#general-collection-level-access-statements-approved-for-use-at-rac))
 
 **A. Common Types of Restricted Materials in RAC Collections**
 
