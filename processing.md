@@ -1041,8 +1041,6 @@ The Collections Management team can assist with:
     - Folder Number
     - Folder Title (may be abbreviated or truncated on physical folder)
     - Date
-- Elements of description which must appear on the folder(s) (when applicable to the material being described):
-    - Restrictions
 - Additional description that will appear on the folder(s) (only if pertinent to the material being described):
     - Record Group (Abbreviation or Number)
     - Subgroup (Abbreviation or Number)
