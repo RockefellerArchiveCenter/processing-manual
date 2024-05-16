@@ -168,9 +168,9 @@ Processing Archivists will use the information provided in a staff member’s re
 
 Each processing assignment is accomplished in two phases:
 
-[*Phase I. Planning*](planning)
+[*Phase I. Planning*](processing-manual/planning)
 
-[*Phase II. Processing*](processing)
+[*Phase II. Processing*](processing-manual/processing)
 
 In an effort to facilitate the work accomplished by processing archivists and the interdepartmental teamwork which assists and facilitates our success, this processing guide is primarily presented as a step-by-step instructional. 
 
