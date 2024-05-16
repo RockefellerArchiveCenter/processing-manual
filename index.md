@@ -142,7 +142,7 @@ may receive further processing based on RAC Processing Priorities).*
   - Description
       - Create, or revise, standard finding aid to file level, in
           accordance with all RAC descriptive standards. (See: [*Building
-          the Finding Aid*](processing#building-the-finding-aid)).
+          the Finding Aid*](/processing-manual/processing#building-the-finding-aid)).
   - Preservation
       - Rebox and refolder (acid-free, lignin-free materials) for permanent
       storage and preservation of the materials, as necessary.
@@ -151,7 +151,7 @@ may receive further processing based on RAC Processing Priorities).*
   - At-Risk Materials
       - Process materials to the file level, regardless of form, medium, or
           creator.
-      - See [Step 16 “Stabilize and Describe At-Risk Materials”](processing#stabilize-and-describe-at-risk-materials) for details.
+      - See [Step 16 “Stabilize and Describe At-Risk Materials”](/processing-manual/processing#stabilize-and-describe-at-risk-materials) for details.
 
 ## Reporting Problematic Description to Processing Team
 
@@ -168,9 +168,9 @@ Processing Archivists will use the information provided in a staff member’s re
 
 Each processing assignment is accomplished in two phases:
 
-[*Phase I. Planning*](planning)
+[*Phase I. Planning*](/processing-manual/planning)
 
-[*Phase II. Processing*](processing)
+[*Phase II. Processing*](/processing-manual/processing)
 
 In an effort to facilitate the work accomplished by processing archivists and the interdepartmental teamwork which assists and facilitates our success, this processing guide is primarily presented as a step-by-step instructional. 
 
@@ -182,4 +182,4 @@ Staff members can consult the Archival Description Concern Requests Project in o
 
 In drafting the guide, the RAC Processing Team focused primarily on creating local practices and procedures that implemented the guidelines and principles established in [Describing Archives: A Content Standard (DACS)](https://saa-ts-dacs.github.io/). DACS is the official archival description standard of the [Society of American Archivists (SAA)](https://www2.archivists.org/), a national professional association for archivists. The RAC Processing Team consulted a number of SAA resources such as the SAA online glossary - [A Glossary of Archival and Records Terminology, by Richard Pearce-Moses](https://www2.archivists.org/glossary) - when outlining its policies in the guide.
 
-[Planning](planning) >>
+[Planning](/processing-manual/planning) >>
