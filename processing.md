@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Guide to Processing Collections - Processing"
+title:  "Processing Manual - Processing"
 ---
 
 The processing phase of each assignment begins with contemplating five vital questions –  
