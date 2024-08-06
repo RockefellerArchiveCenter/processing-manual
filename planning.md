@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Guide to Processing Collections - Planning"
+title:  "Processing Manual - Planning"
 ---
 
 **_All processing activities at RAC must be approved by the Head of Processing._**

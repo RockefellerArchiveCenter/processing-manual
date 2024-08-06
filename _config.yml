@@ -1,11 +1,8 @@
 public: true
 type: "docs"
-category: "arrangement and description"
-tags:
-  - "workflow"
-title: "Guide to Processing Collections"
+title: "Processing Manual"
 description: "A manual for arranging and describing archival collections."
 pages:
-  - ["Guide to Processing Collections", "index"]
+  - ["Processing Manual", "index"]
   - ["Planning", "planning"]
   - ["Processing", "processing"]
