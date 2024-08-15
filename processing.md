@@ -814,8 +814,8 @@ B. Digital media.
     - When the file also contains paper records or other materials, the INSTANCE TYPE “Mixed Materials” should be used.
     - Include a conditions governing access note at the file-level indicating
         either of these two options (as applicable):
-        1. Access copy available.
-        2. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. Access copy currently unavailable. Please contact a RAC archivist for further instruction.
+        1. Open for research. Digital access copy available.
+        2. Open for research. Digital access copy currently unavailable. Please contact a RAC archivist for further instruction.
 - The processing archivist will:
     - Receive training to develop the necessary proficiencies for each of the common removable media types and sizes.
     - Appraise and assess the eligibility of the item(s) for preservation in the RAC digital repository.
@@ -932,8 +932,8 @@ Special Considerations for AV Description:
 
 Notes:
 - **Conditions Governing Access** (choose appropriate note at the file-level)
-    - Access copy available.
-    - Access copy currently unavailable. Please contact a RAC archivist for further instruction.
+    - Open for research. Digital access copy available.
+    - Open for research. Digital access copy currently unavailable. Please contact a RAC archivist for further instruction.
     - [The AV collection-level-note](#general-collection-level-access-statements-approved-for-use-at-rac) can also be used at the series level.
 - **Scope and Contents** (Collaborate with AV archivist to watch/listen to the material AFTER a digitized access copy is created, and generate applicable notes.)
 - **Materials Specific Details** (Add format or film gauge from accession inventory.)
