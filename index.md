@@ -195,7 +195,7 @@ The form can be used to report a variety of issues in addition to problematic de
 Processing Archivists will use the information provided in a staff member’s response to investigate the issue described and implement the most appropriate reparative action. Data collected through the responses will also help build understanding of trends and issues affecting the RAC’s archival description and inform other CCD projects.
 
 ## Processing Project Assignments
-(**Minimal and Standard Processing**)
+(**File-Level, Multi-Level, and Expanded Processing**)
 
 Each processing assignment is accomplished in two phases:
 
