@@ -11,21 +11,21 @@ The processing phase of each assignment begins with contemplating five vital que
 4. How, or by what process, were they created and/or maintained?
 5. Are there any biases, institutional or personal, that might apply to the material?
 
-Our objective as processing archivists is to provide user-friendly equitable access to archival collections. Thinking through these questions at the beginning of each project helps us to organize and contextualize our collection guides in an informative, inclusive, and user-centered manner, that considers the four fundamental concepts of archival description – the records; the agents who created and used them; the activities, events and people documented in them; and the relationships among and between them. Effectively and honestly representing content and inherent context will help to reveal the meaning and value of the records, and the people represented and stories told within them, to our users.  
+Our objective as processing archivists is to provide user-friendly equitable access to archival collections. Thinking through these questions at the beginning of each project helps us to organize and contextualize our collection guides in an informative, inclusive, and user-centered manner that considers the four fundamental concepts of archival description – the records; the agents who created and used them; the activities, events and people documented in them; and the relationships among and between them. Effectively and honestly representing content and inherent context will help to reveal to our users the meaning and value of the records, and the people and stories represented within them.  
 
 Once crafted the proposed structure for the project should then be approved by the Assistant Director for Processing and stated in the Project Vitals.
 
 **Fundamentals of Description \#1 - User-Centered Processing of Records/Papers**
 
-Users are the central reason for archival processing. Identifying our community of users, and observing, testing, analyzing, and understanding user needs and behaviors helps to shape the way our archival collections are organized and described. The description we create and the choices we make in the arrangement, and descriptive processes impact the way users can find, search, and do research in, and with, the collection data and associated metadata. Those choices should always be made with an emphasis on making our data as easy as possible to use, retain, and share by utilizing open platforms, standardizing our practices and procedures, and presenting the resulting data, and metadata, in a structured, intuitive, and transparent manner which highlights context through aggregates of records.
+Users are the central reason for archival processing. Identifying our community of users, and observing, testing, analyzing, and understanding user needs and behaviors helps to shape the way our archival collections are organized and described. The description we create and the choices we make in the arrangement and descriptive processes impact the way users can find, search, and do research in and with the collection. Those choices should always be made with an emphasis on making our data as easy as possible to use, retain, and share, by utilizing open platforms, standardizing our practices and procedures, and presenting the resulting data and metadata in a structured, intuitive, and transparent manner which highlights context through aggregates of records.
 
 **Fundamentals of Description \#2 – Identifying and Understanding Creators/Agents**  
 
-Examining elements of archival theory help us to identify and understand the structure of a collection. Provenance is the origin or source of a collection. Identifying the creator(s) and the origin of the material helps to determine ownership and establish systems to maintain chain of custody and ensure authenticity of the records. Users also benefit from knowing and understanding how records are created, used, and maintained, and if or when those processes may have introduced systems, barriers, or biases that could complicate or impede access.
+Examining elements of archival theory helps us to identify and understand the structure of a collection. Provenance is the origin or source of a collection. Identifying the creator(s) and the origin of the material helps to determine ownership and to establish chain of custody and ensure authenticity of the records. Users also benefit from knowing and understanding how records are created, used, and maintained, and if or when those processes may have introduced systems, barriers, or biases that could complicate or impede access.
 
 **Fundamentals of Description \#3 – Identifying Activities, Events, Functions & People**  
 
-Human networks, interpersonal and professional contacts and relationships are often quite complex. All records within a collection are very rarely created by one person or even one institution. Personal collections may document the activities of families, current and past friends, distant relatives and professional colleagues. Modern foundations function through a network of contacts encompassing people within and outside the given organization. While the mission, programs, and goals of a foundation or institution may be formulated by executive officers and a Board of Directors, daily administration and implementation of the work is most often accomplished by staff and other actors too often hidden from the historical record. Through documenting functions, activities, events, creators, contributors and others agents and people associated with, and documented in, collections, we seek to provide users with a broad understanding of the context, relationships and networks of power and privilege that created and maintained the records we hold.
+Human networks, interpersonal and professional contacts and relationships are often quite complex. Records within a collection are very rarely created by just one person or even one institution. Personal collections may document the activities of families, current and past friends, distant relatives and professional colleagues. Modern foundations function through a network of contacts encompassing people within and outside the given organization. While the mission, programs, and goals of a foundation or institution may be formulated by executive officers and a Board of Directors, daily administration and implementation of the work is most often accomplished by staff and other actors too often hidden from the historical record. Through documenting functions, activities, events, creators, contributors and other agents and people associated with, and documented in, collections, we seek to provide users with a broad understanding of the context, relationships and networks of power and privilege that created and maintained the records we hold.
 
 **Fundamentals of Description \#4 – Aggregate Centered Description Illuminating the Relationships Among and Between the Records and All Associated Actors.**  
 
@@ -53,7 +53,7 @@ Description reflects arrangement, but the physical arrangement of the items in a
 
 While ***Arrangement is no longer considered a fundamental principle of archival description*** *([DACS-Statement of Principles](https://saa-ts-dacs.github.io/dacs/04_statement_of_principles.html#original-order-and-arrangement-as-archival-context))*, it remains an important element of our efforts to document and express archival context and it provides practical instruction for creating useful description.  
 
-In so doing **we recognize that arrangement of collections is not static.** Intellectual control may be cyclical or change over time. In fact, over their lifespan a given set of records may have been used, arranged, or maintained in multiple different ways. This is particularly true for digital records or “hybrid” collections (which consist of multiple formats including paper and digital files) that are often created and maintained in different or multiple file structures.
+In so doing **we recognize that arrangement of collections is not static.** Intellectual control may be cyclical or change over time. In fact, over its lifespan a given set of records may have been used, arranged, or maintained in multiple different ways. This is particularly true for digital records or “hybrid” collections (which consist of multiple formats including paper and digital files) that are often created and maintained in different or multiple file structures.
 
 We must also acknowledge that different cultures or societies live and experience themselves and others in different ways. Therefore, they also document their activities or histories in different ways. Equitable and inclusive standards and practices to identify and describe agents and events will help to facilitate the recording of the stories and experiences of underrepresented communities.
 
@@ -95,11 +95,11 @@ To organize a project or collection, consider our five vital questions.
 
 ### Step 10 - Standard Arrangement
 
+Records may be intellectually arranged regardless of format and paper-based files may routinely be integrated with digital files. Documentation of the authenticity and file structure of the records may also be noted.
+
 *\*\*Archivist imposed arrangement can negatively impact user trust, particularly for users from underprivileged or underrepresented communities. Altering the received physical order of a collection is NOT advised except in the rare case of a compelling user-driven need to significantly improve access.\*\**
 
-The most common and often the most appropriate arrangement action is to
-leave things as they are. In such cases, the processing archivist
-should:
+The most common and often the most appropriate arrangement action is to leave things as they are. In such cases, the processing archivist should:
 
 - Maintain original order/as received
 - Conduct minimal physical arrangement
@@ -107,13 +107,19 @@ should:
 
 **Original order should be maintained when that order accurately reflects the records, the manner in which the records were created and maintained, and the function or activities of the creator(s).**
 
-Often it may not be known if the existing arrangement comprises the
-original order. In cases such as this, the processing archivist consider
-retaining the existing order “as received”.
+Often it may not be known if the existing arrangement comprises the original order. In cases such as this, the processing archivist should consider retaining the existing order “as received”.
 
-In addition to Original Order or “As Received”, common arrangement types
-include: Type/Format; Activity/Function; Alphabetical; and Chronological
-order.
+In addition to Original Order or “As Received”, common arrangement types include: 
+Type/Format; Activity/Function; Alphabetical; and Chronological order.
+
+A few common examples of the language used for aggangement notes:
+<div class="docs-example">
+  <p>Born digital materials have been integrated into appropriate series by topic/subject throughout the collection.</p>
+  <p>Records are arranged chronologically, with paper-based and digital materials integrated.</p>
+  <p>Records are primarily arranged alphabetically.</p>
+  <p>Records are arranged chronologically.</p>
+  <p>Original order, as received. Files and file structure authenticated and preserved.</p>
+</div>
 
 *If assigned a project which necessitates considering broad arrangement options, __consult the Assistant Director for Processing and receive their approval before proceeding to alter the existing arrangement.__*
 
@@ -139,13 +145,13 @@ Before writing archival description, consider these points:
 
 #### Language, Naming Choices, and Power Dynamics
 
-- Avoid passive voice; assign agency to individuals and organizations. Example of passive voice:
+- Avoid passive voice; assign agency to individuals and organizations.
     <div class="docs-example">
         <p>Example of passive voice: “The land was cleared of more than 200 brownstone houses and other antiquated buildings, and the first fourteen        buildings of the Rockefeller Center were erected between 1931 and 1940.” Biographical note, John D. Rockefeller, Jr. Papers.</p>
     </div>
 - Use direct language. Avoid euphemisms to ensure that researchers can locate materials.
     <div class="docs-example">
-        <p>The subject term, “Japanese Americans -- Evacuation and relocation, 1942-1945,” should not be used and should be replaced with another appropriate subject term, for example, “Japanese Americans – Internment, 1942-1945”</p>
+        <p>The subject term, “Japanese Americans -- Evacuation and relocation, 1942-1945,” should not be used and should be replaced with another appropriate subject term. Example: “Japanese Americans – Internment, 1942-1945”</p>
     </div>
 - Use accessible language.
 - Include and identify all known key creators.
@@ -154,9 +160,9 @@ Before writing archival description, consider these points:
     <div class="docs-example">
         <p>“It may be said that John D. Rockefeller, Jr.'s life was directed toward the ideal chiseled in stone over International House in New York: ‘That Brotherhood May Prevail.’ He pursued this ideal through all means -- race, religion, business, education, welfare and science.”</p>
     </div>
-- Avoid “peacock terms” that promote individuals or organizations with little context or citation. See [Wikipedia:Manual of Style/Words to watch](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Words_to_watch). Examples:
+- Avoid “peacock terms” that promote individuals or organizations with little context or citation. See [Wikipedia:Manual of Style/Words to watch](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Words_to_watch).
     <div class="docs-example">
-        <p>“iconic,” “visionary,” “most influential”, “leading,” “renowned”</p>
+        <p>Examples: “iconic,” “visionary,” “most influential”, “leading,” “renowned”</p>
     </div>
 - Ensure proper representation is given in archival descriptions where cultures are being depicted or referenced. Whenever possible, identify a community in its own preferred language.  Determining these names or terms may require additional research.
 - Avoid language and/or terminology that leads to erasure of marginalized groups.
@@ -356,6 +362,10 @@ Identifying, assigning, and creating agents can significantly improve our capaci
       - Corporate Entity
           - Corporate agents may require recording of the language/script.
       - Family
+  - Records IDs
+      - If the agent has a Wikidata page, record the Wikidata ID as the record identifier. The Wikidata ID can be found on the associated Wikidata page next to the individual's/institution's name and always begins with a "Q" followed by a series of numbers.
+      - Record identifier: [Wikidata ID]
+      - Source: Wikidata
   - Name Form
       - Primary Part of Name
       - Rest of Name
@@ -395,70 +405,66 @@ The processing archivist should document the nature of the materials and activit
 
 7\. Conditions Governing Access [**(DACS 4.1)**](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/01_conditions_governing_access.html)
 
-### General Collection-Level Access Statements Approved for Use at RAC
+Terms of access are established through agreements with donors and depositors and through RAC institutional policies and practices. The established terms are then applied to collections based on the content of the information documented within them, and the corresponding Conditions Governing Access notes are crafted to summarize these terms for our users. 
 
-The following four approved collection-level standard access statements cover the large majority of RAC collections. Select the access statement that fits the collection. If the project entails processing a collection with unique conditions, contact the Assistant Director for Processing.
+In addition to the assessment of content, RAC Conditions Governing Access notes also provide a variety of process statements to clarify *HOW* the archival information is provided to users. In some cases, access surrogates of varying formats serve as substitutes for original files. *Restriction of information due to RAC processes or practices is done only as a last resort to ensure the records do not present an obvious health hazard or to maintain the security and long-term viability of our collections.* 
 
-**General Collection-Level Access Statement I**
+### Base Collection-Level Access Statements Approved for Use at RAC
 
-<div class="docs-example">
-  <p>Open for research. Brittle or damaged items are available at the discretion of RAC.</p>
-</div>
+The following four approved collection-level access statements cover the large majority of RAC collections. Select the access statement that fits the collection. If the project entails processing a collection with unique conditions, contact the Assistant Director for Processing.
 
-Basic Access Statement I is appropriate if/when the collection/finding aid contains only open materials and includes NO digital, AV, film, or memorabilia items.
-
-**General Collection-Level Access Statement II (appropriate for many RAC collections)**
+**Base Collection-Level Access Statement I**
 
 <div class="docs-example">
-  <p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-  <p>When requesting to view audiovisual material, please refer to the Title and the AV Number (example: AV 1916). Researchers are asked to check the "Restrictions" note for each Title. If a Title does not currently have an access copy, please contact a RAC archivist for further instruction.
-  </p>
+  <p>Open for research.</p>
 </div>
 
-**General Collection-Level Access Statement III (For materials governed by a date embargo)**
+Access Statement I is appropriate if/when the collection/finding aid contains only open materials and includes NO digital, AV, film, or memorabilia items.
+
+**Base Collection-Level Access Statement II (appropriate for many RAC collections)**
 
 <div class="docs-example">
-  <p>Records more than (25/10/XX) years old are open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media
-  (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-  <p>When requesting to view audiovisual material, please refer to the Title and the AV Number (example: AV 1916). Researchers are asked to check the "Restrictions" note for each Title. If a Title does not currently have an access copy, please contact a RAC archivist for further instruction.
-  </p>
+  <p>Open for research with select materials restricted as noted.</p>
 </div>
 
-**General Collection Level Access Statement IV (For Rockefeller family collections)**
+The term “with select materials restricted as noted” should be added or removed depending on if the contents of the entire guide are open.
+
+**Base Collection-Level Access Statement III (For materials governed by a date embargo)**
 
 <div class="docs-example">
-  <p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Material in the Rockefeller family collections that provides the names, correspondence,
-  or activities of living members of the Rockefeller family, and/or documents the net wealth of any Rockefeller family members, is restricted. Researchers interested in accessing digital media (floppy
-  disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is
-  an access surrogate, please contact an archivist. </p>
-  <p>
-  When requesting to view audiovisual material, please refer to the Title and the AV Number (example: AV 1916). Researchers are asked to check the "Restrictions" note for each Title. If a Title does not currently have an access copy, please contact a RAC archivist for further instruction.</p>
+  <p>Records (25/10/XX) years old or older are open for research with select materials restricted as noted.</p>
 </div>
 
-_Notes on the four general collection-level access statements_
-
-- The term “with select materials restricted as noted” should be added or removed depending on if the contents of the entire guide are open.
-- The portion of the statement pertaining to digital and/or audiovisual materials (see below) should ONLY be included if the collection/finding aid actually contains those materials.
-
-**_Format-Based Collection Level Access Statements Approved for Use at RAC_**
-
-The access statement used should only refer to the terms of access for specific formats if those formats are indeed found in the collection/finding aid being described.
-
-**1.  For collections/finding aids which contain digital media the following language should be added to the end of the access statement**
+**Base Collection Level Access Statement IV (For Rockefeller collections with complex access terms)**
 
 <div class="docs-example">
-  <p>Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
+  <p>Open for research in accordance with the terms of access established by (XXXX, such as the David Rockefeller estate).</p>
 </div>
 
-**2.  For collections/finding aids that contain audiovisual materials the following language should be added to the end of the access statement**
+**_Additions to the Base Collection Level Access Statements Approved for Use at RAC_**
+
+In areas where RAC processes impact HOW archival information is presented to users the following language should be added to the base statement used.
+
+**1. For collections/finding aids which contain, or have a high probability of containing, damaged materials the following language should be added to the end of the access statement**
 
 <div class="docs-example">
-  <p>When requesting to view audiovisual material, please refer to the Title and the AV Number (example: AV 1916). Researchers are asked to check the "Restrictions" note for each Title. If a Title does not currently have an access copy, please contact a RAC archivist for further instruction.
-  </p>
-  <p>All inquiries to view films require advanced notice of at least 2 business days, and may necessitate notice of up to one week. Individual items, including those that are not available in modern formats, may be restricted from access at the discretion of RAC.</p>
+    <p>Brittle or damaged materials are available at the discretion of RAC.</p>
 </div>
 
-**3.  For collections/finding aids that contain memorabilia/realia the following language should be added to the end of the access statement**
+**2.  For collections/finding aids which contain digital media or born-digital files the following language should be added to the end of the access statement**
+
+<div class="docs-example">
+  <p>RAC provides an access surrogate of digital media and born-digital files, not the original files. To request an access surrogate be made, please contact a RAC archivist.</p>
+</div>
+
+**3.  For collections/finding aids that contain audiovisual materials the following language should be added to the end of the access statement**
+
+<div class="docs-example">
+  <p>When requesting to view audiovisual material, please check the "Access" note for each Title. If a Title does not currently have an access copy, please contact a RAC archivist for further instruction.</p>
+    <p>All inquiries to view motion picture films require advanced notice of at least 2 business days, and may necessitate notice of up to one week.</p>
+</div>
+
+**4.  For collections/finding aids that contain memorabilia/realia the following language should be added to the end of the access statement**
 
 <div class="docs-example">
   <p>All inquiries to view memorabilia require advanced notice of at least 2 business days, and may necessitate notice of up to one week. Items are available at the discretion of RAC.</p>
@@ -751,9 +757,10 @@ If the organization in question has continued to operate into present times, its
 - Instance information should answer the question – Where is the file?
 - The instance connects intellectual control with physical control of the file.
 - FILE LEVEL description does not directly equate to FOLDER LEVEL description.
-- Instance Information records the carrier or container. Most often the container is a Box, Box/Folder. In some cases, it is used to record the Reel/Frame of microforms, or the Unique ID (AV#) of an audiovisual item.
+- Instance Information records the carrier or container, or the digital object. Most often the container is a Box, Box/Folder. In some cases, it is used to record the Reel/Frame of microforms, or the Unique ID (AV#) of an audiovisual item.
+- For born-digital materials recording the Digital Object serves in lieu of a physical instance.
 - The primary instance (most often a “Box”) is designated as a Top Container. For assistance with Top Container creation see Assistant Director for Processing.
-- It also records the instance type – most often “Mixed Materials”. “Microform”, “Moving Image”, “Still Image” are also common types used.
+- It also records the instance type – most often “Mixed Materials”. "Digital", “Microform”, “Moving Image”, “Still Image” are also common types used.
 
 ### Associated Notes
 
@@ -799,7 +806,7 @@ At-risk materials should be retained within the originating collection. Some com
 \*Transferring Material to the Library Collection is a legacy practice no longer followed or recommended\*
 
 - All pertinent books, brochures, grant reports, journals, pamphlets, papers, periodicals, reprints, studies, and publications found in an archival collection should be retained within the body of the originating collection.
-- Previous practice to care for these materials as Library items had a detrimental impact on access and often resulted in the loss of originating context.
+- Previous practice of caring for these materials as Library items had a detrimental impact on access and often resulted in the loss of originating context.
 
 #### Archival Materials to be retained within paper-based collections
 
@@ -807,9 +814,9 @@ A. All materials that are an integral part of the originating accession/collecti
 
 B. Digital media.
 
-- Digital media should be retained within the originating file or an accompanying associated file (as feasible), and inventoried at the file-level.
+- Digital media should be retained within the originating file or an accompanying associated file (as feasible) and inventoried at the file-level.
 - When processing:
-    - A physical description note should be included at the file-level indicating the existence of the digital media.
+    - A physical description note should be included at the file level indicating the existence of the digital media.
     - When the entire contents of the file is digital media, the INSTANCE TYPE “Digital” should be used.
     - When the file also contains paper records or other materials, the INSTANCE TYPE “Mixed Materials” should be used.
     - Include a conditions governing access note at the file-level indicating
@@ -828,7 +835,7 @@ C. Oversized materials (larger than legal size: such as reports, studies or ledg
 - When processing:
     - Collaborate with Collections Management as necessary.
     -  **Seek assistance from Collections Management to safely unroll or flatten applicable records.**
-    - Remove the entire file from its existing housing or storage and rehouse or relocate the file in its entirety to appropriately-sized archival folders and/or boxes. This rehousing may involve one file, a group of files, or the contents of an entire box. It should never involve an individual item(s).
+    - Remove the entire file from its existing housing or storage and rehouse or relocate the file in its entirety to appropriately sized archival folders and/or boxes. This rehousing may involve one file, a group of files, or the contents of an entire box. It should never involve an individual item(s).
 
     Example: rehousing material into legal-size box(es) and folder(s) that was originally folded/creased to fit in letter-size housing or vice versa.
 
@@ -935,7 +942,7 @@ Notes:
     - Open for research. Digital access copy available.
     - Open for research. Digital access copy currently unavailable. Please contact a RAC archivist for further instruction.
     - [The AV collection-level-note](#general-collection-level-access-statements-approved-for-use-at-rac) can also be used at the series level.
-- **Scope and Contents** (Collaborate with AV archivist to watch/listen to the material AFTER a digitized access copy is created, and generate applicable notes.)
+- **Scope and Contents** (Collaborate with AV archivist to watch/listen to the material AFTER a digitized access copy is created and then generate applicable notes.)
 - **Materials Specific Details** (Add format or film gauge from accession inventory.)
 
   <div class="docs-example">
@@ -978,7 +985,7 @@ C. Materials whose composition or format places them in particular risk of obsol
 
 <div class="docs-example">
   <p>Flat files that will benefit from long-term flat or oversized storage (drawers, cabinets, rolled canisters) such as architectural drawings, blueprints, maps, plans, and posters.</p>
-  <p>Ephemera, memorabilia, realia, and three dimensional objects.</p>
+  <p>Ephemera, memorabilia, realia, and three-dimensional objects.</p>
   <p>Photographic albums or large volumes of still images, and/or scrapbooks.</p>
   <p>Microforms (microfilm, microfiche, microform cards, or associated cartridges)</p>
 </div>   
@@ -998,8 +1005,8 @@ C. Materials whose composition or format places them in particular risk of obsol
 
 [(See Vitals)](/processing-manual/planning#project-vitals-template)
 
--   Minimal Processing projects will most often retain existing housing when feasible.
--   Standard Processing projects will most often rehouse materials, with limited retention of existing housing when feasible.
+-   Expedited Access projects will most often retain existing housing when feasible.
+-   Enhanced Access projects will most often rehouse materials, with limited retention of existing housing when feasible.
 
 _**Selecting Storage Containers and Enclosures**_
 
@@ -1041,7 +1048,7 @@ The Collections Management team can assist with:
     - Folder Number
     - Folder Title (may be abbreviated or truncated on physical folder)
     - Date
-- Additional description that will appear on the folder(s) (only if pertinent to the material being described):
+- Additional description that may appear on the folder(s) (only if pertinent to the material being described) or may be documented only in the finding aid:
     - Record Group (Abbreviation or Number)
     - Subgroup (Abbreviation or Number)
     - Series (Abbreviation or Number)
@@ -1120,7 +1127,7 @@ C.  Some collection agreements contain stipulations regarding permanent removal,
 
 ### Step 22 – Image Eligible Digital Media and document in Finding Aid/Digital Media Log
 
-Disk images are single files containing the complete content and structure representing a data storage medium or device. There are two primary types of images, forensic images and logical images. Forensic images perfectly replicate the structure and contents of a storage device, and allow the viewing of deleted files and slackspace (i.e. the unused space on a disk). Logical images do not include slackspace. In general, all physical media is imaged forensically, and all digital materials received via electronic transfer are imaged logically. Variations are considered on a case-by case basis.
+Disk images are single files containing the complete content and structure representing a data storage medium or device. There are two primary types of images, forensic images and logical images. Forensic images perfectly replicate the structure and contents of a storage device and allow the viewing of deleted files and slackspace (i.e. the unused space on a disk). Logical images do not include slackspace. In general, all physical media is imaged forensically, and all digital materials received via electronic transfer are imaged logically. Variations are considered on a case-by-case basis.
 
 Images for most removable media are created in-house, and the hardware used to create the images varies depending on the digital media type.
 
@@ -1128,14 +1135,11 @@ The processing archivist will:
 
 - Receive training to develop the necessary proficiencies for each of the common removable media types and sizes (floppy disks, optical discs, drives, etc.).
 - Appraise and assess the eligibility of the item(s) for preservation in our digital repository in accordance with RAC collecting policy, copyrights, privacy rights, or any legal, or statutory requirements.
-- Inventory the item in the Digital Media Log.
+- Describing the resulting file(s), within originating context, in aggregate in the finding aid.
+- Inventory the item in the Digital Media Log. Record the item's title, red_id, and original carrier type.
 - Use the RAC standard workflows to virus check and image the eligible removable media.
-    - Note the presence of the item and document the imaging process in the digital media log & finding aid.
-        - In the Digital Media Log, the Processing Archivist should document:
-          - the transfer method (disk image, rip tracks, copy files)
-          - the item's original carrier type.
-          - the year of transfer
-          - Using this data, record the information as a natural language statement in a Processing Information note in the finding aid:
+- Update the Digital Media Log to record the transfer method, transfer status, virus check status, and item disposition.
+- Using this data, record the information as a natural language statement in a Processing Information note in the finding aid:
 
         <div class="docs-example">
         <p>“This item was <strong>imaged</strong> from a <strong>CDROM</strong> in <strong>2017</strong>”</p>
@@ -1144,18 +1148,10 @@ The processing archivist will:
 
         </div>
 
-        - Insert the resulting formatted statement into a Processing Information Note   
-          in the finding aid.
-
 - If the item’s format is not listed in the Digital Media Log, fill out the **Digital Media Vendor Transfer Form**. *The Digital Media Log is meant to track in-house transfers only. Any other formats must be sent out to a vendor to be transferred.*
-
     - Individually label and folder each item. Include the Ref ID, finding aid number, and associated file title on the label of each folder.
-
     - Assign an additional instance for the digital media item within ArchivesSpace. This instance will be used to describe the “DM box.” Enter the box number (example: DM1, DM2, etc.), location information, and barcode of the DM Box. If the current DM box is full, create a new top container with the next sequential number and fill out the top container information accordingly.
-
     - Place the folders containing the digital media items inside the DM box and shelve in the appropriate location (see the Digital Media Vendor Transfer Form for details).
-
-- Describe the resulting file(s), within originating context, in aggregate in the finding aid.
 - After imaging, submit the original digital media for disposal in accordance with RAC Collections Management procedure.
 
 ## Rights and Restrictions
@@ -1174,7 +1170,7 @@ Transparency in the dissemination of information is a critical element of the ar
 
 - Consider options for strategic physical placement of restricted material in the project/collection to assist with efficient retrieval of archival records and effective vault and collections management.
 
-- Physically relocating restricted material to a segregated box(es), or to the end of a collection or series/component is preferable (when viable), rather than having restricted and open materials stored in the same box. This facilitates faster and more efficient retrieval of open archival records, and offers RAC the opportunity to store the restricted material at an RAC facility other than Hillcrest.
+- Physically relocating restricted material to a segregated box(es), or to the end of a collection or series/component is preferable (when viable), rather than having restricted and open materials stored in the same box. This facilitates faster and more efficient retrieval of open archival records and offers RAC the opportunity to store the restricted material at an RAC facility other than Hillcrest.
 
 - Regardless of physical location, the restricted material should always be described intellectually in the appropriate place within the finding aid.
 
@@ -1191,7 +1187,7 @@ A. *Donation/Deposit Agreement-based access restrictions* (terms of the collecti
 
   - Each individual collection may have its own stipulations, so it is essential to become familiar with all the terms of the agreement for the specific collection pertinent to a processing project. Consult with the Assistant Director for Processing for copies of appropriate documents from the collection files.
 
-  - Some collection agreements require the researcher to sign a RAC access and/or use permission form prior to conducting research. (Example: Population Council Accession 2). Any applicable permissions are addressed during *RACcess* registration.
+  - Some collection agreements require the researcher to sign an RAC access and/or use permission form prior to conducting research. (Example: Population Council Accession 2). Any applicable permissions are addressed during *RACcess* registration.
 
   - Some collection agreements indicate that the archival material is closed pending processing. In this case, access/use is restricted until the collection is processed. The Assistant Director for Processing will designate the material “open” once the necessary work is completed.
 
@@ -1227,7 +1223,7 @@ The file-level *Conditions Governing Access* note should address the questions o
     <p>Restricted – Treasurer – Open in 20XX</p>
     </div>
 
-C. *Personally Identifiable Information* – Content, outside any of the above-listed file-types, that is restricted due to individual privacy and security including but not limited to: social security numbers, tax ID numbers, and other uniquely identifiable data. Personally identifiable information is most often found in application packets within program, grant, or fellowship files. When processing or handling such records, please consult the Assistant Director for Processing and act cautiously to restrict sensitive materials.
+C. *Personally Identifiable Information* – Content, outside any of the above-listed file-types, that is restricted due to individual privacy and security including but not limited to: social security numbers, tax ID numbers, and other uniquely identifiable data. Personally identifiable information is most often found in application packets within program, grant, or fellowship files. When applicable, the RAC utilizes an automated forensic tool to scan digital material for personally identifiable information. When processing or handling such records, please consult the Assistant Director for Processing and act with thoughtful intentionality to restrict sensitive materials.
 
 Example of standard RAC file-level access note –
 
@@ -1279,23 +1275,20 @@ D. Terms of Access for Rockefeller family collections
 
 <div class="docs-example">David Rockefeller Jr. – Restricted for Life</div>
 
-E. *Condition/Security-based access restrictions* **[(DACS 4.2)](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/02_physical_access.html)** - A fundamental objective of RAC is to facilitate the long-term preservation, conservation, and security of our archival holdings. At times the long-term care of individual items will take precedence over their availability for immediate access. Access to extremely valuable, fragile, brittle, unstable, or damaged items is restricted by RAC in order to protect these high-risk items from theft, damage, or further deterioration. (Example: JDR Sr’s Ledger A).
+E. *Condition/Security-based access restrictions* **[(DACS 4.2)](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/02_physical_access.html)** - A fundamental objective of RAC is to facilitate the long-term preservation, conservation, and security of our archival holdings. Steps are also routinely taken to ensure the records do not present an obvious health hazard. RAC provides access to all eligible records when such access is reasonable and feasible. At times the long-term care and viability of individual items will take precedence over their availability for immediate access. Access to extremely valuable, fragile, brittle, unstable, or damaged items may be provided in a secure setting or in rare cases restricted by RAC to protect these high-risk items from theft, damage, or further deterioration. (Example: JDR Sr’s Ledger A; Records infested with mold, mildew, or pests.).
 
 - Examples of standard file-level access notes -
-<div class="docs-example"><p>Brittle or damaged items are available at the discretion of RAC.</p>
+<div class="docs-example"><p>Brittle or damaged materials are available at the discretion of RAC.</p>
 <p>Restricted - Preservation Concerns</p></div>
 
-F. *Technical access restrictions* **[(DACS 4.3)](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/03_technical_access.html)** – Some archival material is restricted due to its format or other special needs.
+F. *Technical access* **[(DACS 4.3)](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/03_technical_access.html)** – In addition to the assessment of content, RAC Conditions Governing Access notes also provide a variety of process statements to clarify HOW the archival information is provided to users. In some cases, access surrogates of varying formats serve as substitutes for original files. In rare cases, arrangements are made to facilitate the viewing of oversized materials or other special needs. *Restriction of information due to RAC processes or practices is done only as a last resort.*
 
-1\. Format – Access to certain formats may be completely or partially restricted. Examples:
+1\. Format – Access to select formats is provide via an access surrogate or in a secure setting. Examples:
 <div class="docs-example"><p>Photographic negatives are available at the discretion of RAC.</p>
-<p>Access to Paul Ehrlich copy books is restricted, and researchers are directed to typescript copies.</p></div>
+<p>Access to Paul Ehrlich copy books is available via an access surrogate.</p></div>
 
 2\. Re-formatted collections – Access to original archival materials is restricted after a collection has been reformatted (microfilm, microfiche, digital files). Researchers are only provided access to the user copies of the reformatted media or digital files. Example:
 <div class="docs-example"><p>JDR Sr.’s Letterbooks, RF Officer’s Diaries</p></div>
-
-3\. Special technical access issues may also necessitate restrictions on access. Example of standard access note for technical access restrictions:
-<div class="docs-example"><p>Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p></div>
 
 **2. Use Restrictions**
 
@@ -1307,7 +1300,7 @@ If the material being processed has use restrictions or stipulations, such condi
 
 Classified material contains content pertinent to United States national security. Irrespective of its form, nature, or medium of transmission, such classified information requires protection against destruction, disclosure, loss, theft, or access by unauthorized persons, pursuant to all applicable laws and regulations.
 
-The RAC maintains U.S. government classified material that originated from a number of its collections, including the Nelson A. Rockefeller papers, the Rockefeller University archives, and the Warren Weaver papers. The RAC does not currently maintain any classified digital or born-digital records.
+The RAC maintains U.S. government classified material that originated from a number of its collections, including the Nelson A. Rockefeller papers, the Rockefeller University archives, and the Warren Weaver papers. The RAC does not currently maintain any classified digitized or born-digital records.
 
 **1. Identifying Classified Materials**
 
@@ -1327,7 +1320,7 @@ C. The qualified archivist then follows the established practice of periodically
 
 D. No RAC staff members are authorized to handle material designated as TOP SECRET or higher. However, the secret-level qualified archivist should immediately secure the materials in the RAC classified safe. An applicable government official must be contacted to address this material further.
 
-E. Sometimes material in a collection has been declassified. In such instances, please be aware that even if all of the documents in a given section have been declassified, every individual page may not have been specifically marked as such. Depending on the situation, the declassified material can either be integrated back into the main body of the collection, or it may be placed as a separate group of files at or near the end of a collection.
+E. Sometimes material in a collection has been declassified. In such instances, please be aware that even if all the documents in a given section have been declassified, every individual page may not have been specifically marked as such. Depending on the situation, the declassified material can either be integrated back into the main body of the collection, or it may be placed as a separate group of files at or near the end of a collection.
 
 ## Preservation Photocopying
 
@@ -1388,7 +1381,7 @@ Record the following Container Management data in the finding aid:
 ### Step 31 - Audiovisual Archivist Begins Preservation/Digitization Procedures
 
 - The Audiovisual Archivist will assess the condition of the material, record a variety of preservation and technical metadata, and enhance description (as feasible).
-- Materials will be evaluated for potential reformatting and eligible items will be considered for digitization (either through in house procedures or outsourced to an appropriate vendor).
+- Materials will be evaluated for potential reformatting and eligible items will be considered for digitization (either through in-house procedures or outsourcing to an appropriate vendor).
 - Once an access copy has been created, the Processing Archivist will be contacted to potentially view/listen to the material and further enhance the available description.
 
 ### Step 32 – Subjects
@@ -1409,10 +1402,10 @@ Subject terms can also be utilized to draw attention to materials created by or 
 - Assign only to aggregates of records -- at collection, record group, subgroup, series, or subseries level. Do not assign at file-level.
 - As with description of archival records, the principle of inheritance applies to structured terms.
   - Any term assigned to an entire collection or the top level of a finding aid, applies to ALL components/objects within that collection/finding aid.
-  - Terms should only be assigned at a lower-level if those terms are directly and specifically associated to that given level (and not directly and specifically associated to any higher levels).
+  - Terms should only be assigned at a lower level if those terms are directly and specifically associated at that given level (and not directly and specifically associated at any higher levels).
 - Subject Authorities include:
   - [Library of Congress Subject Headings (LCSH)](https://id.loc.gov/authorities/subjects.html)
-    - Widely recognized and used across archives LCSH and are the source for many of the RAC’s subject terms. Because of the periodic revisions the Library of Congress (LOC) makes to the terms, LCSH terms can be consulted for the purposes of applying subjects to the records of the RAC, and the most up-to-date terms can often be used and retained within the RAC’s repository. Nevertheless, subject terms cannot be exclusively sourced from LCSH because of biases embedded in the terms and because of LCSH delays in responding to community needs. LCSH terms that communities have identified as harmful to them should be avoided.
+    - Widely recognized and used across archives LCSH are the source for many of the RAC’s subject terms. Because of the periodic revisions the Library of Congress (LOC) makes to the terms, LCSH terms can be consulted for the purposes of applying subjects to the records of the RAC, and the most up-to-date terms can often be used and retained within the RAC’s repository. Nevertheless, subject terms cannot be exclusively sourced from LCSH because of biases embedded in the terms and because of LCSH delays in responding to community needs. LCSH terms that communities have identified as harmful to them should be avoided.
   - Getty Research Institute Art & Architecture Thesaurus
   - Alternative authorities are available for more specialized records, more specific subjects, or for the purpose of procuring terms that are more in line with the language communities use to describe themselves.
     - If the authority being consulted is not available as a source in ArchivesSpace, utilize the subject terms’ scope note to identify the authority used.
