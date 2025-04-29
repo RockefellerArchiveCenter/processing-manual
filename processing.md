@@ -1405,7 +1405,7 @@ Subject terms can also be utilized to draw attention to materials created by or 
   - Terms should only be assigned at a lower level if those terms are directly and specifically associated at that given level (and not directly and specifically associated at any higher levels).
 - Subject Authorities include:
   - [Library of Congress Subject Headings (LCSH)](https://id.loc.gov/authorities/subjects.html)
-    - Widely recognized and used across archives LCSH are the source for many of the RAC’s subject terms. Because of the periodic revisions the Library of Congress (LOC) makes to the terms, LCSH terms can be consulted for the purposes of applying subjects to the records of the RAC, and the most up-to-date terms can often be used and retained within the RAC’s repository. Nevertheless, subject terms cannot be exclusively sourced from LCSH because of biases embedded in the terms and because of LCSH delays in responding to community needs. LCSH terms that communities have identified as harmful to them should be avoided.
+    - Widely recognized and used across archives, LCSH are the source for many of the RAC’s subject terms. Because of the periodic revisions the Library of Congress (LOC) makes to the terms, LCSH terms can be consulted for the purposes of applying subjects to the records of the RAC, and the most up-to-date terms can often be used and retained within the RAC’s repository. Nevertheless, subject terms cannot be exclusively sourced from LCSH because of biases embedded in the terms and because of LCSH delays in responding to community needs. LCSH terms that communities have identified as harmful to them should be avoided.
   - Getty Research Institute Art & Architecture Thesaurus
   - Alternative authorities are available for more specialized records, more specific subjects, or for the purpose of procuring terms that are more in line with the language communities use to describe themselves.
     - If the authority being consulted is not available as a source in ArchivesSpace, utilize the subject terms’ scope note to identify the authority used.
@@ -1420,8 +1420,8 @@ Subject terms can also be utilized to draw attention to materials created by or 
         <p>For example: “Afro-American politicians” can be merged into “African-American politicians”.</p>
       </div>
     - Removed/Deleted terms may be replaced with a newly created, or newly identified, culturally conscious authorized term.
-- **Merging or removing agents can result in DATA LOSS.**
-- *\*\*Merging or removing agents must be pre-approved, or otherwise conducted, by the Assistant Director for Processing.\*\**
+- **Merging or removing subjects can result in DATA LOSS.**
+- *\*\*Merging or removing subjects must be pre-approved, or otherwise conducted, by the Assistant Director for Processing.\*\**
 
 ### Step 33 – Finalize Agents
 
@@ -1447,7 +1447,7 @@ Subject terms can also be utilized to draw attention to materials created by or 
 
   <p>Accompanying description, most often with creator or donor-generated language and terminology, has to this point been retained and maintained “as received” by RAC with minimal archivist intervention or augmentation.</p>
 
-  <p>We acknowledge these problems and aim to cultivate inclusive representation and equity by reconsidering and enhancing our description of this material with current sensibilities.</p>
+  <p>We acknowledge these problems and aim to cultivate inclusive representation and equity by reconsidering and enhancing our description of this material in line with current sensibilities.</p>
   </div>
 
 Following reparative redescription actions, including if/when any such actions are taken during processing, the following statement should be used:
@@ -1465,12 +1465,14 @@ Commonly used notes may include:
 - Conditions Governing Use [**(DACS 4.4)**](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/04_conditions_governing_reproduction_and_use.html)
     - Identify any restrictions on reproduction due to copyright or other reasons, as well as restrictions on further use of the materials being described, such as publication, after access has been provided.
 - Immediate Source of Acquisition [**(DACS 5.2)**](https://saa-ts-dacs.github.io/dacs/06_part_I/06_chapter_05/02_immediate_source_of_acquisition.html)
-    - Document the source from which the repository directly acquired the materials being described, as well as the date of acquisition, the method of acquisition, and other relevant information.
+    - Document the source from which the repository directly acquired the materials being described, as well as the date of acquisition, the method of acquisition, and other relevant information. Include information pertaining to the donation and transfer of digital records when applicable.
 
     <div class="docs-example">
       <p>This material was transferred to RAC in 1992 by the
       Rockefeller Foundation and ingested by RAC as Accession
       1992:100.</p>
+      <p>Digital records and their associated metadata were donated to RAC by Simons Foundation and transmitted via secure online  transfer in 2024.</p>
+      <p>Ford Foundation digital records were accrued via secure online transfer.</p>
     </div>
 
 - Related materials note [**(DACS 6.3)**](https://saa-ts-dacs.github.io/dacs/06_part_I/07_chapter_06/03_related_archival_materials.html)
