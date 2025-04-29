@@ -443,7 +443,7 @@ The term “with select materials restricted as noted” should be added or remo
 
 **_Additions to the Base Collection Level Access Statements Approved for Use at RAC_**
 
-In areas where RAC processes impact HOW archival information is presented to users the following language should be added to the base statement used.
+In areas where RAC processes impact *HOW* archival information is presented to users the following language should be added to the base statement used.
 
 **1. For collections/finding aids which contain, or have a high probability of containing, damaged materials the following language should be added to the end of the access statement**
 
@@ -461,7 +461,7 @@ In areas where RAC processes impact HOW archival information is presented to use
 
 <div class="docs-example">
   <p>When requesting to view audiovisual material, please check the "Access" note for each Title. If a Title does not currently have an access copy, please contact a RAC archivist for further instruction.</p>
-    <p>All inquiries to view motion picture films require advanced notice of at least 2 business days, and may necessitate notice of up to one week.</p>
+    <p>All inquiries to view motion picture film require advanced notice of at least 2 business days, and may necessitate notice of up to one week.</p>
 </div>
 
 **4.  For collections/finding aids that contain memorabilia/realia the following language should be added to the end of the access statement**
@@ -1141,12 +1141,10 @@ The processing archivist will:
 - Update the Digital Media Log to record the transfer method, transfer status, virus check status, and item disposition.
 - Using this data, record the information as a natural language statement in a Processing Information note in the finding aid:
 
-        <div class="docs-example">
+  <div class="docs-example">
         <p>“This item was <strong>imaged</strong> from a <strong>CDROM</strong> in <strong>2017</strong>”</p>
-
-        <p>The <strong>bold text</strong> shown in the above example is interchangeable based upon the metadata collected.</p>
-
-        </div>
+        <p>The <strong>bold</strong> text shown in the above example is interchangeable based upon the metadata collected.</p>
+  </div>
 
 - If the item’s format is not listed in the Digital Media Log, fill out the **Digital Media Vendor Transfer Form**. *The Digital Media Log is meant to track in-house transfers only. Any other formats must be sent out to a vendor to be transferred.*
     - Individually label and folder each item. Include the Ref ID, finding aid number, and associated file title on the label of each folder.
@@ -1287,7 +1285,7 @@ F. *Technical access* **[(DACS 4.3)](https://saa-ts-dacs.github.io/dacs/06_part_
 <div class="docs-example"><p>Photographic negatives are available at the discretion of RAC.</p>
 <p>Access to Paul Ehrlich copy books is available via an access surrogate.</p></div>
 
-2\. Re-formatted collections – Access to original archival materials is restricted after a collection has been reformatted (microfilm, microfiche, digital files). Researchers are only provided access to the user copies of the reformatted media or digital files. Example:
+2\. Re-formatted collections – Access to original archival materials is restricted after a collection has been reformatted (microfilm, microfiche, digital files). Researchers are provided access to the user copies of the reformatted media or digital files. Example:
 <div class="docs-example"><p>JDR Sr.’s Letterbooks, RF Officer’s Diaries</p></div>
 
 **2. Use Restrictions**
