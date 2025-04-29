@@ -79,7 +79,7 @@ title:  "Processing Manual - Planning"
 
 1. Supporting Values
    - How does this work support RAC institutional values?
-   - Please highlight one or more values and how you will consider them while conducting this project.
+   - Please highlight one or more values and how you will consider them while conducting this redescription.
 2. Physical Vitals
     - Volume (cubic feet) and/or estimated volume of digital files (including     
         estimated number of digital files and MB/GB)
