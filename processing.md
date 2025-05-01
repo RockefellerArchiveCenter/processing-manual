@@ -112,7 +112,7 @@ Often it may not be known if the existing arrangement comprises the original ord
 In addition to Original Order or “As Received”, common arrangement types include: 
 Type/Format; Activity/Function; Alphabetical; and Chronological order.
 
-A few common examples of the language used for aggangement notes:
+A few common examples of the language used for arrangement notes:
 <div class="docs-example">
   <p>Born digital materials have been integrated into appropriate series by topic/subject throughout the collection.</p>
   <p>Records are arranged chronologically, with paper-based and digital materials integrated.</p>
