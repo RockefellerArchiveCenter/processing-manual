@@ -17,7 +17,7 @@ The processes and practices outlined in this manual support the RAC’s seven or
 - We are a Collaborative Learning Organization: The function teams of the RAC work together to achieve success, and it is that very support and togetherness that position us to implement these processes and practices with confidence. In highlighting the collaborative and cross-team nature of this work, we seek to build on existing collaboration and continue our professional and organizational growth.
 - We Embrace Change: This document is regularly reviewed and updated to ensure we continue to expedite access and support evolving user needs.
 - We are Accountable: Perfection is unattainable and is certainly not a prerequisite to access. The processes outlined here are based on the recognition that our responsibility is twofold: providing long-term preservation of the information held in our collections and providing access to that information in a discoverable and effective manner.  RAC can accomplish that best by being transparent with our archival holdings and encouraging incremental improvements rather than extended processing times.
-- We Center People in Our Use of Technology: The nature of research continues to evolve, but the foundation of this work remains the same, providing our user communities with pathways to the information we hold as early as possible in the lifecycle of the archival records, as well as further open doors, expand access points to the collections, and meet internal and external user needs.
+- We Center People in Our Use of Technology: The nature of research continues to evolve, but the foundation of this work remains the same, providing our user communities with pathways to the information we hold as early as possible in the lifecycle of the archival records, as well as further opening doors, expanding access points to the collections, and meeting user needs.
 - We Foster Belonging: by making our work visible earlier in our process, and by actively building upon it in ways that seek to expand and enhance the stories that we tell, we help to foster understanding of and respect for the work and expertise of Processing Archivists and all our colleagues.
 
 ## Method
@@ -28,7 +28,7 @@ The processes and practices outlined in this manual support the RAC’s seven or
 - All archival staff conducting processing should utilize project management software and create archival description in the RAC collections management system.
 - Projects focus on priority collections and areas of greatest risk for degradation and loss including audiovisual, digital media, and special formats.
 - Redescription of legacy holdings is regularly assigned, and remediation actions are taken on an ongoing basis to improve the user experience, including:
-    - Identification and revision of problematic, out dated, obsolete, or otherwise inaccurate information
+    - Identification and revision of problematic, outdated, obsolete, or otherwise inaccurate information
     - Enhancing description to augment and expand access
     - Periodically conducting audits across all archival description to identify priority collections in need of reparative action in accordance with Culturally Competent Description goals
     - Reviewing, and acting upon, Archival Description Concern requests received from RAC staff
@@ -38,7 +38,7 @@ The processes and practices outlined in this manual support the RAC’s seven or
     - Priorities are established by the Assistant Director of Processing in coordination with the Director of Archives, and in collaboration and consultation with the Associate and Assistant Directors of the Archives Program.
     - Priority is given to those projects for which the RAC has a contractual obligation.
     - Priority is given to recent accessions and born-digital materials when feasible.
-    - User behavior and the research trends of our user communities is also a vital element of formulating our priorities. Expedited openings, and analysis of archives usage, help to identify collections, or portions thereof, in high demand. Processing resources can then be prioritized and allocated to meet that demand.
+    - User behavior and the research trends of our user communities are also vital elements of formulating our priorities. Expedited openings, and analysis of archives usage, help to identify collections, or portions thereof, in high demand. Processing resources can then be prioritized and allocated to meet that demand.
 
 ## Processing Levels
 
@@ -60,7 +60,7 @@ Our initial levels represent *expedited access,* taking the steps necessary to o
 - Level 2: Multi-Level Access – Articulates a multi-level descriptive hierarchy, strengthens reliability of file-level control, enhances context, and begins long-term preservation actions.
 - Level 3: Expanded Access – Projects involving newly processed records focus on rehousing and further description of records, creators, activities, and the associated relationships. Periodic reviews and audits of legacy holdings focus on redescription to improve, enhance and/or take culturally conscious reparative action as necessary.
 
-_**Note: All records accessioned & processed, at any level, are eligible to be OPEN for research.**_
+_**Note: All records accessioned and processed, at any level, are eligible to be OPEN for research.**_
 
 ### Expedited Access - Level 0: Initial Access 
 
@@ -170,8 +170,7 @@ Processing actions often include, but are not necessarily limited to:
     - Retain original order or “as received” order whenever feasible.
     - Do not arrange material within a folder without the prior approval of the Assistant Director for Processing. 
 - Description
-    - Create, or revise, standard finding aid to file level, in
-          accordance with all RAC descriptive standards. (See: [*Building
+    - Create or revise finding aid to file level in accordance with all RAC descriptive standards. (See: [*Building
           the Finding Aid*](/processing-manual/processing#building-the-finding-aid)). Item-level description or care is beyond the scope of this work.
     - Improve archival description and create or enhance associated notes (at the applicable level). 
     - Expand and enhance access points (agents and subjects).
@@ -190,7 +189,7 @@ Redescription efforts, particularly those of the Culturally Competent Descriptio
 
 When staff members encounter instances of problematic archival description and/or see opportunities for reparative description within the RAC’s collections and are unsure of how to act, they should use the Archival Description Concern Request form to identify the issue and notify Processing Archivists who can help address the problem.
 
-The form can be used to report a variety of issues in addition to problematic description such as data display issues in DIMES and inaccurate information. If one of the reasons for submitting the form is a reparative description concern, make sure to check the “Opportunity for reparative description” option in response to the “What about the description needs addressing or changed?” prompt. Respondents are to use the form’s other prompts to identify the object containing the problematic description and where within the object is the issue, share contextual information about the problematic description, and describe what is problematic about it. Users also have the option of submitting suggested solutions to the problem. If staff members wish to leave their names for the purpose of follow-up discussion with the archivists working on the issue they identified, they have the option to submit their name as part of their report. Otherwise, responses are collected anonymously.
+The form can be used to report a variety of issues in addition to problematic description such as data display issues in DIMES, inaccurate information, description related to digitization concerns, promoting useful archival description, and supporting RAC digitization activities. If one of the reasons for submitting the form is a reparative description concern, make sure to check the “Opportunity for reparative description” option in response to the “What about the description needs addressing or changed?” prompt. Respondents are to use the form’s other prompts to identify the object containing the problematic description and where within the object is the issue, share contextual information about the problematic description, and describe what is problematic about it. Users also have the option of submitting suggested solutions to the problem. If staff members wish to leave their names for the purpose of follow-up discussion with the archivists working on the issue they identified, they have the option to submit their name as part of their report. Otherwise, responses are collected anonymously.
 
 Processing Archivists will use the information provided in a staff member’s response to investigate the issue described and implement the most appropriate reparative action. Data collected through the responses will also help build understanding of trends and issues affecting the RAC’s archival description and inform other CCD projects.
 
@@ -203,14 +202,14 @@ Each processing assignment is accomplished in two phases:
 
 [*Phase II. Processing*](/processing-manual/processing)
 
-In an effort to facilitate the work accomplished by processing archivists and the interdepartmental teamwork which assists and facilitates our success, this processing guide is primarily presented as a step-by-step instructional. 
+In an effort to facilitate the work accomplished by processing archivists and the interdepartmental teamwork which supports our success, this processing guide is primarily presented as a step-by-step instructional. 
 
-The Planning phase consists of eight common steps, and the Processing phase consists of 32 common steps. Due to the unique character of each individual archival collection and the unforeseen issues that may materialize or develop during a project, the ordering of these steps is flexible in practice. However *ALL* 40 steps must be completed, by an individual or team, for a collection to be considered successfully processed.
+The Planning phase consists of eight common steps, and the Processing phase consists of 32 common steps. Due to the unique character of each individual archival collection and the unforeseen issues that may materialize or develop during a project, the ordering of these steps is flexible in practice. However, *ALL* 40 steps must be completed, by an individual or team, for a collection to be considered successfully processed.
   
 Staff members can consult the Archival Description Concern Requests Project in order to track progress on their form submission. Their submission will be identified by the archival object title or identifier they described in their submission. 
 
 ## Acknowledgements
 
-In drafting the guide, the RAC Processing Team focused primarily on creating local practices and procedures that implemented the guidelines and principles established in [Describing Archives: A Content Standard (DACS)](https://saa-ts-dacs.github.io/). DACS is the official archival description standard of the [Society of American Archivists (SAA)](https://www2.archivists.org/), a national professional association for archivists. The RAC Processing Team consulted a number of SAA resources such as the SAA online glossary - [A Glossary of Archival and Records Terminology, by Richard Pearce-Moses](https://www2.archivists.org/glossary) - when outlining its policies in the guide.
+In drafting the guide, the RAC Processing Team focused primarily on creating local practices and procedures implementing the guidelines and principles established in [Describing Archives: A Content Standard (DACS)](https://saa-ts-dacs.github.io/). DACS is the official archival description standard of the [Society of American Archivists (SAA)](https://www2.archivists.org/), a national professional association for archivists. The RAC Processing Team consulted a number of SAA resources such as the SAA online glossary - [A Glossary of Archival and Records Terminology, by Richard Pearce-Moses](https://www2.archivists.org/glossary) - when outlining its policies in the guide.
 
 [Planning](/processing-manual/planning) >>
