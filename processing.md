@@ -1469,7 +1469,7 @@ Commonly used notes may include:
       <p>This material was transferred to RAC in 1992 by the
       Rockefeller Foundation and ingested by RAC as Accession
       1992:100.</p>
-      <p>Digital records and their associated metadata were donated to RAC by Simons Foundation and transmitted via secure online  transfer in 2024.</p>
+      <p>Digital records and their associated metadata were donated to RAC by Simons Foundation and transmitted via secure online transfer in 2024.</p>
       <p>Ford Foundation digital records were accrued via secure online transfer.</p>
     </div>
 
