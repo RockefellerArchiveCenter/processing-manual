@@ -170,8 +170,7 @@ Processing actions often include, but are not necessarily limited to:
     - Retain original order or “as received” order whenever feasible.
     - Do not arrange material within a folder without the prior approval of the Assistant Director for Processing. 
 - Description
-    - Create, or revise, finding aid to file level, in
-          accordance with all RAC descriptive standards. (See: [*Building
+    - Create or revise finding aid to file level in accordance with all RAC descriptive standards. (See: [*Building
           the Finding Aid*](/processing-manual/processing#building-the-finding-aid)). Item-level description or care is beyond the scope of this work.
     - Improve archival description and create or enhance associated notes (at the applicable level). 
     - Expand and enhance access points (agents and subjects).
