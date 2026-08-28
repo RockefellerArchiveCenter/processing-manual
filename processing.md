@@ -180,7 +180,7 @@ The RAC has adopted the Society of American Archivists’ endorsed *Describing A
 
 As a project finishes, or as processing of a given collection concludes, the Processing Team periodically takes further steps to evaluate, improve, and optimize the description through editing, updating, and at times performing reparative redescription, of all collection guides as necessary. Project assignments given to any processing archivist may, and often do, include redescription activities.
 
-Redescription projects may take the form of targeted efforts to improve or enhance description in accordance with institutional or team initiatives, such as large-scale data cleanup efforts, as well as evaluation, maintenance, and expansion of additional access points. Significant priority is also placed on repository wide ongoing reparative activities such as the *Culturally Competent Description Action Campaign*.
+Redescription projects may take the form of targeted efforts to improve or enhance description in accordance with institutional or team initiatives, such as large-scale data cleanup efforts, support for digitization activities, as well as evaluation, maintenance, and expansion of additional access points. Significant priority is also placed on repository wide ongoing reparative activities such as the *Culturally Competent Description Action Campaign*.
 
 Largely due to the archival professions’ preferred processing practice of retaining original order and original description, including donor-sourced titles, problematic language is present in finding aids throughout RAC’s archival holdings, and may exist at any hierarchical level of archival description (collection, series, file, etc.). The descriptive elements most commonly impacted include, but are not limited to:
 
@@ -560,6 +560,8 @@ The inventory/container list, at all levels of Processing, should focus on FILE 
 Remember FILE LEVEL description does NOT equate to FOLDER LEVEL description.
 
 In multi-level description, always remember to focus on the level being described (Collection, Record Group, Subgroup, Series, Subseries, File) with the description reflecting the arrangement and the inherent relationship among and between the records of each level.
+
+To support digitization activities and expand access to global audiences, level 3 processing actions may create or revise any or all elements of an archival object to facilitate reasonable and efficient digital objects, including manageable file sizes, adjustment of titles, dates, and associated metadata. Simple splitting of archival objects into existing multiples can be accomplished primarily or at times exclusively through revision of the description, but some adjustments, such as creating new folders, may require corresponding revisions to the physical materials or associated file labeling. 
 
 ### Describing Titles - The Basics
 
