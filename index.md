@@ -58,7 +58,7 @@ Our initial levels represent *expedited access,* taking the steps necessary to o
 **Enhanced Access**
 
 - Level 2: Multi-Level Access – Articulates a multi-level descriptive hierarchy, strengthens reliability of file-level control, enhances context, and begins long-term preservation actions.
-- Level 3: Expanded Access – Projects involving newly processed records focus on rehousing and further description of records, creators, activities, and the associated relationships. Periodic reviews and audits of legacy holdings focus on redescription to improve, enhance and/or take culturally conscious reparative action as necessary.
+- Level 3: Expanded Access – Projects involving newly processed records focus on rehousing and further description of records, creators, activities, and the associated relationships. Periodic reviews and audits of legacy holdings focus on redescription to improve, enhance and/or take culturally conscious reparative action as necessary. Actions may also be taken to more clearly or distinctly differentiate archival objects to enable the creation of effective digital objects.
 
 _**Note: All records accessioned and processed, at any level, are eligible to be OPEN for research.**_
 
@@ -175,6 +175,7 @@ Processing actions often include, but are not necessarily limited to:
     - Improve archival description and create or enhance associated notes (at the applicable level). 
     - Expand and enhance access points (agents and subjects).
     - Redescription work shall seek to improve and/or take culturally conscious reparative action, particularly to illuminate the people and their relationships, the power dynamics developed and leveraged, and the communities impacted.
+    - To support the creation of effective and manageable digital objects, actions may be taken to improve clarity and completeness of archival objects through the creation or revision of distinct titles, dates, scope and content notes, or updating the associated instance information. 
 - Preservation
     - Rebox and refolder (acid-free, lignin-free materials) for permanent storage and preservation of the materials, as necessary.
     - Conduct minimal preservation actions at the file level (preservation photocopy and remove brittle or damaged material).
