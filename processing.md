@@ -15,6 +15,8 @@ Our objective as processing archivists is to provide user-friendly equitable acc
 
 Once crafted the proposed structure for the project should then be approved by the Assistant Director for Processing and stated in the Project Vitals.
 
+## Fundamentals of Description
+
 **Fundamentals of Description \#1 - User-Centered Processing of Records/Papers**
 
 Users are the central reason for archival processing. Identifying our community of users, and observing, testing, analyzing, and understanding user needs and behaviors helps to shape the way our archival collections are organized and described. The description we create and the choices we make in the arrangement and descriptive processes impact the way users can find, search, and do research in and with the collection. Those choices should always be made with an emphasis on making our data as easy as possible to use, retain, and share, by utilizing open platforms, standardizing our practices and procedures, and presenting the resulting data and metadata in a structured, intuitive, and transparent manner which highlights context through aggregates of records.
@@ -41,7 +43,7 @@ The hierarchical levels of description commonly used at RAC are: Collection, Rec
 
 What we learn about the agents, functions, events, and other actors documented in a collection can later be used to create standardized structured terms. Those terms can then be assigned to the pertinent archival objects at the appropriate level of description and made directly searchable and discoverable by our users in DIMES. This structured data is also research ready for statistical analysis, or other quantitative and qualitative research, via direct access through the RAC Collections API.
 
-***Arrangement***
+## Arrangement
 
 *Arrangement* is a long-standing element of archival theory that is generally defined as the organizing and sequencing of materials in a collection in a meaningful way. More specifically, it is most often associated with the process of organizing materials with respect to provenance and *original order*, theoretically considered the order established by the creator, to preserve context and to attain physical and intellectual control of the holdings.
 
