@@ -1067,9 +1067,9 @@ The Collections Management team can assist with:
 
 ### Step 20 - Submit Collection Concern form and discuss any Significant or Unexpected Preservation Issues with Collections Management.
 
-### Step 21 - Address Collection Concerns and Preservation Issues based on the Recommendations of Collections Management.
-
 The **Preservation Concern** form is currently located on *InteRACt* front page
+
+### Step 21 - Address Collection Concerns and Preservation Issues based on the Recommendations of Collections Management.
 
 *Please consult with Collections Management to request a stabilization consult,* or if:
 
@@ -1517,6 +1517,8 @@ Commonly used notes may include:
 - RAC DIMES automatically updates. Newly published guide(s) will be available in DIMES shortly after publication.
 
 ### Step 39 - Submit Any Materials Proposed for Shredding to Assistant Director for Processing
+
+- Consult [RAC Shred Policy Memo](docs-internal.rockarch.org/shred-policy-memo) for procedures on submitting materials proposed for destruction.
 
 ### Step 40 - DONE!!!
 
