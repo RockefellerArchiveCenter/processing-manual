@@ -17,19 +17,19 @@ Once crafted the proposed structure for the project should then be approved by t
 
 ## Fundamentals of Description
 
-**Fundamentals of Description \#1 - User-Centered Processing of Records/Papers**
+### Fundamentals of Description \#1 - User-Centered Processing of Records/Papers
 
 Users are the central reason for archival processing. Identifying our community of users, and observing, testing, analyzing, and understanding user needs and behaviors helps to shape the way our archival collections are organized and described. The description we create and the choices we make in the arrangement and descriptive processes impact the way users can find, search, and do research in and with the collection. Those choices should always be made with an emphasis on making our data as easy as possible to use, retain, and share, by utilizing open platforms, standardizing our practices and procedures, and presenting the resulting data and metadata in a structured, intuitive, and transparent manner which highlights context through aggregates of records.
 
-**Fundamentals of Description \#2 – Identifying and Understanding Creators/Agents**  
+### Fundamentals of Description \#2 – Identifying and Understanding Creators/Agents 
 
 Examining elements of archival theory helps us to identify and understand the structure of a collection. Provenance is the origin or source of a collection. Identifying the creator(s) and the origin of the material helps to determine ownership and to establish chain of custody and ensure authenticity of the records. Users also benefit from knowing and understanding how records are created, used, and maintained, and if or when those processes may have introduced systems, barriers, or biases that could complicate or impede access.
 
-**Fundamentals of Description \#3 – Identifying Activities, Events, Functions & People**  
+### Fundamentals of Description \#3 – Identifying Activities, Events, Functions & People
 
 Human networks, interpersonal and professional contacts and relationships are often quite complex. Records within a collection are very rarely created by just one person or even one institution. Personal collections may document the activities of families, current and past friends, distant relatives and professional colleagues. Modern foundations function through a network of contacts encompassing people within and outside the given organization. While the mission, programs, and goals of a foundation or institution may be formulated by executive officers and a Board of Directors, daily administration and implementation of the work is most often accomplished by staff and other actors too often hidden from the historical record. Through documenting functions, activities, events, creators, contributors and other agents and people associated with, and documented in, collections, we seek to provide users with a broad understanding of the context, relationships and networks of power and privilege that created and maintained the records we hold.
 
-**Fundamentals of Description \#4 – Aggregate Centered Description Illuminating the Relationships Among and Between the Records and All Associated Actors.**  
+### Fundamentals of Description \#4 – Aggregate Centered Description Illuminating the Relationships Among and Between the Records and All Associated Actors.
 
 At its core, archival processing is an iterative process that identifies and describes meaningful groupings of records, with continual remedial actions to maintain and improve intellectual and physical control of our holdings, and expand and enhance access to the collections in our care.
 
@@ -51,7 +51,7 @@ The concepts of archival arrangement apply to the organization of all archival r
 
 Description reflects arrangement, but the physical arrangement of the items in a collection may or may not parallel the intellectual arrangement. Items that are described together may be stored separately because of their differing size, shape, condition, access or use conditions, physical composition, format or other factors.
 
-**Deep Dive – The Value of Arrangement Lies in its Flexibility**
+### Deep Dive – The Value of Arrangement Lies in its Flexibility
 
 While ***Arrangement is no longer considered a fundamental principle of archival description*** *([DACS-Statement of Principles](https://saa-ts-dacs.github.io/dacs/04_statement_of_principles.html#original-order-and-arrangement-as-archival-context))*, it remains an important element of our efforts to document and express archival context and it provides practical instruction for creating useful description.  
 
@@ -61,7 +61,7 @@ We must also acknowledge that different cultures or societies live and experienc
 
 **Rather than a privileged system or a special physical sequence of records, original order is one tool in the archivists’ toolbox to help us create finding aids that will illuminate context** by identifying structured groups of records, or file types, that reflect the key activities and functions of the creator(s) and associated agents, events, and people documented in the historical record.
 
-*Arrangement Maps*
+### Arrangement Maps
 
 Arrangement Maps comprehensively display entire collections/archives in a hierarchical structured manner that aims to express archival context by showing the inherent relationships among and between records and creators.
 
