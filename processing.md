@@ -573,7 +573,6 @@ and [_Chapter 10_.](https://saa-ts-dacs.github.io/dacs/08_part_II/03_chapter_10/
 - The Title for each file should answer the question – What is this file? Or, what is the content of this file?
 
 <div class="docs-example">
-  <h6>Example</h6>
   <p>Title: Board of Directors Meeting Minutes</p>
 </div>
 
@@ -588,10 +587,9 @@ C. When listing the contents of a file in an alphabetical run, list the letters 
 
 D. Use a comma when recording locations. For example: Cummings Lecture at the Educational Alliance, New York City
 
-E. All RAC finding aids should be written predominantly using the English language. When working with titles in languages other than English, use the original title when feasible. If the language in question uses a different alphabet, such as Russian, provide an English language description of the type of records housed in the file (if known) and include a language of materials note at the appropriate level to indicate the language used.
+E. All RAC finding aids should be written predominantly using the English language. When working with titles in languages other than English, use the original title when feasible. If the language in question uses a different alphabet, such as Russian, provide an English language description of the type of records housed in the file (if known) and include a language of materials note at the appropriate level to indicate the language used. For example:
 
 <div class="docs-example">
-  <h6>Example</h6>
   <p>Title: Reprint</p>
   <p>Language of materials note: In Russian</p>
 </div>
@@ -765,8 +763,9 @@ If the organization in question has continued to operate into present times, its
 
 - Notes most often used at the FILE Level are the Conditions of Access note, and the Physical Description note (which is used to answer the question – What is this physically?).
 
+### Example of Complete File Level Inventory Description
+
 <div class="docs-example">
-  <h6>Examples</h6>
 
   <p>Title: Board of Directors Meeting Minutes<br/>
   Date: 1947<br/>
