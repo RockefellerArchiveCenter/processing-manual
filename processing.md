@@ -531,10 +531,9 @@ the shell include:
 - General description of contents from an appraisal report, or from documents provided by the donor/depositor, could also serve in lieu of an inventory.
 - Ideally, the donor/depositor will provide RAC with an inventory.
 - If the inventory prepared by the donor/depositor adequately meets basic processing requirements, no additional RAC-produced inventory is required at accessioning.
-- For the purposes of Level 1 inventorying, file-level description also can be utilized to generally describe the contents of an entire file, often spanning multiple folders or multiple boxes, with individual instances assigned for each box.
+- For the purposes of Level 1 inventorying, file-level description also can be utilized to generally describe the contents of an entire file, often spanning multiple folders or multiple boxes, with individual instances assigned for each box. For example:
 
 <div class="docs-example">
-  <h6>Examples</h6>
 
   <p>Title: Grants, A-D</p>
 
@@ -710,31 +709,27 @@ If the organization in question has continued to operate into present times, its
 - Answers the question – When is the content of this file created?
 - It can be a single date (like the date of a meeting), or a range of inclusive dates.
 - At RAC the date assigned is most often an inclusive date.
-- Date should be expressed as year month day.
+- Date should be expressed as year month day. For example:
 
 <div class="docs-example">
-  <h6>Example</h6>
   <p>1982 April 5.</p>
 </div>
 
 - When describing consecutive spans of years, record the full years:
 
 <div class="docs-example">
-  <h6>Example</h6>
   <p>1941-1944.</p>
 </div>
 
 - When describing multiple non-consecutive dates, use a comma:
 
 <div class="docs-example">
-  <h6>Example</h6>
   <p>1941, 1953, 1962.</p>
 </div>
 
 - Date ranges that encompass a combination of consecutive and non-consecutive date spans should be recorded as:
 
 <div class="docs-example">
-  <h6>Example</h6>
   <p>1941-1944, 1953.</p>
 </div>
 
@@ -1015,10 +1010,9 @@ C. Materials whose composition or format places them in particular risk of obsol
 _**Selecting Storage Containers and Enclosures**_
 
 - Select a box and folder size for documents based upon the dimensions of the majority of those to be contained within an enclosure. Most documents are up to 8 ½” in width and 11” in length, require a letter-size folder and box; papers larger than this size and up to 8 ½” in width and 14” in length, require a legal-size folder and box. Box sizes may vary within a collection.
-- Do not combine ‘unlike’ items in the same box.
+- Do not combine ‘unlike’ items in the same box. For example:
 
-<div class="docs-example">
-  <h6>Examples</h6>
+<div class="docs-example">  
   <p>Documents with metallic items (medals).</p>
   <p>Documents with leather items which may be subject to deterioration (red rot) and bleed into the box.</p>
   <p>Documents with liquid or powder in an envelope or container.</p>
