@@ -694,7 +694,7 @@ If the organization in question has continued to operate into present times, its
 
 ### Describing Dates
 
-### Timewalk
+#### Timewalk
 
 - RAC actively uses an automated date parser plug-in for ArchivesSpace called Timewalk.
 - Timewalk will automatically parse any values in ArchivesSpace's Date Expresssion field into ISO8601-compliant Begin and End values. In addition, it will parse out date certainties and set the calendar/era values automatically.
@@ -702,7 +702,7 @@ If the organization in question has continued to operate into present times, its
 - *To ensure that Timewalk records dates properly, please follow all recommendations in this section for the creation of date expressions.*
 - **After creating the Date Expression and entering all applicable data in the field, record the Date Type as Inclusive Dates, and then leave the Begin/End date fields blank. When the record is saved, TimeWalk will automatically create the begin/end date.**
 
-### Date Expression
+#### Date Expression
 
 - Answers the question – When is the content of this file created?
 - It can be a single date (like the date of a meeting), or a range of inclusive dates.
