@@ -15,19 +15,21 @@ Our objective as processing archivists is to provide user-friendly equitable acc
 
 Once crafted the proposed structure for the project should then be approved by the Assistant Director for Processing and stated in the Project Vitals.
 
-**Fundamentals of Description \#1 - User-Centered Processing of Records/Papers**
+## Fundamentals of Description
+
+### Fundamentals of Description \#1 - User-Centered Processing of Records/Papers
 
 Users are the central reason for archival processing. Identifying our community of users, and observing, testing, analyzing, and understanding user needs and behaviors helps to shape the way our archival collections are organized and described. The description we create and the choices we make in the arrangement and descriptive processes impact the way users can find, search, and do research in and with the collection. Those choices should always be made with an emphasis on making our data as easy as possible to use, retain, and share, by utilizing open platforms, standardizing our practices and procedures, and presenting the resulting data and metadata in a structured, intuitive, and transparent manner which highlights context through aggregates of records.
 
-**Fundamentals of Description \#2 – Identifying and Understanding Creators/Agents**  
+### Fundamentals of Description \#2 – Identifying and Understanding Creators/Agents 
 
 Examining elements of archival theory helps us to identify and understand the structure of a collection. Provenance is the origin or source of a collection. Identifying the creator(s) and the origin of the material helps to determine ownership and to establish chain of custody and ensure authenticity of the records. Users also benefit from knowing and understanding how records are created, used, and maintained, and if or when those processes may have introduced systems, barriers, or biases that could complicate or impede access.
 
-**Fundamentals of Description \#3 – Identifying Activities, Events, Functions & People**  
+### Fundamentals of Description \#3 – Identifying Activities, Events, Functions & People
 
 Human networks, interpersonal and professional contacts and relationships are often quite complex. Records within a collection are very rarely created by just one person or even one institution. Personal collections may document the activities of families, current and past friends, distant relatives and professional colleagues. Modern foundations function through a network of contacts encompassing people within and outside the given organization. While the mission, programs, and goals of a foundation or institution may be formulated by executive officers and a Board of Directors, daily administration and implementation of the work is most often accomplished by staff and other actors too often hidden from the historical record. Through documenting functions, activities, events, creators, contributors and other agents and people associated with, and documented in, collections, we seek to provide users with a broad understanding of the context, relationships and networks of power and privilege that created and maintained the records we hold.
 
-**Fundamentals of Description \#4 – Aggregate Centered Description Illuminating the Relationships Among and Between the Records and All Associated Actors.**  
+### Fundamentals of Description \#4 – Aggregate Centered Description Illuminating the Relationships Among and Between the Records and All Associated Actors.
 
 At its core, archival processing is an iterative process that identifies and describes meaningful groupings of records, with continual remedial actions to maintain and improve intellectual and physical control of our holdings, and expand and enhance access to the collections in our care.
 
@@ -41,7 +43,7 @@ The hierarchical levels of description commonly used at RAC are: Collection, Rec
 
 What we learn about the agents, functions, events, and other actors documented in a collection can later be used to create standardized structured terms. Those terms can then be assigned to the pertinent archival objects at the appropriate level of description and made directly searchable and discoverable by our users in DIMES. This structured data is also research ready for statistical analysis, or other quantitative and qualitative research, via direct access through the RAC Collections API.
 
-***Arrangement***
+## Arrangement
 
 *Arrangement* is a long-standing element of archival theory that is generally defined as the organizing and sequencing of materials in a collection in a meaningful way. More specifically, it is most often associated with the process of organizing materials with respect to provenance and *original order*, theoretically considered the order established by the creator, to preserve context and to attain physical and intellectual control of the holdings.
 
@@ -49,7 +51,7 @@ The concepts of archival arrangement apply to the organization of all archival r
 
 Description reflects arrangement, but the physical arrangement of the items in a collection may or may not parallel the intellectual arrangement. Items that are described together may be stored separately because of their differing size, shape, condition, access or use conditions, physical composition, format or other factors.
 
-**Deep Dive – The Value of Arrangement Lies in its Flexibility**
+### Deep Dive – The Value of Arrangement Lies in its Flexibility
 
 While ***Arrangement is no longer considered a fundamental principle of archival description*** *([DACS-Statement of Principles](https://saa-ts-dacs.github.io/dacs/04_statement_of_principles.html#original-order-and-arrangement-as-archival-context))*, it remains an important element of our efforts to document and express archival context and it provides practical instruction for creating useful description.  
 
@@ -59,7 +61,7 @@ We must also acknowledge that different cultures or societies live and experienc
 
 **Rather than a privileged system or a special physical sequence of records, original order is one tool in the archivists’ toolbox to help us create finding aids that will illuminate context** by identifying structured groups of records, or file types, that reflect the key activities and functions of the creator(s) and associated agents, events, and people documented in the historical record.
 
-*Arrangement Maps*
+### Arrangement Maps
 
 Arrangement Maps comprehensively display entire collections/archives in a hierarchical structured manner that aims to express archival context by showing the inherent relationships among and between records and creators.
 
@@ -232,7 +234,7 @@ For archives consisting of multiple collections, the title consists of:
     records, papers or collection (as applicable) + the collection name.    
 
 <div class="docs-example">
-  <h6>Examples</h6>
+  <p class="text--bold">Examples</p>
   <p>Ford Foundation records, Oral History Project</p>
   <p>Ford Foundation records, Urban Poverty Program, Office Files of Robert Curvin</p>
   <p>Rockefeller University records, Plant Operations</p>
@@ -249,7 +251,7 @@ Research Scientific Staff collections, the title consists of:
     applicable).
 
 <div class="docs-example">
-  <h6>Examples</h6>
+  <p class="text--bold">Examples</p>
 
   <p>Ralph Steinman papers, Rockefeller University Faculty</p>
 
@@ -268,7 +270,7 @@ highest level of a finding aid, the title consists of:
     (or letter) of the component being described.
 
 <div class="docs-example">
-  <h6>Examples</h6>
+  <p class="text--bold">Examples</p>
   <p>Commonwealth Fund records, Commission on Women's Health, SG 2, Series 4</p>
 
   <p>Rockefeller Foundation records, Projects, RG 1.2</p>
@@ -529,10 +531,9 @@ the shell include:
 - General description of contents from an appraisal report, or from documents provided by the donor/depositor, could also serve in lieu of an inventory.
 - Ideally, the donor/depositor will provide RAC with an inventory.
 - If the inventory prepared by the donor/depositor adequately meets basic processing requirements, no additional RAC-produced inventory is required at accessioning.
-- For the purposes of Level 1 inventorying, file-level description also can be utilized to generally describe the contents of an entire file, often spanning multiple folders or multiple boxes, with individual instances assigned for each box.
+- For the purposes of Level 1 inventorying, file-level description also can be utilized to generally describe the contents of an entire file, often spanning multiple folders or multiple boxes, with individual instances assigned for each box. For example:
 
 <div class="docs-example">
-  <h6>Examples</h6>
 
   <p>Title: Grants, A-D</p>
 
@@ -572,7 +573,6 @@ and [_Chapter 10_.](https://saa-ts-dacs.github.io/dacs/08_part_II/03_chapter_10/
 - The Title for each file should answer the question – What is this file? Or, what is the content of this file?
 
 <div class="docs-example">
-  <h6>Example</h6>
   <p>Title: Board of Directors Meeting Minutes</p>
 </div>
 
@@ -587,10 +587,9 @@ C. When listing the contents of a file in an alphabetical run, list the letters 
 
 D. Use a comma when recording locations. For example: Cummings Lecture at the Educational Alliance, New York City
 
-E. All RAC finding aids should be written predominantly using the English language. When working with titles in languages other than English, use the original title when feasible. If the language in question uses a different alphabet, such as Russian, provide an English language description of the type of records housed in the file (if known) and include a language of materials note at the appropriate level to indicate the language used.
+E. All RAC finding aids should be written predominantly using the English language. When working with titles in languages other than English, use the original title when feasible. If the language in question uses a different alphabet, such as Russian, provide an English language description of the type of records housed in the file (if known) and include a language of materials note at the appropriate level to indicate the language used. For example:
 
 <div class="docs-example">
-  <h6>Example</h6>
   <p>Title: Reprint</p>
   <p>Language of materials note: In Russian</p>
 </div>
@@ -604,14 +603,14 @@ A. Record the name(s) of the person(s), family (families), or corporate body pre
 B. Record the name(s) in the form by which the creator(s) or collector(s) is generally known, and by using the natural language order of the English language (or the natural language order of the language of the person or corporate body’s country of residence) [(**DACS 2.3.5**).](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html)
 
 <div class="docs-example">
-  <h6>Example</h6>
+  <p class="text--bold">Example</p>
   <p>Detlev W. Bronk</p>
 </div>
 
 In ordered lists, the Surname (often the name by which the creator is generally known) can be presented first.
 
 <div class="docs-example">
-  <h6>Example</h6>
+  <p class="text--bold">Example</p>
   <p>Bronk, Detlev W.</p>
 </div>
 
@@ -620,7 +619,7 @@ C. Abbreviations are strongly discouraged.
 When recording the name of an individual, family, or a corporate body, use the full name rather than an abbreviation. For example, Detlev W. Bronk should be used rather than DWB or DB. Use of abbreviations, instead of the full names, for a limited number of the most commonly found names in the RAC collections is acceptable (such as the abbreviation JDR Jr. for John D. Rockefeller Jr.). Use of abbreviations is also approved when an abbreviation is commonly known and used by the general public.
 
 <div class="docs-example">
-  <h6>Examples</h6>
+  <p class="text--bold">Examples</p>
   <p>NATO can be used rather than North Atlantic Treaty Organization</p>
 
   <p>FBI can be used rather than Federal Bureau of Investigation</p>
@@ -629,7 +628,7 @@ When recording the name of an individual, family, or a corporate body, use the f
 D. Acronyms should be spelled out, with the full name followed by the acronym provided in parenthesis. This allows researchers to search for terms using the name or the acronym.
 
 <div class="docs-example">
-  <h6>Example</h6>
+  <p class="text--bold">Example</p>
   <p>National Academy of Sciences (NAS)</p>
 </div>
 
@@ -639,7 +638,7 @@ E. Titles recording multiple names should be written as follows:
 - If more than three persons are responsible for the creation of the materials, record the name of the individual who predominates. [(**DACS 2.3.8**)](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html) Optionally, include all the names of the persons who are credited with or predominantly responsible for the creation of the materials. [(**DACS 2.3.9**)](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html)
 
 <div class="docs-example">
-  <h6>Examples</h6>
+  <p class="text--bold">Examples</p>
   <p>John Smith and Al Jones</p>
   <p>John Smith, Al Jones, and Paul Adams</p>
   <p>If 6 people are responsible for creating the materials and John Smith predominates, record John Smith as the title (or the names of all 6 people)</p>
@@ -648,7 +647,7 @@ E. Titles recording multiple names should be written as follows:
 F. If multiple files contain the same basic title, with varying added components, the components should be subdivided with a hyphen or colon to signify subordination.
 
 <div class="docs-example">
-  <h6>Examples</h6>
+  <p class="text--bold">Examples</p>
   <p>Job Jackets - Maps for Trustees</p>
   <p>Job Jackets - Open House</p>
 </div>
@@ -695,7 +694,7 @@ If the organization in question has continued to operate into present times, its
 
 ### Describing Dates
 
-### Timewalk
+#### Timewalk
 
 - RAC actively uses an automated date parser plug-in for ArchivesSpace called Timewalk.
 - Timewalk will automatically parse any values in ArchivesSpace's Date Expresssion field into ISO8601-compliant Begin and End values. In addition, it will parse out date certainties and set the calendar/era values automatically.
@@ -703,36 +702,32 @@ If the organization in question has continued to operate into present times, its
 - *To ensure that Timewalk records dates properly, please follow all recommendations in this section for the creation of date expressions.*
 - **After creating the Date Expression and entering all applicable data in the field, record the Date Type as Inclusive Dates, and then leave the Begin/End date fields blank. When the record is saved, TimeWalk will automatically create the begin/end date.**
 
-### Date Expression
+#### Date Expression
 
 - Answers the question – When is the content of this file created?
 - It can be a single date (like the date of a meeting), or a range of inclusive dates.
 - At RAC the date assigned is most often an inclusive date.
-- Date should be expressed as year month day.
+- Date should be expressed as year month day. For example:
 
 <div class="docs-example">
-  <h6>Example</h6>
   <p>1982 April 5.</p>
 </div>
 
 - When describing consecutive spans of years, record the full years:
 
 <div class="docs-example">
-  <h6>Example</h6>
   <p>1941-1944.</p>
 </div>
 
 - When describing multiple non-consecutive dates, use a comma:
 
 <div class="docs-example">
-  <h6>Example</h6>
   <p>1941, 1953, 1962.</p>
 </div>
 
 - Date ranges that encompass a combination of consecutive and non-consecutive date spans should be recorded as:
 
 <div class="docs-example">
-  <h6>Example</h6>
   <p>1941-1944, 1953.</p>
 </div>
 
@@ -768,8 +763,9 @@ If the organization in question has continued to operate into present times, its
 
 - Notes most often used at the FILE Level are the Conditions of Access note, and the Physical Description note (which is used to answer the question – What is this physically?).
 
+### Example of Complete File Level Inventory Description
+
 <div class="docs-example">
-  <h6>Examples</h6>
 
   <p>Title: Board of Directors Meeting Minutes<br/>
   Date: 1947<br/>
@@ -1013,10 +1009,9 @@ C. Materials whose composition or format places them in particular risk of obsol
 _**Selecting Storage Containers and Enclosures**_
 
 - Select a box and folder size for documents based upon the dimensions of the majority of those to be contained within an enclosure. Most documents are up to 8 ½” in width and 11” in length, require a letter-size folder and box; papers larger than this size and up to 8 ½” in width and 14” in length, require a legal-size folder and box. Box sizes may vary within a collection.
-- Do not combine ‘unlike’ items in the same box.
+- Do not combine ‘unlike’ items in the same box. For example:
 
-<div class="docs-example">
-  <h6>Examples</h6>
+<div class="docs-example">  
   <p>Documents with metallic items (medals).</p>
   <p>Documents with leather items which may be subject to deterioration (red rot) and bleed into the box.</p>
   <p>Documents with liquid or powder in an envelope or container.</p>
@@ -1065,9 +1060,9 @@ The Collections Management team can assist with:
 
 ### Step 20 - Submit Collection Concern form and discuss any Significant or Unexpected Preservation Issues with Collections Management.
 
-### Step 21 - Address Collection Concerns and Preservation Issues based on the Recommendations of Collections Management.
-
 The **Preservation Concern** form is currently located on *InteRACt* front page
+
+### Step 21 - Address Collection Concerns and Preservation Issues based on the Recommendations of Collections Management.
 
 *Please consult with Collections Management to request a stabilization consult,* or if:
 
@@ -1515,6 +1510,8 @@ Commonly used notes may include:
 - RAC DIMES automatically updates. Newly published guide(s) will be available in DIMES shortly after publication.
 
 ### Step 39 - Submit Any Materials Proposed for Shredding to Assistant Director for Processing
+
+- Consult [RAC Shred Policy Memo](docs-internal.rockarch.org/shred-policy-memo) for procedures on submitting materials proposed for destruction.
 
 ### Step 40 - DONE!!!
 
