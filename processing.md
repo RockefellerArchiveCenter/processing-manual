@@ -234,7 +234,7 @@ For archives consisting of multiple collections, the title consists of:
     records, papers or collection (as applicable) + the collection name.    
 
 <div class="docs-example">
-  <p><strong>Examples</strong></p>
+  <p class="text--bold">Examples</p>
   <p>Ford Foundation records, Oral History Project</p>
   <p>Ford Foundation records, Urban Poverty Program, Office Files of Robert Curvin</p>
   <p>Rockefeller University records, Plant Operations</p>
@@ -251,7 +251,7 @@ Research Scientific Staff collections, the title consists of:
     applicable).
 
 <div class="docs-example">
-  <p><strong>Examples</strong></p>
+  <p class="text--bold">Examples</p>
 
   <p>Ralph Steinman papers, Rockefeller University Faculty</p>
 
@@ -270,7 +270,7 @@ highest level of a finding aid, the title consists of:
     (or letter) of the component being described.
 
 <div class="docs-example">
-  <p><strong>Examples</strong></p>
+  <p class="text--bold">Examples</p>
   <p>Commonwealth Fund records, Commission on Women's Health, SG 2, Series 4</p>
 
   <p>Rockefeller Foundation records, Projects, RG 1.2</p>
@@ -603,14 +603,14 @@ A. Record the name(s) of the person(s), family (families), or corporate body pre
 B. Record the name(s) in the form by which the creator(s) or collector(s) is generally known, and by using the natural language order of the English language (or the natural language order of the language of the person or corporate body’s country of residence) [(**DACS 2.3.5**).](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html)
 
 <div class="docs-example">
-  <p><strong>Example</strong></p>
+  <p class="text--bold">Example</p>
   <p>Detlev W. Bronk</p>
 </div>
 
 In ordered lists, the Surname (often the name by which the creator is generally known) can be presented first.
 
 <div class="docs-example">
-  <p><strong>Example</strong></p>
+  <p class="text--bold">Example</p>
   <p>Bronk, Detlev W.</p>
 </div>
 
@@ -619,7 +619,7 @@ C. Abbreviations are strongly discouraged.
 When recording the name of an individual, family, or a corporate body, use the full name rather than an abbreviation. For example, Detlev W. Bronk should be used rather than DWB or DB. Use of abbreviations, instead of the full names, for a limited number of the most commonly found names in the RAC collections is acceptable (such as the abbreviation JDR Jr. for John D. Rockefeller Jr.). Use of abbreviations is also approved when an abbreviation is commonly known and used by the general public.
 
 <div class="docs-example">
-  <p><strong>Examples</strong></p>
+  <p class="text--bold">Examples</p>
   <p>NATO can be used rather than North Atlantic Treaty Organization</p>
 
   <p>FBI can be used rather than Federal Bureau of Investigation</p>
@@ -628,7 +628,7 @@ When recording the name of an individual, family, or a corporate body, use the f
 D. Acronyms should be spelled out, with the full name followed by the acronym provided in parenthesis. This allows researchers to search for terms using the name or the acronym.
 
 <div class="docs-example">
-  <p><strong>Example</strong></p>
+  <p class="text--bold">Example</p>
   <p>National Academy of Sciences (NAS)</p>
 </div>
 
@@ -638,7 +638,7 @@ E. Titles recording multiple names should be written as follows:
 - If more than three persons are responsible for the creation of the materials, record the name of the individual who predominates. [(**DACS 2.3.8**)](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html) Optionally, include all the names of the persons who are credited with or predominantly responsible for the creation of the materials. [(**DACS 2.3.9**)](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html)
 
 <div class="docs-example">
-  <p><strong>Examples</strong></p>
+  <p class="text--bold">Examples</p>
   <p>John Smith and Al Jones</p>
   <p>John Smith, Al Jones, and Paul Adams</p>
   <p>If 6 people are responsible for creating the materials and John Smith predominates, record John Smith as the title (or the names of all 6 people)</p>
@@ -647,7 +647,7 @@ E. Titles recording multiple names should be written as follows:
 F. If multiple files contain the same basic title, with varying added components, the components should be subdivided with a hyphen or colon to signify subordination.
 
 <div class="docs-example">
-  <p><strong>Examples</strong></p>
+  <p class="text--bold">Examples</p>
   <p>Job Jackets - Maps for Trustees</p>
   <p>Job Jackets - Open House</p>
 </div>
