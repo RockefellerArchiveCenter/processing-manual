@@ -1511,7 +1511,7 @@ Commonly used notes may include:
 
 ### Step 39 - Submit Any Materials Proposed for Shredding to Assistant Director for Processing
 
-- Consult [RAC Shred Policy Memo](docs-internal.rockarch.org/shred-policy-memo) for procedures on submitting materials proposed for destruction.
+- Consult internal [RAC Shred Policy Memo](https://docs-internal.rockarch.org/shred-policy-memo) for procedures on submitting materials proposed for destruction.
 
 ### Step 40 - DONE!!!
 
